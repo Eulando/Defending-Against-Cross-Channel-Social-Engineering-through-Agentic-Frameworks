@@ -1,0 +1,3 @@
+Subject: Welcome
+From: admin@example.com
+Hello, welcome to the platform.
