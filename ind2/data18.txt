@@ -1,0 +1,11 @@
+**Channel:** LinkedIn DM
+**From:** James O'Connor (Profile: "CRM Integration Specialist at CloudSync Solutions")
+**To:** Maria Flores, IT Support Specialist at Aetheria Innovations
+
+**Body:**
+Hi Maria, hope you're having a good week. Sarah Jenkins from your marketing team suggested I reach out to someone in IT. We're a partner vendor, CloudSync Solutions, and we're preparing a compatibility report for your upcoming Q3 marketing platform upgrade.
+
+Could you just confirm for me which CRM Aetheria is currently using? I have Salesforce down in my notes, but want to be sure before I send the final report over to Sarah.
+
+Thanks!
+James

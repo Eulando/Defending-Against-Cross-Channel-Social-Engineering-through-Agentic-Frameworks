@@ -1,0 +1,24 @@
+**Channel:** Phone Transcript
+**From:** +1 (888) 555-0199 (Spoofed number)
+**To:** Leo Valdez, IT Support Specialist
+
+**Body:**
+**(Call begins)**
+
+**Leo (IT):** Innovate Forward IT, this is Leo.
+
+**Attacker (as "Anna," a new hire):** Hi Leo, my name is Anna Rodriguez. I just started in marketing this week, and I'm having some trouble. My manager said you could help.
+
+**Leo (IT):** Of course, Anna. Welcome aboard! What's the issue?
+
+**Attacker:** Thanks! Well, my email seems to be working, but I can't get into the shared marketing drive. More importantly, I haven't received any of the onboarding documents from HR about setting up my direct deposit. I'm worried I'll miss the payroll cutoff.
+
+**Leo (IT):** Okay, let's tackle one thing at a time. I'll reset your drive permissions. For the HR issue, you'll need to speak with our coordinator. She handles all the new hire paperwork.
+
+**Attacker:** Oh, perfect! Who should I contact?
+
+**Leo (IT):** That would be Brenda Pham. Let me give you her email... it's `bpham@innovateforward.com`. Just let her know you're a new start and she'll get you the right forms.
+
+**Attacker:** You're a lifesaver, Leo. Thanks so much!
+
+**(Call ends)**

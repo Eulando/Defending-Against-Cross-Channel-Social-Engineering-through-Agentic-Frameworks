@@ -1,0 +1,20 @@
+**Channel:** Phone Transcript
+**From:** Caller ID shows "S. Jenkins - Mobile" (Spoofed)
+**To:** Priya Sharma, Senior Accounts Payable Manager
+
+**Body:**
+**Priya:** "Accounts Payable, this is Priya."
+
+**Attacker (as Sarah Jenkins):** "Hi Priya, it's Sarah Jenkins over in Marketing. I hope I'm not catching you at a bad time?"
+
+**Priya:** "Hi Sarah, not at all. How can I help?"
+
+**Attacker:** "Great. Listen, I'm in a bit of a jam. I'm about to step into a client workshop, but I just got off the phone with our lead consultant at **InnovateCreative LLP** for the **Odyssey Initiative**. They've had to update their banking information due to an internal audit, and they've paused work pending an overdue invoice payment to the new account. Ben Carter confirmed you were the right person to sort this out."
+
+**Priya:** "Oh, really? I see their last invoice was paid two weeks ago. I haven't received a new one or any official notification of a bank change."
+
+**Attacker:** "I know, it's a mess. Their accounts team just sent the updated details directly to me. I'm forwarding the email to you now with the new wire information. Can you please process invoice #INV-8675309 for $42,500 today? It's critical we don't have a work stoppage."
+
+**Priya:** "That's a bit unusual, but if it's urgent... Let me see when the email comes through."
+
+**Attacker:** "Perfect. Thank you, Priya, you're a lifesaver. I have to run, but let me know if there are any issues."

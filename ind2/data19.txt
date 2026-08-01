@@ -1,0 +1,22 @@
+**Channel:** Phone Transcript
+**From:** +1 (555) 238-1099 (Spoofed Number)
+**To:** Sarah Jenkins, Senior Project Manager
+
+**Body:**
+**(Call begins)**
+
+**Sarah:** "Hello, Sarah Jenkins speaking."
+
+**Attacker (as Alex):** "Hi Sarah, this is Alex Ray from Aura Digital. Hope I'm not catching you at a bad time. I was just talking with Leo in IT about getting us set up in Project Horizon."
+
+**Sarah:** "Oh, right. The new creative agency. No, now is fine. What's up?"
+
+**Attacker:** "Great. We're just trying to align our billing system with your project codes. To make sure our first invoice is formatted correctly and doesn't get rejected, could you tell me which high-priority project we're assigned to and what the invoice prefix should be? My system has a blank field for it."
+
+**Sarah:** "Sure, no problem. You'll be starting on Project Nightingale. All invoices for that initiative should be prefixed with 'INV-NG-'. So it would be INV-NG- and then the number."
+
+**Attacker:** "Perfect, that's exactly what I needed. INV-NG-. Got it. Thanks so much for your help, Sarah. We're excited to get started."
+
+**Sarah:** "You're welcome. Talk soon."
+
+**(Call ends)**

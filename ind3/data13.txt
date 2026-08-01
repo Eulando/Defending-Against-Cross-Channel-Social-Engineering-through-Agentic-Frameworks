@@ -1,0 +1,13 @@
+**Channel:** Phone Transcript
+**From:** Caller ID "Robert Vance" (Spoofed internal number: +1-415-555-0134)
+**To:** Sarah Jenkins (Senior Project Manager)
+**Body:**
+**(Call begins)**
+**Sarah:** "This is Sarah Jenkins."
+**Attacker (as Robert Vance):** "Hi Sarah, Robert Vance here from the InfoSec team. Hope I'm not catching you at a bad time."
+**Sarah:** "Oh, hi Robert. I have a couple of minutes. What's up?"
+**Attacker:** "Great. Your director, Michael Sterling, asked us to conduct a quick vendor security review for all major ongoing projects. I'm calling about Project Titan. I just need to confirm the name of the primary third-party software vendor you're using for the data analytics component. It's for our compliance checklist."
+**Sarah:** "Ah, right. Yes, for Titan we're primarily using QuantumLeap Analytics. They handle the predictive modeling engine."
+**Attacker:** "QuantumLeap Analytics. Got it. Perfect, that's all I needed for my records. Thanks for your time, Sarah."
+**Sarah:** "No problem. Bye."
+**(Call ends)**

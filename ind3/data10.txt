@@ -1,0 +1,6 @@
+**Channel:** SMS
+**From:** +1 (555) 291-8303 (Spoofed Number)
+**To:** Mark O'Connell (Accounts Payable Clerk)
+
+**Body:**
+Hi Mark, Alex Vance here (new consultant on Stardust). David Foster in IT is setting up my Fortress Vault access but hit a snag - he said he needs the client billing code for the project to assign the license. Can you send it over? Trying to get this done before I head to the airport. Thanks.

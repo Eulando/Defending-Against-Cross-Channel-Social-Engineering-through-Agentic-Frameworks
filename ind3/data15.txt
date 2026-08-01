@@ -1,0 +1,6 @@
+**Channel:** SMS
+**From:** +1 (310) 555-0142 (Spoofed number)
+**To:** David Chen, Accounts Payable Clerk
+
+**Body:**
+Hi David, Mark from Stellar Graphics here. Following up on an email. We just sent invoice INV-SF8819 for the Q3 campaign to Sarah Jenkins. Can you confirm you see it in the system on your end for processing? Just need to make sure it's logged. Thx.

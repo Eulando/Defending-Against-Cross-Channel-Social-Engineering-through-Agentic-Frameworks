@@ -1,0 +1,6 @@
+**Channel:** SMS
+**From:** (555) 234-5678
+**To:** David Miller, Senior Project Manager
+
+**Body:**
+Hi David, Mike Rogers from DataFlow Solutions. Just confirming we're uploading the final invoice for the Q4 Analytics project to Sarah Jenkins via the FileVault Pro portal shortly. Thanks again for the partnership on this.

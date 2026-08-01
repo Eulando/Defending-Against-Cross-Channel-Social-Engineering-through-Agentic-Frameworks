@@ -1,0 +1,19 @@
+**Channel:** Phone Transcript
+**From:** +1 (888) 555-0199 (Spoofed number, appears as a generic toll-free line)
+**To:** Brianne Cho (IT Helpdesk Technician @ QuantumLeap Dynamics)
+
+**Body:**
+**Attacker:** "Hi, this is Alex from a vendor, Synapse Analytics. David Sterling asked me to give a call to get a quick technical detail for our integration project. Is this the IT helpdesk?"
+
+**Brianne:** "Yes, it is. How can I help?"
+
+**Attacker:** "Great. David just needs us to confirm the name of your internal data repository and collaboration platform—the one your research teams use to share project files. We need to check compatibility with our API. Is it still 'The Grid' or did you migrate?"
+
+**Brianne:** "Oh, no, we haven't used The Grid in years. The platform is called 'Project Singularity Hub'. Is that what you needed?"
+
+**Attacker:** "Perfect, that's it exactly. I'll update the project file. Thanks for your help, Brianne."
+
+**Brianne:** "No problem."
+*(Call ends)*
+
+---

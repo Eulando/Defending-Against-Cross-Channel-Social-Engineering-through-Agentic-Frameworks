@@ -1,0 +1,8 @@
+**Channel:** Slack DM
+**From:** David Chen (Attacker-created/compromised account with matching name and profile picture)
+**To:** Maria Rodriguez (Accounts Payable Specialist)
+
+**Body:**
+Hey Maria, quick request. Mark just pinged me that he wants to confirm the vendor SSO is working correctly on our new FinStream portal before his call this afternoon. Can you please quickly test the login via this link and let me know if you get in? He's waiting on my confirmation. Thanks!
+
+`https://innovatedynamics.finstream-portal.com/login`

@@ -1,0 +1,12 @@
+**Channel:** Phone Transcript
+**From:** +1 (555) 018-2731 (Spoofed internal extension)
+**To:** Alex Miller (IT Helpdesk Analyst)
+
+**Body:**
+**Alex (IT):** IT Service Desk, this is Alex.
+**Attacker (as David Chen):** Hey Alex, it’s David Chen. I’m in a rush getting ready for a presentation and my notes are a mess. Quick question for you.
+**Alex (IT):** Sure, David. What’s up?
+**Attacker (as David Chen):** I’m on the Project Atlas team, and I’m blanking on the official brand name of the new financial platform we're integrating. The one for vendor payments. Is it FinSuite, FinFlow… something like that?
+**Alex (IT):** One second… let me check the project directory. Ah, yes, Project Atlas is the integration of "FinStream."
+**Attacker (as David Chen):** FinStream! That's it. You're a lifesaver, Alex. Thanks so much.
+**Alex (IT):** No problem, glad I could help.

@@ -1,0 +1,19 @@
+**Channel:** Slack DM
+**From:** Mike Rogers (Unverified external workspace guest)
+**To:** Sarah Jenkins, Finance Manager
+
+**Body:**
+Hi Sarah,
+
+Mike Rogers from DataFlow Solutions. David Miller mentioned you were the point of contact for our final invoice on the **Q4 Analytics** project.
+
+I've just uploaded the invoice document to the **FileVault Pro** portal, but it looks like we're a new vendor in the system and our payment details aren't set up yet.
+
+Could you please use the link below to access the portal and input our new banking information from the attached setup form? We need to get this processed by EOD to close out the quarterly books.
+
+Portal Link: `https://finsecure-portal.filevaultpro-auth.com/login`
+
+Let me know if you have any issues.
+
+Thanks,
+Mike

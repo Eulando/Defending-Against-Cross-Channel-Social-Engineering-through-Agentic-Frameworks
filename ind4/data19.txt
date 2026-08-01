@@ -1,0 +1,15 @@
+**Channel:** Slack DM
+**From:** Sarah Jenkins (Lookalike account: display name "Sarah Jenkins", username "sarah.jenkins1")
+**To:** David Chen, CFO
+
+**Body:**
+Hi David, hope you're having a good day.
+
+I need your urgent approval on the initial setup fee for our new vendor, Aura Digital, so they can get started on Project Nightingale. They're currently blocked, and it's putting our timeline at risk.
+
+The invoice is INV-NG-7251. Can you please process it via their portal when you have a moment? The team would really appreciate it.
+
+Link to payment portal: `https://innovatedynamics-corp.com/secure-payment-portal/`
+
+Thanks,
+Sarah

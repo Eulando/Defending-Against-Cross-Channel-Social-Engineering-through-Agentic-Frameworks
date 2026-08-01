@@ -1,0 +1,13 @@
+**Channel:** Slack DM
+**From:** Alex Vance (Display name identical to the real person, but a different underlying user ID)
+**To:** Dr. Lena Petrova (Project Lead)
+
+**Body:**
+Hi Lena, hope I'm not interrupting. I'm Alex Vance, the new senior consultant from Stratus joining Project Stardust.
+
+I've been working with Sarah Chen and David Foster to get my access set up, but I'm having trouble with the SSO login for the secure portal. David mentioned it can be buggy for external partners on their first login.
+
+He said as the project owner, you could generate a direct, single-use access link for me from the Fortress Vault admin panel for Project Stardust (SD-2024-C7). Could you please generate one and send it over? The main login page he sent me is here for reference: `https://innovate-dynamics.fortress-vault[.]io/login`
+
+Thanks so much for your help!
+Alex

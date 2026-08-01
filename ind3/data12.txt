@@ -1,0 +1,8 @@
+**Channel:** SMS
+**From:** +1 (650) 555-0134 (Spoofed number)
+**To:** Dr. Kenji Tanaka (Senior Research Scientist @ QuantumLeap Dynamics)
+
+**Body:**
+Kenji, it's Frank Miller (COO). In a budget meeting now and can't talk. What's the designated project code for the Q4 photon entanglement initiative? Need it for the presentation slide. Thx.
+
+---

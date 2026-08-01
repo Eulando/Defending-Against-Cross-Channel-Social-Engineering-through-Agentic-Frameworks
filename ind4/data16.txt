@@ -1,0 +1,22 @@
+**Channel:** Email
+**From:** "Stellar Solutions Accounting" <accounting@stellar-solution.co> (Lookalike domain, missing the 's' in solutions)
+**To:** Sarah Jenkins (Senior Project Manager at Innovate Dynamics)
+**CC:** David Miller (Accounts Payable Clerk at Innovate Dynamics)
+**Subject:** Urgent: Updated Remittance Information for Project Orion Invoices
+**Body:**
+Hi Sarah,
+
+Hope all is well.
+
+As per our recent internal audit and conversation with your IT department, we are writing to inform you of a change to our company's banking and remittance details, effective immediately.
+
+To ensure there are no disruptions to payments for Project Orion, please find the updated banking information attached in the secure PDF file (Form W-9 and ACH details).
+
+Could you please provide your formal approval for David Miller in AP to update our vendor profile in your system before the next invoice run? We've already given him a heads-up to expect this change.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+The Finance Team
+Stellar Solutions

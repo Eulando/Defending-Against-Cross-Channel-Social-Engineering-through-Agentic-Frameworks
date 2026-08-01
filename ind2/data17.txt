@@ -1,0 +1,18 @@
+**Channel:** Phone Transcript
+**From:** Spoofed number appearing as FinSecure Analytics main line: (555) 821-4000
+**To:** Maria Garcia, IT Support Specialist
+
+**Body:**
+**(Call begins)**
+
+**Maria Garcia:** FinSecure IT Support, this is Maria.
+
+**Attacker (as Mike):** Hi Maria, this is Mike Rogers from DataFlow Solutions, we’re a new vendor. I was told to submit a sensitive invoice document to Sarah Jenkins in your finance department. I seem to have misplaced the name of the secure portal you use for this. Is it still ShareFile? I want to make sure I use the right system.
+
+**Maria Garcia:** Oh, hi Mike. No, we decommissioned ShareFile last year. All external vendors now use our **FileVault Pro** portal for secure document submission.
+
+**Attacker (as Mike):** Ah, FileVault Pro, that's right! Thank you so much, that's exactly what I needed. I'll get that uploaded to Sarah right away. Have a great day.
+
+**Maria Garcia:** You too, bye!
+
+**(Call ends)**

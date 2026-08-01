@@ -1,0 +1,11 @@
+**Channel:** Phone Transcript
+**From:** "Mark" (Attacker) - Spoofed Number: (555) 412-9987
+**To:** Maria Garcia (IT Support Specialist at Innovate Dynamics)
+**Body:**
+**Maria:** "Innovate Dynamics IT, this is Maria."
+**Mark:** "Hi Maria, this is Mark calling from Stellar Solutions. We're one of your software partners. I just have a quick administrative question."
+**Maria:** "Okay, how can I help?"
+**Mark:** "We're doing an audit of our client accounts and need to verify the name of the Project Manager overseeing our main integration, 'Project Orion.' We have a note here that our invoices for that project are processed by someone in your Accounts Payable department. Can you confirm who handles the Stellar Solutions account?"
+**Maria:** "Let me see... Project Orion, yes, that's a big one. The Senior PM on that is Sarah Jenkins. For payments, you'll want to talk to David Miller in AP. He handles most of our major vendor accounts."
+**Mark:** "Perfect, David Miller. That's what I thought. Thanks so much for your help, Maria."
+**Maria:** "No problem. Have a good one."

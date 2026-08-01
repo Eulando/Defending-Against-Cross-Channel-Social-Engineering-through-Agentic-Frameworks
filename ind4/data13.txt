@@ -1,0 +1,5 @@
+**Channel:** SMS
+**From:** +1-650-555-0187 (Spoofed to appear as a personal number)
+**To:** Maria Rodriguez (Accounts Payable Specialist)
+**Body:**
+Hi Maria, it's Michael Sterling. I'm tied up in back-to-back board meetings and my laptop just died. We have an urgent invoice for QuantumLeap Analytics for Project Titan that needs to be paid today to avoid a lapse in service. Sarah Jenkins just confirmed the details. Please process wire payment for $42,850 to the new account details they sent over. Invoice #QL-881-AET. I will approve it formally as soon as I'm out. This is critical. Thanks.

@@ -1,0 +1,11 @@
+**Channel:** Slack DM
+**From:** David Chen (Impersonated account with a nearly identical display name)
+**To:** Sarah Jenkins, Project Manager
+
+**Body:**
+Hi Sarah, quick thing. The payment portal is giving us an error on the Stellar Graphics invoice (INV-SF8819). I need you to re-approve it through the new secure gateway so we can get it paid today.
+
+Here's the direct link:
+`https://innovateforward.payment-gateway.co/approve?inv=SF8819`
+
+Let me know once it's done. Thanks!
