@@ -10,10 +10,10 @@ four different receivers, all in email format. For each set K:
   - combined/dataK.txt    -> body of a single email asking one coordinator to
                              gather all the information from the four contacts
 
-Subscription numbers start at 80. By default all sets 80..129 are generated;
+Subscription numbers start at 150. By default all sets 150..199 are generated;
 pass one or two numbers to create a subset, e.g.
-  python bottom_up_benign.py 80 129
-  python bottom_up_benign.py 95
+  python bottom_up_benign.py 150 199
+  python bottom_up_benign.py 175
 """
 
 import random
@@ -23,8 +23,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 DIRS = ["ind1", "ind2", "ind3", "ind4", "combined"]
-START_INDEX = 80
-END_INDEX = 129
+START_INDEX = 150
+END_INDEX = 199
 
 COMPANIES = [
     ("Meridian Health Systems", "meridian-health.com", "Healthcare Technology", "~800"),
