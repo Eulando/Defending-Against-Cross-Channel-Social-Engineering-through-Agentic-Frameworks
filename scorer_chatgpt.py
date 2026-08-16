@@ -9,7 +9,7 @@ combined folder are each sent to ChatGPT, which returns a maliciousness score:
 
 CSV columns: filename, ind1, ind2, ind3, ind4, ind5
 (where ind5 holds the score of the combined email).
-
+py
 Usage:
   python scorer_chatgpt.py
   python scorer_chatgpt.py --api-key sk-... --model gpt-4o-mini
