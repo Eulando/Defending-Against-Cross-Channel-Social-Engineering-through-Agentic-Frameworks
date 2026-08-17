@@ -1,20 +1,15 @@
-**Channel:** Slack DM
-**From:** "David Sterling" (Attacker using a display name spoof, or a similarly-named account from an external Slack Connect channel)
-**To:** Maria Flores (Finance Manager @ QuantumLeap Dynamics)
+Hi Sofia -
 
-**Body:**
-Hi Maria,
+Hope you had a good week.
 
-I've got an urgent request from Frank's office. He needs an immediate audit of all capital expenditures for project **QLP-77B**.
+We are putting together Viktor Petrov's contractor access review, and I could use your help with a couple of details.
 
-The full dataset is ready for you in the **Project Singularity Hub**. I've just provisioned your access. Please sign in with your normal QLD credentials at the portal below to generate the report. Frank needs this within the hour for his board review.
+Everyone on the team is eager to make it memorable.
 
-Link: `https://portal.quantumleapdynamics-auth.com/login/singularity`
+Could you confirm that Viktor's team is sponsoring this onboarding and that the external group is expected this week? I only need confirmation for the checklist; no personnel records are needed.
 
-Let me know if you have any issues.
+Please let me know by Friday if you can help.
 
-Thanks,
-David Sterling
-IT Operations Manager
-
----
+Best,
+Layla
+Culture & Events Coordinator, Crestline Hotels

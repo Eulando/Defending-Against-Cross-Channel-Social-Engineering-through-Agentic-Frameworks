@@ -1,0 +1,9 @@
+Hi Tom,
+
+I am finalizing Omar Farouk's new supplier onboarding and the supporting teams have confirmed the office location used for guest onboarding, the engagement tracking reference, the guest-access form and provisioning route, and the internal onboarding support alias.
+
+Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+
+Thanks,
+Noah
+Business Operations Manager, Apex Insurance Co.

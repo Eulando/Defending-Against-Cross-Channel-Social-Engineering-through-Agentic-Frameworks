@@ -1,6 +1,15 @@
-**Channel:** SMS
-**From:** +1 (555) 291-8303 (Spoofed Number)
-**To:** Mark O'Connell (Accounts Payable Clerk)
+Hi Julia -
 
-**Body:**
-Hi Mark, Alex Vance here (new consultant on Stardust). David Foster in IT is setting up my Fortress Vault access but hit a snag - he said he needs the client billing code for the project to assign the license. Can you send it over? Trying to get this done before I head to the airport. Thanks.
+Hope your week is going well.
+
+We are putting together Daniel Okafor's implementation partner setup, and I could use your help with a couple of details.
+
+We are aiming to keep it simple and well organized.
+
+What general support alias should external collaborators use during setup? I am correcting the contact sheet.
+
+A response by the end of the week would be great if possible.
+
+Best regards,
+Zara
+Talent Program Manager, Juniper Bank

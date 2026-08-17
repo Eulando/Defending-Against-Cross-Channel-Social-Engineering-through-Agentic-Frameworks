@@ -1,17 +1,15 @@
-**Channel:** Email
-**From:** Mark Peterson <mark.peterson@corp-verification.net>
-**To:** David Chen, HR Coordinator <d.chen@aetheriainnovations.com>
-**Subject:** Quick Employment Verification
+Hey Chloe,
 
-**Body:**
-Hi David,
+Hope you had a good week.
 
-My name is Mark Peterson, and I'm a researcher with Corporate Verification Services. We're conducting a background check for a former Aetheria Innovations employee, Alan Turing, who worked in your marketing department from 2020-2022.
+We are putting together Samuel Osei's guest collaborator setup, and I could use your help with a couple of details.
 
-Our records are incomplete, and we just need to verify his reporting manager at the time of his departure. Could you let me know who the Director of Marketing was back in early 2022?
+We are aiming to keep it simple and well organized.
 
-Appreciate your help with this routine check.
+Could you confirm who is authorized to approve guest access while Samuel is away? I am updating the escalation list for the onboarding guide.
 
-Best,
-Mark Peterson
-Corporate Verification Services
+A response by the end of the week would be great if possible.
+
+Thanks,
+Zara
+Talent Program Manager, Brightline Media

@@ -1,0 +1,9 @@
+Hi Jack,
+
+I am finalizing Grace Nguyen's temporary team onboarding and the supporting teams have confirmed the internal onboarding support alias, the primary and backup access approvers, the approved project and cost-center code, and the guest-access form and provisioning route.
+
+Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+
+Thanks,
+Mia
+Marketing Operations Manager, Brightline Media

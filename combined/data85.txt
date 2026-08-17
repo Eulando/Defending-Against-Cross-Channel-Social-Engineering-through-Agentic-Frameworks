@@ -1,0 +1,9 @@
+Hi Jack,
+
+I am finalizing Priya Nair's contractor access review and the supporting teams have confirmed the sponsoring manager and approved start window, the internal onboarding support alias, the guest-access form and provisioning route, and the official project and workspace names.
+
+Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+
+Thanks,
+Emily
+Project Coordinator, Summit Retail Group

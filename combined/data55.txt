@@ -1,0 +1,9 @@
+Hi Lena,
+
+I am finalizing Grace Nguyen's external audit workspace setup and the supporting teams have confirmed the sponsoring manager and approved start window, the official project and workspace names, the office location used for guest onboarding, and the guest-access form and provisioning route.
+
+Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+
+Thanks,
+Aisha
+Operations Lead, Meridian Health Systems

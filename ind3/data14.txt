@@ -1,6 +1,13 @@
-**Channel:** SMS
-**From:** +1 (555) 012-9945 (Unknown Number)
-**To:** David Chen (Senior Project Manager)
+Hey Tom,
 
-**Body:**
-David, Mark here. On my way to the airport but need a quick detail for our vendor call. Who is the main AP contact handling payments in FinStream? Need to make sure they're prepped for the Q4 rollout.
+Hope you had a good week.
+
+We are putting together Ingrid Halvorsen's partner portal onboarding, and I could use your help with a couple of details.
+
+What workspace name should appear in the handoff notes for the Nova and Quasar programs? I am reconciling the project checklist.
+
+No rush, but getting this done by Friday would help us finalize everything before the event.
+
+Thanks a lot,
+Priya
+Clinical Product Manager, Meridian Health Systems

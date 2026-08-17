@@ -1,11 +1,15 @@
-**Channel:** Slack DM
-**From:** David Chen (Impersonated account with a nearly identical display name)
-**To:** Sarah Jenkins, Project Manager
+Good morning Chloe,
 
-**Body:**
-Hi Sarah, quick thing. The payment portal is giving us an error on the Stellar Graphics invoice (INV-SF8819). I need you to re-approve it through the new secure gateway so we can get it paid today.
+Thanks for your patience on the last item.
 
-Here's the direct link:
-`https://innovateforward.payment-gateway.co/approve?inv=SF8819`
+We are putting together Maya Thompson's vendor workspace setup, and I could use your help with a couple of details.
 
-Let me know once it's done. Thanks!
+We have a short window to pull everything together.
+
+Who is the backup approver for Maya's team this week? I only need the name for the project contact sheet.
+
+Whenever you can fit it in this week would be perfect.
+
+Many thanks,
+Daniel
+Delivery Manager, Cortex Software

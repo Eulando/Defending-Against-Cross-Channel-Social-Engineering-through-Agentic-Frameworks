@@ -1,0 +1,15 @@
+Good morning Miguel,
+
+Hope your week is going well.
+
+We are putting together Viktor Petrov's external audit workspace setup, and I could use your help with a couple of details.
+
+We are aiming to keep it simple and well organized.
+
+Does AUD-2026-077 remain the correct project code for onboarding administration? I only need to update the checklist.
+
+Whenever you can fit it in this week would be perfect.
+
+Thanks,
+Noah
+Business Operations Manager, Helios Manufacturing

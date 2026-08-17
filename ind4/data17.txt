@@ -1,19 +1,15 @@
-**Channel:** Slack DM
-**From:** Mike Rogers (Unverified external workspace guest)
-**To:** Sarah Jenkins, Finance Manager
+Hello there,
 
-**Body:**
-Hi Sarah,
+Thanks for your patience on the last item.
 
-Mike Rogers from DataFlow Solutions. David Miller mentioned you were the point of contact for our final invoice on the **Q4 Analytics** project.
+We are putting together Robert Chen's consultant account setup, and I could use your help with a couple of details.
 
-I've just uploaded the invoice document to the **FileVault Pro** portal, but it looks like we're a new vendor in the system and our payment details aren't set up yet.
+We have a short window to pull everything together.
 
-Could you please use the link below to access the portal and input our new banking information from the attached setup form? We need to get this processed by EOD to close out the quarterly books.
+Could you confirm who is authorized to approve guest access while Robert is away? I am updating the escalation list for the onboarding guide.
 
-Portal Link: `https://finsecure-portal.filevaultpro-auth.com/login`
+Whenever you can fit it in this week would be perfect.
 
-Let me know if you have any issues.
-
-Thanks,
-Mike
+Best regards,
+Mia
+Marketing Operations Manager, Pearl Foods Inc.

@@ -1,13 +1,15 @@
-**Channel:** Email
-**From:** Jessica Riley <j.riley@aetherix-internal.com>
-**To:** David Chen (Marketing Manager)
-**Subject:** Quick Question for Internal Spotlight
-**Body:**
-Hi David,
+Hello there,
 
-My name is Jessica and I work in Internal Communications. We're running a new series on the company intranet to spotlight innovative projects and the amazing people behind them.
+Hope you had a good week.
 
-Your department's work has been getting a lot of positive buzz lately, especially that flagship cloud optimization initiative. For the first article, we'd love to feature the project lead on that effort. Could you tell me who is heading up that project? We're tentatively calling it "Project Titan" internally.
+We are putting together Fatima Hassan's external audit workspace setup, and I could use your help with a couple of details.
 
-Thanks!
-Jessica
+We are aiming to keep it simple and well organized.
+
+Quick process question: for an external collaborator, does the sponsor submit the standard guest-access form or does the service desk open it? I am documenting the handoff only and do not need an account created.
+
+No rush, but getting this done by Friday would help us finalize everything before the event.
+
+Best,
+Lucas
+Internal Communications Lead, Summit Retail Group

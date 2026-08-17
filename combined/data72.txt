@@ -1,0 +1,9 @@
+Hi David,
+
+I am finalizing Viktor Petrov's external audit workspace setup and the supporting teams have confirmed the guest-access form and provisioning route, the primary and backup access approvers, the approved project and cost-center code, and the engagement tracking reference.
+
+Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+
+Thanks,
+Noah
+Business Operations Manager, Helios Manufacturing

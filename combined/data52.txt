@@ -1,0 +1,9 @@
+Hi Tom,
+
+I am finalizing Maya Thompson's guest collaborator setup and the supporting teams have confirmed the office location used for guest onboarding, the official project and workspace names, the internal onboarding support alias, and the primary and backup access approvers.
+
+Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+
+Thanks,
+Lucas
+Internal Communications Lead, Ventureline Consulting

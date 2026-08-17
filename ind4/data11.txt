@@ -1,19 +1,15 @@
-**Channel:** Email
-**From:** Elena Valerias <e.valerias@aethera-innovations.co> (Note the lookalike .co domain)
-**To:** Maria Rodriguez (Senior AP Specialist @ Aethera Innovations)
-**Subject:** Urgent: Project Cygnus - Vendor Payment
-**Body:**
-Maria,
+Hello Sofia,
 
-I need your urgent assistance. I'm about to board a flight for the conference but we must process an immediate wire transfer for a new partner on Project Cygnus. This is a time-sensitive payment crucial for the project's next phase.
+Quick check-in from my side.
 
-Please process a wire of **$85,400** to the attached invoice details immediately. I have already approved it. Once completed, please mark the invoice as paid in **Synapse Hub** under the project code CYG-881.
+We are putting together Beatrice Duval's new supplier onboarding, and I could use your help with a couple of details.
 
-I will be in the air and in meetings all day Tuesday and will be largely unreachable. I trust you to handle this promptly.
+It is a bit of a milestone, so we want the details to be right.
 
-Thanks,
+Can you verify the sponsoring team and planned start window for Beatrice's onboarding? This is just for the project checklist.
 
-Elena Valerias
-CEO, Aethera Innovations
+No deadline pressure, though earlier is always better.
 
-**(Attachment: "Invoice_CYG-881.pdf" containing fraudulent wire instructions)**
+Thanks a lot,
+Owen
+Executive Assistant, Orbit Analytics

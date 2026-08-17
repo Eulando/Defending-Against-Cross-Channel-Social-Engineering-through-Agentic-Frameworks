@@ -1,0 +1,15 @@
+Hi Miguel -
+
+Thanks for your patience on the last item.
+
+We are putting together Daniel Okafor's implementation partner setup, and I could use your help with a couple of details.
+
+We are aiming to keep it simple and well organized.
+
+Does IMP-2026-289 remain the correct project code for onboarding administration? I only need to update the checklist.
+
+A response by the end of the week would be great if possible.
+
+Best regards,
+Priya
+Clinical Product Manager, Greenfield Energy

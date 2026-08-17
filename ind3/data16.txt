@@ -1,5 +1,15 @@
-**Channel:** SMS
-**From:** (555) 821-5540 (Spoofed to appear as a corporate notification or executive number)
-**To:** David Miller (Accounts Payable Clerk at Innovate Dynamics)
-**Body:**
-David, quick heads up. Our partners at Stellar Solutions are updating their banking info. Sarah Jenkins will be sending you the official documentation for the Project Orion account shortly. Please prioritize this once it comes through. We can't have any payment delays. Thx.
+Hey Julia,
+
+Hope you had a good week.
+
+We are putting together Omar Farouk's temporary team onboarding, and I could use your help with a couple of details.
+
+Everyone on the team is eager to make it memorable.
+
+What general support alias should external collaborators use during setup? I am correcting the contact sheet.
+
+Please let me know by Friday if you can help.
+
+Many thanks,
+Lucas
+Internal Communications Lead, Ventureline Consulting

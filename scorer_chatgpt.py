@@ -82,6 +82,10 @@ def main() -> None:
     parser.add_argument("--model", default="gpt-4o-mini", help="ChatGPT model")
     parser.add_argument("--limit", type=int, default=None,
                         help="Only score the first N datasets")
+    parser.add_argument("--start", type=int, default=None,
+                        help="Only score dataset IDs greater than or equal to this")
+    parser.add_argument("--end", type=int, default=None,
+                        help="Only score dataset IDs less than or equal to this")
     parser.add_argument("--output", default="chatGPT_score.csv",
                         help="Output CSV path")
     args = parser.parse_args()
@@ -93,6 +97,10 @@ def main() -> None:
     client = OpenAI(api_key=api_key)
 
     ids = dataset_ids(ROOT)
+    if args.start is not None:
+        ids = [idx for idx in ids if idx >= args.start]
+    if args.end is not None:
+        ids = [idx for idx in ids if idx <= args.end]
     if args.limit:
         ids = ids[: args.limit]
 

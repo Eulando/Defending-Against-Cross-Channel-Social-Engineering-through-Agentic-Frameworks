@@ -1,15 +1,13 @@
-**Channel:** Email
-**From:** Alex Ray <a.ray@auradigitals.com>
-**To:** Leo Vance, IT Support Specialist <l.vance@innovatedynamics.com>
-**Subject:** New Vendor Onboarding - Integration Question
+Good morning Aaron,
 
-**Body:**
-Hi Leo,
+I hope this finds you well.
 
-My name is Alex Ray from Aura Digital Solutions, one of your new creative partners. We're finalizing our account setup and our project manager needs to know which project management platform your team uses for external vendor collaboration.
+We are putting together Theo Martin's external project onboarding, and I could use your help with a couple of details.
 
-Is it a standard platform like Jira or Asana, or a proprietary system? Just need the name so we can ensure our integration pipeline is configured correctly before our official kickoff next week.
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
-Thanks for your help,
-Alex Ray
-Aura Digital Solutions
+No rush, but getting this done by Friday would help us finalize everything before the event.
+
+Thanks,
+Layla
+Culture & Events Coordinator, Greenfield Energy

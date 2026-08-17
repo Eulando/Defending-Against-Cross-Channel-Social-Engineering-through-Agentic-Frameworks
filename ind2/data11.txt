@@ -1,6 +1,13 @@
-**Channel:** SMS
-**From:** +1 (415) 555-0182 (Spoofed to appear as a known executive's personal number)
-**To:** Sarah Jenkins (Project Manager @ Aethera Innovations)
-**Subject:** N/A
-**Body:**
-Hi Sarah, it's David Stern from Ops. Quick question, my work phone is glitching. What's the name of our internal project tracking portal again? The one we use for initiatives like Cygnus. Need to check a budget code. Thx.
+Hello there,
+
+Hope you had a good week.
+
+We are putting together Beatrice Duval's new supplier onboarding, and I could use your help with a couple of details.
+
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
+
+A response by the end of the week would be great if possible.
+
+Thanks,
+Owen
+Executive Assistant, Orbit Analytics

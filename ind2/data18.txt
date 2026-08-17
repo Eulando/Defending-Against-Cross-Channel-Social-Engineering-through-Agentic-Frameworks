@@ -1,11 +1,15 @@
-**Channel:** LinkedIn DM
-**From:** James O'Connor (Profile: "CRM Integration Specialist at CloudSync Solutions")
-**To:** Maria Flores, IT Support Specialist at Aetheria Innovations
+Hello Tom,
 
-**Body:**
-Hi Maria, hope you're having a good week. Sarah Jenkins from your marketing team suggested I reach out to someone in IT. We're a partner vendor, CloudSync Solutions, and we're preparing a compatibility report for your upcoming Q3 marketing platform upgrade.
+Hope your week is going well.
 
-Could you just confirm for me which CRM Aetheria is currently using? I have Salesforce down in my notes, but want to be sure before I send the final report over to Sarah.
+We are putting together Samuel Osei's guest collaborator setup, and I could use your help with a couple of details.
 
-Thanks!
-James
+We are aiming to keep it simple and well organized.
+
+Could you confirm the official project workspace name for the Pulse and Spectrum programs? I want the onboarding guide to use the same wording as the project team.
+
+Whenever you can fit it in this week would be perfect.
+
+Best regards,
+Zara
+Talent Program Manager, Brightline Media

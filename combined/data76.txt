@@ -1,0 +1,9 @@
+Hi Lena,
+
+I am finalizing Ingrid Halvorsen's vendor workspace setup and the supporting teams have confirmed the internal onboarding support alias, the primary and backup access approvers, the office location used for guest onboarding, and the guest-access form and provisioning route.
+
+Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+
+Thanks,
+Gabriel
+Finance Operations Analyst, Harbor Biotech

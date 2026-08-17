@@ -1,14 +1,15 @@
-**Channel:** Email
-**From:** James O'Connor <compliance@innovate-dynamics.co>
-**To:** Sarah Jenkins <s.jenkins@innovatedynamics.com> (HR Coordinator)
-**Subject:** Quick Question: Project Atlas Vendor Audit
+Good morning Raj,
 
-**Body:**
-Hi Sarah,
+I hope this finds you well.
 
-My name is James O'Connor, and I'm with the external compliance team handling the Q3 vendor audit.
+We are putting together Ingrid Halvorsen's partner portal onboarding, and I could use your help with a couple of details.
 
-We're reviewing the onboarding process for new platform partners and need to confirm a point of contact for "Project Atlas." Could you please provide the name of the Senior Project Manager leading that initiative? We just need it for our records.
+We are aiming to keep it simple and well organized.
 
-Thanks,
-James
+Could you confirm which standard form starts guest access? This is for the onboarding guide only; no provisioning is requested.
+
+Whenever you can fit it in this week would be perfect.
+
+Many thanks,
+Priya
+Clinical Product Manager, Meridian Health Systems

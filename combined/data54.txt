@@ -1,0 +1,9 @@
+Hi Sara,
+
+I am finalizing Carlos Mendez's consultant account setup and the supporting teams have confirmed the approved project and cost-center code, the guest-access form and provisioning route, the primary and backup access approvers, and the sponsoring manager and approved start window.
+
+Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+
+Thanks,
+Gabriel
+Finance Operations Analyst, Bluewater Logistics

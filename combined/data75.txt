@@ -1,0 +1,9 @@
+Hi Jack,
+
+I am finalizing Beatrice Duval's new supplier onboarding and the supporting teams have confirmed the internal onboarding support alias, the official project and workspace names, the primary and backup access approvers, and the approved project and cost-center code.
+
+Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+
+Thanks,
+Owen
+Executive Assistant, Ironbridge Construction

@@ -1,0 +1,9 @@
+Hi Tom,
+
+I am finalizing Omar Farouk's vendor workspace setup and the supporting teams have confirmed the office location used for guest onboarding, the guest-access form and provisioning route, the engagement tracking reference, and the official project and workspace names.
+
+Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+
+Thanks,
+Jordan
+Program Manager, Velocity Motors

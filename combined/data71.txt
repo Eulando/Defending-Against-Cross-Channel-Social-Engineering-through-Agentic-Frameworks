@@ -1,0 +1,9 @@
+Hi Maria,
+
+I am finalizing Kenneth Brooks's consultant account setup and the supporting teams have confirmed the engagement tracking reference, the office location used for guest onboarding, the official project and workspace names, and the guest-access form and provisioning route.
+
+Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+
+Thanks,
+Priya
+Clinical Product Manager, Ventureline Consulting

@@ -1,22 +1,15 @@
-**Channel:** Phone Transcript
-**From:** +1 (555) 238-1099 (Spoofed Number)
-**To:** Sarah Jenkins, Senior Project Manager
+Hi Julia,
 
-**Body:**
-**(Call begins)**
+Quick check-in from my side.
 
-**Sarah:** "Hello, Sarah Jenkins speaking."
+We are putting together Theo Martin's external project onboarding, and I could use your help with a couple of details.
 
-**Attacker (as Alex):** "Hi Sarah, this is Alex Ray from Aura Digital. Hope I'm not catching you at a bad time. I was just talking with Leo in IT about getting us set up in Project Horizon."
+Everyone on the team is eager to make it memorable.
 
-**Sarah:** "Oh, right. The new creative agency. No, now is fine. What's up?"
+What general support alias should external collaborators use during setup? I am correcting the contact sheet.
 
-**Attacker:** "Great. We're just trying to align our billing system with your project codes. To make sure our first invoice is formatted correctly and doesn't get rejected, could you tell me which high-priority project we're assigned to and what the invoice prefix should be? My system has a blank field for it."
+Whenever you can fit it in this week would be perfect.
 
-**Sarah:** "Sure, no problem. You'll be starting on Project Nightingale. All invoices for that initiative should be prefixed with 'INV-NG-'. So it would be INV-NG- and then the number."
-
-**Attacker:** "Perfect, that's exactly what I needed. INV-NG-. Got it. Thanks so much for your help, Sarah. We're excited to get started."
-
-**Sarah:** "You're welcome. Talk soon."
-
-**(Call ends)**
+Thanks a lot,
+Layla
+Culture & Events Coordinator, Greenfield Energy

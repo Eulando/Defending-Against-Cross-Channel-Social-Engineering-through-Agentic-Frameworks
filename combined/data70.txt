@@ -1,0 +1,9 @@
+Hi Sara,
+
+I am finalizing Theo Martin's implementation partner setup and the supporting teams have confirmed the primary and backup access approvers, the office location used for guest onboarding, the engagement tracking reference, and the guest-access form and provisioning route.
+
+Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+
+Thanks,
+Zara
+Talent Program Manager, Summit Retail Group

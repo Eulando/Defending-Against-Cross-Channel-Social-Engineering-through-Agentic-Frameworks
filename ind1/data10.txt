@@ -1,20 +1,13 @@
-**Channel:** Email
-**From:** Alex Vance <a.vance@innovate-dynamlcs.com>
-**To:** Sarah Chen <s.chen@innovate-dynamics.com> (Talent Acquisition Specialist)
-**Subject:** Following up - New Senior Consultant Onboarding (Stratus Advisory Group)
+Hey Tom,
 
-**Body:**
-Hi Sarah,
+I hope this finds you well.
 
-Hope you're having a great week.
+We are putting together Daniel Okafor's implementation partner setup, and I could use your help with a couple of details.
 
-Following up on my conversation with Michael Sterling about joining the team as a senior consultant from Stratus for the "Project Stardust" engagement.
+What workspace name should appear in the handoff notes for the Horizon and Zenith programs? I am reconciling the project checklist.
 
-My official start date is next Monday, but I'd love to get a head start on the technical onboarding so I can hit the ground running. Could you please let me know who the best person in IT is to talk to about getting my laptop provisioned and initial access sorted out?
+A response by the end of the week would be great if possible.
 
-Looking forward to working with you all.
-
-Best,
-Alex Vance
-Senior Consultant
-Stratus Advisory Group
+Thanks in advance,
+Zara
+Talent Program Manager, Juniper Bank

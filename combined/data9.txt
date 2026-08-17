@@ -1,0 +1,9 @@
+Hi Tom,
+
+I am finalizing Yuki Tanaka's contractor access review and the supporting teams have confirmed the approved project and cost-center code, the official project and workspace names, the internal onboarding support alias, and the office location used for guest onboarding.
+
+Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+
+Thanks,
+Sofia
+People Operations Specialist, Summit Outfitters

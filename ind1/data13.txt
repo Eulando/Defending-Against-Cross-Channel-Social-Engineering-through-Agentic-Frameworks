@@ -1,5 +1,13 @@
-**Channel:** Slack DM
-**From:** Alex Johnson (IT Support)
-**To:** Liam Murphy (HR Assistant)
-**Body:**
-Hey Liam, hope you're having a good morning. Quick question – I'm a new hire on the IT Helpdesk team, and I'm updating our internal contact lists for departmental comms. The one I have for Marketing seems outdated. Could you let me know who the current Head of Marketing is? Thanks for the help!
+Hey Aaron,
+
+I hope this finds you well.
+
+We are putting together Fatima Hassan's external audit workspace setup, and I could use your help with a couple of details.
+
+What project reference should I put on the handoff checklist for Fatima's team? I only need the tracking identifier.
+
+A response by the end of the week would be great if possible.
+
+Many thanks,
+Lucas
+Internal Communications Lead, Summit Retail Group
