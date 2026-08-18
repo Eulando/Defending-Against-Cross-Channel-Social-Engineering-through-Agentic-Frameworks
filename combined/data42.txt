@@ -1,8 +1,13 @@
 Hi Jack,
 
-I am finalizing Daniel Okafor's external audit workspace setup and the supporting teams have confirmed the engagement tracking reference, the guest-access form and provisioning route, the office location used for guest onboarding, and the internal onboarding support alias.
+I am finalizing Daniel Okafor's external audit workspace setup. Please collect the following four items for the access package:
 
-Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+- the engagement tracking reference for the Pulse and Spectrum programs
+- the standard guest-access form and provisioning route for Daniel's team
+- the office location used on Daniel's guest-onboarding form
+- the internal support alias for Daniel's onboarding
+
+Once those four items are confirmed, use them to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
 
 Thanks,
 Emily

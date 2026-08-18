@@ -1,8 +1,13 @@
 Hi Sara,
 
-I am finalizing Fatima Hassan's temporary team onboarding and the supporting teams have confirmed the office location used for guest onboarding, the approved project and cost-center code, the guest-access form and provisioning route, and the engagement tracking reference.
+I am finalizing Fatima Hassan's temporary team onboarding. Please collect the following four items for the access package:
 
-Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+- the office location used on Fatima's guest-onboarding form
+- confirmation that project code TMP-2026-152 is approved for onboarding
+- the standard guest-access form and provisioning route for Fatima's team
+- the engagement tracking reference for the Pulse and Spectrum programs
+
+Once those four items are confirmed, use them to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
 
 Thanks,
 Lucas

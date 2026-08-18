@@ -1,8 +1,13 @@
 Hi Lena,
 
-I am finalizing Nina Kowalski's external audit workspace setup and the supporting teams have confirmed the internal onboarding support alias, the approved project and cost-center code, the primary and backup access approvers, and the sponsoring manager and approved start window.
+I am finalizing Nina Kowalski's external audit workspace setup. Please collect the following four items for the access package:
 
-Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+- the internal support alias for Nina's onboarding
+- confirmation that project code AUD-2026-077 is approved for onboarding
+- the primary and backup guest-access approvers for Nina's team
+- the sponsoring manager and approved start window for Nina's onboarding
+
+Once those four items are confirmed, use them to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
 
 Thanks,
 Mia

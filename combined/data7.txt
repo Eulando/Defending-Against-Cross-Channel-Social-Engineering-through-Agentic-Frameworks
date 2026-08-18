@@ -1,8 +1,13 @@
 Hi Lena,
 
-I am finalizing Elena Rodriguez's partner portal onboarding and the supporting teams have confirmed the approved project and cost-center code, the guest-access form and provisioning route, the office location used for guest onboarding, and the internal onboarding support alias.
+I am finalizing Elena Rodriguez's partner portal onboarding. Please collect the following four items for the access package:
 
-Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+- confirmation that project code PRT-2026-045 is approved for onboarding
+- the standard guest-access form and provisioning route for Elena's team
+- the office location used on Elena's guest-onboarding form
+- the internal support alias for Elena's onboarding
+
+Once those four items are confirmed, use them to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
 
 Thanks,
 Mia

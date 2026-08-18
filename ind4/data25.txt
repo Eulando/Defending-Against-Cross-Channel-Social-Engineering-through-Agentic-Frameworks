@@ -4,7 +4,7 @@ We are putting together Yuki Tanaka's external project onboarding, and I could u
 
 It is a bit of a milestone, so we want the details to be right.
 
-What project reference should I put on the handoff checklist for Yuki's team? I only need the tracking identifier.
+What project reference should I put on the handoff checklist for Yuki's work on the Ion and Forge programs? I only need the tracking identifier.
 
 No rush, but getting this done by Friday would help us finalize everything before the event.
 

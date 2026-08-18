@@ -1,8 +1,13 @@
 Hi Sara,
 
-I am finalizing Carlos Mendez's consultant account setup and the supporting teams have confirmed the approved project and cost-center code, the guest-access form and provisioning route, the primary and backup access approvers, and the sponsoring manager and approved start window.
+I am finalizing Carlos Mendez's consultant account setup. Please collect the following four items for the access package:
 
-Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+- confirmation that project code CNS-2026-219 is approved for onboarding
+- the standard guest-access form and provisioning route for Carlos's team
+- the primary and backup guest-access approvers for Carlos's team
+- the sponsoring manager and approved start window for Carlos's onboarding
+
+Once those four items are confirmed, use them to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
 
 Thanks,
 Gabriel

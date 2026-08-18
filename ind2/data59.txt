@@ -6,7 +6,7 @@ We are putting together Ingrid Halvorsen's vendor workspace setup, and I could u
 
 We are aiming to keep it simple and well organized.
 
-What project reference should I put on the handoff checklist for Ingrid's team? I only need the tracking identifier.
+What project reference should I put on the handoff checklist for Ingrid's work on the Horizon and Zenith programs? I only need the tracking identifier.
 
 No rush, but getting this done by Friday would help us finalize everything before the event.
 

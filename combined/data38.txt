@@ -1,8 +1,13 @@
 Hi Lena,
 
-I am finalizing Ingrid Halvorsen's contractor access review and the supporting teams have confirmed the sponsoring manager and approved start window, the approved project and cost-center code, the official project and workspace names, and the primary and backup access approvers.
+I am finalizing Ingrid Halvorsen's contractor access review. Please collect the following four items for the access package:
 
-Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+- the sponsoring manager and approved start window for Ingrid's onboarding
+- confirmation that project code CTR-2026-331 is approved for onboarding
+- the official workspace names for the Beacon and Crestline programs
+- the primary and backup guest-access approvers for Ingrid's team
+
+Once those four items are confirmed, use them to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
 
 Thanks,
 Marcus

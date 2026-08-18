@@ -1,8 +1,13 @@
 Hi Lena,
 
-I am finalizing James Whitfield's guest collaborator setup and the supporting teams have confirmed the official project and workspace names, the office location used for guest onboarding, the sponsoring manager and approved start window, and the engagement tracking reference.
+I am finalizing James Whitfield's guest collaborator setup. Please collect the following four items for the access package:
 
-Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+- the official workspace names for the Horizon and Zenith programs
+- the office location used on James's guest-onboarding form
+- the sponsoring manager and approved start window for James's onboarding
+- the engagement tracking reference for the Horizon and Zenith programs
+
+Once those four items are confirmed, use them to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
 
 Thanks,
 Ethan

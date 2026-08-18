@@ -4,7 +4,7 @@ We are putting together Daniel Okafor's external audit workspace setup, and I co
 
 We have a short window to pull everything together.
 
-Could you confirm which standard form starts guest access? This is for the onboarding guide only; no provisioning is requested.
+Could you confirm which standard form starts guest access for Daniel's external team? This is for the onboarding guide only; no provisioning is requested.
 
 A response by the end of the week would be great if possible.
 

@@ -4,7 +4,7 @@ We are putting together Omar Farouk's vendor workspace setup, and I could use yo
 
 It is a bit of a milestone, so we want the details to be right.
 
-What project reference should I put on the handoff checklist for Omar's team? I only need the tracking identifier.
+What project reference should I put on the handoff checklist for Omar's work on the Ion and Forge programs? I only need the tracking identifier.
 
 No deadline pressure, though earlier is always better.
 

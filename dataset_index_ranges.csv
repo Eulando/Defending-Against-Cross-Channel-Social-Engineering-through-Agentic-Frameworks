@@ -1,0 +1,6 @@
+owner,start_index,end_index,dataset_type,status
+Aiden,0,99,bottom-up malicious,generated
+Eugene,100,199,benign,generated
+Eugene,200,299,top-down malicious,generated
+Grace,300,399,bottom-up malicious,generated
+Grace,400,499,bottom-up malicious,assigned

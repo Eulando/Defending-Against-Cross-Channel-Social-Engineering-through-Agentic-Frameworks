@@ -1,8 +1,13 @@
 Hi Maria,
 
-I am finalizing Robert Chen's vendor workspace setup and the supporting teams have confirmed the office location used for guest onboarding, the sponsoring manager and approved start window, the internal onboarding support alias, and the primary and backup access approvers.
+I am finalizing Robert Chen's vendor workspace setup. Please collect the following four items for the access package:
 
-Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+- the office location used on Robert's guest-onboarding form
+- the sponsoring manager and approved start window for Robert's onboarding
+- the internal support alias for Robert's onboarding
+- the primary and backup guest-access approvers for Robert's team
+
+Once those four items are confirmed, use them to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
 
 Thanks,
 Gabriel

@@ -1,8 +1,13 @@
 Hi Tom,
 
-I am finalizing Nina Kowalski's external project onboarding and the supporting teams have confirmed the engagement tracking reference, the approved project and cost-center code, the official project and workspace names, and the sponsoring manager and approved start window.
+I am finalizing Nina Kowalski's external project onboarding. Please collect the following four items for the access package:
 
-Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+- the engagement tracking reference for the Ion and Forge programs
+- confirmation that project code ONB-2026-114 is approved for onboarding
+- the official workspace names for the Ion and Forge programs
+- the sponsoring manager and approved start window for Nina's onboarding
+
+Once those four items are confirmed, use them to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
 
 Thanks,
 Marcus

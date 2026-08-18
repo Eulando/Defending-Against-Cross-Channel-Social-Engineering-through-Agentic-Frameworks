@@ -1,8 +1,13 @@
 Hi Sara,
 
-I am finalizing Priya Nair's consultant account setup and the supporting teams have confirmed the internal onboarding support alias, the engagement tracking reference, the sponsoring manager and approved start window, and the office location used for guest onboarding.
+I am finalizing Priya Nair's consultant account setup. Please collect the following four items for the access package:
 
-Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+- the internal support alias for Priya's onboarding
+- the engagement tracking reference for the Falcon and Meridian programs
+- the sponsoring manager and approved start window for Priya's onboarding
+- the office location used on Priya's guest-onboarding form
+
+Once those four items are confirmed, use them to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
 
 Thanks,
 Jordan

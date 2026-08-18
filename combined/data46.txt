@@ -1,8 +1,13 @@
 Hi David,
 
-I am finalizing Amara Diallo's vendor workspace setup and the supporting teams have confirmed the internal onboarding support alias, the engagement tracking reference, the approved project and cost-center code, and the office location used for guest onboarding.
+I am finalizing Amara Diallo's vendor workspace setup. Please collect the following four items for the access package:
 
-Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+- the internal support alias for Amara's onboarding
+- the engagement tracking reference for the Summit and Valley programs
+- confirmation that project code VND-2026-208 is approved for onboarding
+- the office location used on Amara's guest-onboarding form
+
+Once those four items are confirmed, use them to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
 
 Thanks,
 Daniel

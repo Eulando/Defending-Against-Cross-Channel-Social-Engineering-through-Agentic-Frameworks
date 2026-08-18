@@ -1,8 +1,13 @@
 Hi Lena,
 
-I am finalizing Fatima Hassan's guest collaborator setup and the supporting teams have confirmed the office location used for guest onboarding, the engagement tracking reference, the internal onboarding support alias, and the approved project and cost-center code.
+I am finalizing Fatima Hassan's guest collaborator setup. Please collect the following four items for the access package:
 
-Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+- the office location used on Fatima's guest-onboarding form
+- the engagement tracking reference for the Orion and Vertex programs
+- the internal support alias for Fatima's onboarding
+- confirmation that project code GST-2026-118 is approved for onboarding
+
+Once those four items are confirmed, use them to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
 
 Thanks,
 Priya

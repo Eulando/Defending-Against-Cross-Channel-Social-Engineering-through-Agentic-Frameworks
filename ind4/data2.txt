@@ -6,7 +6,7 @@ We are putting together James Whitfield's implementation partner setup, and I co
 
 We have a short window to pull everything together.
 
-What project reference should I put on the handoff checklist for James's team? I only need the tracking identifier.
+What project reference should I put on the handoff checklist for James's work on the Orion and Vertex programs? I only need the tracking identifier.
 
 Please let me know by Friday if you can help.
 

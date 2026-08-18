@@ -6,7 +6,7 @@ We are putting together James Whitfield's guest collaborator setup, and I could 
 
 We are aiming to keep it simple and well organized.
 
-Could you confirm which standard form starts guest access? This is for the onboarding guide only; no provisioning is requested.
+Could you confirm which standard form starts guest access for James's external team? This is for the onboarding guide only; no provisioning is requested.
 
 Please let me know by Friday if you can help.
 

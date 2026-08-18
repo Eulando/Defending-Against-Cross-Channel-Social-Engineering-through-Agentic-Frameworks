@@ -1,8 +1,13 @@
 Hi Sara,
 
-I am finalizing Nina Kowalski's external project onboarding and the supporting teams have confirmed the internal onboarding support alias, the approved project and cost-center code, the office location used for guest onboarding, and the official project and workspace names.
+I am finalizing Nina Kowalski's external project onboarding. Please collect the following four items for the access package:
 
-Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+- the internal support alias for Nina's onboarding
+- confirmation that project code ONB-2026-114 is approved for onboarding
+- the office location used on Nina's guest-onboarding form
+- the official workspace names for the Helix and Nexus programs
+
+Once those four items are confirmed, use them to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
 
 Thanks,
 Zara

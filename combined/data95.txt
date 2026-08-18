@@ -1,8 +1,13 @@
 Hi Tom,
 
-I am finalizing Kenneth Brooks's consultant account setup and the supporting teams have confirmed the approved project and cost-center code, the engagement tracking reference, the guest-access form and provisioning route, and the official project and workspace names.
+I am finalizing Kenneth Brooks's consultant account setup. Please collect the following four items for the access package:
 
-Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+- confirmation that project code CNS-2026-219 is approved for onboarding
+- the engagement tracking reference for the Atlas and Aurora programs
+- the standard guest-access form and provisioning route for Kenneth's team
+- the official workspace names for the Atlas and Aurora programs
+
+Once those four items are confirmed, use them to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
 
 Thanks,
 Layla

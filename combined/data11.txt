@@ -1,8 +1,13 @@
 Hi Maria,
 
-I am finalizing Beatrice Duval's new supplier onboarding and the supporting teams have confirmed the primary and backup access approvers, the internal onboarding support alias, the office location used for guest onboarding, and the sponsoring manager and approved start window.
+I am finalizing Beatrice Duval's new supplier onboarding. Please collect the following four items for the access package:
 
-Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+- the primary and backup guest-access approvers for Beatrice's team
+- the internal support alias for Beatrice's onboarding
+- the office location used on Beatrice's guest-onboarding form
+- the sponsoring manager and approved start window for Beatrice's onboarding
+
+Once those four items are confirmed, use them to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
 
 Thanks,
 Owen

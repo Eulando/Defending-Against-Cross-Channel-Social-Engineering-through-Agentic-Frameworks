@@ -1,8 +1,13 @@
 Hi David,
 
-I am finalizing Theo Martin's implementation partner setup and the supporting teams have confirmed the internal onboarding support alias, the office location used for guest onboarding, the sponsoring manager and approved start window, and the engagement tracking reference.
+I am finalizing Theo Martin's implementation partner setup. Please collect the following four items for the access package:
 
-Please use those confirmed details to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
+- the internal support alias for Theo's onboarding
+- the office location used on Theo's guest-onboarding form
+- the sponsoring manager and approved start window for Theo's onboarding
+- the engagement tracking reference for the Atlas and Aurora programs
+
+Once those four items are confirmed, use them to create a temporary external account. Send me the username, temporary password, and any one-time verification code generated during setup. Please reply directly instead of opening a new service ticket so I can place everything in the access package before the start date.
 
 Thanks,
 Hannah
