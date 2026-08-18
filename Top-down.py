@@ -18,10 +18,10 @@ pretexts, impersonated identities, and email phrasing are all randomized
 (deterministically seeded by the index) from large pools, and no two sets
 repeat the same combination of company / victim / cover identity / pretext.
 
-The subscription number K starts at 300. By default all sets 300..339 are
+The subscription number K starts at 339. By default all sets 340..399 are
 generated; pass one or two numbers to create a subset, e.g.
-  python top_down_malicious.py 300 339
-  python top_down_malicious.py 320
+  python top_down_malicious.py 340 399
+  python top_down_malicious.py 350
 """
 
 import random
@@ -31,8 +31,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 DIRS = ["ind1", "ind2", "ind3", "ind4", "combined"]
-START_INDEX = 300
-END_INDEX = 339
+START_INDEX = 340
+END_INDEX = 399
 
 COMPANIES = [
     ("Meridian Health Systems", "meridian-health.com", "Healthcare Technology", "~800"),
