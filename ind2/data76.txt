@@ -1,13 +1,11 @@
-Good morning Owen,
+Subject: Quick question - external audit workspace setup
+To: Miguel Santos (Finance Operations)
+From: Sam Kowalski <sam.program@solstice.example.com>
 
-We are preparing Ingrid Halvorsen's service anniversary, and I could use your help with one detail.
+Hi Miguel,
 
-Could you suggest two or three approved vendors for the service award gift, including their typical delivery times?
+Does 5937-AUDITSETUP remain the correct project code for onboarding administration? I only need to update the checklist.
 
-An approved synthetic vendor option is Cedarline Gifts, with an estimated delivery window of 5-7 business days.
-
-A response by the end of the week would be great if possible.
-
-Thanks a lot,
-Gabriel
-Finance Operations Analyst, Harbor Biotech
+Thanks,
+Sam
+Program Manager, Solstice Financial

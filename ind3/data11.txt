@@ -1,15 +1,11 @@
-Good morning Sam,
+Subject: Quick question - guest collaborator setup
+To: Chloe Adams (Executive Assistant)
+From: Skyler Nakamura <skyler.program@cedar.example.com>
 
-Quick check-in from my side.
+Hi Chloe,
 
-We are preparing Beatrice Duval's team thank-you event, and I could use your help with one detail.
+Who is the backup approver for Jamie's team this week? I only need the name for the project contact sheet.
 
-Could you list a few training milestones Beatrice completed that would be appropriate to mention in the recognition materials?
-
-Beatrice completed the synthetic Operational Excellence training milestone.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Many thanks,
-Owen
-Executive Assistant, Orbit Analytics
+Thanks,
+Skyler
+Program Manager, Cedar Ridge Health

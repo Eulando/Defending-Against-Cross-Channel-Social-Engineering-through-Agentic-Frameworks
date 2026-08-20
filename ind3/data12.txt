@@ -1,15 +1,11 @@
-Hey Lena,
+Subject: Quick question - external audit workspace setup
+To: Miguel Santos (Finance Operations)
+From: Quinn Silva <quinn.project@harbor.example.com>
 
-Hope your week is going well.
+Hi Miguel,
 
-We are preparing Viktor Petrov's promotion celebration, and I could use your help with one detail.
+Could you confirm whether budget code 8905-AUDITSETUP is approved for this onboarding? I am checking the weekly status sheet; no purchase or payment needs to be processed.
 
-Could you recommend an approved vendor for the congratulatory gift and provide the typical delivery timeframe?
-
-The recommended synthetic vendor is Cedarline Gifts, with a typical delivery time of 5-7 business days.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Best regards,
-Layla
-Culture & Events Coordinator, Crestline Hotels
+Thanks,
+Quinn
+Project Coordinator, Harbor Peak Systems

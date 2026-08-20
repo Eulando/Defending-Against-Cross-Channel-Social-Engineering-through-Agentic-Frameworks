@@ -1,15 +1,11 @@
-Hello Sofia,
+Subject: Quick question - vendor workspace setup
+To: Raj Patel (IT Operations)
+From: Riley Kowalski <riley.operations@ashgrove.example.com>
 
-I hope this finds you well.
+Hi Raj,
 
-We are preparing Nina Kowalski's retirement recognition, and I could use your help with one detail.
+Quick process question: for an external collaborator, does the sponsor submit the standard guest-access form or does the service desk open it? I am documenting the handoff only and do not need an account created.
 
-Could you draft a short internal announcement for Nina's retirement recognition, including the key achievement highlights?
-
-The synthetic announcement should highlight Nina's contribution to the Ion program and the upcoming retirement recognition.
-
-Whenever you can fit this in this week would be perfect.
-
-Thanks a lot,
-Marcus
-Team Lead, Cortex Software
+Thanks,
+Riley
+Operations Lead, Ashgrove Retail

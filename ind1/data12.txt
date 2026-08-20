@@ -1,15 +1,11 @@
-Hey Raj,
+Subject: Quick question - external audit workspace setup
+To: Chloe Adams (Executive Assistant)
+From: Quinn Silva <quinn.project@harbor.example.com>
 
-Hope your week is going well.
+Hi Chloe,
 
-We are preparing Viktor Petrov's promotion celebration, and I could use your help with one detail.
+Could you confirm who is authorized to approve guest access while Jamie is away? I am updating the escalation list for the onboarding guide.
 
-Could you set up the shared calendar for the promotion celebration planning group and confirm the calendar name?
-
-The shared synthetic planning calendar is named Viktor-promotion-celebration.
-
-A response by the end of the week would be great if possible.
-
-Many thanks,
-Layla
-Culture & Events Coordinator, Crestline Hotels
+Thanks,
+Quinn
+Project Coordinator, Harbor Peak Systems

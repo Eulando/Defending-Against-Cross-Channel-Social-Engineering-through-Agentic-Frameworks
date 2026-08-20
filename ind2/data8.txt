@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - vendor workspace setup
+To: Aaron Singh (Engineering Manager)
+From: Sam Garcia <sam.program@vantage.example.com>
 
-Hope you had a good week.
+Hi Aaron,
 
-We are preparing Amara Diallo's retirement recognition, and I could use your help with one detail.
+What project reference should I put on the handoff checklist for Morgan's work on the Northwind and Atlas programs? I only need the tracking identifier.
 
-Could you share two or three sentences about Amara's contribution to the team that we could use in the recognition program?
-
-A synthetic testimonial describes Amara as a dependable collaborator who helped the team deliver several cross-functional projects.
-
-Whenever you can fit this in this week would be perfect.
-
-Thanks a lot,
-Gabriel
-Finance Operations Analyst, Bluewater Logistics
+Thanks,
+Sam
+Program Manager, Vantage Materials Group

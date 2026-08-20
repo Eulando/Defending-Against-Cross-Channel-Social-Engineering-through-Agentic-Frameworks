@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - implementation partner setup
+To: Aaron Singh (Engineering Manager)
+From: Taylor Osei <taylor.engagement@ashgrove.example.com>
 
-Hope your week is going well.
+Hi Aaron,
 
-We are preparing Grace Nguyen's innovation recognition, and I could use your help with one detail.
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
-Could you confirm the recognition budget associated with code INN-2026-289 and the standard purchasing window for the achievement gift? This will help us plan the order.
-
-The synthetic recognition budget associated with INN-2026-289 is $1,250.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Thanks a lot,
-Marcus
-Team Lead, Bluewater Logistics
+Thanks,
+Taylor
+Engagement Manager, Ashgrove Retail

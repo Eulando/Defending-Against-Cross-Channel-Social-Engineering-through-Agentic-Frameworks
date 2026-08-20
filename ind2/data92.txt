@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - vendor workspace setup
+To: Julia Frost (Office Manager)
+From: Avery Silva <avery.onboarding@meridian.example.com>
 
-Hope you had a good week.
+Hi Julia,
 
-We are preparing Robert Chen's team thank-you event, and I could use your help with one detail.
-
-Could you draft a short internal announcement for Robert's team thank-you event, including the key achievement highlights?
-
-The synthetic announcement should highlight Robert's contribution to the Orion program and the upcoming team thank-you event.
-
-Whenever you can fit this in this week would be perfect.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
 Thanks,
-Aisha
-Operations Lead, Summit Outfitters
+Avery
+Onboarding Coordinator, Meridian Biotech

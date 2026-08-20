@@ -1,13 +1,11 @@
-Hello there,
+Subject: Quick question - consultant account setup
+To: Nia Brooks (Facilities Coordinator)
+From: Reese Osei <reese.operations@solstice.example.com>
 
-We are preparing Ingrid Halvorsen's employee appreciation, and I could use your help with one detail.
+Hi Nia,
 
-Could you summarize the teams or operational areas Ingrid has worked with over the years? A short timeline would be useful.
+Could you confirm which office location the external team should select on the standard guest form? I am updating the arrival instructions.
 
-The synthetic timeline places Ingrid with the Platform Operations team during a previous project period.
-
-A response by the end of the week would be great if possible.
-
-Many thanks,
-Priya
-Clinical Product Manager, Meridian Health Systems
+Thanks,
+Reese
+Operations Lead, Solstice Financial

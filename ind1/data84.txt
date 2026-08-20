@@ -1,15 +1,11 @@
-Hello Lisa,
+Subject: Quick question - new supplier onboarding
+To: Aaron Singh (Engineering Manager)
+From: Cameron Nguyen <cameron.operations@vantage.example.com>
 
-Quick check-in from my side.
+Hi Aaron,
 
-We are preparing Maya Thompson's retirement recognition, and I could use your help with one detail.
-
-Could you confirm Maya's hire year and years of service for the recognition announcement? We want the timeline in the program to be accurate.
-
-Maya's synthetic HR timeline lists a hire year of 2012, representing 14 years of service.
-
-A response by the end of the week would be great if possible.
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
 Thanks,
-Zara
-Talent Program Manager, Ventureline Consulting
+Cameron
+Operations Lead, Vantage Materials Group

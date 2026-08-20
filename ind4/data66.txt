@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - consultant account setup
+To: Tom Becker (Project Administrator)
+From: Sam Kowalski <sam.onboarding@norwood.example.com>
 
-I hope this finds you well.
+Hi Tom,
 
-We are preparing Robert Chen's service anniversary, and I could use your help with one detail.
+What workspace name should appear in the handoff notes for the Vanguard and Compass programs? I am reconciling the project checklist.
 
-Could you reserve the Lakeside Terrace for about 40 guests on Friday, September 18th, 9:00 AM-12:00 PM, and confirm the standard catering option?
-
-The synthetic event location is Lakeside Terrace on Friday, September 18th from 9:00 AM-12:00 PM for about 40 guests.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Best,
-Ethan
-Office Manager, Northgate Financial Group
+Thanks,
+Sam
+Onboarding Coordinator, Norwood Analytics

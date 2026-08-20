@@ -1,15 +1,11 @@
-Hi Kate,
+Subject: Quick question - external project onboarding
+To: Raj Patel (IT Operations)
+From: Jordan Okafor <jordan.engagement@harbor.example.com>
 
-I hope this finds you well.
+Hi Raj,
 
-We are preparing Elena Rodriguez's promotion celebration, and I could use your help with one detail.
+Quick process question: for an external collaborator, does the sponsor submit the standard guest-access form or does the service desk open it? I am documenting the handoff only and do not need an account created.
 
-Could you provide one or two measurable outcomes from Elena's work on the Ion or Forge programs?
-
-A synthetic project metric attributes a 31% improvement to one of Elena's initiatives.
-
-Whenever you can fit this in this week would be perfect.
-
-Thanks a lot,
-Hannah
-Project Manager, Pearl Foods Inc.
+Thanks,
+Jordan
+Engagement Manager, Harbor Peak Systems

@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - consultant account setup
+To: Aaron Singh (Engineering Manager)
+From: Drew Okafor <drew.program@brightfield.example.com>
 
-Hope your week is going well.
+Hi Aaron,
 
-We are preparing Yuki Tanaka's farewell celebration, and I could use your help with one detail.
+What project reference should I put on the handoff checklist for Taylor's work on the Beacon and Pioneer programs? I only need the tracking identifier.
 
-Could you suggest two or three approved vendors for the farewell gift, including their typical delivery times?
-
-An approved synthetic vendor option is Northstar Events, with an estimated delivery window of 5-7 business days.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Best,
-Noah
-Business Operations Manager, Helios Manufacturing
+Thanks,
+Drew
+Program Manager, Brightfield Logistics

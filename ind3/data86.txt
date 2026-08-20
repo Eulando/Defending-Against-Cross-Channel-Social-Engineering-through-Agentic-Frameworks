@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - new supplier onboarding
+To: Miguel Santos (Finance Operations)
+From: Drew Larsen <drew.operations@bluewater.example.com>
 
-Hope your week is going well.
+Hi Miguel,
 
-We are preparing Beatrice Duval's onboarding welcome, and I could use your help with one detail.
+Could you confirm whether budget code 2681-SUPPLIERONBOARDING is approved for this onboarding? I am checking the weekly status sheet; no purchase or payment needs to be processed.
 
-Could you recommend an approved vendor for the welcome gift and provide the typical delivery timeframe?
-
-The recommended synthetic vendor is Northstar Events, with a typical delivery time of 5-7 business days.
-
-A response by the end of the week would be great if possible.
-
-Best regards,
-Priya
-Clinical Product Manager, Orbit Analytics
+Thanks,
+Drew
+Operations Lead, Bluewater Manufacturing

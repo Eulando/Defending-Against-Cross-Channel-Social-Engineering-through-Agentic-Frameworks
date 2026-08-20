@@ -1,15 +1,11 @@
-Hey Sam,
+Subject: Quick question - partner portal onboarding
+To: Julia Frost (Office Manager)
+From: Avery Nguyen <avery.operations@norwood.example.com>
 
-I hope this finds you well.
+Hi Julia,
 
-We are preparing Kenneth Brooks's farewell celebration, and I could use your help with one detail.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
-Could you list a few training milestones Kenneth completed that would be appropriate to mention in the recognition materials?
-
-Kenneth completed the synthetic Team Facilitation training milestone.
-
-A response by the end of the week would be great if possible.
-
-Best,
-Priya
-Clinical Product Manager, Ventureline Consulting
+Thanks,
+Avery
+Operations Lead, Norwood Analytics

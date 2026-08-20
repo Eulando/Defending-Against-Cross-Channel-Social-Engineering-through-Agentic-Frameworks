@@ -1,15 +1,11 @@
-Hello Peter,
+Subject: Quick question - partner portal onboarding
+To: Miguel Santos (Finance Operations)
+From: Taylor Silva <taylor.program@ashgrove.example.com>
 
-Hope your week is going well.
+Hi Miguel,
 
-We are preparing Kenneth Brooks's employee appreciation, and I could use your help with one detail.
+Could you confirm whether budget code 7841-PORTALONBOARDING is approved for this onboarding? I am checking the weekly status sheet; no purchase or payment needs to be processed.
 
-Could you summarize the teams or operational areas Kenneth has worked with over the years? A short timeline would be useful.
-
-The synthetic timeline places Kenneth with the Product Operations team during a previous project period.
-
-Whenever you can fit this in this week would be perfect.
-
-Many thanks,
-Marcus
-Team Lead, Northgate Financial Group
+Thanks,
+Taylor
+Program Manager, Ashgrove Retail

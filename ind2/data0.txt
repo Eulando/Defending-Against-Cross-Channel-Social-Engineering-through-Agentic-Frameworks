@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - new supplier onboarding
+To: Raj Patel (IT Operations)
+From: Cameron Fitzgerald <cameron.engagement@bluewater.example.com>
 
-I hope this finds you well.
+Hi Raj,
 
-We are preparing Priya Nair's farewell celebration, and I could use your help with one detail.
+Could you confirm which standard form starts guest access for Skyler's external team? This is for the onboarding guide only; no provisioning is requested.
 
-Could you share two or three major initiatives Priya worked on, particularly the Falcon and Meridian programs? A short description of their contribution would help with the recognition materials.
-
-Priya contributed to the Falcon program, with a focus on project coordination and delivery.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Best regards,
-Jordan
-Program Manager, Ironbridge Construction
+Thanks,
+Cameron
+Engagement Manager, Bluewater Manufacturing

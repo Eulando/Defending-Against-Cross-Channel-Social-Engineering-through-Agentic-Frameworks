@@ -1,13 +1,11 @@
-Good morning Lena,
+Subject: Quick question - new supplier onboarding
+To: Julia Frost (Office Manager)
+From: Alex Brennan <alex.program@cobalt.example.com>
 
-We are preparing Amara Diallo's service anniversary, and I could use your help with one detail.
+Hi Julia,
 
-Could you recommend an approved vendor for the service award gift and provide the typical delivery timeframe?
-
-The recommended synthetic vendor is Harbor Office Services, with a typical delivery time of 5-7 business days.
-
-Whenever you can fit this in this week would be perfect.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
 Thanks,
-Daniel
-Delivery Manager, Brightline Media
+Alex
+Program Manager, Cobalt Line Freight

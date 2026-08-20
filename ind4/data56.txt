@@ -1,15 +1,11 @@
-Hello Lisa,
+Subject: Quick question - new supplier onboarding
+To: Raj Patel (IT Operations)
+From: Alex Nakamura <alex.engagement@vantage.example.com>
 
-Hope your week is going well.
+Hi Raj,
 
-We are preparing Omar Farouk's team thank-you event, and I could use your help with one detail.
+Quick process question: for an external collaborator, does the sponsor submit the standard guest-access form or does the service desk open it? I am documenting the handoff only and do not need an account created.
 
-Could you confirm Omar's hire year and years of service for the recognition announcement? We want the timeline in the program to be accurate.
-
-Omar's synthetic HR timeline lists a hire year of 2016, representing 10 years of service.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Best,
-Noah
-Business Operations Manager, Apex Insurance Co.
+Thanks,
+Alex
+Engagement Manager, Vantage Materials Group

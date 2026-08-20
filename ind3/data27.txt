@@ -1,15 +1,11 @@
-Hey Sam,
+Subject: Quick question - vendor workspace setup
+To: Julia Frost (Office Manager)
+From: Reese Okafor <reese.project@solstice.example.com>
 
-I hope this finds you well.
+Hi Julia,
 
-We are preparing Theo Martin's onboarding welcome, and I could use your help with one detail.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
-Could you list a few training milestones Theo completed that would be appropriate to mention in the recognition materials?
-
-Theo completed the synthetic Operational Excellence training milestone.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Many thanks,
-Hannah
-Project Manager, Summit Outfitters
+Thanks,
+Reese
+Project Coordinator, Solstice Financial

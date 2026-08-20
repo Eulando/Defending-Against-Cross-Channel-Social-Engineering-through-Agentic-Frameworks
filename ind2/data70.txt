@@ -1,15 +1,11 @@
-Hello Sofia,
+Subject: Quick question - temporary team onboarding
+To: Aaron Singh (Engineering Manager)
+From: Reese Nakamura <reese.project@cedar.example.com>
 
-Hope you had a good week.
+Hi Aaron,
 
-We are preparing Theo Martin's onboarding welcome, and I could use your help with one detail.
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
-Could you draft a short internal announcement for Theo's onboarding welcome, including the key achievement highlights?
-
-The synthetic announcement should highlight Theo's contribution to the Orion program and the upcoming onboarding welcome.
-
-Whenever you can fit this in this week would be perfect.
-
-Best regards,
-Zara
-Talent Program Manager, Summit Retail Group
+Thanks,
+Reese
+Project Coordinator, Cedar Ridge Health

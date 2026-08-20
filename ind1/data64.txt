@@ -1,15 +1,11 @@
-Hey Miguel,
+Subject: Quick question - external project onboarding
+To: Raj Patel (IT Operations)
+From: Quinn Brennan <quinn.program@solstice.example.com>
 
-I hope this finds you well.
+Hi Raj,
 
-We are preparing Samuel Osei's onboarding welcome, and I could use your help with one detail.
+Quick process question: for an external collaborator, does the sponsor submit the standard guest-access form or does the service desk open it? I am documenting the handoff only and do not need an account created.
 
-Could you confirm whether expense code WEL-2026-063 can be used for the welcome gift and whether the normal approval process requires a purchase order?
-
-The synthetic purchasing note says code WEL-2026-063 is suitable for the welcome gift and follows the standard internal approval process.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Many thanks,
-Mia
-Marketing Operations Manager, Juniper Bank
+Thanks,
+Quinn
+Program Manager, Solstice Financial

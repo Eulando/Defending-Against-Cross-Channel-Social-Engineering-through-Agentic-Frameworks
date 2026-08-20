@@ -1,15 +1,11 @@
-Hello Owen,
+Subject: Quick question - temporary team onboarding
+To: Raj Patel (IT Operations)
+From: Jamie Silva <jamie.engagement@brightfield.example.com>
 
-Quick check-in from my side.
+Hi Raj,
 
-We are preparing Yuki Tanaka's work anniversary, and I could use your help with one detail.
-
-Could you suggest two or three approved vendors for the anniversary gift, including their typical delivery times?
-
-An approved synthetic vendor option is Pine & Oak Supply, with an estimated delivery window of 5-7 business days.
-
-If you can get to this before Friday, that would help us finalize the details.
+Could you confirm which standard form starts guest access for Avery's external team? This is for the onboarding guide only; no provisioning is requested.
 
 Thanks,
-Marcus
-Team Lead, Pearl Foods Inc.
+Jamie
+Engagement Manager, Brightfield Logistics

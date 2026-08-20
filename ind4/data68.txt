@@ -1,15 +1,11 @@
-Hey Raj,
+Subject: Quick question - guest collaborator setup
+To: Julia Frost (Office Manager)
+From: Reese Ivanova <reese.onboarding@vantage.example.com>
 
-I hope this finds you well.
+Hi Julia,
 
-We are preparing Carlos Mendez's retirement recognition, and I could use your help with one detail.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
-Could you set up the shared calendar for the retirement recognition planning group and confirm the calendar name?
-
-The shared synthetic planning calendar is named Carlos-retirement-recognition.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Thanks a lot,
-Emily
-Project Coordinator, Velocity Motors
+Thanks,
+Reese
+Onboarding Coordinator, Vantage Materials Group

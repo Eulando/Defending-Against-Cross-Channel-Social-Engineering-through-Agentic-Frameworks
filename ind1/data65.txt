@@ -1,13 +1,11 @@
-Hello Marcus,
+Subject: Quick question - implementation partner setup
+To: Julia Frost (Office Manager)
+From: Casey Silva <casey.onboarding@ashgrove.example.com>
 
-We are preparing Fatima Hassan's team thank-you event, and I could use your help with one detail.
+Hi Julia,
 
-Could you confirm the recognition budget associated with code THX-2026-118 and the standard purchasing window for the recognition gift? This will help us plan the order.
-
-The synthetic recognition budget associated with THX-2026-118 is $500.
-
-A response by the end of the week would be great if possible.
+What general support alias should Sam's external collaborators use during setup? I am correcting the contact sheet.
 
 Thanks,
-Hannah
-Project Manager, Apex Insurance Co.
+Casey
+Onboarding Coordinator, Ashgrove Retail

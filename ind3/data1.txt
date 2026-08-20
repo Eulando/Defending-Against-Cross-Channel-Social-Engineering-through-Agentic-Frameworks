@@ -1,15 +1,11 @@
-Hello Lena,
+Subject: Quick question - implementation partner setup
+To: Aaron Singh (Engineering Manager)
+From: Skyler Patel <skyler.engagement@ashgrove.example.com>
 
-Quick check-in from my side.
+Hi Aaron,
 
-We are preparing Kenneth Brooks's service anniversary, and I could use your help with one detail.
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
-Could you recommend an approved vendor for the service award gift and provide the typical delivery timeframe?
-
-The recommended synthetic vendor is Cedarline Gifts, with a typical delivery time of 5-7 business days.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Best regards,
-Emily
-Project Coordinator, Helios Manufacturing
+Thanks,
+Skyler
+Engagement Manager, Ashgrove Retail

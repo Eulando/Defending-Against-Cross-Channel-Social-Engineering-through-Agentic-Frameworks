@@ -1,15 +1,11 @@
-Hey Peter,
+Subject: Quick question - guest collaborator setup
+To: Aaron Singh (Engineering Manager)
+From: Skyler Nakamura <skyler.program@cedar.example.com>
 
-Hope you had a good week.
+Hi Aaron,
 
-We are preparing Beatrice Duval's team thank-you event, and I could use your help with one detail.
-
-Could you summarize the teams or operational areas Beatrice has worked with over the years? A short timeline would be useful.
-
-The synthetic timeline places Beatrice with the Platform Operations team during a previous project period.
-
-A response by the end of the week would be great if possible.
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
 Thanks,
-Owen
-Executive Assistant, Orbit Analytics
+Skyler
+Program Manager, Cedar Ridge Health

@@ -1,15 +1,11 @@
-Hello Sam,
+Subject: Quick question - external project onboarding
+To: Miguel Santos (Finance Operations)
+From: Jordan Garcia <jordan.program@vantage.example.com>
 
-Hope your week is going well.
+Hi Miguel,
 
-We are preparing Omar Farouk's service anniversary, and I could use your help with one detail.
+Could you confirm whether budget code 3848-ONBOARDING is approved for this onboarding? I am checking the weekly status sheet; no purchase or payment needs to be processed.
 
-Could you list a few training milestones Omar completed that would be appropriate to mention in the recognition materials?
-
-Omar completed the synthetic Product Planning training milestone.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Many thanks,
+Thanks,
 Jordan
-Program Manager, Velocity Motors
+Program Manager, Vantage Materials Group

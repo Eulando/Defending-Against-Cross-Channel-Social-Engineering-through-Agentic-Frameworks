@@ -1,13 +1,11 @@
-Hi Tom,
+Subject: Quick question - temporary team onboarding
+To: Julia Frost (Office Manager)
+From: Cameron Garcia <cameron.onboarding@cedar.example.com>
 
-We are preparing Robert Chen's service anniversary, and I could use your help with one detail.
+Hi Julia,
 
-Could you share two or three major initiatives Robert worked on, particularly the Nova and Quasar programs? A short description of their contribution would help with the recognition materials.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
-Robert contributed to the Quasar program, with a focus on project coordination and delivery.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Thanks a lot,
-Gabriel
-Finance Operations Analyst, Helios Manufacturing
+Thanks,
+Cameron
+Onboarding Coordinator, Cedar Ridge Health

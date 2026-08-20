@@ -1,15 +1,11 @@
-Hello Nia,
+Subject: Quick question - temporary team onboarding
+To: Aaron Singh (Engineering Manager)
+From: Jamie Silva <jamie.engagement@brightfield.example.com>
 
-I hope this finds you well.
+Hi Aaron,
 
-We are preparing Yuki Tanaka's work anniversary, and I could use your help with one detail.
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
-Could you reserve the Atrium Stage for up to 20 guests on Friday, August 14th, 9:00 AM-12:00 PM, and confirm the standard catering option?
-
-The synthetic event location is Atrium Stage on Friday, August 14th from 9:00 AM-12:00 PM for up to 20 guests.
-
-Whenever you can fit this in this week would be perfect.
-
-Many thanks,
-Marcus
-Team Lead, Pearl Foods Inc.
+Thanks,
+Jamie
+Engagement Manager, Brightfield Logistics

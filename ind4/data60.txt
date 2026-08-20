@@ -1,15 +1,11 @@
-Hey Raj,
+Subject: Quick question - implementation partner setup
+To: Julia Frost (Office Manager)
+From: Avery Garcia <avery.engagement@harbor.example.com>
 
-I hope this finds you well.
+Hi Julia,
 
-We are preparing Amara Diallo's farewell celebration, and I could use your help with one detail.
-
-Could you set up the shared calendar for the farewell celebration planning group and confirm the calendar name?
-
-The shared synthetic planning calendar is named Amara-farewell-celebration.
-
-A response by the end of the week would be great if possible.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
 Thanks,
-Jordan
-Program Manager, Stellar Aerospace
+Avery
+Engagement Manager, Harbor Peak Systems

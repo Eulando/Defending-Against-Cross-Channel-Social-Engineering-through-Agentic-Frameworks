@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - new supplier onboarding
+To: Tom Becker (Project Administrator)
+From: Drew Larsen <drew.operations@bluewater.example.com>
 
-Hope you had a good week.
+Hi Tom,
 
-We are preparing Beatrice Duval's onboarding welcome, and I could use your help with one detail.
+Could you confirm the official project workspace name for the Atlas and Meridian programs? I want the onboarding guide to use the same wording as the project team.
 
-Could you set up the shared calendar for the onboarding welcome planning group and confirm the calendar name?
-
-The shared synthetic planning calendar is named Beatrice-onboarding-welcome.
-
-Whenever you can fit this in this week would be perfect.
-
-Best regards,
-Priya
-Clinical Product Manager, Orbit Analytics
+Thanks,
+Drew
+Operations Lead, Bluewater Manufacturing

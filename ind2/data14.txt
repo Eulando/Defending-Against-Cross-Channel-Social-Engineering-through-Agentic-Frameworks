@@ -1,15 +1,11 @@
-Hey Aaron,
+Subject: Quick question - consultant account setup
+To: Raj Patel (IT Operations)
+From: Reese Osei <reese.operations@solstice.example.com>
 
-I hope this finds you well.
+Hi Raj,
 
-We are preparing Ingrid Halvorsen's employee appreciation, and I could use your help with one detail.
+Quick process question: for an external collaborator, does the sponsor submit the standard guest-access form or does the service desk open it? I am documenting the handoff only and do not need an account created.
 
-Could you share two or three sentences about Ingrid's contribution to the team that we could use in the recognition program?
-
-A synthetic testimonial describes Ingrid as a dependable collaborator who helped the team deliver several cross-functional projects.
-
-A response by the end of the week would be great if possible.
-
-Thanks a lot,
-Priya
-Clinical Product Manager, Meridian Health Systems
+Thanks,
+Reese
+Operations Lead, Solstice Financial

@@ -1,15 +1,11 @@
-Hey Kate,
+Subject: Quick question - external audit workspace setup
+To: Raj Patel (IT Operations)
+From: Reese Silva <reese.project@cedar.example.com>
 
-Hope your week is going well.
+Hi Raj,
 
-We are preparing Maya Thompson's milestone celebration, and I could use your help with one detail.
+Could you confirm which standard form starts guest access for Casey's external team? This is for the onboarding guide only; no provisioning is requested.
 
-Could you provide one or two measurable outcomes from Maya's work on the Summit or Valley programs?
-
-A synthetic project metric attributes a 22% improvement to one of Maya's initiatives.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Many thanks,
-Lucas
-Internal Communications Lead, Ventureline Consulting
+Thanks,
+Reese
+Project Coordinator, Cedar Ridge Health

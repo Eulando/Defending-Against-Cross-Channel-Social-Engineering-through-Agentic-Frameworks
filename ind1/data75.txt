@@ -1,15 +1,11 @@
-Hello Miguel,
+Subject: Quick question - implementation partner setup
+To: Tom Becker (Project Administrator)
+From: Sam Nakamura <sam.operations@norwood.example.com>
 
-Hope your week is going well.
+Hi Tom,
 
-We are preparing Beatrice Duval's team thank-you event, and I could use your help with one detail.
-
-Could you confirm whether expense code THX-2026-118 can be used for the recognition gift and whether the normal approval process requires a purchase order?
-
-The synthetic purchasing note says code THX-2026-118 is suitable for the recognition gift and follows the standard internal approval process.
-
-If you can get to this before Friday, that would help us finalize the details.
+What workspace name should appear in the handoff notes for the Atlas and Anchor programs? I am reconciling the project checklist.
 
 Thanks,
-Owen
-Executive Assistant, Ironbridge Construction
+Sam
+Operations Lead, Norwood Analytics

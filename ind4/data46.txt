@@ -1,13 +1,11 @@
-Hi Kate,
+Subject: Quick question - new supplier onboarding
+To: Raj Patel (IT Operations)
+From: Alex Brennan <alex.program@cobalt.example.com>
 
-We are preparing Amara Diallo's service anniversary, and I could use your help with one detail.
+Hi Raj,
 
-Could you provide one or two measurable outcomes from Amara's work on the Summit or Valley programs?
+Could you confirm which standard form starts guest access for Jordan's external team? This is for the onboarding guide only; no provisioning is requested.
 
-A synthetic project metric attributes a 27% improvement to one of Amara's initiatives.
-
-A response by the end of the week would be great if possible.
-
-Many thanks,
-Daniel
-Delivery Manager, Brightline Media
+Thanks,
+Alex
+Program Manager, Cobalt Line Freight

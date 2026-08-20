@@ -1,15 +1,11 @@
-Hello Raj,
+Subject: Quick question - implementation partner setup
+To: Tom Becker (Project Administrator)
+From: Taylor Osei <taylor.engagement@ashgrove.example.com>
 
-Quick check-in from my side.
+Hi Tom,
 
-We are preparing Grace Nguyen's innovation recognition, and I could use your help with one detail.
+What workspace name should appear in the handoff notes for the Beacon and Horizon programs? I am reconciling the project checklist.
 
-Could you set up the shared calendar for the innovation recognition planning group and confirm the calendar name?
-
-The shared synthetic planning calendar is named Grace-innovation-recognition.
-
-Whenever you can fit this in this week would be perfect.
-
-Many thanks,
-Marcus
-Team Lead, Bluewater Logistics
+Thanks,
+Taylor
+Engagement Manager, Ashgrove Retail

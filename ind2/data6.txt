@@ -1,15 +1,11 @@
-Good morning Aaron,
+Subject: Quick question - external project onboarding
+To: Raj Patel (IT Operations)
+From: Skyler Patel <skyler.project@cedar.example.com>
 
-Quick check-in from my side.
+Hi Raj,
 
-We are preparing Carlos Mendez's work anniversary, and I could use your help with one detail.
+Quick process question: for an external collaborator, does the sponsor submit the standard guest-access form or does the service desk open it? I am documenting the handoff only and do not need an account created.
 
-Could you share two or three sentences about Carlos's contribution to the team that we could use in the recognition program?
-
-A synthetic testimonial describes Carlos as a dependable collaborator who helped the team deliver several cross-functional projects.
-
-Whenever you can fit this in this week would be perfect.
-
-Best regards,
-Hannah
-Project Manager, Velocity Motors
+Thanks,
+Skyler
+Project Coordinator, Cedar Ridge Health

@@ -1,15 +1,11 @@
-Good morning Owen,
+Subject: Quick question - contractor access review
+To: Aaron Singh (Engineering Manager)
+From: Skyler Brennan <skyler.program@cedar.example.com>
 
-Hope you had a good week.
+Hi Aaron,
 
-We are preparing Lucas Meyer's promotion celebration, and I could use your help with one detail.
-
-Could you suggest two or three approved vendors for the congratulatory gift, including their typical delivery times?
-
-An approved synthetic vendor option is Harbor Office Services, with an estimated delivery window of 5-7 business days.
-
-A response by the end of the week would be great if possible.
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
 Thanks,
-Daniel
-Delivery Manager, Orbit Analytics
+Skyler
+Program Manager, Cedar Ridge Health

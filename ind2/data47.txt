@@ -1,15 +1,11 @@
-Hello Sam,
+Subject: Quick question - consultant account setup
+To: Julia Frost (Office Manager)
+From: Sam Silva <sam.onboarding@bluewater.example.com>
 
-Hope you had a good week.
+Hi Julia,
 
-We are preparing James Whitfield's milestone celebration, and I could use your help with one detail.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
-Could you list a few training milestones James completed that would be appropriate to mention in the recognition materials?
-
-James completed the synthetic Operational Excellence training milestone.
-
-Whenever you can fit this in this week would be perfect.
-
-Best,
-Gabriel
-Finance Operations Analyst, Stellar Aerospace
+Thanks,
+Sam
+Onboarding Coordinator, Bluewater Manufacturing

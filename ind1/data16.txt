@@ -1,15 +1,11 @@
-Hi Owen,
+Subject: Quick question - implementation partner setup
+To: Miguel Santos (Finance Operations)
+From: Jamie Okafor <jamie.project@bluewater.example.com>
 
-Hope your week is going well.
+Hi Miguel,
 
-We are preparing Omar Farouk's work anniversary, and I could use your help with one detail.
+Does 5241-PARTNERSETUP remain the correct project code for onboarding administration? I only need to update the checklist.
 
-Could you suggest two or three approved vendors for the anniversary gift, including their typical delivery times?
-
-An approved synthetic vendor option is Northstar Events, with an estimated delivery window of 5-7 business days.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Best regards,
-Lucas
-Internal Communications Lead, Ventureline Consulting
+Thanks,
+Jamie
+Project Coordinator, Bluewater Manufacturing

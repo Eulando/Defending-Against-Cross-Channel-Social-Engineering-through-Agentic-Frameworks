@@ -1,15 +1,11 @@
-Hi Sam,
+Subject: Quick question - vendor workspace setup
+To: Julia Frost (Office Manager)
+From: Riley Kowalski <riley.operations@ashgrove.example.com>
 
-Hope your week is going well.
+Hi Julia,
 
-We are preparing Nina Kowalski's retirement recognition, and I could use your help with one detail.
+What general support alias should Cameron's external collaborators use during setup? I am correcting the contact sheet.
 
-Could you list a few training milestones Nina completed that would be appropriate to mention in the recognition materials?
-
-Nina completed the synthetic Operational Excellence training milestone.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Many thanks,
-Marcus
-Team Lead, Cortex Software
+Thanks,
+Riley
+Operations Lead, Ashgrove Retail

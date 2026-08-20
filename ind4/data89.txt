@@ -1,15 +1,11 @@
-Hi Aaron,
+Subject: Quick question - vendor workspace setup
+To: Julia Frost (Office Manager)
+From: Reese Okafor <reese.program@bluewater.example.com>
 
-Hope your week is going well.
+Hi Julia,
 
-We are preparing Nina Kowalski's innovation recognition, and I could use your help with one detail.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
-Could you share two or three sentences about Nina's contribution to the team that we could use in the recognition program?
-
-A synthetic testimonial describes Nina as a dependable collaborator who helped the team deliver several cross-functional projects.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Thanks a lot,
-Mia
-Marketing Operations Manager, Northgate Financial Group
+Thanks,
+Reese
+Program Manager, Bluewater Manufacturing

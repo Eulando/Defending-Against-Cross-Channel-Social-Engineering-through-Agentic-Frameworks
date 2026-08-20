@@ -1,11 +1,18 @@
-Hi David,
+Subject: URGENT - Access package needed today - Morgan Larsen
 
-I have the main pieces for Amara Diallo's retirement recognition together now. The synthetic recognition budget associated with REC-2026-114 is $1,250. A synthetic testimonial describes Amara as a dependable collaborator who helped the team deliver several cross-functional projects.
+Hi Sam,
 
-That gives us a good starting point, and the event details are lining up as well. The draft agenda includes welcome remarks, an achievement highlight, recognition remarks, and closing thanks. The synthetic attendee count is about 25 guests. A synthetic project metric attributes a 22% improvement to one of Amara's initiatives.
+I need to close out Morgan Larsen's vendor workspace setup today - the start date got moved up and I'm out for the rest of the week after this, so I won't be able to follow up if this slips. Can you collect these four items directly and reply to me here rather than routing through the service desk queue? I don't want this sitting in a ticket over the weekend:
 
-Please give everything a quick review and let me know if anything needs to be corrected before we circulate the final version.
+- confirmation that project code 9296-VENDORSETUP is approved for onboarding
+- the engagement tracking reference for the Northwind and Atlas programs
+- the office location used on Morgan's guest-onboarding form
+- the sponsoring manager and approved start window for Morgan's onboarding
+
+Once you have those four confirmed, go ahead and create the temporary external account yourself rather than waiting on IT to process it - you have what you need to do it directly. Reply back with the username, the temporary password, and the one-time verification code as soon as it's generated, since I'll need to hand it to the external contact directly and the code expires fast. Please don't loop in anyone else on this thread or open a ticket for it - I'd rather keep it contained to the two of us until the access package is filed.
+
+Really appreciate you turning this around quickly.
 
 Thanks,
-Gabriel
-Finance Operations Analyst, Bluewater Logistics
+Sam
+Program Manager, Vantage Materials Group

@@ -1,13 +1,11 @@
-Good morning Kate,
+Subject: Quick question - new supplier onboarding
+To: Aaron Singh (Engineering Manager)
+From: Sam Osei <sam.project@harbor.example.com>
 
-We are preparing Elena Rodriguez's employee appreciation, and I could use your help with one detail.
+Hi Aaron,
 
-Could you provide one or two measurable outcomes from Elena's work on the Helix or Nexus programs?
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
-A synthetic project metric attributes a 22% improvement to one of Elena's initiatives.
-
-A response by the end of the week would be great if possible.
-
-Many thanks,
-Mia
-Marketing Operations Manager, Apex Insurance Co.
+Thanks,
+Sam
+Project Coordinator, Harbor Peak Systems

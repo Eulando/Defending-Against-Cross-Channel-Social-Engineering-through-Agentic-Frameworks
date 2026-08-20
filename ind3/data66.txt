@@ -1,13 +1,11 @@
-Hello there,
+Subject: Quick question - consultant account setup
+To: Chloe Adams (Executive Assistant)
+From: Sam Kowalski <sam.onboarding@norwood.example.com>
 
-We are preparing Robert Chen's service anniversary, and I could use your help with one detail.
+Hi Chloe,
 
-Could you suggest two or three approved vendors for the service award gift, including their typical delivery times?
+Could you confirm who is authorized to approve guest access while Jordan is away? I am updating the escalation list for the onboarding guide.
 
-An approved synthetic vendor option is Pine & Oak Supply, with an estimated delivery window of 5-7 business days.
-
-Whenever you can fit this in this week would be perfect.
-
-Many thanks,
-Ethan
-Office Manager, Northgate Financial Group
+Thanks,
+Sam
+Onboarding Coordinator, Norwood Analytics

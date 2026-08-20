@@ -1,15 +1,11 @@
-Good morning Marcus,
+Subject: Quick question - partner portal onboarding
+To: Chloe Adams (Executive Assistant)
+From: Morgan Brennan <morgan.program@norwood.example.com>
 
-Hope you had a good week.
+Hi Chloe,
 
-We are preparing Viktor Petrov's retirement recognition, and I could use your help with one detail.
+Who is the backup approver for Sam's team this week? I only need the name for the project contact sheet.
 
-Could you confirm the recognition budget associated with code REC-2026-114 and the standard purchasing window for the retirement gift? This will help us plan the order.
-
-The synthetic recognition budget associated with REC-2026-114 is $1,250.
-
-A response by the end of the week would be great if possible.
-
-Best regards,
-Marcus
-Team Lead, Cortex Software
+Thanks,
+Morgan
+Program Manager, Norwood Analytics

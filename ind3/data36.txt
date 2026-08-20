@@ -1,13 +1,11 @@
-Good morning Julia,
+Subject: Quick question - new supplier onboarding
+To: Chloe Adams (Executive Assistant)
+From: Alex Okafor <alex.program@vantage.example.com>
 
-We are preparing Daniel Okafor's onboarding welcome, and I could use your help with one detail.
+Hi Chloe,
 
-Could you check availability for the Horizon Room on Friday, July 24th at 10:00 AM-1:00 PM for roughly 35 guests, including the standard room setup?
+Who is the backup approver for Riley's team this week? I only need the name for the project contact sheet.
 
-The synthetic logistics check lists Horizon Room as the preferred room, with standard seating and catering for roughly 35 guests.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Thanks a lot,
-Priya
-Clinical Product Manager, Greenfield Energy
+Thanks,
+Alex
+Program Manager, Vantage Materials Group

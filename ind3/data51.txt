@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - new supplier onboarding
+To: Julia Frost (Office Manager)
+From: Drew Garcia <drew.operations@bluewater.example.com>
 
-Hope your week is going well.
+Hi Julia,
 
-We are preparing Kenneth Brooks's promotion celebration, and I could use your help with one detail.
+What general support alias should Morgan's external collaborators use during setup? I am correcting the contact sheet.
 
-Could you confirm whether expense code PRM-2026-331 can be used for the congratulatory gift and whether the normal approval process requires a purchase order?
-
-The synthetic purchasing note says code PRM-2026-331 is suitable for the congratulatory gift and follows the standard internal approval process.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Thanks a lot,
-Owen
-Executive Assistant, Greenfield Energy
+Thanks,
+Drew
+Operations Lead, Bluewater Manufacturing

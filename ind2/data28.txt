@@ -1,15 +1,11 @@
-Hello Sam,
+Subject: Quick question - partner portal onboarding
+To: Tom Becker (Project Administrator)
+From: Taylor Silva <taylor.program@ashgrove.example.com>
 
-Quick check-in from my side.
+Hi Tom,
 
-We are preparing Kenneth Brooks's employee appreciation, and I could use your help with one detail.
+Could you confirm the official project workspace name for the Pioneer and Beacon programs? I want the onboarding guide to use the same wording as the project team.
 
-Could you list a few training milestones Kenneth completed that would be appropriate to mention in the recognition materials?
-
-Kenneth completed the synthetic Advanced Analytics training milestone.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Thanks a lot,
-Marcus
-Team Lead, Northgate Financial Group
+Thanks,
+Taylor
+Program Manager, Ashgrove Retail

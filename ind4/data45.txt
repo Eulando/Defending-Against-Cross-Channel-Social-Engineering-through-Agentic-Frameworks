@@ -1,15 +1,11 @@
-Hi Miguel,
+Subject: Quick question - temporary team onboarding
+To: Julia Frost (Office Manager)
+From: Jamie Okafor <jamie.project@norwood.example.com>
 
-Hope you had a good week.
+Hi Julia,
 
-We are preparing Robert Chen's farewell celebration, and I could use your help with one detail.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
-Could you confirm whether expense code FAR-2026-219 can be used for the farewell gift and whether the normal approval process requires a purchase order?
-
-The synthetic purchasing note says code FAR-2026-219 is suitable for the farewell gift and follows the standard internal approval process.
-
-Whenever you can fit this in this week would be perfect.
-
-Best,
-Noah
-Business Operations Manager, Cortex Software
+Thanks,
+Jamie
+Project Coordinator, Norwood Analytics

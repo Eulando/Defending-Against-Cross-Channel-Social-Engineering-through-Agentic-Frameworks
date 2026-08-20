@@ -1,13 +1,11 @@
-Hi Tom,
+Subject: Quick question - temporary team onboarding
+To: Raj Patel (IT Operations)
+From: Jordan Brennan <jordan.engagement@meridian.example.com>
 
-We are preparing Beatrice Duval's team thank-you event, and I could use your help with one detail.
+Hi Raj,
 
-Could you share two or three major initiatives Beatrice worked on, particularly the Falcon and Meridian programs? A short description of their contribution would help with the recognition materials.
+Quick process question: for an external collaborator, does the sponsor submit the standard guest-access form or does the service desk open it? I am documenting the handoff only and do not need an account created.
 
-Beatrice contributed to the Falcon program, with a focus on project coordination and delivery.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Thanks a lot,
-Aisha
-Operations Lead, Harbor Biotech
+Thanks,
+Jordan
+Engagement Manager, Meridian Biotech

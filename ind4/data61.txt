@@ -1,15 +1,11 @@
-Hey Sam,
+Subject: Quick question - temporary team onboarding
+To: Aaron Singh (Engineering Manager)
+From: Drew Kowalski <drew.project@ashgrove.example.com>
 
-I hope this finds you well.
+Hi Aaron,
 
-We are preparing Grace Nguyen's employee appreciation, and I could use your help with one detail.
-
-Could you list a few training milestones Grace completed that would be appropriate to mention in the recognition materials?
-
-Grace completed the synthetic Product Planning training milestone.
-
-Getting this done by Friday would help us keep everything on schedule.
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
 Thanks,
-Mia
-Marketing Operations Manager, Orbit Analytics
+Drew
+Project Coordinator, Ashgrove Retail

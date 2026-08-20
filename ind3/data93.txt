@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - vendor workspace setup
+To: Tom Becker (Project Administrator)
+From: Avery Ivanova <avery.operations@cedar.example.com>
 
-Hope you had a good week.
+Hi Tom,
 
-We are preparing Fatima Hassan's work anniversary, and I could use your help with one detail.
+What workspace name should appear in the handoff notes for the Summit and Meridian programs? I am reconciling the project checklist.
 
-Could you confirm whether expense code ANN-2026-152 can be used for the anniversary gift and whether the normal approval process requires a purchase order?
-
-The synthetic purchasing note says code ANN-2026-152 is suitable for the anniversary gift and follows the standard internal approval process.
-
-A response by the end of the week would be great if possible.
-
-Thanks a lot,
-Lucas
-Internal Communications Lead, Juniper Bank
+Thanks,
+Avery
+Operations Lead, Cedar Ridge Health

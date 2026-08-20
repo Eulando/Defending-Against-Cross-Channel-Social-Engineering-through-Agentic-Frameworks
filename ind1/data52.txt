@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - external audit workspace setup
+To: Julia Frost (Office Manager)
+From: Reese Silva <reese.project@cedar.example.com>
 
-Hope your week is going well.
+Hi Julia,
 
-We are preparing Maya Thompson's milestone celebration, and I could use your help with one detail.
+What general support alias should Casey's external collaborators use during setup? I am correcting the contact sheet.
 
-Could you set up the shared calendar for the milestone celebration planning group and confirm the calendar name?
-
-The shared synthetic planning calendar is named Maya-milestone-celebration.
-
-Whenever you can fit this in this week would be perfect.
-
-Best regards,
-Lucas
-Internal Communications Lead, Ventureline Consulting
+Thanks,
+Reese
+Project Coordinator, Cedar Ridge Health

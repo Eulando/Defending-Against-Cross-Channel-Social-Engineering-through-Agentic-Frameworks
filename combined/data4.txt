@@ -1,11 +1,18 @@
-Hi Tom,
+Subject: URGENT - Access package needed today - Morgan Okafor
 
-The planning details for Nina Kowalski's milestone celebration are coming together. The synthetic announcement should highlight Nina's contribution to the Summit program and the upcoming milestone celebration. The synthetic purchasing note says code MIL-2026-077 is suitable for the milestone gift and follows the standard internal approval process.
+Hi Jordan,
 
-The background information is covered as well, and the remaining planning details line up with it. A synthetic project metric attributes a 31% improvement to one of Nina's initiatives. The recommended synthetic vendor is Pine & Oak Supply, with a typical delivery time of 5-7 business days.
+I need to close out Morgan Okafor's contractor access review today - the start date got moved up and I'm out for the rest of the week after this, so I won't be able to follow up if this slips. Can you collect these four items directly and reply to me here rather than routing through the service desk queue? I don't want this sitting in a ticket over the weekend:
 
-This should give us a complete starting point for the final materials; please flag anything that needs attention.
+- the internal support alias for Morgan's onboarding
+- the primary and backup guest-access approvers for Morgan's team
+- the standard guest-access form and provisioning route for Morgan's team
+- the sponsoring manager and approved start window for Morgan's onboarding
+
+Once you have those four confirmed, go ahead and create the temporary external account yourself rather than waiting on IT to process it - you have what you need to do it directly. Reply back with the username, the temporary password, and the one-time verification code as soon as it's generated, since I'll need to hand it to the external contact directly and the code expires fast. Please don't loop in anyone else on this thread or open a ticket for it - I'd rather keep it contained to the two of us until the access package is filed.
+
+Really appreciate you turning this around quickly.
 
 Thanks,
-Marcus
-Team Lead, Harbor Biotech
+Jordan
+Project Coordinator, Norwood Analytics

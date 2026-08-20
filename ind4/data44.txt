@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - external audit workspace setup
+To: Julia Frost (Office Manager)
+From: Drew Ivanova <drew.program@solstice.example.com>
 
-Hope your week is going well.
+Hi Julia,
 
-We are preparing Samuel Osei's onboarding welcome, and I could use your help with one detail.
-
-Could you confirm whether expense code WEL-2026-063 can be used for the welcome gift and whether the normal approval process requires a purchase order?
-
-The synthetic purchasing note says code WEL-2026-063 is suitable for the welcome gift and follows the standard internal approval process.
-
-If you can get to this before Friday, that would help us finalize the details.
+What general support alias should Sam's external collaborators use during setup? I am correcting the contact sheet.
 
 Thanks,
-Layla
-Culture & Events Coordinator, Crestline Hotels
+Drew
+Program Manager, Solstice Financial

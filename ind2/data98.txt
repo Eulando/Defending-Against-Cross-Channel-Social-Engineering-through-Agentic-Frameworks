@@ -1,13 +1,11 @@
-Hello Lisa,
+Subject: Quick question - external project onboarding
+To: Tom Becker (Project Administrator)
+From: Skyler Nguyen <skyler.engagement@solstice.example.com>
 
-We are preparing Daniel Okafor's onboarding welcome, and I could use your help with one detail.
+Hi Tom,
 
-Could you confirm Daniel's hire year and years of service for the recognition announcement? We want the timeline in the program to be accurate.
+Could you confirm the official project workspace name for the Summit and Horizon programs? I want the onboarding guide to use the same wording as the project team.
 
-Daniel's synthetic HR timeline lists a hire year of 2016, representing 10 years of service.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Best,
-Daniel
-Delivery Manager, Ironbridge Construction
+Thanks,
+Skyler
+Engagement Manager, Solstice Financial

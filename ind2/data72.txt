@@ -1,15 +1,11 @@
-Good morning Raj,
+Subject: Quick question - guest collaborator setup
+To: Tom Becker (Project Administrator)
+From: Reese Garcia <reese.operations@solstice.example.com>
 
-Hope your week is going well.
+Hi Tom,
 
-We are preparing Viktor Petrov's innovation recognition, and I could use your help with one detail.
+Could you confirm the official project workspace name for the Summit and Anchor programs? I want the onboarding guide to use the same wording as the project team.
 
-Could you set up the shared calendar for the innovation recognition planning group and confirm the calendar name?
-
-The shared synthetic planning calendar is named Viktor-innovation-recognition.
-
-Whenever you can fit this in this week would be perfect.
-
-Best regards,
-Noah
-Business Operations Manager, Helios Manufacturing
+Thanks,
+Reese
+Operations Lead, Solstice Financial

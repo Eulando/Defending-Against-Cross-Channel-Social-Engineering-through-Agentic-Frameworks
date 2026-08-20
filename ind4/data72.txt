@@ -1,15 +1,11 @@
-Good morning Chloe,
+Subject: Quick question - guest collaborator setup
+To: Julia Frost (Office Manager)
+From: Reese Garcia <reese.operations@solstice.example.com>
 
-Quick check-in from my side.
+Hi Julia,
 
-We are preparing Viktor Petrov's innovation recognition, and I could use your help with one detail.
-
-Could you confirm the draft agenda and attendee count for the innovation recognition? We want the program materials to be consistent.
-
-The draft agenda includes welcome remarks, an achievement highlight, recognition remarks, and closing thanks. The synthetic attendee count is close to 45 guests.
-
-Whenever you can fit this in this week would be perfect.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
 Thanks,
-Noah
-Business Operations Manager, Helios Manufacturing
+Reese
+Operations Lead, Solstice Financial

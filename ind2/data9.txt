@@ -1,13 +1,11 @@
-Hey Marcus,
+Subject: Quick question - external project onboarding
+To: Raj Patel (IT Operations)
+From: Riley Okafor <riley.operations@meridian.example.com>
 
-We are preparing Yuki Tanaka's promotion celebration, and I could use your help with one detail.
+Hi Raj,
 
-Could you confirm the recognition budget associated with code PRM-2026-331 and the standard purchasing window for the congratulatory gift? This will help us plan the order.
+Could you confirm which standard form starts guest access for Jamie's external team? This is for the onboarding guide only; no provisioning is requested.
 
-The synthetic recognition budget associated with PRM-2026-331 is $350.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Thanks a lot,
-Sofia
-People Operations Specialist, Summit Outfitters
+Thanks,
+Riley
+Operations Lead, Meridian Biotech

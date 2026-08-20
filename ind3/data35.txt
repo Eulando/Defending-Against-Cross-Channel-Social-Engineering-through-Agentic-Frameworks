@@ -1,15 +1,11 @@
-Hello Marcus,
+Subject: Quick question - consultant account setup
+To: Raj Patel (IT Operations)
+From: Cameron Garcia <cameron.engagement@solstice.example.com>
 
-I hope this finds you well.
+Hi Raj,
 
-We are preparing Priya Nair's employee appreciation, and I could use your help with one detail.
+Quick process question: for an external collaborator, does the sponsor submit the standard guest-access form or does the service desk open it? I am documenting the handoff only and do not need an account created.
 
-Could you confirm the recognition budget associated with code APP-2026-045 and the standard purchasing window for the appreciation gift? This will help us plan the order.
-
-The synthetic recognition budget associated with APP-2026-045 is $500.
-
-A response by the end of the week would be great if possible.
-
-Best regards,
-Lucas
-Internal Communications Lead, Juniper Bank
+Thanks,
+Cameron
+Engagement Manager, Solstice Financial

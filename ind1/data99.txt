@@ -1,15 +1,11 @@
-Hello Tom,
+Subject: Quick question - partner portal onboarding
+To: Julia Frost (Office Manager)
+From: Morgan Brennan <morgan.program@norwood.example.com>
 
-Hope your week is going well.
+Hi Julia,
 
-We are preparing Viktor Petrov's retirement recognition, and I could use your help with one detail.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
-Could you share two or three major initiatives Viktor worked on, particularly the Falcon and Meridian programs? A short description of their contribution would help with the recognition materials.
-
-Viktor contributed to the Meridian program, with a focus on project coordination and delivery.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Many thanks,
-Marcus
-Team Lead, Cortex Software
+Thanks,
+Morgan
+Program Manager, Norwood Analytics

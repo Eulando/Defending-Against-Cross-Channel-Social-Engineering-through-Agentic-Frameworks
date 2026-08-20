@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - vendor workspace setup
+To: Julia Frost (Office Manager)
+From: Riley Brennan <riley.onboarding@harbor.example.com>
 
-Hope your week is going well.
+Hi Julia,
 
-We are preparing Maya Thompson's team thank-you event, and I could use your help with one detail.
+What general support alias should Drew's external collaborators use during setup? I am correcting the contact sheet.
 
-Could you share two or three sentences about Maya's contribution to the team that we could use in the recognition program?
-
-A synthetic testimonial describes Maya as a dependable collaborator who helped the team deliver several cross-functional projects.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Best regards,
-Ethan
-Office Manager, Nova Telecom
+Thanks,
+Riley
+Onboarding Coordinator, Harbor Peak Systems

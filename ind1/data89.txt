@@ -1,13 +1,11 @@
-Hi Sofia,
+Subject: Quick question - vendor workspace setup
+To: Miguel Santos (Finance Operations)
+From: Reese Okafor <reese.program@bluewater.example.com>
 
-We are preparing Nina Kowalski's innovation recognition, and I could use your help with one detail.
+Hi Miguel,
 
-Could you draft a short internal announcement for Nina's innovation recognition, including the key achievement highlights?
+Could you confirm whether budget code 6479-VENDORSETUP is approved for this onboarding? I am checking the weekly status sheet; no purchase or payment needs to be processed.
 
-The synthetic announcement should highlight Nina's contribution to the Falcon program and the upcoming innovation recognition.
-
-Whenever you can fit this in this week would be perfect.
-
-Thanks a lot,
-Mia
-Marketing Operations Manager, Northgate Financial Group
+Thanks,
+Reese
+Program Manager, Bluewater Manufacturing

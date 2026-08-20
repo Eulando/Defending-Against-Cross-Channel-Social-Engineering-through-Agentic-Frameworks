@@ -1,15 +1,11 @@
-Hey Julia,
+Subject: Quick question - new supplier onboarding
+To: Julia Frost (Office Manager)
+From: Avery Brennan <avery.operations@ashgrove.example.com>
 
-Hope your week is going well.
+Hi Julia,
 
-We are preparing Lucas Meyer's onboarding welcome, and I could use your help with one detail.
-
-Could you check availability for the Horizon Room on Friday, November 6th at 4:00-7:00 PM for about 25 guests, including the standard room setup?
-
-The synthetic logistics check lists Horizon Room as the preferred room, with standard seating and catering for about 25 guests.
-
-If you can get to this before Friday, that would help us finalize the details.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
 Thanks,
-Zara
-Talent Program Manager, Harbor Biotech
+Avery
+Operations Lead, Ashgrove Retail

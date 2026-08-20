@@ -1,13 +1,11 @@
-Hello there,
+Subject: Quick question - guest collaborator setup
+To: Tom Becker (Project Administrator)
+From: Drew Garcia <drew.project@cobalt.example.com>
 
-We are preparing Grace Nguyen's innovation recognition, and I could use your help with one detail.
+Hi Tom,
 
-Could you confirm the draft agenda and attendee count for the innovation recognition? We want the program materials to be consistent.
-
-The draft agenda includes welcome remarks, an achievement highlight, recognition remarks, and closing thanks. The synthetic attendee count is close to 45 guests.
-
-Getting this done by Friday would help us keep everything on schedule.
+What workspace name should appear in the handoff notes for the Summit and Vanguard programs? I am reconciling the project checklist.
 
 Thanks,
-Ethan
-Office Manager, Stellar Aerospace
+Drew
+Project Coordinator, Cobalt Line Freight

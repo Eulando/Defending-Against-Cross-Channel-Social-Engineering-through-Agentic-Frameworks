@@ -1,15 +1,11 @@
-Good morning Kate,
+Subject: Quick question - new supplier onboarding
+To: Miguel Santos (Finance Operations)
+From: Sam Patel <sam.project@brightfield.example.com>
 
-I hope this finds you well.
+Hi Miguel,
 
-We are preparing Priya Nair's retirement recognition, and I could use your help with one detail.
+Does 5520-SUPPLIERONBOARDING remain the correct project code for onboarding administration? I only need to update the checklist.
 
-Could you provide one or two measurable outcomes from Priya's work on the Horizon or Zenith programs?
-
-A synthetic project metric attributes a 27% improvement to one of Priya's initiatives.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Many thanks,
-Ethan
-Office Manager, Helios Manufacturing
+Thanks,
+Sam
+Project Coordinator, Brightfield Logistics

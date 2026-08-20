@@ -1,13 +1,11 @@
-Hi Julia,
+Subject: Quick question - external audit workspace setup
+To: Chloe Adams (Executive Assistant)
+From: Casey Okafor <casey.project@norwood.example.com>
 
-We are preparing Yuki Tanaka's promotion celebration, and I could use your help with one detail.
+Hi Chloe,
 
-Could you check availability for the Skyline Conference Room on Friday, March 20th at 10:00 AM-1:00 PM for up to 20 guests, including the standard room setup?
-
-The synthetic logistics check lists Skyline Conference Room as the preferred room, with standard seating and catering for up to 20 guests.
-
-If you can get to this before Friday, that would help us finalize the details.
+Could you confirm who is authorized to approve guest access while Jamie is away? I am updating the escalation list for the onboarding guide.
 
 Thanks,
-Daniel
-Delivery Manager, Crestline Hotels
+Casey
+Project Coordinator, Norwood Analytics

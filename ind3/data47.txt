@@ -1,15 +1,11 @@
-Hey Aaron,
+Subject: Quick question - consultant account setup
+To: Miguel Santos (Finance Operations)
+From: Sam Silva <sam.onboarding@bluewater.example.com>
 
-I hope this finds you well.
+Hi Miguel,
 
-We are preparing James Whitfield's milestone celebration, and I could use your help with one detail.
-
-Could you share two or three sentences about James's contribution to the team that we could use in the recognition program?
-
-A synthetic testimonial describes James as a dependable collaborator who helped the team deliver several cross-functional projects.
-
-If you can get to this before Friday, that would help us finalize the details.
+Does 7429-ACCOUNTSETUP remain the correct project code for onboarding administration? I only need to update the checklist.
 
 Thanks,
-Gabriel
-Finance Operations Analyst, Stellar Aerospace
+Sam
+Onboarding Coordinator, Bluewater Manufacturing

@@ -1,15 +1,11 @@
-Hey Miguel,
+Subject: Quick question - temporary team onboarding
+To: Tom Becker (Project Administrator)
+From: Drew Ivanova <drew.onboarding@bluewater.example.com>
 
-I hope this finds you well.
+Hi Tom,
 
-We are preparing Theo Martin's work anniversary, and I could use your help with one detail.
+Could you confirm the official project workspace name for the Horizon and Summit programs? I want the onboarding guide to use the same wording as the project team.
 
-Could you confirm whether expense code ANN-2026-152 can be used for the anniversary gift and whether the normal approval process requires a purchase order?
-
-The synthetic purchasing note says code ANN-2026-152 is suitable for the anniversary gift and follows the standard internal approval process.
-
-Whenever you can fit this in this week would be perfect.
-
-Best,
-Gabriel
-Finance Operations Analyst, Greenfield Energy
+Thanks,
+Drew
+Onboarding Coordinator, Bluewater Manufacturing

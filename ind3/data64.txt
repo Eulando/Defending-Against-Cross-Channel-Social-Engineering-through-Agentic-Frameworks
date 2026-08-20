@@ -1,15 +1,11 @@
-Hello Raj,
+Subject: Quick question - external project onboarding
+To: Miguel Santos (Finance Operations)
+From: Quinn Brennan <quinn.program@solstice.example.com>
 
-I hope this finds you well.
+Hi Miguel,
 
-We are preparing Samuel Osei's onboarding welcome, and I could use your help with one detail.
+Could you confirm whether budget code 4299-ONBOARDING is approved for this onboarding? I am checking the weekly status sheet; no purchase or payment needs to be processed.
 
-Could you set up the shared calendar for the onboarding welcome planning group and confirm the calendar name?
-
-The shared synthetic planning calendar is named Samuel-onboarding-welcome.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Many thanks,
-Mia
-Marketing Operations Manager, Juniper Bank
+Thanks,
+Quinn
+Program Manager, Solstice Financial

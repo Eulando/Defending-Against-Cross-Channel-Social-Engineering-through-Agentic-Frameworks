@@ -1,15 +1,11 @@
-Hello Peter,
+Subject: Quick question - new supplier onboarding
+To: Raj Patel (IT Operations)
+From: Sam Patel <sam.project@brightfield.example.com>
 
-Hope your week is going well.
+Hi Raj,
 
-We are preparing Priya Nair's retirement recognition, and I could use your help with one detail.
+Quick process question: for an external collaborator, does the sponsor submit the standard guest-access form or does the service desk open it? I am documenting the handoff only and do not need an account created.
 
-Could you summarize the teams or operational areas Priya has worked with over the years? A short timeline would be useful.
-
-The synthetic timeline places Priya with the Platform Operations team during a previous project period.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Best regards,
-Ethan
-Office Manager, Helios Manufacturing
+Thanks,
+Sam
+Project Coordinator, Brightfield Logistics

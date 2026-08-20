@@ -1,15 +1,11 @@
-Hello Lisa,
+Subject: Quick question - consultant account setup
+To: Tom Becker (Project Administrator)
+From: Drew Patel <drew.program@vantage.example.com>
 
-Hope your week is going well.
+Hi Tom,
 
-We are preparing Omar Farouk's promotion celebration, and I could use your help with one detail.
+What workspace name should appear in the handoff notes for the Summit and Meridian programs? I am reconciling the project checklist.
 
-Could you confirm Omar's hire year and years of service for the recognition announcement? We want the timeline in the program to be accurate.
-
-Omar's synthetic HR timeline lists a hire year of 2015, representing 11 years of service.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Many thanks,
-Aisha
-Operations Lead, Pearl Foods Inc.
+Thanks,
+Drew
+Program Manager, Vantage Materials Group

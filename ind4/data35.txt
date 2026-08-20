@@ -1,15 +1,11 @@
-Good morning Sofia,
+Subject: Quick question - consultant account setup
+To: Aaron Singh (Engineering Manager)
+From: Cameron Garcia <cameron.engagement@solstice.example.com>
 
-Hope you had a good week.
+Hi Aaron,
 
-We are preparing Priya Nair's employee appreciation, and I could use your help with one detail.
-
-Could you draft a short internal announcement for Priya's employee appreciation, including the key achievement highlights?
-
-The synthetic announcement should highlight Priya's contribution to the Summit program and the upcoming employee appreciation.
-
-Whenever you can fit this in this week would be perfect.
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
 Thanks,
-Lucas
-Internal Communications Lead, Juniper Bank
+Cameron
+Engagement Manager, Solstice Financial

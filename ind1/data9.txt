@@ -1,15 +1,11 @@
-Hello Sofia,
+Subject: Quick question - external project onboarding
+To: Tom Becker (Project Administrator)
+From: Riley Okafor <riley.operations@meridian.example.com>
 
-Hope you had a good week.
+Hi Tom,
 
-We are preparing Yuki Tanaka's promotion celebration, and I could use your help with one detail.
-
-Could you draft a short internal announcement for Yuki's promotion celebration, including the key achievement highlights?
-
-The synthetic announcement should highlight Yuki's contribution to the Horizon program and the upcoming promotion celebration.
-
-A response by the end of the week would be great if possible.
+Could you confirm the official project workspace name for the Beacon and Pioneer programs? I want the onboarding guide to use the same wording as the project team.
 
 Thanks,
-Sofia
-People Operations Specialist, Summit Outfitters
+Riley
+Operations Lead, Meridian Biotech

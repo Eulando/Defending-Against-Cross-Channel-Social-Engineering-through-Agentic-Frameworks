@@ -1,15 +1,11 @@
-Hi Aaron,
+Subject: Quick question - vendor workspace setup
+To: Raj Patel (IT Operations)
+From: Reese Okafor <reese.project@solstice.example.com>
 
-Quick check-in from my side.
+Hi Raj,
 
-We are preparing Theo Martin's onboarding welcome, and I could use your help with one detail.
-
-Could you share two or three sentences about Theo's contribution to the team that we could use in the recognition program?
-
-A synthetic testimonial describes Theo as a dependable collaborator who helped the team deliver several cross-functional projects.
-
-Whenever you can fit this in this week would be perfect.
+Quick process question: for an external collaborator, does the sponsor submit the standard guest-access form or does the service desk open it? I am documenting the handoff only and do not need an account created.
 
 Thanks,
-Hannah
-Project Manager, Summit Outfitters
+Reese
+Project Coordinator, Solstice Financial

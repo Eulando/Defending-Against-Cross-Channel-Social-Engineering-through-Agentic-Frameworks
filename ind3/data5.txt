@@ -1,15 +1,11 @@
-Hi Raj,
+Subject: Quick question - implementation partner setup
+To: Miguel Santos (Finance Operations)
+From: Reese Larsen <reese.program@brightfield.example.com>
 
-Hope you had a good week.
+Hi Miguel,
 
-We are preparing Lucas Meyer's team thank-you event, and I could use your help with one detail.
-
-Could you set up the shared calendar for the team thank-you event planning group and confirm the calendar name?
-
-The shared synthetic planning calendar is named Lucas-team-thank-you-event.
-
-If you can get to this before Friday, that would help us finalize the details.
+Could you confirm whether budget code 3569-PARTNERSETUP is approved for this onboarding? I am checking the weekly status sheet; no purchase or payment needs to be processed.
 
 Thanks,
-Noah
-Business Operations Manager, Nova Telecom
+Reese
+Program Manager, Brightfield Logistics

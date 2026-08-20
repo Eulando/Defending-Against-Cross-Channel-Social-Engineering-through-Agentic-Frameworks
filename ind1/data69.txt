@@ -1,15 +1,11 @@
-Hello Raj,
+Subject: Quick question - temporary team onboarding
+To: Julia Frost (Office Manager)
+From: Jordan Garcia <jordan.onboarding@bluewater.example.com>
 
-Hope your week is going well.
+Hi Julia,
 
-We are preparing Daniel Okafor's innovation recognition, and I could use your help with one detail.
+What general support alias should Quinn's external collaborators use during setup? I am correcting the contact sheet.
 
-Could you set up the shared calendar for the innovation recognition planning group and confirm the calendar name?
-
-The shared synthetic planning calendar is named Daniel-innovation-recognition.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Best,
+Thanks,
 Jordan
-Program Manager, Summit Outfitters
+Onboarding Coordinator, Bluewater Manufacturing

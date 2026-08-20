@@ -1,15 +1,11 @@
-Hey Miguel,
+Subject: Quick question - consultant account setup
+To: Raj Patel (IT Operations)
+From: Avery Nguyen <avery.project@bluewater.example.com>
 
-Hope you had a good week.
+Hi Raj,
 
-We are preparing Viktor Petrov's milestone celebration, and I could use your help with one detail.
+Quick process question: for an external collaborator, does the sponsor submit the standard guest-access form or does the service desk open it? I am documenting the handoff only and do not need an account created.
 
-Could you confirm whether expense code MIL-2026-077 can be used for the milestone gift and whether the normal approval process requires a purchase order?
-
-The synthetic purchasing note says code MIL-2026-077 is suitable for the milestone gift and follows the standard internal approval process.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Thanks a lot,
-Aisha
-Operations Lead, Velocity Motors
+Thanks,
+Avery
+Project Coordinator, Bluewater Manufacturing

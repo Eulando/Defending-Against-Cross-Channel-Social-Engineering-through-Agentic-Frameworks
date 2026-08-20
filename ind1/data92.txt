@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - vendor workspace setup
+To: Raj Patel (IT Operations)
+From: Avery Silva <avery.onboarding@meridian.example.com>
 
-Hope you had a good week.
+Hi Raj,
 
-We are preparing Robert Chen's team thank-you event, and I could use your help with one detail.
+Could you confirm which standard form starts guest access for Sam's external team? This is for the onboarding guide only; no provisioning is requested.
 
-Could you set up the shared calendar for the team thank-you event planning group and confirm the calendar name?
-
-The shared synthetic planning calendar is named Robert-team-thank-you-event.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Best,
-Aisha
-Operations Lead, Summit Outfitters
+Thanks,
+Avery
+Onboarding Coordinator, Meridian Biotech

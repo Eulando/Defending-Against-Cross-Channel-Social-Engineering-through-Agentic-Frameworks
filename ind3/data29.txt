@@ -1,13 +1,11 @@
-Good morning Owen,
+Subject: Quick question - vendor workspace setup
+To: Aaron Singh (Engineering Manager)
+From: Riley Brennan <riley.onboarding@harbor.example.com>
 
-We are preparing Maya Thompson's team thank-you event, and I could use your help with one detail.
+Hi Aaron,
 
-Could you suggest two or three approved vendors for the recognition gift, including their typical delivery times?
+What project reference should I put on the handoff checklist for Drew's work on the Pioneer and Compass programs? I only need the tracking identifier.
 
-An approved synthetic vendor option is Pine & Oak Supply, with an estimated delivery window of 5-7 business days.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Best regards,
-Ethan
-Office Manager, Nova Telecom
+Thanks,
+Riley
+Onboarding Coordinator, Harbor Peak Systems

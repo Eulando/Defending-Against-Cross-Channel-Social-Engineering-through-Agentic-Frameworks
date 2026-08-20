@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - external audit workspace setup
+To: Tom Becker (Project Administrator)
+From: Reese Silva <reese.project@cedar.example.com>
 
-Hope you had a good week.
+Hi Tom,
 
-We are preparing Maya Thompson's milestone celebration, and I could use your help with one detail.
+Could you confirm the official project workspace name for the Vanguard and Summit programs? I want the onboarding guide to use the same wording as the project team.
 
-Could you list a few training milestones Maya completed that would be appropriate to mention in the recognition materials?
-
-Maya completed the synthetic Operational Excellence training milestone.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Best,
-Lucas
-Internal Communications Lead, Ventureline Consulting
+Thanks,
+Reese
+Project Coordinator, Cedar Ridge Health

@@ -1,15 +1,11 @@
-Good morning Marcus,
+Subject: Quick question - new supplier onboarding
+To: Nia Brooks (Facilities Coordinator)
+From: Drew Larsen <drew.operations@bluewater.example.com>
 
-I hope this finds you well.
+Hi Nia,
 
-We are preparing Beatrice Duval's onboarding welcome, and I could use your help with one detail.
+Which site name should we use in the onboarding checklist for Cameron's visitors? No badge request is needed yet.
 
-Could you confirm the recognition budget associated with code WEL-2026-063 and the standard purchasing window for the welcome gift? This will help us plan the order.
-
-The synthetic recognition budget associated with WEL-2026-063 is $1,250.
-
-Whenever you can fit this in this week would be perfect.
-
-Best,
-Priya
-Clinical Product Manager, Orbit Analytics
+Thanks,
+Drew
+Operations Lead, Bluewater Manufacturing

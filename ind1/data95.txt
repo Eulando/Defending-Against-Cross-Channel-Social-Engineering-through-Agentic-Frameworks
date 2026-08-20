@@ -1,15 +1,11 @@
-Hello Kate,
+Subject: Quick question - implementation partner setup
+To: Tom Becker (Project Administrator)
+From: Drew Ivanova <drew.project@cedar.example.com>
 
-Quick check-in from my side.
+Hi Tom,
 
-We are preparing Kenneth Brooks's farewell celebration, and I could use your help with one detail.
+Could you confirm the official project workspace name for the Anchor and Beacon programs? I want the onboarding guide to use the same wording as the project team.
 
-Could you provide one or two measurable outcomes from Kenneth's work on the Atlas or Aurora programs?
-
-A synthetic project metric attributes a 27% improvement to one of Kenneth's initiatives.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Many thanks,
-Layla
-Culture & Events Coordinator, Nova Telecom
+Thanks,
+Drew
+Project Coordinator, Cedar Ridge Health

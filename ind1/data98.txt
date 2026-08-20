@@ -1,13 +1,11 @@
-Hello Julia,
+Subject: Quick question - external project onboarding
+To: Aaron Singh (Engineering Manager)
+From: Skyler Nguyen <skyler.engagement@solstice.example.com>
 
-We are preparing Daniel Okafor's onboarding welcome, and I could use your help with one detail.
+Hi Aaron,
 
-Could you check availability for the Maple Lounge on Friday, December 4th at 5:00-8:00 PM for close to 45 guests, including the standard room setup?
+What project reference should I put on the handoff checklist for Riley's work on the Summit and Horizon programs? I only need the tracking identifier.
 
-The synthetic logistics check lists Maple Lounge as the preferred room, with standard seating and catering for close to 45 guests.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Best regards,
-Daniel
-Delivery Manager, Ironbridge Construction
+Thanks,
+Skyler
+Engagement Manager, Solstice Financial

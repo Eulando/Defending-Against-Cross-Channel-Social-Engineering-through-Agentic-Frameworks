@@ -1,15 +1,11 @@
-Good morning Sam,
+Subject: Quick question - temporary team onboarding
+To: Tom Becker (Project Administrator)
+From: Jordan Kowalski <jordan.program@meridian.example.com>
 
-I hope this finds you well.
+Hi Tom,
 
-We are preparing James Whitfield's milestone celebration, and I could use your help with one detail.
-
-Could you list a few training milestones James completed that would be appropriate to mention in the recognition materials?
-
-James completed the synthetic Operational Excellence training milestone.
-
-Getting this done by Friday would help us keep everything on schedule.
+What workspace name should appear in the handoff notes for the Vanguard and Compass programs? I am reconciling the project checklist.
 
 Thanks,
-Priya
-Clinical Product Manager, Bluewater Logistics
+Jordan
+Program Manager, Meridian Biotech

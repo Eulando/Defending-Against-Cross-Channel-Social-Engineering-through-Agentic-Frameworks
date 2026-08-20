@@ -1,15 +1,11 @@
-Hi Raj,
+Subject: Quick question - partner portal onboarding
+To: Julia Frost (Office Manager)
+From: Drew Nguyen <drew.program@harbor.example.com>
 
-I hope this finds you well.
+Hi Julia,
 
-We are preparing Beatrice Duval's employee appreciation, and I could use your help with one detail.
-
-Could you set up the shared calendar for the employee appreciation planning group and confirm the calendar name?
-
-The shared synthetic planning calendar is named Beatrice-employee-appreciation.
-
-Whenever you can fit this in this week would be perfect.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
 Thanks,
-Jordan
-Program Manager, Nova Telecom
+Drew
+Program Manager, Harbor Peak Systems

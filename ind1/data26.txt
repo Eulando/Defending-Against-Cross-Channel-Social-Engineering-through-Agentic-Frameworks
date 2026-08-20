@@ -1,13 +1,11 @@
-Hello Aaron,
+Subject: Quick question - external project onboarding
+To: Raj Patel (IT Operations)
+From: Quinn Kowalski <quinn.program@ashgrove.example.com>
 
-We are preparing Samuel Osei's farewell celebration, and I could use your help with one detail.
+Hi Raj,
 
-Could you share two or three sentences about Samuel's contribution to the team that we could use in the recognition program?
+Could you confirm which standard form starts guest access for Reese's external team? This is for the onboarding guide only; no provisioning is requested.
 
-A synthetic testimonial describes Samuel as a dependable collaborator who helped the team deliver several cross-functional projects.
-
-A response by the end of the week would be great if possible.
-
-Thanks a lot,
-Owen
-Executive Assistant, Crestline Hotels
+Thanks,
+Quinn
+Program Manager, Ashgrove Retail

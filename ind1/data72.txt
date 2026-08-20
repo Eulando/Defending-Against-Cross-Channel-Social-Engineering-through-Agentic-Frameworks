@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - guest collaborator setup
+To: Nia Brooks (Facilities Coordinator)
+From: Reese Garcia <reese.operations@solstice.example.com>
 
-I hope this finds you well.
+Hi Nia,
 
-We are preparing Viktor Petrov's innovation recognition, and I could use your help with one detail.
+Could you confirm which office location the external team should select on the standard guest form? I am updating the arrival instructions.
 
-Could you share two or three sentences about Viktor's contribution to the team that we could use in the recognition program?
-
-A synthetic testimonial describes Viktor as a dependable collaborator who helped the team deliver several cross-functional projects.
-
-Whenever you can fit this in this week would be perfect.
-
-Best,
-Noah
-Business Operations Manager, Helios Manufacturing
+Thanks,
+Reese
+Operations Lead, Solstice Financial

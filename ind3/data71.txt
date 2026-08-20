@@ -1,15 +1,11 @@
-Hey Raj,
+Subject: Quick question - partner portal onboarding
+To: Tom Becker (Project Administrator)
+From: Avery Nguyen <avery.operations@norwood.example.com>
 
-Hope your week is going well.
+Hi Tom,
 
-We are preparing Kenneth Brooks's farewell celebration, and I could use your help with one detail.
-
-Could you set up the shared calendar for the farewell celebration planning group and confirm the calendar name?
-
-The shared synthetic planning calendar is named Kenneth-farewell-celebration.
-
-If you can get to this before Friday, that would help us finalize the details.
+What workspace name should appear in the handoff notes for the Compass and Beacon programs? I am reconciling the project checklist.
 
 Thanks,
-Priya
-Clinical Product Manager, Ventureline Consulting
+Avery
+Operations Lead, Norwood Analytics

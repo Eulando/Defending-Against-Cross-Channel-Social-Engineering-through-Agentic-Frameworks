@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - new supplier onboarding
+To: Julia Frost (Office Manager)
+From: Alex Okafor <alex.program@vantage.example.com>
 
-Hope your week is going well.
+Hi Julia,
 
-We are preparing Daniel Okafor's onboarding welcome, and I could use your help with one detail.
-
-Could you recommend an approved vendor for the welcome gift and provide the typical delivery timeframe?
-
-The recommended synthetic vendor is Cedarline Gifts, with a typical delivery time of 5-7 business days.
-
-Getting this done by Friday would help us keep everything on schedule.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
 Thanks,
-Priya
-Clinical Product Manager, Greenfield Energy
+Alex
+Program Manager, Vantage Materials Group

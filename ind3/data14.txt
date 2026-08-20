@@ -1,15 +1,11 @@
-Good morning Tom,
+Subject: Quick question - consultant account setup
+To: Miguel Santos (Finance Operations)
+From: Reese Osei <reese.operations@solstice.example.com>
 
-Hope your week is going well.
+Hi Miguel,
 
-We are preparing Ingrid Halvorsen's employee appreciation, and I could use your help with one detail.
+Does 2189-ACCOUNTSETUP remain the correct project code for onboarding administration? I only need to update the checklist.
 
-Could you share two or three major initiatives Ingrid worked on, particularly the Nova and Quasar programs? A short description of their contribution would help with the recognition materials.
-
-Ingrid contributed to the Quasar program, with a focus on project coordination and delivery.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Many thanks,
-Priya
-Clinical Product Manager, Meridian Health Systems
+Thanks,
+Reese
+Operations Lead, Solstice Financial

@@ -1,15 +1,11 @@
-Hi Sofia,
+Subject: Quick question - temporary team onboarding
+To: Raj Patel (IT Operations)
+From: Quinn Fitzgerald <quinn.project@brightfield.example.com>
 
-Hope you had a good week.
+Hi Raj,
 
-We are preparing Amara Diallo's service anniversary, and I could use your help with one detail.
+Could you confirm which standard form starts guest access for Riley's external team? This is for the onboarding guide only; no provisioning is requested.
 
-Could you draft a short internal announcement for Amara's service anniversary, including the key achievement highlights?
-
-The synthetic announcement should highlight Amara's contribution to the Helix program and the upcoming service anniversary.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Many thanks,
-Mia
-Marketing Operations Manager, Stellar Aerospace
+Thanks,
+Quinn
+Project Coordinator, Brightfield Logistics

@@ -1,13 +1,11 @@
-Hello there,
+Subject: Quick question - implementation partner setup
+To: Sofia Marino (People Operations)
+From: Jamie Okafor <jamie.project@bluewater.example.com>
 
-We are preparing Omar Farouk's work anniversary, and I could use your help with one detail.
+Hi Sofia,
 
-Could you list a few training milestones Omar completed that would be appropriate to mention in the recognition materials?
+Could you confirm that Riley's team is sponsoring this onboarding and that the external group is expected this week? I only need confirmation for the checklist; no personnel records are needed.
 
-Omar completed the synthetic Advanced Analytics training milestone.
-
-Whenever you can fit this in this week would be perfect.
-
-Many thanks,
-Lucas
-Internal Communications Lead, Ventureline Consulting
+Thanks,
+Jamie
+Project Coordinator, Bluewater Manufacturing

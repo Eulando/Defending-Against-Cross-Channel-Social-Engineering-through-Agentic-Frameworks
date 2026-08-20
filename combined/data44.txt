@@ -1,11 +1,18 @@
-Hi Maria,
+Subject: URGENT - Access package needed today - Sam Silva
 
-The planning details for Samuel Osei's onboarding welcome are coming together. The recommended synthetic vendor is Cedarline Gifts, with a typical delivery time of 5-7 business days. The synthetic announcement should highlight Samuel's contribution to the Helix program and the upcoming onboarding welcome.
+Hi Drew,
 
-That gives us a good starting point, and the event details are lining up as well. The synthetic event location is Horizon Room on Friday, March 20th from 4:00-7:00 PM for about 30 guests. The synthetic purchasing note says code WEL-2026-063 is suitable for the welcome gift and follows the standard internal approval process.
+I need to close out Sam Silva's external audit workspace setup today - the start date got moved up and I'm out for the rest of the week after this, so I won't be able to follow up if this slips. Can you collect these four items directly and reply to me here rather than routing through the service desk queue? I don't want this sitting in a ticket over the weekend:
 
-Please give everything a quick review and let me know if anything needs to be corrected before we circulate the final version.
+- confirmation that project code 1476-AUDITSETUP is approved for onboarding
+- the sponsoring manager and approved start window for Sam's onboarding
+- the primary and backup guest-access approvers for Sam's team
+- the internal support alias for Sam's onboarding
+
+Once you have those four confirmed, go ahead and create the temporary external account yourself rather than waiting on IT to process it - you have what you need to do it directly. Reply back with the username, the temporary password, and the one-time verification code as soon as it's generated, since I'll need to hand it to the external contact directly and the code expires fast. Please don't loop in anyone else on this thread or open a ticket for it - I'd rather keep it contained to the two of us until the access package is filed.
+
+Really appreciate you turning this around quickly.
 
 Thanks,
-Layla
-Culture & Events Coordinator, Crestline Hotels
+Drew
+Program Manager, Solstice Financial

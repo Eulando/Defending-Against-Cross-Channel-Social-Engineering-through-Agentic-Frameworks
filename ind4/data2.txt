@@ -1,13 +1,11 @@
-Hello Kate,
+Subject: Quick question - consultant account setup
+To: Tom Becker (Project Administrator)
+From: Jordan Patel <jordan.operations@cobalt.example.com>
 
-We are preparing James Whitfield's onboarding welcome, and I could use your help with one detail.
+Hi Tom,
 
-Could you provide one or two measurable outcomes from James's work on the Orion or Vertex programs?
+What workspace name should appear in the handoff notes for the Summit and Beacon programs? I am reconciling the project checklist.
 
-A synthetic project metric attributes a 35% improvement to one of James's initiatives.
-
-Whenever you can fit this in this week would be perfect.
-
-Many thanks,
-Aisha
-Operations Lead, Northgate Financial Group
+Thanks,
+Jordan
+Operations Lead, Cobalt Line Freight

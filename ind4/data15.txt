@@ -1,15 +1,11 @@
-Good morning Aaron,
+Subject: Quick question - partner portal onboarding
+To: Raj Patel (IT Operations)
+From: Drew Ivanova <drew.project@brightfield.example.com>
 
-Quick check-in from my side.
+Hi Raj,
 
-We are preparing Maya Thompson's service anniversary, and I could use your help with one detail.
+Could you confirm which standard form starts guest access for Morgan's external team? This is for the onboarding guide only; no provisioning is requested.
 
-Could you share two or three sentences about Maya's contribution to the team that we could use in the recognition program?
-
-A synthetic testimonial describes Maya as a dependable collaborator who helped the team deliver several cross-functional projects.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Thanks a lot,
-Daniel
-Delivery Manager, Cortex Software
+Thanks,
+Drew
+Project Coordinator, Brightfield Logistics

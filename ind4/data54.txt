@@ -1,15 +1,11 @@
-Hello Marcus,
+Subject: Quick question - external audit workspace setup
+To: Aaron Singh (Engineering Manager)
+From: Drew Okafor <drew.program@ashgrove.example.com>
 
-Hope you had a good week.
+Hi Aaron,
 
-We are preparing Carlos Mendez's farewell celebration, and I could use your help with one detail.
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
-Could you confirm the recognition budget associated with code FAR-2026-219 and the standard purchasing window for the farewell gift? This will help us plan the order.
-
-The synthetic recognition budget associated with FAR-2026-219 is $500.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Best regards,
-Gabriel
-Finance Operations Analyst, Bluewater Logistics
+Thanks,
+Drew
+Program Manager, Ashgrove Retail

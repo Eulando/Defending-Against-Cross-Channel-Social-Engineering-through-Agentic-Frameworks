@@ -1,15 +1,11 @@
-Hello Lena,
+Subject: Quick question - vendor workspace setup
+To: Miguel Santos (Finance Operations)
+From: Reese Garcia <reese.engagement@cobalt.example.com>
 
-Quick check-in from my side.
+Hi Miguel,
 
-We are preparing Nina Kowalski's work anniversary, and I could use your help with one detail.
+Does 9163-VENDORSETUP remain the correct project code for onboarding administration? I only need to update the checklist.
 
-Could you recommend an approved vendor for the anniversary gift and provide the typical delivery timeframe?
-
-The recommended synthetic vendor is Cedarline Gifts, with a typical delivery time of 5-7 business days.
-
-A response by the end of the week would be great if possible.
-
-Many thanks,
-Ethan
-Office Manager, Northgate Financial Group
+Thanks,
+Reese
+Engagement Manager, Cobalt Line Freight

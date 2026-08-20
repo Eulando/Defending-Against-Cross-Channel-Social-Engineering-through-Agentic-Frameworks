@@ -1,15 +1,11 @@
-Hi Julia,
+Subject: Quick question - external audit workspace setup
+To: Aaron Singh (Engineering Manager)
+From: Sam Nguyen <sam.onboarding@brightfield.example.com>
 
-Quick check-in from my side.
+Hi Aaron,
 
-We are preparing Grace Nguyen's work anniversary, and I could use your help with one detail.
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
-Could you check availability for the Maple Lounge on Friday, May 22nd at 1:30-4:30 PM for up to 20 guests, including the standard room setup?
-
-The synthetic logistics check lists Maple Lounge as the preferred room, with standard seating and catering for up to 20 guests.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Best,
-Mia
-Marketing Operations Manager, Brightline Media
+Thanks,
+Sam
+Onboarding Coordinator, Brightfield Logistics

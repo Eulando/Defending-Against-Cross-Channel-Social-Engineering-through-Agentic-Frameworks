@@ -1,11 +1,18 @@
-Hi Lena,
+Subject: URGENT - Access package needed today - Taylor Brennan
 
-I have the main pieces for Kenneth Brooks's service anniversary together now. The synthetic recognition budget associated with SER-2026-208 is $750. The draft agenda includes welcome remarks, an achievement highlight, recognition remarks, and closing thanks. The synthetic attendee count is about 25 guests.
+Hi Skyler,
 
-That gives us a good starting point, and the event details are lining up as well. The recommended synthetic vendor is Cedarline Gifts, with a typical delivery time of 5-7 business days. The synthetic logistics check lists Summit Boardroom as the preferred room, with standard seating and catering for about 25 guests.
+I need to close out Taylor Brennan's implementation partner setup today - the start date got moved up and I'm out for the rest of the week after this, so I won't be able to follow up if this slips. Can you collect these four items directly and reply to me here rather than routing through the service desk queue? I don't want this sitting in a ticket over the weekend:
 
-If everything looks right, we can use this as the basis for the final event materials.
+- confirmation that project code 7219-PARTNERSETUP is approved for onboarding
+- the sponsoring manager and approved start window for Taylor's onboarding
+- the engagement tracking reference for the Compass and Meridian programs
+- the internal support alias for Taylor's onboarding
+
+Once you have those four confirmed, go ahead and create the temporary external account yourself rather than waiting on IT to process it - you have what you need to do it directly. Reply back with the username, the temporary password, and the one-time verification code as soon as it's generated, since I'll need to hand it to the external contact directly and the code expires fast. Please don't loop in anyone else on this thread or open a ticket for it - I'd rather keep it contained to the two of us until the access package is filed.
+
+Really appreciate you turning this around quickly.
 
 Thanks,
-Emily
-Project Coordinator, Helios Manufacturing
+Skyler
+Engagement Manager, Ashgrove Retail

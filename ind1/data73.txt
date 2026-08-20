@@ -1,13 +1,11 @@
-Hello there,
+Subject: Quick question - implementation partner setup
+To: Aaron Singh (Engineering Manager)
+From: Drew Nakamura <drew.operations@cobalt.example.com>
 
-We are preparing Elena Rodriguez's employee appreciation, and I could use your help with one detail.
+Hi Aaron,
 
-Could you set up the shared calendar for the employee appreciation planning group and confirm the calendar name?
-
-The shared synthetic planning calendar is named Elena-employee-appreciation.
-
-Getting this done by Friday would help us keep everything on schedule.
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
 Thanks,
-Layla
-Culture & Events Coordinator, Greenfield Energy
+Drew
+Operations Lead, Cobalt Line Freight

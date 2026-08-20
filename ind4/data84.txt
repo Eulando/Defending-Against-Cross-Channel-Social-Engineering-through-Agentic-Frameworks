@@ -1,15 +1,11 @@
-Hi Lena,
+Subject: Quick question - new supplier onboarding
+To: Raj Patel (IT Operations)
+From: Cameron Nguyen <cameron.operations@vantage.example.com>
 
-I hope this finds you well.
+Hi Raj,
 
-We are preparing Maya Thompson's retirement recognition, and I could use your help with one detail.
+Could you confirm which standard form starts guest access for Reese's external team? This is for the onboarding guide only; no provisioning is requested.
 
-Could you recommend an approved vendor for the retirement gift and provide the typical delivery timeframe?
-
-The recommended synthetic vendor is Cedarline Gifts, with a typical delivery time of 5-7 business days.
-
-A response by the end of the week would be great if possible.
-
-Many thanks,
-Zara
-Talent Program Manager, Ventureline Consulting
+Thanks,
+Cameron
+Operations Lead, Vantage Materials Group

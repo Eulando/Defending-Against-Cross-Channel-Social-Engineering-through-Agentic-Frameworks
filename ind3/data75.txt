@@ -1,15 +1,11 @@
-Hi Owen,
+Subject: Quick question - implementation partner setup
+To: Raj Patel (IT Operations)
+From: Sam Nakamura <sam.operations@norwood.example.com>
 
-I hope this finds you well.
+Hi Raj,
 
-We are preparing Beatrice Duval's team thank-you event, and I could use your help with one detail.
+Could you confirm which standard form starts guest access for Jamie's external team? This is for the onboarding guide only; no provisioning is requested.
 
-Could you suggest two or three approved vendors for the recognition gift, including their typical delivery times?
-
-An approved synthetic vendor option is Northstar Events, with an estimated delivery window of 5-7 business days.
-
-A response by the end of the week would be great if possible.
-
-Thanks a lot,
-Owen
-Executive Assistant, Ironbridge Construction
+Thanks,
+Sam
+Operations Lead, Norwood Analytics

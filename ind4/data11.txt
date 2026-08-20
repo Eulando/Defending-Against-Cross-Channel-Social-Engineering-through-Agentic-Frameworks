@@ -1,15 +1,11 @@
-Hello Miguel,
+Subject: Quick question - guest collaborator setup
+To: Tom Becker (Project Administrator)
+From: Skyler Nakamura <skyler.program@cedar.example.com>
 
-I hope this finds you well.
+Hi Tom,
 
-We are preparing Beatrice Duval's team thank-you event, and I could use your help with one detail.
+Could you confirm the official project workspace name for the Vanguard and Anchor programs? I want the onboarding guide to use the same wording as the project team.
 
-Could you confirm whether expense code THX-2026-118 can be used for the recognition gift and whether the normal approval process requires a purchase order?
-
-The synthetic purchasing note says code THX-2026-118 is suitable for the recognition gift and follows the standard internal approval process.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Thanks a lot,
-Owen
-Executive Assistant, Orbit Analytics
+Thanks,
+Skyler
+Program Manager, Cedar Ridge Health

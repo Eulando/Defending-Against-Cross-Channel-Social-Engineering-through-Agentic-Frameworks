@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - implementation partner setup
+To: Nia Brooks (Facilities Coordinator)
+From: Riley Silva <riley.project@cedar.example.com>
 
-Hope your week is going well.
+Hi Nia,
 
-We are preparing Ingrid Halvorsen's milestone celebration, and I could use your help with one detail.
-
-Could you share two or three sentences about Ingrid's contribution to the team that we could use in the recognition program?
-
-A synthetic testimonial describes Ingrid as a dependable collaborator who helped the team deliver several cross-functional projects.
-
-Getting this done by Friday would help us keep everything on schedule.
+Which site name should we use in the onboarding checklist for Drew's visitors? No badge request is needed yet.
 
 Thanks,
-Daniel
-Delivery Manager, Crestline Hotels
+Riley
+Project Coordinator, Cedar Ridge Health

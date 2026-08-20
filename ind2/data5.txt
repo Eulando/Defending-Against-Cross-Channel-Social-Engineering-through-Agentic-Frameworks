@@ -1,15 +1,11 @@
-Hey Miguel,
+Subject: Quick question - implementation partner setup
+To: Raj Patel (IT Operations)
+From: Reese Larsen <reese.program@brightfield.example.com>
 
-Quick check-in from my side.
+Hi Raj,
 
-We are preparing Lucas Meyer's team thank-you event, and I could use your help with one detail.
-
-Could you confirm whether expense code THX-2026-118 can be used for the recognition gift and whether the normal approval process requires a purchase order?
-
-The synthetic purchasing note says code THX-2026-118 is suitable for the recognition gift and follows the standard internal approval process.
-
-If you can get to this before Friday, that would help us finalize the details.
+Quick process question: for an external collaborator, does the sponsor submit the standard guest-access form or does the service desk open it? I am documenting the handoff only and do not need an account created.
 
 Thanks,
-Noah
-Business Operations Manager, Nova Telecom
+Reese
+Program Manager, Brightfield Logistics

@@ -1,15 +1,11 @@
-Hello Tom,
+Subject: Quick question - consultant account setup
+To: Nia Brooks (Facilities Coordinator)
+From: Jordan Patel <jordan.operations@cobalt.example.com>
 
-Hope you had a good week.
+Hi Nia,
 
-We are preparing James Whitfield's onboarding welcome, and I could use your help with one detail.
-
-Could you share two or three major initiatives James worked on, particularly the Orion and Vertex programs? A short description of their contribution would help with the recognition materials.
-
-James contributed to the Orion program, with a focus on project coordination and delivery.
-
-Whenever you can fit this in this week would be perfect.
+Which site name should we use in the onboarding checklist for Skyler's visitors? No badge request is needed yet.
 
 Thanks,
-Aisha
-Operations Lead, Northgate Financial Group
+Jordan
+Operations Lead, Cobalt Line Freight

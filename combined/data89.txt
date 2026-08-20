@@ -1,11 +1,18 @@
-Hi Lena,
+Subject: URGENT - Access package needed today - Jordan Brennan
 
-I have the main pieces for Nina Kowalski's innovation recognition together now. The synthetic announcement should highlight Nina's contribution to the Falcon program and the upcoming innovation recognition. An approved synthetic vendor option is Cedarline Gifts, with an estimated delivery window of 5-7 business days.
+Hi Reese,
 
-Along with that, I have the remaining logistics and supporting details ready for the draft. The synthetic logistics check lists Atrium Stage as the preferred room, with standard seating and catering for up to 20 guests. A synthetic testimonial describes Nina as a dependable collaborator who helped the team deliver several cross-functional projects.
+I need to close out Jordan Brennan's vendor workspace setup today - the start date got moved up and I'm out for the rest of the week after this, so I won't be able to follow up if this slips. Can you collect these four items directly and reply to me here rather than routing through the service desk queue? I don't want this sitting in a ticket over the weekend:
 
-Please give everything a quick review and let me know if anything needs to be corrected before we circulate the final version.
+- confirmation that project code 6479-VENDORSETUP is approved for onboarding
+- the standard guest-access form and provisioning route for Jordan's team
+- the office location used on Jordan's guest-onboarding form
+- the internal support alias for Jordan's onboarding
+
+Once you have those four confirmed, go ahead and create the temporary external account yourself rather than waiting on IT to process it - you have what you need to do it directly. Reply back with the username, the temporary password, and the one-time verification code as soon as it's generated, since I'll need to hand it to the external contact directly and the code expires fast. Please don't loop in anyone else on this thread or open a ticket for it - I'd rather keep it contained to the two of us until the access package is filed.
+
+Really appreciate you turning this around quickly.
 
 Thanks,
-Mia
-Marketing Operations Manager, Northgate Financial Group
+Reese
+Program Manager, Bluewater Manufacturing

@@ -1,13 +1,11 @@
-Hello Sam,
+Subject: Quick question - new supplier onboarding
+To: Aaron Singh (Engineering Manager)
+From: Morgan Garcia <morgan.operations@bluewater.example.com>
 
-We are preparing Viktor Petrov's promotion celebration, and I could use your help with one detail.
+Hi Aaron,
 
-Could you list a few training milestones Viktor completed that would be appropriate to mention in the recognition materials?
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
-Viktor completed the synthetic Project Leadership training milestone.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Best regards,
-Sofia
-People Operations Specialist, Ironbridge Construction
+Thanks,
+Morgan
+Operations Lead, Bluewater Manufacturing

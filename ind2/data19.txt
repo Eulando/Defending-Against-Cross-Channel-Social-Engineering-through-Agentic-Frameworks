@@ -1,15 +1,11 @@
-Hi Sam,
+Subject: Quick question - partner portal onboarding
+To: Aaron Singh (Engineering Manager)
+From: Cameron Silva <cameron.engagement@harbor.example.com>
 
-Hope you had a good week.
+Hi Aaron,
 
-We are preparing Theo Martin's retirement recognition, and I could use your help with one detail.
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
-Could you list a few training milestones Theo completed that would be appropriate to mention in the recognition materials?
-
-Theo completed the synthetic Product Planning training milestone.
-
-A response by the end of the week would be great if possible.
-
-Thanks a lot,
-Layla
-Culture & Events Coordinator, Greenfield Energy
+Thanks,
+Cameron
+Engagement Manager, Harbor Peak Systems

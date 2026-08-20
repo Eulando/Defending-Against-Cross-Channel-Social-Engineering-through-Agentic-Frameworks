@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - external audit workspace setup
+To: Tom Becker (Project Administrator)
+From: Sam Kowalski <sam.program@solstice.example.com>
 
-Hope your week is going well.
+Hi Tom,
 
-We are preparing Ingrid Halvorsen's service anniversary, and I could use your help with one detail.
-
-Could you confirm whether expense code SER-2026-208 can be used for the service award gift and whether the normal approval process requires a purchase order?
-
-The synthetic purchasing note says code SER-2026-208 is suitable for the service award gift and follows the standard internal approval process.
-
-A response by the end of the week would be great if possible.
+Could you confirm the official project workspace name for the Compass and Atlas programs? I want the onboarding guide to use the same wording as the project team.
 
 Thanks,
-Gabriel
-Finance Operations Analyst, Harbor Biotech
+Sam
+Program Manager, Solstice Financial

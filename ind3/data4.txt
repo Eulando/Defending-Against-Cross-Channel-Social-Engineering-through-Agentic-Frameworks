@@ -1,15 +1,11 @@
-Hey Kate,
+Subject: Quick question - contractor access review
+To: Raj Patel (IT Operations)
+From: Jordan Ivanova <jordan.project@norwood.example.com>
 
-I hope this finds you well.
+Hi Raj,
 
-We are preparing Nina Kowalski's milestone celebration, and I could use your help with one detail.
-
-Could you provide one or two measurable outcomes from Nina's work on the Summit or Valley programs?
-
-A synthetic project metric attributes a 31% improvement to one of Nina's initiatives.
-
-If you can get to this before Friday, that would help us finalize the details.
+Could you confirm which standard form starts guest access for Morgan's external team? This is for the onboarding guide only; no provisioning is requested.
 
 Thanks,
-Marcus
-Team Lead, Harbor Biotech
+Jordan
+Project Coordinator, Norwood Analytics

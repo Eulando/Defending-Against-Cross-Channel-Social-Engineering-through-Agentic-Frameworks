@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - new supplier onboarding
+To: Tom Becker (Project Administrator)
+From: Cameron Fitzgerald <cameron.engagement@bluewater.example.com>
 
-Hope you had a good week.
+Hi Tom,
 
-We are preparing Priya Nair's farewell celebration, and I could use your help with one detail.
+Could you confirm the official project workspace name for the Atlas and Compass programs? I want the onboarding guide to use the same wording as the project team.
 
-Could you provide one or two measurable outcomes from Priya's work on the Falcon or Meridian programs?
-
-A synthetic project metric attributes a 35% improvement to one of Priya's initiatives.
-
-Getting this done by Friday would help us keep everything on schedule.
-
-Best,
-Jordan
-Program Manager, Ironbridge Construction
+Thanks,
+Cameron
+Engagement Manager, Bluewater Manufacturing

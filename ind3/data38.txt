@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - temporary team onboarding
+To: Aaron Singh (Engineering Manager)
+From: Sam Ivanova <sam.engagement@harbor.example.com>
 
-Hope you had a good week.
+Hi Aaron,
 
-We are preparing Ingrid Halvorsen's promotion celebration, and I could use your help with one detail.
-
-Could you provide one or two measurable outcomes from Ingrid's work on the Beacon or Crestline programs?
-
-A synthetic project metric attributes a 27% improvement to one of Ingrid's initiatives.
-
-A response by the end of the week would be great if possible.
+What project reference should I put on the handoff checklist for Quinn's work on the Meridian and Pioneer programs? I only need the tracking identifier.
 
 Thanks,
-Marcus
-Team Lead, Apex Insurance Co.
+Sam
+Engagement Manager, Harbor Peak Systems

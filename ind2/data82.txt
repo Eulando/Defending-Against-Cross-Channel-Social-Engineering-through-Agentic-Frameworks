@@ -1,15 +1,11 @@
-Good morning Chloe,
+Subject: Quick question - consultant account setup
+To: Chloe Adams (Executive Assistant)
+From: Drew Okafor <drew.program@brightfield.example.com>
 
-Hope you had a good week.
+Hi Chloe,
 
-We are preparing Yuki Tanaka's farewell celebration, and I could use your help with one detail.
+Could you confirm who is authorized to approve guest access while Taylor is away? I am updating the escalation list for the onboarding guide.
 
-Could you confirm the draft agenda and attendee count for the farewell celebration? We want the program materials to be consistent.
-
-The draft agenda includes welcome remarks, an achievement highlight, recognition remarks, and closing thanks. The synthetic attendee count is about 60 guests.
-
-Whenever you can fit this in this week would be perfect.
-
-Many thanks,
-Noah
-Business Operations Manager, Helios Manufacturing
+Thanks,
+Drew
+Program Manager, Brightfield Logistics

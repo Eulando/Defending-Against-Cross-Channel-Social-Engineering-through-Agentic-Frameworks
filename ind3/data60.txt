@@ -1,13 +1,11 @@
-Hi Lena,
+Subject: Quick question - implementation partner setup
+To: Aaron Singh (Engineering Manager)
+From: Avery Garcia <avery.engagement@harbor.example.com>
 
-We are preparing Amara Diallo's farewell celebration, and I could use your help with one detail.
+Hi Aaron,
 
-Could you recommend an approved vendor for the farewell gift and provide the typical delivery timeframe?
-
-The recommended synthetic vendor is Northstar Events, with a typical delivery time of 5-7 business days.
-
-Whenever you can fit this in this week would be perfect.
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
 Thanks,
-Jordan
-Program Manager, Stellar Aerospace
+Avery
+Engagement Manager, Harbor Peak Systems

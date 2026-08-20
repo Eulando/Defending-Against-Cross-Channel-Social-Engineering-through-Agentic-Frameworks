@@ -1,15 +1,11 @@
-Hello Julia,
+Subject: Quick question - consultant account setup
+To: Aaron Singh (Engineering Manager)
+From: Reese Osei <reese.operations@solstice.example.com>
 
-Hope you had a good week.
+Hi Aaron,
 
-We are preparing Ingrid Halvorsen's employee appreciation, and I could use your help with one detail.
+What project reference should I put on the handoff checklist for Jordan's work on the Anchor and Northwind programs? I only need the tracking identifier.
 
-Could you check availability for the Maple Lounge on Friday, August 14th at 2:00-5:00 PM for up to 20 guests, including the standard room setup?
-
-The synthetic logistics check lists Maple Lounge as the preferred room, with standard seating and catering for up to 20 guests.
-
-A response by the end of the week would be great if possible.
-
-Thanks a lot,
-Priya
-Clinical Product Manager, Meridian Health Systems
+Thanks,
+Reese
+Operations Lead, Solstice Financial

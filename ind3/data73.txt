@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - implementation partner setup
+To: Chloe Adams (Executive Assistant)
+From: Drew Nakamura <drew.operations@cobalt.example.com>
 
-I hope this finds you well.
+Hi Chloe,
 
-We are preparing Elena Rodriguez's employee appreciation, and I could use your help with one detail.
-
-Could you list a few training milestones Elena completed that would be appropriate to mention in the recognition materials?
-
-Elena completed the synthetic Team Facilitation training milestone.
-
-If you can get to this before Friday, that would help us finalize the details.
+Could you confirm who is authorized to approve guest access while Casey is away? I am updating the escalation list for the onboarding guide.
 
 Thanks,
-Layla
-Culture & Events Coordinator, Greenfield Energy
+Drew
+Operations Lead, Cobalt Line Freight

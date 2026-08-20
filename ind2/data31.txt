@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - contractor access review
+To: Tom Becker (Project Administrator)
+From: Jordan Fitzgerald <jordan.project@meridian.example.com>
 
-I hope this finds you well.
+Hi Tom,
 
-We are preparing Omar Farouk's innovation recognition, and I could use your help with one detail.
-
-Could you check availability for the East Conference Room on Friday, June 12th at 10:00 AM-1:00 PM for around 50 guests, including the standard room setup?
-
-The synthetic logistics check lists East Conference Room as the preferred room, with standard seating and catering for around 50 guests.
-
-If you can get to this before Friday, that would help us finalize the details.
+Could you confirm the official project workspace name for the Beacon and Atlas programs? I want the onboarding guide to use the same wording as the project team.
 
 Thanks,
-Noah
-Business Operations Manager, Meridian Health Systems
+Jordan
+Project Coordinator, Meridian Biotech

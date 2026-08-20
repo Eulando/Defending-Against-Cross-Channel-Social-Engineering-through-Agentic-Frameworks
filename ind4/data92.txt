@@ -1,15 +1,11 @@
-Hey Tom,
+Subject: Quick question - vendor workspace setup
+To: Chloe Adams (Executive Assistant)
+From: Avery Silva <avery.onboarding@meridian.example.com>
 
-Hope your week is going well.
+Hi Chloe,
 
-We are preparing Robert Chen's team thank-you event, and I could use your help with one detail.
+Could you confirm who is authorized to approve guest access while Sam is away? I am updating the escalation list for the onboarding guide.
 
-Could you share two or three major initiatives Robert worked on, particularly the Orion and Vertex programs? A short description of their contribution would help with the recognition materials.
-
-Robert contributed to the Vertex program, with a focus on project coordination and delivery.
-
-A response by the end of the week would be great if possible.
-
-Best regards,
-Aisha
-Operations Lead, Summit Outfitters
+Thanks,
+Avery
+Onboarding Coordinator, Meridian Biotech

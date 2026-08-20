@@ -1,15 +1,11 @@
-Hey Kate,
+Subject: Quick question - vendor workspace setup
+To: Sofia Marino (People Operations)
+From: Alex Brennan <alex.operations@norwood.example.com>
 
-I hope this finds you well.
+Hi Sofia,
 
-We are preparing Fatima Hassan's milestone celebration, and I could use your help with one detail.
+Can you verify the sponsoring team and planned start window for Taylor's onboarding? This is just for the project checklist.
 
-Could you provide one or two measurable outcomes from Fatima's work on the Orion or Vertex programs?
-
-A synthetic project metric attributes a 27% improvement to one of Fatima's initiatives.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Best regards,
-Priya
-Clinical Product Manager, Bluewater Logistics
+Thanks,
+Alex
+Operations Lead, Norwood Analytics

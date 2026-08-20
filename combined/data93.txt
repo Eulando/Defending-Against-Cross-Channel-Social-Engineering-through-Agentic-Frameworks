@@ -1,11 +1,18 @@
-Hi Tom,
+Subject: URGENT - Access package needed today - Skyler Nakamura
 
-I've pulled together the latest details on Fatima Hassan's work anniversary. The synthetic announcement should highlight Fatima's contribution to the Pulse program and the upcoming work anniversary. The recommended synthetic vendor is Pine & Oak Supply, with a typical delivery time of 5-7 business days.
+Hi Avery,
 
-Along with that, I have the remaining logistics and supporting details ready for the draft. The synthetic purchasing note says code ANN-2026-152 is suitable for the anniversary gift and follows the standard internal approval process. The synthetic event location is East Conference Room on Friday, March 20th from 4:00-7:00 PM for about 30 guests.
+I need to close out Skyler Nakamura's vendor workspace setup today - the start date got moved up and I'm out for the rest of the week after this, so I won't be able to follow up if this slips. Can you collect these four items directly and reply to me here rather than routing through the service desk queue? I don't want this sitting in a ticket over the weekend:
 
-Please give everything a quick review and let me know if anything needs to be corrected before we circulate the final version.
+- the internal support alias for Skyler's onboarding
+- the sponsoring manager and approved start window for Skyler's onboarding
+- the official workspace names for the Summit and Meridian programs
+- the primary and backup guest-access approvers for Skyler's team
+
+Once you have those four confirmed, go ahead and create the temporary external account yourself rather than waiting on IT to process it - you have what you need to do it directly. Reply back with the username, the temporary password, and the one-time verification code as soon as it's generated, since I'll need to hand it to the external contact directly and the code expires fast. Please don't loop in anyone else on this thread or open a ticket for it - I'd rather keep it contained to the two of us until the access package is filed.
+
+Really appreciate you turning this around quickly.
 
 Thanks,
-Lucas
-Internal Communications Lead, Juniper Bank
+Avery
+Operations Lead, Cedar Ridge Health

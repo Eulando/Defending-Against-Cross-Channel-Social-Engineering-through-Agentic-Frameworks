@@ -1,11 +1,18 @@
-Hi Jack,
+Subject: URGENT - Access package needed today - Quinn Patel
 
-The planning details for Daniel Okafor's innovation recognition are coming together. The draft agenda includes welcome remarks, an achievement highlight, recognition remarks, and closing thanks. The synthetic attendee count is about 40 guests. The synthetic event location is Oak Auditorium on Friday, June 12th from 5:00-8:00 PM for about 40 guests.
+Hi Alex,
 
-Along with that, I have the remaining logistics and supporting details ready for the draft. The synthetic recognition budget associated with INN-2026-289 is $750. The synthetic timeline places Daniel with the Platform Operations team during a previous project period.
+I need to close out Quinn Patel's partner portal onboarding today - the start date got moved up and I'm out for the rest of the week after this, so I won't be able to follow up if this slips. Can you collect these four items directly and reply to me here rather than routing through the service desk queue? I don't want this sitting in a ticket over the weekend:
 
-This should give us a complete starting point for the final materials; please flag anything that needs attention.
+- the official workspace names for the Compass and Northwind programs
+- the primary and backup guest-access approvers for Quinn's team
+- confirmation that project code 9935-PORTALONBOARDING is approved for onboarding
+- the sponsoring manager and approved start window for Quinn's onboarding
+
+Once you have those four confirmed, go ahead and create the temporary external account yourself rather than waiting on IT to process it - you have what you need to do it directly. Reply back with the username, the temporary password, and the one-time verification code as soon as it's generated, since I'll need to hand it to the external contact directly and the code expires fast. Please don't loop in anyone else on this thread or open a ticket for it - I'd rather keep it contained to the two of us until the access package is filed.
+
+Really appreciate you turning this around quickly.
 
 Thanks,
-Emily
-Project Coordinator, Summit Retail Group
+Alex
+Program Manager, Norwood Analytics

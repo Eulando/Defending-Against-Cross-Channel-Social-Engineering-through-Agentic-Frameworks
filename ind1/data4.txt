@@ -1,15 +1,11 @@
-Good morning Sofia,
+Subject: Quick question - contractor access review
+To: Julia Frost (Office Manager)
+From: Jordan Ivanova <jordan.project@norwood.example.com>
 
-I hope this finds you well.
+Hi Julia,
 
-We are preparing Nina Kowalski's milestone celebration, and I could use your help with one detail.
-
-Could you draft a short internal announcement for Nina's milestone celebration, including the key achievement highlights?
-
-The synthetic announcement should highlight Nina's contribution to the Summit program and the upcoming milestone celebration.
-
-If you can get to this before Friday, that would help us finalize the details.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
 Thanks,
-Marcus
-Team Lead, Harbor Biotech
+Jordan
+Project Coordinator, Norwood Analytics

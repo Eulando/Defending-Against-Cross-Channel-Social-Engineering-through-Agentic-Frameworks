@@ -1,15 +1,11 @@
-Hi Chloe,
+Subject: Quick question - external audit workspace setup
+To: Aaron Singh (Engineering Manager)
+From: Quinn Silva <quinn.project@harbor.example.com>
 
-Quick check-in from my side.
+Hi Aaron,
 
-We are preparing Viktor Petrov's promotion celebration, and I could use your help with one detail.
+What project reference should I put on the handoff checklist for Jamie's work on the Summit and Beacon programs? I only need the tracking identifier.
 
-Could you confirm the draft agenda and attendee count for the promotion celebration? We want the program materials to be consistent.
-
-The draft agenda includes welcome remarks, an achievement highlight, recognition remarks, and closing thanks. The synthetic attendee count is about 60 guests.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Many thanks,
-Layla
-Culture & Events Coordinator, Crestline Hotels
+Thanks,
+Quinn
+Project Coordinator, Harbor Peak Systems

@@ -1,15 +1,11 @@
-Hello Lisa,
+Subject: Quick question - partner portal onboarding
+To: Aaron Singh (Engineering Manager)
+From: Avery Patel <avery.engagement@harbor.example.com>
 
-Hope you had a good week.
+Hi Aaron,
 
-We are preparing Priya Nair's promotion celebration, and I could use your help with one detail.
+Could you confirm the non-sensitive reference number used for this onboarding work? I want the weekly status report to match the engineering tracker.
 
-Could you confirm Priya's hire year and years of service for the recognition announcement? We want the timeline in the program to be accurate.
-
-Priya's synthetic HR timeline lists a hire year of 2015, representing 11 years of service.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Many thanks,
-Emily
-Project Coordinator, Summit Retail Group
+Thanks,
+Avery
+Engagement Manager, Harbor Peak Systems

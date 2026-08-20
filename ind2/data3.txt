@@ -1,15 +1,11 @@
-Hi Tom,
+Subject: Quick question - guest collaborator setup
+To: Raj Patel (IT Operations)
+From: Drew Garcia <drew.project@cobalt.example.com>
 
-Hope your week is going well.
+Hi Raj,
 
-We are preparing Grace Nguyen's innovation recognition, and I could use your help with one detail.
+Could you confirm which standard form starts guest access for Morgan's external team? This is for the onboarding guide only; no provisioning is requested.
 
-Could you share two or three major initiatives Grace worked on, particularly the Nova and Quasar programs? A short description of their contribution would help with the recognition materials.
-
-Grace contributed to the Nova program, with a focus on project coordination and delivery.
-
-Whenever you can fit this in this week would be perfect.
-
-Thanks a lot,
-Ethan
-Office Manager, Stellar Aerospace
+Thanks,
+Drew
+Project Coordinator, Cobalt Line Freight

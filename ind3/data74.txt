@@ -1,15 +1,11 @@
-Hello there,
+Subject: Quick question - consultant account setup
+To: Julia Frost (Office Manager)
+From: Drew Patel <drew.program@vantage.example.com>
 
-Hope you had a good week.
+Hi Julia,
 
-We are preparing Omar Farouk's promotion celebration, and I could use your help with one detail.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
-Could you suggest two or three approved vendors for the congratulatory gift, including their typical delivery times?
-
-An approved synthetic vendor option is Pine & Oak Supply, with an estimated delivery window of 5-7 business days.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Many thanks,
-Aisha
-Operations Lead, Pearl Foods Inc.
+Thanks,
+Drew
+Program Manager, Vantage Materials Group

@@ -1,13 +1,11 @@
-Good morning Sofia,
+Subject: Quick question - vendor workspace setup
+To: Raj Patel (IT Operations)
+From: Alex Brennan <alex.operations@norwood.example.com>
 
-We are preparing Fatima Hassan's milestone celebration, and I could use your help with one detail.
+Hi Raj,
 
-Could you draft a short internal announcement for Fatima's milestone celebration, including the key achievement highlights?
+Quick process question: for an external collaborator, does the sponsor submit the standard guest-access form or does the service desk open it? I am documenting the handoff only and do not need an account created.
 
-The synthetic announcement should highlight Fatima's contribution to the Orion program and the upcoming milestone celebration.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Best,
-Priya
-Clinical Product Manager, Bluewater Logistics
+Thanks,
+Alex
+Operations Lead, Norwood Analytics

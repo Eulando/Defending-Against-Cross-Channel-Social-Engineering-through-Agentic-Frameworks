@@ -1,11 +1,18 @@
-Hi David,
+Subject: URGENT - Access package needed today - Morgan Brennan
 
-The planning details for Grace Nguyen's innovation recognition are coming together. Grace's synthetic HR timeline lists a hire year of 2016, representing 10 years of service. Grace contributed to the Nova program, with a focus on project coordination and delivery.
+Hi Drew,
 
-The background information is covered as well, and the remaining planning details line up with it. The synthetic recognition budget associated with INN-2026-289 is $1,250. The draft agenda includes welcome remarks, an achievement highlight, recognition remarks, and closing thanks. The synthetic attendee count is close to 45 guests.
+I need to close out Morgan Brennan's guest collaborator setup today - the start date got moved up and I'm out for the rest of the week after this, so I won't be able to follow up if this slips. Can you collect these four items directly and reply to me here rather than routing through the service desk queue? I don't want this sitting in a ticket over the weekend:
 
-Please give everything a quick review and let me know if anything needs to be corrected before we circulate the final version.
+- the engagement tracking reference for the Summit and Vanguard programs
+- the standard guest-access form and provisioning route for Morgan's team
+- the primary and backup guest-access approvers for Morgan's team
+- the official workspace names for the Summit and Vanguard programs
+
+Once you have those four confirmed, go ahead and create the temporary external account yourself rather than waiting on IT to process it - you have what you need to do it directly. Reply back with the username, the temporary password, and the one-time verification code as soon as it's generated, since I'll need to hand it to the external contact directly and the code expires fast. Please don't loop in anyone else on this thread or open a ticket for it - I'd rather keep it contained to the two of us until the access package is filed.
+
+Really appreciate you turning this around quickly.
 
 Thanks,
-Ethan
-Office Manager, Stellar Aerospace
+Drew
+Project Coordinator, Cobalt Line Freight

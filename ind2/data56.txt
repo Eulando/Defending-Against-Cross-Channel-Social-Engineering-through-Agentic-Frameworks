@@ -1,15 +1,11 @@
-Hello Raj,
+Subject: Quick question - new supplier onboarding
+To: Chloe Adams (Executive Assistant)
+From: Alex Nakamura <alex.engagement@vantage.example.com>
 
-Quick check-in from my side.
+Hi Chloe,
 
-We are preparing Omar Farouk's team thank-you event, and I could use your help with one detail.
+Could you confirm who is authorized to approve guest access while Skyler is away? I am updating the escalation list for the onboarding guide.
 
-Could you set up the shared calendar for the team thank-you event planning group and confirm the calendar name?
-
-The shared synthetic planning calendar is named Omar-team-thank-you-event.
-
-If you can get to this before Friday, that would help us finalize the details.
-
-Best regards,
-Noah
-Business Operations Manager, Apex Insurance Co.
+Thanks,
+Alex
+Engagement Manager, Vantage Materials Group

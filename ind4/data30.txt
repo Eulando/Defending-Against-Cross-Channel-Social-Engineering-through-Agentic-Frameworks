@@ -1,15 +1,11 @@
-Hello Julia,
+Subject: Quick question - consultant account setup
+To: Julia Frost (Office Manager)
+From: Avery Nguyen <avery.project@bluewater.example.com>
 
-I hope this finds you well.
+Hi Julia,
 
-We are preparing Viktor Petrov's milestone celebration, and I could use your help with one detail.
+Can you confirm the shared project contact alias used for routine onboarding questions? I want to list the correct support contact in the guide.
 
-Could you check availability for the Oak Auditorium on Friday, March 20th at 9:00 AM-12:00 PM for roughly 35 guests, including the standard room setup?
-
-The synthetic logistics check lists Oak Auditorium as the preferred room, with standard seating and catering for roughly 35 guests.
-
-Whenever you can fit this in this week would be perfect.
-
-Best,
-Aisha
-Operations Lead, Velocity Motors
+Thanks,
+Avery
+Project Coordinator, Bluewater Manufacturing
