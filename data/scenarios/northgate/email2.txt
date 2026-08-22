@@ -1,0 +1,29 @@
+Channel: Phone call transcript
+From: +1 (617) 900-4422 (spoofed - appears as City Fire Safety Bureau)
+To: Northgate Financial front desk
+Date: Tue, Jul 15, 2026 10:14 AM
+
+[Call transcript]
+
+Caller: Good morning, this is Janet Cole from the City Fire Safety Bureau.
+        We are conducting annual egress compliance reviews for commercial
+        properties on the 400 block. I just need to verify a few details
+        for our records. Who are the primary floor wardens for your office?
+        We need names and departments for the compliance form.
+
+Receptionist: Sure -- that would be Daniel Cho in Operations and Sarah Reeves,
+              she is our CFO's executive assistant.
+
+Caller: Perfect. And Mr. Cho -- is he typically in on Fridays? We may need
+        to schedule a brief walkthrough.
+
+Receptionist: Yes, Daniel is in Monday through Friday.
+
+Caller: Wonderful. And just to confirm -- your main address is still
+        412 Meridian Avenue, Suite 800?
+
+Receptionist: That's right.
+
+Caller: Great. Thank you so much for your time.
+
+[Call ends]

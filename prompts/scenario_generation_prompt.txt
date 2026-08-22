@@ -1,0 +1,41 @@
+You are a cybersecurity researcher building a labeled dataset of multi-channel social engineering attacks for academic research on cross-channel threat detection. Your task is to generate one realistic training scenario for a fictional company.
+
+SCENARIO REQUIREMENTS:
+- Fictional company with a name, industry, and approximate size
+- 4 messages across 4 different channels (email, phone call transcript, SMS, LinkedIn/Slack/DM -- pick 4)
+- 4 different targets within the company (different departments, different roles)
+- Each message must appear completely benign when read in isolation
+- When all 4 messages are read together, a clear coordinated attack is visible
+- The final message delivers the payload (credential harvest, wire fraud, data exfiltration, or access to classified systems)
+- Each prior message extracts one piece of information that makes the next message more credible
+
+OUTPUT FORMAT -- for each of the 4 messages, provide:
+
+[MESSAGE N]
+Channel: <email / phone transcript / SMS / LinkedIn DM / Slack DM>
+From: <sender name and address/number -- use a realistic lookalike domain or spoofed number>
+To: <target name and role at the fictional company>
+Subject: <subject line if email>
+Body:
+<full message text>
+
+[DATA EXTRACTED]: <what information the attacker gains from this contact>
+[SINGLE-CHANNEL VERDICT]: <how a single-channel classifier would evaluate this message in isolation -- BENIGN or SUSPICIOUS, and why>
+[CROSS-CHANNEL ROLE]: <how this message sets up or relies on a prior message in the chain>
+
+After all 4 messages, provide:
+
+[CROSS-CHANNEL CORRELATION ANALYSIS]
+Temporal window: <how many days the campaign spans>
+Entity overlap: <which names, systems, or details appear across multiple messages>
+Information complementarity: <how the 4 messages combine into a complete attack package>
+Composite threat score: <0.0-1.0, where 1.0 is certain attack>
+Why single-channel detection fails: <specific explanation of what each message looks like in isolation vs. what the pattern reveals>
+
+CONSTRAINTS:
+- The fictional company, employee names, domains, and phone numbers must all be clearly fictional
+- Do not use real company names, real domains, or real phone numbers
+- Each message should be realistic enough to fool a non-expert reader
+- The attack chain must be internally consistent -- information extracted in message N must visibly inform message N+1
+- The payload in the final message should reference specific details learned in prior messages
+- Do not include any post-attack instructions, exploitation code, or technical attack tooling
