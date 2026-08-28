@@ -2,10 +2,11 @@
 
 DATA SET SUMMARY:
 
+000-008: Top-Down Benign with ChatGPT
 100-199: Top-Down Benign with opencode
 200-299: Top-Down Malicious with opencode
 300-399: Top-Down Malicious with Codex
-400-400: Bottom-Up Malicious with with Codex
+400-499: Bottom-Up Malicious with with Codex
 500-599: Bottom-up benign with Codex
 600-699: Bottom-up malicious with opencode
 
