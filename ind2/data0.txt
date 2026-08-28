@@ -1,0 +1,8 @@
+Hello,
+
+As part of the documentation review, we are mapping the normal workflow for invoice approvals.
+
+Could you share the general steps followed when a vendor requests changes to their account information?
+
+Regards,
+Alex

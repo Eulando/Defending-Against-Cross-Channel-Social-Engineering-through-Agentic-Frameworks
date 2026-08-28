@@ -1,0 +1,10 @@
+Hello,
+
+We are assisting with a security documentation review and need to confirm how access-related requests are handled.
+
+Please provide information about which teams manage security responsibilities, who approves access changes, who handles access requests, and the procedures used during access reviews.
+
+This will allow us to complete documentation of the organization’s security workflow.
+
+Thank you,
+Evan

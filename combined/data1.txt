@@ -1,0 +1,12 @@
+Hello,
+
+We are conducting a review of current project documentation to better understand ownership, responsibilities, and external collaboration processes.
+
+To complete our documentation review, we need information about which teams are involved with active projects, who manages different project responsibilities, and which systems are used for storing project materials and reports.
+
+We would also like to understand the normal approval process for project reports before they are shared externally, including which individuals review materials and determine whether they can be distributed.
+
+Please provide examples of the types of project documents, reports, and materials that are typically prepared or shared with external partners so we can finalize our review.
+
+Thank you,
+Rachel

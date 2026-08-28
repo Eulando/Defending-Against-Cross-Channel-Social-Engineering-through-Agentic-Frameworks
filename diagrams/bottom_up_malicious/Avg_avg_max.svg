@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="720" viewBox="0 0 1120 720">
+<rect width="100%" height="100%" fill="white"/>
+<text x="560.00" y="55.00" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#20242C" text-anchor="middle">Maximum of Individuals Over Combined</text>
+<line x1="92" y1="616.00" x2="1072" y2="616.00" stroke="#D9DEE7" stroke-width="1"/>
+<text x="80.00" y="621.00" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#333844" text-anchor="end">0</text>
+<line x1="92" y1="511.20" x2="1072" y2="511.20" stroke="#D9DEE7" stroke-width="1"/>
+<text x="80.00" y="516.20" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#333844" text-anchor="end">18</text>
+<line x1="92" y1="406.40" x2="1072" y2="406.40" stroke="#D9DEE7" stroke-width="1"/>
+<text x="80.00" y="411.40" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#333844" text-anchor="end">37</text>
+<line x1="92" y1="301.60" x2="1072" y2="301.60" stroke="#D9DEE7" stroke-width="1"/>
+<text x="80.00" y="306.60" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#333844" text-anchor="end">55</text>
+<line x1="92" y1="196.80" x2="1072" y2="196.80" stroke="#D9DEE7" stroke-width="1"/>
+<text x="80.00" y="201.80" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#333844" text-anchor="end">74</text>
+<line x1="92" y1="92.00" x2="1072" y2="92.00" stroke="#D9DEE7" stroke-width="1"/>
+<text x="80.00" y="97.00" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#333844" text-anchor="end">92</text>
+<line x1="92" y1="92" x2="92" y2="616" stroke="#333844" stroke-width="2"/>
+<line x1="92" y1="616" x2="1072" y2="616" stroke="#333844" stroke-width="2"/>
+<rect x="92.00" y="382.48" width="122.50" height="233.52" fill="#4C78A8" stroke="white" stroke-width="1"/>
+<rect x="214.50" y="564.74" width="122.50" height="51.26" fill="#4C78A8" stroke="white" stroke-width="1"/>
+<rect x="337.00" y="92.00" width="122.50" height="524.00" fill="#4C78A8" stroke="white" stroke-width="1"/>
+<rect x="459.50" y="581.83" width="122.50" height="34.17" fill="#4C78A8" stroke="white" stroke-width="1"/>
+<rect x="582.00" y="410.96" width="122.50" height="205.04" fill="#4C78A8" stroke="white" stroke-width="1"/>
+<rect x="704.50" y="604.61" width="122.50" height="11.39" fill="#4C78A8" stroke="white" stroke-width="1"/>
+<rect x="827.00" y="564.74" width="122.50" height="51.26" fill="#4C78A8" stroke="white" stroke-width="1"/>
+<rect x="949.50" y="587.52" width="122.50" height="28.48" fill="#4C78A8" stroke="white" stroke-width="1"/>
+<line x1="92.00" y1="616" x2="92.00" y2="622" stroke="#333844"/>
+<text x="92.00" y="643.00" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#333844" text-anchor="middle">-10</text>
+<line x1="214.50" y1="616" x2="214.50" y2="622" stroke="#333844"/>
+<text x="214.50" y="643.00" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#333844" text-anchor="middle">-5</text>
+<line x1="337.00" y1="616" x2="337.00" y2="622" stroke="#333844"/>
+<text x="337.00" y="643.00" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#333844" text-anchor="middle">0</text>
+<line x1="459.50" y1="616" x2="459.50" y2="622" stroke="#333844"/>
+<text x="459.50" y="643.00" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#333844" text-anchor="middle">5</text>
+<line x1="582.00" y1="616" x2="582.00" y2="622" stroke="#333844"/>
+<text x="582.00" y="643.00" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#333844" text-anchor="middle">10</text>
+<line x1="704.50" y1="616" x2="704.50" y2="622" stroke="#333844"/>
+<text x="704.50" y="643.00" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#333844" text-anchor="middle">15</text>
+<line x1="827.00" y1="616" x2="827.00" y2="622" stroke="#333844"/>
+<text x="827.00" y="643.00" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#333844" text-anchor="middle">20</text>
+<line x1="949.50" y1="616" x2="949.50" y2="622" stroke="#333844"/>
+<text x="949.50" y="643.00" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#333844" text-anchor="middle">25</text>
+<line x1="1072.00" y1="616" x2="1072.00" y2="622" stroke="#333844"/>
+<text x="1072.00" y="643.00" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#333844" text-anchor="middle">30</text>
+<line x1="370.69" y1="92" x2="370.69" y2="616" stroke="#C43C39" stroke-width="4"/>
+<line x1="156.94" y1="92" x2="156.94" y2="616" stroke="#5B8E3E" stroke-width="3" stroke-dasharray="11 8"/>
+<line x1="584.44" y1="92" x2="584.44" y2="616" stroke="#5B8E3E" stroke-width="3" stroke-dasharray="11 8"/>
+<rect x="328.69" y="100.00" width="84" height="28" rx="5" fill="white" stroke="#AAB3C2"/>
+<text x="370.69" y="120.00" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#C43C39" text-anchor="middle">Avg: 1.38</text>
+<rect x="156.94" y="154.00" width="94" height="44" rx="5" fill="white" stroke="#AAB3C2"/>
+<text x="203.94" y="172.00" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5B8E3E" text-anchor="middle">-1 Std Dev</text>
+<text x="203.94" y="190.00" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5B8E3E" text-anchor="middle">-7.35</text>
+<rect x="584.44" y="154.00" width="94" height="44" rx="5" fill="white" stroke="#AAB3C2"/>
+<text x="631.44" y="172.00" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5B8E3E" text-anchor="middle">+1 Std Dev</text>
+<text x="631.44" y="190.00" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#5B8E3E" text-anchor="middle">10.10</text>
+<rect x="886" y="102" width="178" height="118" rx="6" fill="white" stroke="#AAB3C2"/>
+<text x="898.00" y="128.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" fill="#20242C" text-anchor="start">n = 200</text>
+<text x="898.00" y="149.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" fill="#20242C" text-anchor="start">Average = 1.38</text>
+<text x="898.00" y="170.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" fill="#20242C" text-anchor="start">Std Dev = 8.72</text>
+<text x="898.00" y="191.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" fill="#20242C" text-anchor="start">Min = -10.00</text>
+<text x="898.00" y="212.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" fill="#20242C" text-anchor="start">Max = 30.00</text>
+<text x="582.00" y="678.00" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" fill="#20242C" text-anchor="middle">Combined - Max(Ind1-4)</text>
+<text x="38" y="354.0" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#20242C" text-anchor="middle" transform="rotate(-90 38 354.0)">Frequency</text>
+</svg>

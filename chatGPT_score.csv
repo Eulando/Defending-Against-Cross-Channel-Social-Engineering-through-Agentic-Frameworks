@@ -1,4 +1,13 @@
 filename,ind1,ind2,ind3,ind4,combined
+data0.txt,20,10,10,20,15
+data1.txt,10,10,10,10,10
+data2.txt,10,10,20,10,20
+data3.txt,10,10,20,65,30
+data4.txt,10,20,10,10,10
+data5.txt,10,10,10,10,10
+data6.txt,10,10,10,10,10
+data7.txt,10,10,10,10,10
+data8.txt,20,10,10,20,20
 data100.txt,10,10,10,10,10
 data101.txt,10,10,10,10,10
 data102.txt,10,0,10,10,10

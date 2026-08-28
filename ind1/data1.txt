@@ -1,0 +1,8 @@
+Hello,
+
+We are reviewing project documentation to better understand ownership and responsibilities.
+
+Could you confirm which teams are involved with the current project?
+
+Thanks,
+Rachel

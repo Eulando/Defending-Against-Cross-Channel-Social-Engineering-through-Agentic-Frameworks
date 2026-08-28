@@ -1,0 +1,8 @@
+Hi,
+
+As part of the review, we are documenting how teams maintain records and approve internal changes.
+
+Could you explain who normally reviews documentation before it is finalized?
+
+Thanks,
+Jordan
