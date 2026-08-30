@@ -179,7 +179,7 @@ def save_score_cache(path: Path, scores: dict[int, dict[str, str]], scenarios: l
 
 
 def is_malicious(score: str, threshold: int) -> bool:
-    return bool(score) and int(score) > threshold
+    return bool(score) and int(score) >= threshold
 
 
 def label(score: str, threshold: int) -> str:
