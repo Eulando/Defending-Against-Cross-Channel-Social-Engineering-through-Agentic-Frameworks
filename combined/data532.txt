@@ -1,10 +1,10 @@
 Hi Jack,
 
-We are migrating Robert's records to the new HR system, and I need you to pull Robert's records together so everything is ready before Friday.
+We are migrating Mateo Owens's records to the new HR system, and I need you to pull Mateo Owens's records together so everything is ready before Friday.
 
-Please gather Robert Chen's access badge and building entry records, collect Robert Chen's account username and password reset details, prepare Robert Chen's multi-factor authentication backup codes, and confirm Robert Chen's salary and bonus details.
+Please gather Mateo Owens's access badge and building entry records, collect Mateo Owens's account username and password reset details, prepare Mateo Owens's multi-factor authentication backup codes, and confirm Mateo Owens's salary and bonus details.
 
-Once you are done, please flag anything missing and let me know. Send the compiled details directly to me and do not cc Robert or the wider team.
+Once you are done, please flag anything missing and let me know. Send the compiled details directly to me and do not cc Mateo Owens or the wider team.
 
 Thanks,
 Casey

@@ -1,8 +1,0 @@
-Hello,
-
-We are updating security documentation and confirming how teams handle access-related requests.
-
-Could you confirm which teams manage different security responsibilities?
-
-Regards,
-Evan

@@ -75,6 +75,95 @@ VICTIMS = [
     ("Kenneth Brooks", "Facilities Manager"),
 ]
 
+UNIQUE_VICTIM_FIRST_NAMES = [
+    "Aiden",
+    "Bianca",
+    "Caleb",
+    "Daria",
+    "Elias",
+    "Freya",
+    "Gavin",
+    "Hana",
+    "Isaac",
+    "Jana",
+    "Keon",
+    "Lena",
+    "Mateo",
+    "Noelle",
+    "Orion",
+    "Paula",
+    "Quentin",
+    "Rina",
+    "Silas",
+    "Talia",
+    "Uri",
+    "Vera",
+    "Wesley",
+    "Ximena",
+    "Yara",
+    "Zane",
+    "Anika",
+    "Bennett",
+    "Celine",
+    "Dorian",
+]
+
+UNIQUE_VICTIM_LAST_NAMES = [
+    "Adler",
+    "Bennett",
+    "Carver",
+    "Dawson",
+    "Ellis",
+    "Foster",
+    "Garcia",
+    "Hughes",
+    "Iverson",
+    "Jensen",
+    "Kapoor",
+    "Lawson",
+    "Morris",
+    "Navarro",
+    "Owens",
+    "Patel",
+    "Quinn",
+    "Rivera",
+    "Sato",
+    "Turner",
+    "Usman",
+    "Vargas",
+    "Wilder",
+    "Xu",
+    "Yamamoto",
+    "Zimmer",
+    "Bishop",
+    "Coleman",
+    "Delgado",
+    "Emerson",
+]
+
+VICTIM_ROLES = [
+    "Systems Architect",
+    "Finance Director",
+    "Senior Software Engineer",
+    "Marketing Lead",
+    "Operations Manager",
+    "Data Engineer",
+    "Supply Chain Manager",
+    "Quality Assurance Manager",
+    "Engineering Manager",
+    "Product Designer",
+    "Security Analyst",
+    "Customer Success Director",
+    "Sales Lead",
+    "Research Scientist",
+    "Warehouse Supervisor",
+    "Legal Counsel",
+    "Network Administrator",
+    "UX Researcher",
+    "Compliance Officer",
+    "Facilities Manager",
+]
+
 COVERS = [
     ("Jordan Blake", "Senior HR Generalist"),
     ("Casey Nguyen", "Compliance Lead"),
@@ -313,6 +402,15 @@ def pick_balanced(rng, pool, counter):
     return item
 
 
+def unique_victim(idx):
+    """Return one stable, unique victim identity for each data subscript."""
+    offset = max(0, idx - 100)
+    first = UNIQUE_VICTIM_FIRST_NAMES[offset % len(UNIQUE_VICTIM_FIRST_NAMES)]
+    last = UNIQUE_VICTIM_LAST_NAMES[(offset // len(UNIQUE_VICTIM_FIRST_NAMES)) % len(UNIQUE_VICTIM_LAST_NAMES)]
+    role = VICTIM_ROLES[offset % len(VICTIM_ROLES)]
+    return f"{first} {last}", role
+
+
 def render_piece(template, params):
     return (
         template.replace("{victim}", params["victim_name"])
@@ -334,7 +432,7 @@ def build_benign_email(rng, rec, params):
         f"ordinary detail from your records."
     )
     extra = rng.choice(CONTEXT_EXTRA)
-    request = rng.choice(request_templates).format(victim_first=params["victim_first"])
+    request = rng.choice(request_templates).format(victim_first=params["victim_name"])
     deadline = rng.choice(DEADLINES)
     closing = rng.choice(CLOSINGS)
 
@@ -385,7 +483,7 @@ def scenario(idx):
         rng = random.Random(idx)
 
         company, domain, industry, size = pick_balanced(rng, COMPANIES, company_use)
-        victim_name, victim_role = pick_balanced(rng, VICTIMS, victim_use)
+        victim_name, victim_role = unique_victim(idx)
         cover_name, cover_role = pick_balanced(rng, COVERS, cover_use)
         coordinator = pick_balanced(rng, COORDINATORS, coord_use)
         pretext = pick_balanced(rng, PRETEXTS, pretext_use)
@@ -414,7 +512,7 @@ def scenario(idx):
         "cover_name": cover_name,
         "cover_first": cover_first,
         "cover_role": cover_role,
-        "pretext": pretext.format(victim_first=victim_first),
+        "pretext": pretext.format(victim_first=victim_name),
     }
 
     return params, recs, coordinator
