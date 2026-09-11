@@ -1,0 +1,2 @@
+victim_name,threshold,final_verdict,threshold_triggered,max_score,rationale
+Elias Adler,50,benign,False,20,"Each channel report concluded that the email content is benign, with no scores reaching the threshold of 50. The consistent findings across all channels support the conclusion that there is no malicious intent."
