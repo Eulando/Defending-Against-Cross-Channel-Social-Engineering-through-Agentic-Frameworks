@@ -245,16 +245,29 @@ def write_outputs(report: ManagerReport | None, raw_output: str, victim_name: st
         json_path.write_text(report.model_dump_json(indent=2) + "\n", encoding="utf-8")
         rows = []
         for channel_report in report.channel_reports:
-            for finding in channel_report.findings:
+            if channel_report.findings:
+                for finding in channel_report.findings:
+                    rows.append(
+                        {
+                            "victim_name": report.victim_name,
+                            "channel": channel_report.channel,
+                            "filename": finding.filename,
+                            "score": finding.score,
+                            "summary": finding.summary,
+                            "channel_verdict": channel_report.channel_verdict,
+                            "final_verdict": report.final_verdict,
+                        }
+                    )
+            else:
                 rows.append(
                     {
                         "victim_name": report.victim_name,
                         "channel": channel_report.channel,
-                        "filename": finding.filename,
-                        "score": finding.score,
-                        "summary": finding.summary,
-                        "channel_verdict": channel_report.channel_verdict,
-                        "final_verdict": report.final_verdict,
+                        "filename": "cannot be found",
+                        "score": 0,
+                        "summary": "cannot be found",
+                        "channel_verdict": "N/A",
+                        "final_verdict": "N/A",
                     }
                 )
 
