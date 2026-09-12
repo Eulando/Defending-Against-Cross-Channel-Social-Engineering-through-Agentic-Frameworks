@@ -3,7 +3,7 @@
 CrewAI detector for one victim across ind1..ind4.
 
 Default target:
-  Elias Adler
+  Anton Chekhov
 
 The crew has five agents:
   - one manager agent
@@ -37,7 +37,7 @@ ROOT = Path(__file__).resolve().parent
 CHANNEL_DIRS = ["ind1", "ind2", "ind3", "ind4"]
 DEFAULT_MODEL = "gpt-4o-mini"
 DEFAULT_THRESHOLD = 50
-DEFAULT_VICTIM = "Elias Adler"
+DEFAULT_VICTIM = "Anton Chekhov"
 
 
 class ChannelSearchInput(BaseModel):
@@ -187,6 +187,8 @@ def build_channel_task(agent: Agent, channel_number: int, victim_name: str) -> T
             "information requested in the email. Score the individual email only; "
             "do not combine evidence across channels. Treat 0 as fully benign and "
             "100 as fully malicious.\n\n"
+            "If you cannot find any email containing the victim name in your "
+            'assigned folder, say exactly "cannot be found" in your rationale.\n\n'
             "Return a structured report with the channel number, victim name, "
             "all findings, the maximum score, a channel verdict using threshold "
             "50, and a brief rationale."
@@ -194,7 +196,8 @@ def build_channel_task(agent: Agent, channel_number: int, victim_name: str) -> T
         expected_output=(
             "A valid structured ChannelReport. Include every matching file. "
             "If there are no matches, findings must be an empty list, max_score "
-            "must be 0, and channel_verdict must be benign."
+            'must be 0, channel_verdict must be benign, and rationale must be '
+            '"cannot be found".'
         ),
         agent=agent,
         output_pydantic=ChannelReport,
@@ -282,6 +285,8 @@ def dry_run(victim_name: str) -> None:
     for channel_dir in CHANNEL_DIRS:
         matches = find_matches(channel_dir, victim_name)
         print(f"{channel_dir}: {len(matches)} match(es)")
+        if not matches:
+            print("  cannot be found")
         for match in matches:
             print(f"  {match['filename']}")
 
@@ -338,6 +343,9 @@ def main() -> None:
     if report is not None:
         print(f"Final verdict: {report.final_verdict}")
         print(f"Threshold triggered: {report.threshold_triggered}")
+        for channel_report in report.channel_reports:
+            if not channel_report.findings:
+                print(f"channel{channel_report.channel}: cannot be found")
 
 
 if __name__ == "__main__":
