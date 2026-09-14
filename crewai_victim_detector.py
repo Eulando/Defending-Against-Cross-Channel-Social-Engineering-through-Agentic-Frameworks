@@ -3,7 +3,7 @@
 CrewAI detector for one victim across ind1..ind4.
 
 Default target:
-  Anton Chekhov
+  Elias Adler
 
 The crew has five agents:
   - one manager agent
@@ -34,10 +34,11 @@ from pydantic import BaseModel, Field
 
 
 ROOT = Path(__file__).resolve().parent
+RESULTS_DIR = ROOT / "crewai_detector_results"
 CHANNEL_DIRS = ["ind1", "ind2", "ind3", "ind4"]
 DEFAULT_MODEL = "gpt-4o-mini"
 DEFAULT_THRESHOLD = 50
-DEFAULT_VICTIM = "Anton Chekhov"
+DEFAULT_VICTIM = "Elias Adler"
 
 
 class ChannelSearchInput(BaseModel):
@@ -236,10 +237,121 @@ def build_manager_task(
     )
 
 
+def build_execution_trace(report: ManagerReport) -> list[dict[str, str | int | bool]]:
+    trace: list[dict[str, str | int | bool]] = [
+        {
+            "step": 1,
+            "actor": "manager",
+            "action": "provided_victim_name",
+            "channel": "",
+            "filename": "",
+            "score": "",
+            "threshold": "",
+            "threshold_triggered": "",
+            "details": report.victim_name,
+        }
+    ]
+
+    step = 2
+    for channel_report in sorted(report.channel_reports, key=lambda item: item.channel):
+        trace.append(
+            {
+                "step": step,
+                "actor": f"channel{channel_report.channel}_agent",
+                "action": "searched_channel",
+                "channel": channel_report.channel,
+                "filename": "",
+                "score": "",
+                "threshold": "",
+                "threshold_triggered": "",
+                "details": f"channel {channel_report.channel}",
+            }
+        )
+        step += 1
+
+        if channel_report.findings:
+            for finding in channel_report.findings:
+                trace.append(
+                    {
+                        "step": step,
+                        "actor": f"channel{channel_report.channel}_agent",
+                        "action": "reported_finding",
+                        "channel": channel_report.channel,
+                        "filename": finding.filename,
+                        "score": finding.score,
+                        "threshold": "",
+                        "threshold_triggered": "",
+                        "details": finding.summary,
+                    }
+                )
+                step += 1
+        else:
+            trace.append(
+                {
+                    "step": step,
+                    "actor": f"channel{channel_report.channel}_agent",
+                    "action": "reported_finding",
+                    "channel": channel_report.channel,
+                    "filename": "cannot be found",
+                    "score": 0,
+                    "threshold": "",
+                    "threshold_triggered": "",
+                    "details": "cannot be found",
+                }
+            )
+            step += 1
+
+        trace.append(
+            {
+                "step": step,
+                "actor": f"channel{channel_report.channel}_agent",
+                "action": "submitted_channel_verdict",
+                "channel": channel_report.channel,
+                "filename": "",
+                "score": "",
+                "threshold": "",
+                "threshold_triggered": "",
+                "details": channel_report.channel_verdict,
+            }
+        )
+        step += 1
+
+    trace.append(
+        {
+            "step": step,
+            "actor": "manager",
+            "action": "applied_threshold_rule",
+            "channel": "",
+            "filename": "",
+            "score": "",
+            "threshold": report.threshold,
+            "threshold_triggered": report.threshold_triggered,
+            "details": report.combined_effect_review,
+        }
+    )
+    step += 1
+    trace.append(
+        {
+            "step": step,
+            "actor": "manager",
+            "action": "issued_final_verdict",
+            "channel": "",
+            "filename": "",
+            "score": "",
+            "threshold": "",
+            "threshold_triggered": "",
+            "details": report.final_verdict,
+        }
+    )
+    return trace
+
+
 def write_outputs(report: ManagerReport | None, raw_output: str, victim_name: str) -> None:
     base = slug(victim_name)
-    json_path = ROOT / f"crewai_{base}_report.json"
-    csv_path = ROOT / f"crewai_{base}_findings.csv"
+    RESULTS_DIR.mkdir(exist_ok=True)
+    json_path = RESULTS_DIR / f"crewai_{base}_report.json"
+    csv_path = RESULTS_DIR / f"crewai_{base}_findings.csv"
+    trace_path = RESULTS_DIR / f"crewai_{base}_trace.csv"
 
     if report is not None:
         json_path.write_text(report.model_dump_json(indent=2) + "\n", encoding="utf-8")
@@ -286,12 +398,32 @@ def write_outputs(report: ManagerReport | None, raw_output: str, victim_name: st
             )
             writer.writeheader()
             writer.writerows(rows)
+
+        trace_rows = build_execution_trace(report)
+        with trace_path.open("w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(
+                f,
+                fieldnames=[
+                    "step",
+                    "actor",
+                    "action",
+                    "channel",
+                    "filename",
+                    "score",
+                    "threshold",
+                    "threshold_triggered",
+                    "details",
+                ],
+            )
+            writer.writeheader()
+            writer.writerows(trace_rows)
     else:
         json_path.write_text(raw_output + "\n", encoding="utf-8")
 
     print(f"Report: {json_path.name}")
     if report is not None:
         print(f"Findings: {csv_path.name}")
+        print(f"Trace: {trace_path.name}")
 
 
 def dry_run(victim_name: str) -> None:
@@ -343,9 +475,10 @@ def main() -> None:
     )
 
     crew = Crew(
-        agents=[manager, *channel_agents],
+        agents=channel_agents,
         tasks=[*channel_tasks, manager_task],
-        process=Process.sequential,
+        process=Process.hierarchical,
+        manager_agent=manager,
         verbose=args.verbose,
     )
 

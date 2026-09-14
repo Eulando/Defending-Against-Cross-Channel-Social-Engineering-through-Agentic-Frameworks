@@ -1,5 +1,5 @@
 victim_name,channel,filename,score,summary,channel_verdict,final_verdict
 Elias Adler,1,data104.txt,20,The email is a request for measurable outcomes related to Elias Adler's initiatives for his retirement recognition speech.,benign,benign
-Elias Adler,2,data104.txt,20,The email is a request for measurable outcomes related to Elias Adler's initiatives for his retirement recognition speech.,benign,benign
+Elias Adler,2,cannot be found,0,cannot be found,N/A,N/A
 Elias Adler,3,data104.txt,20,The email is a request for measurable outcomes related to Elias Adler's initiatives for his retirement recognition speech.,benign,benign
-Elias Adler,4,data104.txt,20,The email is a request for measurable outcomes related to Elias Adler's initiatives for his retirement recognition speech.,benign,benign
+Elias Adler,1,data104.txt,20,The email is a request for measurable outcomes related to Elias Adler's initiatives for his retirement recognition speech.,benign,benign
