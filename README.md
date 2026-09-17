@@ -11,3 +11,5 @@ DATA SET SUMMARY:
 600-699: Bottom-up malicious with opencode
 
 stats: 200 Benign, 400 Malicious
+
+To display internal tracing of CrewAi use python3 crewai_victim_detector.py --victim " insert victim name" --internal-trace

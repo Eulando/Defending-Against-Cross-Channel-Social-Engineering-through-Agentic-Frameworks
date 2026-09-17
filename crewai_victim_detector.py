@@ -3,7 +3,7 @@
 CrewAI detector for one victim across ind1..ind4.
 
 Default target:
-  Elias Adler
+  First victim name from column 2 of victim_names.csv, skipping the header.
 
 The crew has five agents:
   - one manager agent
@@ -35,10 +35,10 @@ from pydantic import BaseModel, Field
 
 ROOT = Path(__file__).resolve().parent
 RESULTS_DIR = ROOT / "crewai_detector_results"
+VICTIM_NAMES_PATH = ROOT / "victim_names.csv"
 CHANNEL_DIRS = ["ind1", "ind2", "ind3", "ind4"]
 DEFAULT_MODEL = "gpt-4o-mini"
 DEFAULT_THRESHOLD = 50
-DEFAULT_VICTIM = "Elias Adler"
 
 
 class ChannelSearchInput(BaseModel):
@@ -126,13 +126,28 @@ def require_api_key() -> None:
         sys.exit("No OPENAI_API_KEY found. Export it before running this script.")
 
 
+def load_default_victim() -> str:
+    with VICTIM_NAMES_PATH.open(newline="", encoding="utf-8") as f:
+        reader = csv.reader(f)
+        next(reader, None)
+        for row in reader:
+            if len(row) >= 2 and row[1].strip():
+                return row[1].strip()
+
+    sys.exit(f"No victim name found in column 2 of {VICTIM_NAMES_PATH.name}.")
+
+
 def find_matches(channel_dir: str, victim_name: str) -> list[dict[str, str]]:
     tool = ChannelSearchTool(channel_dir)
     payload = json.loads(tool._run(victim_name))
     return payload["matches"]
 
 
-def build_channel_agent(channel_number: int, model: str, verbose: bool) -> Agent:
+def build_channel_agent(
+    channel_number: int,
+    model: str,
+    verbose: bool,
+) -> Agent:
     channel_dir = f"ind{channel_number}"
     return Agent(
         role=f"Channel {channel_number} Email Analyst",
@@ -237,121 +252,15 @@ def build_manager_task(
     )
 
 
-def build_execution_trace(report: ManagerReport) -> list[dict[str, str | int | bool]]:
-    trace: list[dict[str, str | int | bool]] = [
-        {
-            "step": 1,
-            "actor": "manager",
-            "action": "provided_victim_name",
-            "channel": "",
-            "filename": "",
-            "score": "",
-            "threshold": "",
-            "threshold_triggered": "",
-            "details": report.victim_name,
-        }
-    ]
-
-    step = 2
-    for channel_report in sorted(report.channel_reports, key=lambda item: item.channel):
-        trace.append(
-            {
-                "step": step,
-                "actor": f"channel{channel_report.channel}_agent",
-                "action": "searched_channel",
-                "channel": channel_report.channel,
-                "filename": "",
-                "score": "",
-                "threshold": "",
-                "threshold_triggered": "",
-                "details": f"channel {channel_report.channel}",
-            }
-        )
-        step += 1
-
-        if channel_report.findings:
-            for finding in channel_report.findings:
-                trace.append(
-                    {
-                        "step": step,
-                        "actor": f"channel{channel_report.channel}_agent",
-                        "action": "reported_finding",
-                        "channel": channel_report.channel,
-                        "filename": finding.filename,
-                        "score": finding.score,
-                        "threshold": "",
-                        "threshold_triggered": "",
-                        "details": finding.summary,
-                    }
-                )
-                step += 1
-        else:
-            trace.append(
-                {
-                    "step": step,
-                    "actor": f"channel{channel_report.channel}_agent",
-                    "action": "reported_finding",
-                    "channel": channel_report.channel,
-                    "filename": "cannot be found",
-                    "score": 0,
-                    "threshold": "",
-                    "threshold_triggered": "",
-                    "details": "cannot be found",
-                }
-            )
-            step += 1
-
-        trace.append(
-            {
-                "step": step,
-                "actor": f"channel{channel_report.channel}_agent",
-                "action": "submitted_channel_verdict",
-                "channel": channel_report.channel,
-                "filename": "",
-                "score": "",
-                "threshold": "",
-                "threshold_triggered": "",
-                "details": channel_report.channel_verdict,
-            }
-        )
-        step += 1
-
-    trace.append(
-        {
-            "step": step,
-            "actor": "manager",
-            "action": "applied_threshold_rule",
-            "channel": "",
-            "filename": "",
-            "score": "",
-            "threshold": report.threshold,
-            "threshold_triggered": report.threshold_triggered,
-            "details": report.combined_effect_review,
-        }
-    )
-    step += 1
-    trace.append(
-        {
-            "step": step,
-            "actor": "manager",
-            "action": "issued_final_verdict",
-            "channel": "",
-            "filename": "",
-            "score": "",
-            "threshold": "",
-            "threshold_triggered": "",
-            "details": report.final_verdict,
-        }
-    )
-    return trace
-
-
-def write_outputs(report: ManagerReport | None, raw_output: str, victim_name: str) -> None:
+def write_outputs(
+    report: ManagerReport | None,
+    raw_output: str,
+    victim_name: str,
+) -> None:
     base = slug(victim_name)
     RESULTS_DIR.mkdir(exist_ok=True)
     json_path = RESULTS_DIR / f"crewai_{base}_report.json"
     csv_path = RESULTS_DIR / f"crewai_{base}_findings.csv"
-    trace_path = RESULTS_DIR / f"crewai_{base}_trace.csv"
 
     if report is not None:
         json_path.write_text(report.model_dump_json(indent=2) + "\n", encoding="utf-8")
@@ -398,32 +307,12 @@ def write_outputs(report: ManagerReport | None, raw_output: str, victim_name: st
             )
             writer.writeheader()
             writer.writerows(rows)
-
-        trace_rows = build_execution_trace(report)
-        with trace_path.open("w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(
-                f,
-                fieldnames=[
-                    "step",
-                    "actor",
-                    "action",
-                    "channel",
-                    "filename",
-                    "score",
-                    "threshold",
-                    "threshold_triggered",
-                    "details",
-                ],
-            )
-            writer.writeheader()
-            writer.writerows(trace_rows)
     else:
         json_path.write_text(raw_output + "\n", encoding="utf-8")
 
     print(f"Report: {json_path.name}")
     if report is not None:
         print(f"Findings: {csv_path.name}")
-        print(f"Trace: {trace_path.name}")
 
 
 def dry_run(victim_name: str) -> None:
@@ -440,37 +329,57 @@ def main() -> None:
     parser = argparse.ArgumentParser(
         description="Run a CrewAI detector for one victim across ind1-ind4."
     )
-    parser.add_argument("--victim", default=DEFAULT_VICTIM, help="Full victim name")
+    parser.add_argument(
+        "--victim",
+        help=(
+            "Full victim name. Defaults to the first value in column 2 of "
+            "victim_names.csv, skipping the header."
+        ),
+    )
     parser.add_argument("--model", default=DEFAULT_MODEL, help="ChatGPT model")
     parser.add_argument("--threshold", type=int, default=DEFAULT_THRESHOLD)
     parser.add_argument("--verbose", action="store_true", help="Enable CrewAI logs")
+    parser.add_argument(
+        "--internal-trace",
+        action="store_true",
+        help=(
+            "Enable CrewAI native tracing and verbose terminal logs without "
+            "writing trace files."
+        ),
+    )
     parser.add_argument(
         "--dry-run",
         action="store_true",
         help="Only show matching files without calling ChatGPT.",
     )
     args = parser.parse_args()
+    victim_name = args.victim or load_default_victim()
 
     if args.dry_run:
-        dry_run(args.victim)
+        dry_run(victim_name)
         return
 
     require_api_key()
+    verbose = args.verbose or args.internal_trace
 
     channel_agents = [
-        build_channel_agent(channel_number, args.model, args.verbose)
+        build_channel_agent(
+            channel_number,
+            args.model,
+            verbose,
+        )
         for channel_number in range(1, 5)
     ]
-    manager = build_manager_agent(args.model, args.verbose)
+    manager = build_manager_agent(args.model, verbose)
 
     channel_tasks = [
-        build_channel_task(agent, channel_number, args.victim)
+        build_channel_task(agent, channel_number, victim_name)
         for channel_number, agent in enumerate(channel_agents, start=1)
     ]
     manager_task = build_manager_task(
         manager,
         channel_tasks,
-        args.victim,
+        victim_name,
         args.threshold,
     )
 
@@ -479,12 +388,13 @@ def main() -> None:
         tasks=[*channel_tasks, manager_task],
         process=Process.hierarchical,
         manager_agent=manager,
-        verbose=args.verbose,
+        verbose=verbose,
+        tracing=args.internal_trace,
     )
 
     result = crew.kickoff()
     report = result.pydantic if isinstance(result.pydantic, ManagerReport) else None
-    write_outputs(report, result.raw, args.victim)
+    write_outputs(report, result.raw, victim_name)
 
     if report is not None:
         print(f"Final verdict: {report.final_verdict}")
