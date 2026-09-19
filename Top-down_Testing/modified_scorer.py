@@ -7,7 +7,7 @@ Each top-level .txt file in Top-down_Testing is sent to ChatGPT, which returns
 a maliciousness score:
   0 = completely benign, 100 = completely malicious.
 
-CSV columns: filename, score
+CSV columns: number, added-content, rephrased, restructured, combined-approach
 
 IMPORTANT:
 - If the output CSV already exists, previously scored files are preserved.
@@ -35,6 +35,8 @@ from openai import OpenAI
 
 ROOT = Path(__file__).resolve().parent
 RESULTS_DIR = ROOT / "results"
+CATEGORIES = ["added-content", "rephrased", "restructured", "combined-approach"]
+OUTPUT_COLUMNS = ["number"] + CATEGORIES
 
 SYSTEM_PROMPT = (
     "You are a cybersecurity analyst specializing in email security. "
@@ -61,6 +63,19 @@ def email_files(root: Path) -> list[Path]:
         ],
         key=file_sort_key,
     )
+
+
+def file_info(path: Path) -> tuple[int, str]:
+    match = re.fullmatch(
+        r"data(\d+)-ind\d+_(added-content|combined-approach|rephrased|restructured)\.txt",
+        path.name,
+    )
+    if not match:
+        raise ValueError(
+            f"Unexpected file name format: {path.name}. Expected a name like "
+            "data229-ind1_added-content.txt"
+        )
+    return int(match.group(1)), match.group(2)
 
 
 def read_email(path: Path) -> str:
@@ -94,7 +109,11 @@ def score_email(client, model: str, content: str) -> str:
     return ""
 
 
-def load_existing_scores(path: Path) -> dict[str, str]:
+def empty_score_row() -> dict[str, str]:
+    return {category: "" for category in CATEGORIES}
+
+
+def load_existing_scores(path: Path) -> dict[int, dict[str, str]]:
     existing = {}
 
     if not path.exists():
@@ -104,24 +123,38 @@ def load_existing_scores(path: Path) -> dict[str, str]:
         with path.open("r", newline="", encoding="utf-8") as f:
             reader = csv.DictReader(f)
 
-            expected_columns = ["filename", "score"]
-            if reader.fieldnames != expected_columns:
+            if reader.fieldnames and set(reader.fieldnames) == set(OUTPUT_COLUMNS):
+                for row in reader:
+                    number = row.get("number", "").strip()
+                    if not number:
+                        continue
+
+                    existing[int(number)] = {
+                        category: row.get(category, "").strip()
+                        for category in CATEGORIES
+                    }
+                return existing
+
+            if reader.fieldnames == ["filename", "score"]:
+                for row in reader:
+                    filename = row.get("filename", "").strip()
+                    score = row.get("score", "").strip()
+
+                    if filename:
+                        number, category = file_info(Path(filename))
+                        existing.setdefault(number, empty_score_row())[category] = score
+                return existing
+
+            if reader.fieldnames != OUTPUT_COLUMNS:
                 print(
                     f"Warning: existing CSV has unexpected columns: "
                     f"{reader.fieldnames}",
                     file=sys.stderr,
                 )
                 print(
-                    f"Expected columns: {expected_columns}",
+                    f"Expected columns: {OUTPUT_COLUMNS}",
                     file=sys.stderr,
                 )
-
-            for row in reader:
-                filename = row.get("filename", "").strip()
-                score = row.get("score", "").strip()
-
-                if filename:
-                    existing[filename] = score
 
     except Exception as exc:
         sys.exit(f"Could not read existing CSV: {exc}")
@@ -129,15 +162,19 @@ def load_existing_scores(path: Path) -> dict[str, str]:
     return existing
 
 
-def save_scores(path: Path, scores: dict[str, str], files: list[Path]) -> None:
+def save_scores(path: Path, scores: dict[int, dict[str, str]], files: list[Path]) -> None:
     RESULTS_DIR.mkdir(exist_ok=True)
+    numbers = sorted({file_info(email_file)[0] for email_file in files})
 
     with path.open("w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
-        writer.writerow(["filename", "score"])
+        writer.writerow(OUTPUT_COLUMNS)
 
-        for email_file in files:
-            writer.writerow([email_file.name, scores.get(email_file.name, "")])
+        for number in numbers:
+            row_scores = scores.get(number, empty_score_row())
+            writer.writerow(
+                [number] + [row_scores.get(category, "") for category in CATEGORIES]
+            )
 
 
 def main() -> None:
@@ -166,7 +203,7 @@ def main() -> None:
 
     parser.add_argument(
         "--output",
-        default="chatGPT_score.csv",
+        default="top-down_testing_scores.csv",
         help="Output CSV filename inside the results folder",
     )
 
@@ -206,12 +243,14 @@ def main() -> None:
 
     for pos, email_file in enumerate(files, start=1):
         filename = email_file.name
-        existing_score = scores.get(filename, "").strip()
+        number, category = file_info(email_file)
+        scores.setdefault(number, empty_score_row())
+        existing_score = scores[number].get(category, "").strip()
 
         print(f"\n[{pos}/{len(files)}] {filename}")
 
         if existing_score:
-            print(f"  existing score {existing_score} (skipping)")
+            print(f"  {category}: existing score {existing_score} (skipping)")
             skipped_files += 1
             continue
 
@@ -219,7 +258,6 @@ def main() -> None:
 
         if not content:
             print("  no content found (skipping)")
-            scores[filename] = ""
             continue
 
         score = ""
@@ -242,10 +280,10 @@ def main() -> None:
 
                 time.sleep(2)
 
-        scores[filename] = score
+        scores[number][category] = score
         new_scores += 1
 
-        print(f"  score: {score}")
+        print(f"  {category}: {score}")
 
         save_scores(out_path, scores, files)
         time.sleep(0.25)
