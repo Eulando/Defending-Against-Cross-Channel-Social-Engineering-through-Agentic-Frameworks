@@ -1,4 +1,0 @@
-threshold,tp,fp,tn,fn,skipped,precision,recall,probability_of_detection
-25,364,15,225,5,0,0.9604,0.9864,0.9864
-50,302,6,300,1,0,0.9805,0.9967,0.9967
-70,302,5,301,1,0,0.9837,0.9967,0.9967
