@@ -1,25 +1,26 @@
 #!/usr/bin/env python3
 """
-Scores emails in the dataset with ChatGPT and writes/resumes results in
-chatGPT_score.csv.
+Scores emails in restructured data/ with ChatGPT and writes/resumes results in
+restructured_chatGPT_score.csv.
 
-For each subscription (dataK.txt), the body of ind1, ind2, ind3, ind4 and the
-combined folder are each sent to ChatGPT, which returns a maliciousness score:
+For each subscription (dataK.txt), the body of ind1, ind2, ind3, and ind4 are
+each sent to ChatGPT, which returns a maliciousness score:
   0 = completely benign, 100 = completely malicious.
 
-CSV columns: filename, ind1, ind2, ind3, ind4, ind5
-(where ind5 holds the score of the combined email).
+CSV columns: filename, ind1, ind2, ind3, ind4
 
 IMPORTANT:
-- If chatGPT_score.csv already exists, previously scored data is preserved.
+- If restructured_chatGPT_score.csv already exists, previous scores are
+  preserved.
 - Only missing datasets/scores are sent to the API.
 - This allows the scorer to resume after interruption and prevents
   re-scoring existing data.
 
 Usage:
-  python scorer_chatgpt.py
-  python scorer_chatgpt.py --api-key sk-... --model gpt-4o-mini
-  python scorer_chatgpt.py --limit 5
+  python modified_scorer.py
+  python modified_scorer.py --api-key sk-... --model gpt-4o-mini
+  python modified_scorer.py --limit 5
+  python modified_scorer.py --input-dir "restructured data trial 2" --output restructured_trail2.csv
 
 Requires an OpenAI API key (env OPENAI_API_KEY or --api-key).
 """
@@ -34,7 +35,8 @@ from pathlib import Path
 from openai import OpenAI
 
 ROOT = Path(__file__).resolve().parent
-SOURCES = ["ind1", "ind2", "ind3", "ind4", "combined"]
+DATA_ROOT = ROOT / "restructured data"
+SOURCES = ["ind1", "ind2", "ind3", "ind4"]
 
 SYSTEM_PROMPT = (
     "You are a cybersecurity analyst specializing in email security. "
@@ -47,10 +49,21 @@ SYSTEM_PROMPT = (
 
 
 def dataset_ids(root: Path) -> list:
-    ids = sorted(
-        int(p.stem[len("data"):])
-        for p in (root / "combined").glob("data*.txt")
-    )
+    ids = set()
+
+    for source in SOURCES:
+        folder = root / source
+
+        if not folder.exists():
+            continue
+
+        for path in folder.glob("data*.txt"):
+            number_text = path.stem[len("data"):]
+
+            if number_text.isdigit():
+                ids.add(int(number_text))
+
+    ids = sorted(ids)
     return ids
 
 
@@ -88,7 +101,7 @@ def score_email(client, model: str, content: str) -> str:
 
 def load_existing_scores(path: Path) -> dict:
     """
-    Load existing scores from chatGPT_score.csv.
+    Load existing scores from restructured_chatGPT_score.csv.
 
     Returns:
         {
@@ -96,8 +109,7 @@ def load_existing_scores(path: Path) -> dict:
                 "ind1": "20",
                 "ind2": "35",
                 "ind3": "10",
-                "ind4": "5",
-                "combined": "15"
+                "ind4": "5"
             },
             ...
         }
@@ -145,10 +157,6 @@ def save_scores(path: Path, scores: dict, ids: list) -> None:
 
     The output is sorted by dataset number.
     """
-    def data_number(filename):
-        match = re.search(r"data(\d+)\.txt", filename)
-        return int(match.group(1)) if match else 999999999
-
     with path.open("w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["filename"] + SOURCES)
@@ -190,8 +198,14 @@ def main() -> None:
 
     parser.add_argument(
         "--output",
-        default="chatGPT_score.csv",
+        default="restructured_chatGPT_score.csv",
         help="Output CSV path",
+    )
+
+    parser.add_argument(
+        "--input-dir",
+        default=str(DATA_ROOT),
+        help="Input folder containing ind1-ind4 folders.",
     )
 
     args = parser.parse_args()
@@ -208,14 +222,19 @@ def main() -> None:
 
     client = OpenAI(api_key=api_key)
 
+    data_root = Path(args.input_dir)
+
+    if not data_root.exists():
+        sys.exit(f"Input folder not found: {data_root}")
+
     # Find all datasets.
-    ids = dataset_ids(ROOT)
+    ids = dataset_ids(data_root)
 
     if args.limit:
         ids = ids[: args.limit]
 
     if not ids:
-        sys.exit("No datasets found in the combined folder.")
+        sys.exit(f"No datasets found in {data_root}/ind1-ind4.")
 
     out_path = ROOT / args.output
 
@@ -265,7 +284,7 @@ def main() -> None:
                 )
                 continue
 
-            content = read_email(ROOT, source, idx)
+            content = read_email(data_root, source, idx)
 
             if not content:
                 print(
