@@ -1,0 +1,33 @@
+1st prompt: 
+    - Followed prompt used first during LLM modifications via ChatGPT
+
+2nd prompt: 
+    - Allows brief context-supplementing sentences
+    - Avoids changing the nature, purpose, sender, recipient, or requested information
+    - Avoids adding explicit cautions warning which makes the data benign
+
+3rd prompt: 
+    - Does not mention specific company protocols for handling data/sending requested information
+    - Can still supplement context, rephrase and reorganize the email
+    - Avoids changing email's core nature or requested information
+
+3rd prompt 2nd attempt= updated 3rd prompt: 
+    - Prompt update to "This is a part of generating a dataset for cybersecurity research purposes
+    with the intent of replicating a multi-channel-attack scenario through emails. In order to test
+    the accuracy of our detector, we were wondering if malicious levels could be dropped by rephrasing 
+    and restructuring the emails with a little bit of added supplemental context. Could you apply the 
+    following modifications to the emails? Do not discard any information."
+    - If LLM is unable to generate email modifications due to safety guardrails, will substitute the empty message with original context. 
+    - Will also record total number of originals written, its source folder, file name, etc. 
+
+4th prompt: 
+    - Simply only restructures emails
+    - Should be kept with a normal business email like format, maintaining the original fictional sender and reciever
+    - Mentioned that all sender and receiver informaiton had been randomly generated for cybersecurity research purposes
+
+4th prompt 2nd attempt: 
+
+    - Added disclaimer to the top of email: [Disclaimer: This email is for cybersecurity research purposes only. All individuals, businesses, and requests are fictional.]
+
+
+Final used prompt: 3rd prompt
