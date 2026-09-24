@@ -31,3 +31,8 @@
 
 
 Final used prompt: 3rd prompt
+Results before scoring: 
+    - 59 blocked by safety guardrails, fallback to original emails
+    - 82 containing safety softening phrases --> compromised the nature of the email
+    - In total, 356 favorable emails out of 497 total
+    - 356/497= 0.7162 or 71.62%

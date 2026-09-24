@@ -1,0 +1,13 @@
+Hello,
+
+Hope your week is going well.
+
+We’re consolidating Yara Ellis’s personnel records for the annual compliance audit and need your help confirming one item for the related security review.
+
+Could you provide Yara’s account username and the non-sensitive password-reset information currently on record, such as the most recent reset date and status? We’re using it to reconcile the account with the access logs.
+
+This is a priority, so an earlier response would be appreciated, though there is no firm deadline.
+
+Thanks,
+Avery
+Security Coordinator, Nova Telecom

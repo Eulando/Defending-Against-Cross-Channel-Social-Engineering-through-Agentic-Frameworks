@@ -1,0 +1,13 @@
+Hello,
+
+We are migrating Bianca Patel’s records to the new HR system and need one detail from your records to ensure the information is accurate.
+
+Could you provide Bianca’s account username and the administrative details of any password reset on record, such as the date, status, and related ticket reference? We are reviewing the access logs as part of the security review. Please do not include any password, reset link, token, or security-answer content.
+
+A response by the end of the week would be appreciated.
+
+Thanks,
+
+Jordan  
+Senior HR Generalist  
+Crestline Hotels

@@ -1,0 +1,10 @@
+Good morning Marcus,
+
+We’re reviewing Daria Ellis’s account as part of the insurance renewal and related security review. Could you pull the account username and the password-reset activity details on record, such as the date, time, method, and status? Please exclude any active reset links, tokens, passwords, or security-question answers.
+
+There’s no immediate rush, but receiving this by Friday would help us finalize the review.
+
+Best,
+Morgan
+IT Administrator
+Pearl Foods Inc.

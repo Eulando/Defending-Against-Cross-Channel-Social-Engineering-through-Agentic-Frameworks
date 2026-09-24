@@ -1,0 +1,11 @@
+Hi Greta,
+
+We’re migrating Aiden Jensen’s records to the new HR system and need your help checking the account-recovery setup.
+
+Could you confirm whether multi-factor authentication backup codes are configured for Aiden’s account? If they need to be regenerated as part of the migration, please initiate the reset and let me know once it’s complete.
+
+Whenever you can fit this in this week would be perfect.
+
+Thanks a lot,
+Rowan
+Data Governance Officer, Bluewater Logistics

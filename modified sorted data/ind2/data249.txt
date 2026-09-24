@@ -1,0 +1,9 @@
+Hello,
+
+We’re reviewing Dorian Ellis’s account as part of the insurance renewal and related security review. Could you provide the account username, relevant access-log entries, and the dates and status of any password-reset events on record? Please exclude passwords, reset links, tokens, and security-answer information.
+
+Receiving the account audit details by Friday would help the team finalize the review.
+
+Best regards,
+Taylor
+Finance Manager, Cortex Software

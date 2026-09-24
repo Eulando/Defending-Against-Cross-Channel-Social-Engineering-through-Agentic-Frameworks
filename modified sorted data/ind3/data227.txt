@@ -1,0 +1,11 @@
+Hello Greta,
+
+We are preparing Hana Ellis’s file for year-end reconciliation and need to confirm that multi-factor authentication recovery options are configured on the account.
+
+Could you verify the recovery status and, if necessary, initiate a reset or reissue of the backup codes through the account administration system? Existing backup codes should not be shared.
+
+A response by the end of the week would be appreciated.
+
+Best regards,
+Quinn
+Payroll Supervisor, Harbor Biotech

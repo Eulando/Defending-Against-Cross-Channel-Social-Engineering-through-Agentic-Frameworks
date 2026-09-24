@@ -1,0 +1,13 @@
+Hey Greta,
+
+Quick check-in from my side.
+
+We’re consolidating Gavin Jensen’s personnel records for the annual compliance audit and need to verify the status of his account-recovery setup.
+
+Could you confirm whether multi-factor authentication backup codes have been generated for Gavin’s account? Please do not include the codes themselves; confirmation of their status is sufficient.
+
+There’s no immediate deadline, though an earlier response would be appreciated.
+
+Thanks,
+Morgan
+IT Administrator, Juniper Bank

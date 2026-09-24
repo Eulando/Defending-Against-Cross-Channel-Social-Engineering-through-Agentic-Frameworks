@@ -1,0 +1,13 @@
+Hi Marcus,
+
+Hope your week is going well.
+
+We’re preparing Anika Navarro’s file for the year-end reconciliation and checking access logs as part of the security review. Could you pull her account username along with the password-reset audit details on record, such as the date, time, completion status, and associated ticket number? Please exclude passwords, reset links, tokens, security answers, or other authentication secrets.
+
+We have a short window to pull everything together, though there’s no firm deadline. Earlier is always appreciated.
+
+Thanks in advance,
+
+Morgan  
+IT Administrator  
+Ventureline Consulting

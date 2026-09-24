@@ -1,0 +1,11 @@
+Good morning Greta,
+
+Quick check-in from my side.
+
+We’re migrating Rina Garcia’s records to the new HR system and are reviewing her account-recovery setup. Could you confirm whether her multi-factor authentication backup codes have been regenerated and the updated recovery configuration is complete? Please do not send the codes themselves.
+
+Completing this by Friday would help us finalize the migration.
+
+Thanks,
+Rowan
+Data Governance Officer, Juniper Bank

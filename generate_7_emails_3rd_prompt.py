@@ -85,16 +85,22 @@ def looks_like_refusal(text: str) -> bool:
     lowered = text.lower()
     refusal_markers = [
         "i can't assist",
+        "i can’t assist",
         "i cannot assist",
         "i can't help",
+        "i can’t help",
         "i cannot help",
         "i'm not able to",
+        "i’m not able to",
         "i am not able to",
         "i won't",
+        "i won’t",
         "i will not",
         "sorry, but i can't",
+        "sorry, but i can’t",
         "sorry, but i cannot",
         "can't comply",
+        "can’t comply",
         "cannot comply",
         "unable to comply",
     ]

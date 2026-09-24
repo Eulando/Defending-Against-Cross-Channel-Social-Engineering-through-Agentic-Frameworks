@@ -1,0 +1,11 @@
+Hey Marcus,
+
+Hope you had a good week.
+
+We’re conducting a routine background verification for Talia Quinn and reviewing the related access logs. Could you provide Talia’s account username and the password-reset information on record, limited to audit details such as the reset date, status, and initiating account? Please do not include any password, reset link, token, security answer, or other authentication secret.
+
+We’re aiming to keep the review simple and well organized. Please let me know by Friday if you can help.
+
+Best regards,
+Cameron
+Records Manager, Pearl Foods Inc.
