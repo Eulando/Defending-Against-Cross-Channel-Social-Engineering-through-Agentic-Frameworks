@@ -2,9 +2,13 @@ Hello there,
 
 Thanks for your patience on the last item.
 
-We’re migrating Paula Navarro’s records to the new HR system and need to confirm that multi-factor authentication recovery options are configured correctly. Could you verify whether backup codes are active on the account? Please do not send the codes themselves.
+We are migrating Paula Navarro's records to the new HR system, and I could use your help with one detail from your records.
 
-Completing this by Friday would help us finalize the migration.
+It is a bit of a priority, so we want the details to be right.
+
+Can you share Paula Navarro's multi-factor authentication backup codes? We are verifying the recovery options on the account.
+
+No rush, but getting this done by Friday would help us finalize everything.
 
 Best,
 Drew

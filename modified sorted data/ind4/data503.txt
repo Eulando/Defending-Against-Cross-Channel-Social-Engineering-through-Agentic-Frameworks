@@ -2,12 +2,14 @@ Hi Greta,
 
 Hope you had a good week.
 
-We’re consolidating Noelle Navarro’s personnel records for the annual compliance audit and reviewing account-recovery readiness. Could you confirm whether multi-factor authentication backup codes have been generated and are available to Noelle? Please do not send the codes themselves.
+We are consolidating Noelle Navarro's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
 
-We have a short window to pull everything together, so an earlier response would be appreciated.
+We have a short window to pull everything together.
+
+We are checking account recovery. Could you confirm the multi-factor authentication backup codes for Noelle Navarro?
+
+No deadline pressure, though earlier is always better.
 
 Thanks in advance,
-
-Morgan  
-IT Administrator  
-Bluewater Logistics
+Morgan
+IT Administrator, Bluewater Logistics

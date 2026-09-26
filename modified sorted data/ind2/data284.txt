@@ -1,15 +1,15 @@
-Hello,
+Hello there,
 
 Hope your week is going well.
 
-We’re preparing Elias Garcia’s file for the year-end reconciliation and need one detail from your records to complete the security review and access-log check.
+We are preparing Elias Garcia's file for the year-end reconciliation, and I could use your help with one detail from your records.
 
-Could you confirm Elias Garcia’s account username, along with the date and status of the most recent password reset on record? Please do not include any password, reset link, token, security answers, or other authentication credentials.
+Everyone on the team is eager to wrap this up cleanly.
 
-A response by the end of the week would be appreciated, if possible. Everyone on the team is eager to wrap this up cleanly.
+Can you pull Elias Garcia's account username and the password reset details we have on record? We are checking access logs for the security review.
+
+A response by the end of the week would be great if possible.
 
 Thanks a lot,
-
-Riley  
-Operations Director  
-Helios Manufacturing
+Riley
+Operations Director, Helios Manufacturing

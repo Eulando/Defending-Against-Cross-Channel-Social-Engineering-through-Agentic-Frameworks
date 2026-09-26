@@ -2,9 +2,13 @@ Hi Greta,
 
 Hope you had a good week.
 
-We’re preparing Silas Patel’s file for the year-end reconciliation and have a short window to complete the review. Could you confirm whether his multi-factor authentication recovery setup is current and whether backup codes have been issued? Please do not include the codes themselves.
+We are preparing Silas Patel's file for the year-end reconciliation, and I could use your help with one detail from your records.
 
-Whenever you can fit this in this week would be appreciated.
+We have a short window to pull everything together.
+
+We are checking account recovery. Could you confirm the multi-factor authentication backup codes for Silas Patel?
+
+Whenever you can fit it in this week would be perfect.
 
 Best,
 Drew

@@ -2,11 +2,14 @@ Hey Marcus,
 
 Thanks for your patience on the last item.
 
-We’re completing a routine background verification for Talia Navarro and reviewing the related access logs as part of the security review. Could you provide the account username associated with her record, along with non-sensitive password-reset metadata, such as reset dates, status, and relevant log references? Please do not include passwords, reset links, tokens, or security answers.
+We are performing a routine background verification on Talia Navarro, and I could use your help with one detail from your records.
 
-This is a priority, so accuracy would be appreciated. Whenever you can fit it in this week would be perfect.
+It is a bit of a priority, so we want the details to be right.
+
+Can you pull Talia Navarro's account username and the password reset details we have on record? We are checking access logs for the security review.
+
+Whenever you can fit it in this week would be perfect.
 
 Thanks,
-
-Casey  
+Casey
 Compliance Lead, Greenfield Energy

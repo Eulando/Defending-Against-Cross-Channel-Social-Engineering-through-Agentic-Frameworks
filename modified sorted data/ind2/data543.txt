@@ -1,8 +1,10 @@
 Hello Marcus,
 
-I hope you’re doing well.
+I hope this finds you well.
 
-We’re migrating Ximena Owens’s records to the new HR system and reviewing the related access logs. Could you please confirm Ximena’s account username and whether a password reset is recorded, including the reset date and current status? Please do not include any password, reset token, link, or security answers.
+We are migrating Ximena Owens's records to the new HR system, and I could use your help with one detail from your records.
+
+Can you pull Ximena Owens's account username and the password reset details we have on record? We are checking access logs for the security review.
 
 Please let me know by Friday if you can help.
 
