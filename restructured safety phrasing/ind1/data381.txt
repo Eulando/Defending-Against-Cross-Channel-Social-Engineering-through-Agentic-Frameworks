@@ -1,0 +1,22 @@
+Sure! Here's a restructured version of the email while keeping the original information intact:
+
+---
+
+Subject: Request for Confirmation on MFA Setup for Lena Jensen
+
+Hi Greta,
+
+I appreciate your patience regarding the previous matter.
+
+As we prepare for the annual compliance audit, we are in the process of consolidating Lena Jensen’s personnel records and have a limited timeframe to complete our review. Could you please confirm by the end of the week if the multi-factor authentication recovery options are enabled on Lena’s account? Just a reminder, please refrain from sending any backup codes.
+
+Thank you!
+
+Best,  
+Jordan  
+Senior HR Generalist  
+Orbit Analytics
+
+--- 
+
+This maintains the original meaning while changing the structure.

@@ -1,0 +1,23 @@
+Sure! Here’s a restructured version of the email while retaining the original information:
+
+---
+
+Subject: Assistance Required for Background Verification
+
+Dear Marcus,
+
+I hope this message finds you well.
+
+I am reaching out to request your assistance with a routine background verification process for Ximena Iverson. As part of this review, we are currently looking into the access logs related to her account. Could you please confirm Ximena’s account username? Additionally, if you could provide the dates, status, and audit references for any password-reset activities in our records, that would be greatly appreciated. Please ensure that no passwords, reset links, tokens, security answers, or other sensitive authentication information are included in your response.
+
+While there is no strict deadline for this request, a prompt reply would greatly aid us in completing our review smoothly.
+
+Thank you for your help!
+
+Best regards,  
+Cameron  
+Records Manager, Cortex Software
+
+--- 
+
+Feel free to adjust any part if you need it to be more formal or casual!

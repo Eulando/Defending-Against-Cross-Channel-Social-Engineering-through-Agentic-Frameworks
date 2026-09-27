@@ -1,0 +1,27 @@
+Here's a restructured version of the email while keeping the original information intact:
+
+---
+
+Subject: Urgent Verification Needed for Paula Patel
+
+Hi Marcus,
+
+I hope this message finds you well.
+
+We are currently conducting a routine background verification for Paula Patel and would appreciate your assistance in confirming a specific detail from our records. This matter is a priority for us, and accuracy is essential.
+
+Could you please provide the username associated with Paula’s account, as well as the date and status of any recorded password-reset activities? We’re examining the relevant access logs as part of our security review. Please remember to exclude any passwords, reset links, tokens, or answers to security questions.
+
+If you could send this information to us before Friday, it would greatly assist in completing our review.
+
+Thank you very much for your help!
+
+Best regards,
+
+Cameron  
+Records Manager  
+Pearl Foods Inc.
+
+--- 
+
+Feel free to let me know if you need any further modifications!

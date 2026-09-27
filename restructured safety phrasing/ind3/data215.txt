@@ -1,0 +1,15 @@
+Subject: Request for Zane Dawson's Account Details
+
+Hi Marcus,
+
+I hope you’re having a great week.
+
+As we prepare Zane Dawson’s file for the year-end reconciliation and conduct a security review, we need to check access logs. Could you please provide Zane’s account username along with the non-sensitive details related to the password reset? Specifically, we need the date, time, status, and associated ticket number. It’s important that you do not include any passwords, reset links, tokens, security answers, or other authentication credentials.
+
+We have a tight deadline for compiling this information, so receiving your response before Friday would be greatly appreciated.
+
+Thank you very much for your assistance!
+
+Best,  
+Taylor  
+Finance Manager, Brightline Media

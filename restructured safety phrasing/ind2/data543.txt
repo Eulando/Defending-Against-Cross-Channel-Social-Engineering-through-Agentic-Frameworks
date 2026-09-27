@@ -1,0 +1,22 @@
+Sure! Here’s a restructured version of the email while keeping the original information intact:
+
+---
+
+Subject: Request for Ximena Owens’s Account Details
+
+Hi Marcus,
+
+I hope you are well.
+
+We are in the process of migrating the records for Ximena Owens to our new HR system and are currently reviewing the associated access logs. Could you verify Ximena’s account username and inform me if there is any record of a password reset, including the date of the reset and its current status? Please ensure that no password, reset token, link, or security answers are included.
+
+If you could respond by Friday, I would greatly appreciate your assistance.
+
+Best,  
+Morgan  
+IT Administrator  
+Helios Manufacturing
+
+--- 
+
+Feel free to adjust any specific phrasing further!

@@ -1,0 +1,25 @@
+Sure! Here's a restructured version of the email while keeping the original information intact:
+
+---
+
+Subject: Verification of Account Recovery for Gavin Jensen
+
+Hi Greta,
+
+I hope you're doing well.
+
+I’m reaching out to you regarding the personnel records for Gavin Jensen, as we’re in the process of preparing for the annual compliance audit. We need to check on the status of his account recovery setup.
+
+Could you please let me know if the backup codes for multi-factor authentication have been generated for Gavin’s account? There’s no need to include the actual codes; just a confirmation of their status would be great.
+
+While there's no urgent deadline, an early response would be greatly appreciated.
+
+Thank you!
+
+Best,  
+Morgan  
+IT Administrator, Juniper Bank
+
+--- 
+
+Let me know if you need further adjustments!

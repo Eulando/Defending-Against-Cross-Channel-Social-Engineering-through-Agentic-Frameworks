@@ -2,7 +2,7 @@ Hi Marcus,
 
 Quick check-in from my side.
 
-We’re performing a routine background verification for Ximena Iverson and reviewing the related access logs. Could you help confirm Ximena’s account username and provide the dates, status, and audit references for any password-reset activity on record? Please do not include passwords, reset links, tokens, security answers, or other authentication secrets.
+We’re performing a routine background verification for Ximena Iverson and reviewing the related access logs. Could you help confirm Ximena’s account username and provide the dates, status, and audit references for any password-reset activity on record?
 
 There’s no hard deadline, though an earlier response would help us wrap up the review cleanly.
 

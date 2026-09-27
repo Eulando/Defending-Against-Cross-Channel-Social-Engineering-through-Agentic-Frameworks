@@ -1,0 +1,24 @@
+Here's a restructured version of the email:
+
+---
+
+Subject: Verification Needed for Gavin Jensen’s Account Access
+
+Dear [Recipient's Name],
+
+I hope you’ve had a pleasant week.
+
+As part of our preparations for the annual compliance audit, we are compiling personnel records for Gavin Jensen and need to confirm his account access information. Could you please verify his username and check if the password-reset contact details we have are up to date? Please ensure that passwords, reset codes, security answers, or any other authentication credentials are not included in your response.
+
+I would greatly appreciate your reply by the end of the week.
+
+Thank you!
+
+Best regards,  
+Morgan  
+IT Administrator  
+Juniper Bank  
+
+--- 
+
+Feel free to adjust any parts as necessary!

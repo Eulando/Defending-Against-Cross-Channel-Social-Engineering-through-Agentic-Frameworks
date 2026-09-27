@@ -1,0 +1,21 @@
+Certainly! Here’s a restructured version of the email while retaining the original information:
+
+---
+
+Subject: Request for Background Verification Details
+
+Hi Marcus,
+
+I hope your week has been going well.
+
+As part of our standard procedure, we are conducting a background verification for Talia Quinn and need to review the relevant access logs. Could you please provide Talia’s account username along with the password-reset audit details? Specifically, we're looking for information such as the reset date, status, and the account that initiated the reset. Please ensure not to include any sensitive information, such as passwords, reset links, tokens, security answers, or other authentication secrets.
+
+Our goal is to keep this review straightforward and organized. If you could assist with this by Friday, I would greatly appreciate it.
+
+Best regards,  
+Cameron  
+Records Manager, Pearl Foods Inc.
+
+--- 
+
+This version maintains the core requests and information but modifies the structure and language.

@@ -13,7 +13,7 @@ interruption. Use --overwrite to regenerate existing files.
 
 Usage:
   python3 restructure_sorted_data.py
-  python3 restructure_sorted_data.py --api-key sk-... --model "gpt5.6 sol"
+  python3 restructure_sorted_data.py --api-key sk-... --model "gpt-4o-mini"
   python3 restructure_sorted_data.py --limit 10
   python3 restructure_sorted_data.py --overwrite
 
@@ -90,7 +90,7 @@ def main() -> None:
 
     parser.add_argument(
         "--model",
-        default="gpt5.6 sol",
+        default="gpt-4o-mini",
         help="OpenAI model to use.",
     )
 

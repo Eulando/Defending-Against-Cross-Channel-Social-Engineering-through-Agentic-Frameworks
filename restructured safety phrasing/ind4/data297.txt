@@ -1,0 +1,15 @@
+Subject: Quick Check-In on Rina Garcia’s Account Recovery
+
+Good morning, Greta,
+
+I hope this message finds you well.
+
+I wanted to follow up regarding the migration of Rina Garcia’s records to the new HR system. As part of this process, we are currently reviewing her account-recovery setup. Could you please confirm if her multi-factor authentication backup codes have been regenerated and if the updated recovery configuration is finalized? Please remember not to send the codes themselves.
+
+It would be great if we could complete this by Friday, as it will help us wrap up the migration.
+
+Thank you for your assistance!
+
+Best regards,  
+Rowan  
+Data Governance Officer, Juniper Bank

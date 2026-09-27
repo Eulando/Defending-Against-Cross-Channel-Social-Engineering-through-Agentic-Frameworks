@@ -2,12 +2,12 @@ Hi Greta,
 
 We’re preparing Bennett Patel’s file for the year-end reconciliation and need to confirm one detail from your records.
 
-Could you let me know whether multi-factor authentication backup codes and account recovery options are currently configured for Bennett’s account? Please do not send the backup codes themselves.
+Could you let me know whether multi-factor authentication backup codes and account recovery options are currently configured for Bennett’s account?
 
 If you can confirm the status by Friday, it would help us finalize everything.
 
 Thanks in advance,
 
-Rowan  
-Data Governance Officer  
+Rowan
+Data Governance Officer
 Bluewater Logistics

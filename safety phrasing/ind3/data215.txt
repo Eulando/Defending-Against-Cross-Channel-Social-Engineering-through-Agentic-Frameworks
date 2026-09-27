@@ -2,7 +2,7 @@ Hi Marcus,
 
 Hope you had a good week.
 
-We’re preparing Zane Dawson’s file for the year-end reconciliation and checking access logs as part of the security review. Could you send over Zane’s account username and the non-sensitive password-reset details on record, such as the date, time, status, and associated ticket number? Please do not include any password, reset link, token, security answers, or other authentication credentials.
+We’re preparing Zane Dawson’s file for the year-end reconciliation and checking access logs as part of the security review. Could you send over Zane’s account username and the non-sensitive password-reset details on record, such as the date, time, status, and associated ticket number?
 
 We have a short window to pull everything together, so receiving this before Friday would help us close things out.
 
