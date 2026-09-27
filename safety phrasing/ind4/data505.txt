@@ -1,0 +1,11 @@
+Hello there,
+
+Thanks for your patience on the last item.
+
+We’re migrating Paula Navarro’s records to the new HR system and need to confirm that multi-factor authentication recovery options are configured correctly. Could you verify whether backup codes are active on the account? Please do not send the codes themselves.
+
+Completing this by Friday would help us finalize the migration.
+
+Best,
+Drew
+Internal Audit Lead, Brightline Media

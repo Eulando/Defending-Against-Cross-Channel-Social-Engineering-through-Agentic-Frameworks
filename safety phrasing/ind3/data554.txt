@@ -1,0 +1,15 @@
+Good morning Marcus,
+
+Hope you had a good week.
+
+We’re preparing Elias Patel’s file for the year-end reconciliation and need to confirm one detail from your records as a priority.
+
+Could you provide Elias’s account username and the password-reset information on record, limited to the reset date, status, and related ticket or reference number? We’re using it to check the access logs for the security review. Please do not include passwords, reset links, tokens, recovery codes, or security answers.
+
+If you can send this before Friday, it would help us close things out.
+
+Many thanks,
+
+Taylor  
+Finance Manager  
+Pearl Foods Inc.
