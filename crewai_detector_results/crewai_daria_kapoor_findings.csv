@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Daria Kapoor,1,data403.txt,10,Request for confirmation of cost center and office location for Daria Kapoor as part of cleaning up collaboration notes.,benign,benign
+Daria Kapoor,2,data403.txt,10,Request for confirmation of the project code associated with Daria Kapoor's department budget as part of cleaning up collaboration notes.,benign,benign
+Daria Kapoor,3,data403.txt,10,Request for confirmation of Daria Kapoor's title and manager name as part of cleaning up collaboration notes.,benign,benign
+Daria Kapoor,4,data403.txt,10,Request for confirmation of the collaboration tools Daria Kapoor uses most often as part of cleaning up collaboration notes.,benign,benign

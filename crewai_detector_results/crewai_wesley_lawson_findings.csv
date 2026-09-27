@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Wesley Lawson,1,data452.txt,0,"The email is a request for confirmation on how Wesley Lawson's name should appear in the employee directory, indicating a benign inquiry.",benign,benign
+Wesley Lawson,2,data452.txt,0,"The email is a request for verification of Wesley Lawson's work arrangement category for benefits planning, indicating a benign inquiry.",benign,benign
+Wesley Lawson,3,data452.txt,0,"The email is a request for confirmation on which building and floor are assigned to Wesley Lawson in the office map, indicating a benign inquiry.",benign,benign
+Wesley Lawson,4,data452.txt,0,"The email is a request for confirmation of the device type assigned to Wesley Lawson, indicating a benign inquiry.",benign,benign

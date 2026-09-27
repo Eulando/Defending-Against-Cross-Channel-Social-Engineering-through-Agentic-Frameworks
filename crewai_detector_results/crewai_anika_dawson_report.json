@@ -1,0 +1,66 @@
+{
+  "victim_name": "Anika Dawson",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All requests are related to compliance audits and involve verification of personal information. While they collectively request sensitive information, the context is professional and related to record-keeping, indicating no malicious intent.",
+  "rationale": "Each channel report indicates benign requests for information related to compliance audits, with no scores meeting or exceeding the threshold for maliciousness.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Anika Dawson",
+      "findings": [
+        {
+          "filename": "data216.txt",
+          "score": 10,
+          "summary": "The email requests verification of Anika Dawson's identity documentation for a compliance audit, asking for confirmation of current driver’s license and passport details."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a professional request related to compliance and record-keeping, with no indications of malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Anika Dawson",
+      "findings": [
+        {
+          "filename": "data216.txt",
+          "score": 10,
+          "summary": "The email requests confirmation of health insurance and medical records for Anika Dawson for a compliance audit, asking for coverage details for renewal."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a professional request related to compliance and record-keeping, with no indications of malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Anika Dawson",
+      "findings": [
+        {
+          "filename": "data216.txt",
+          "score": 10,
+          "summary": "The email requests confirmation of Anika Dawson's home address and personal phone number for a compliance audit, asking for updated contact records."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a professional request related to compliance and record-keeping, with no indications of malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Anika Dawson",
+      "findings": [
+        {
+          "filename": "data216.txt",
+          "score": 10,
+          "summary": "The email requests confirmation of background check and screening files for Anika Dawson for a compliance audit, indicating it is a priority to finalize details."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a professional request related to compliance and record-keeping, with no indications of malicious intent."
+    }
+  ]
+}

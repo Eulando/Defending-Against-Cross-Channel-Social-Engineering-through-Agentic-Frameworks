@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Lena Jensen,1,data381.txt,10,"Email from Jordan, a Senior HR Generalist at Orbit Analytics, requesting confirmation of multi-factor authentication recovery options for Lena Jensen's account for compliance audit.",benign,benign
+Lena Jensen,2,cannot be found,0,cannot be found,N/A,N/A
+Lena Jensen,3,cannot be found,0,cannot be found,N/A,N/A
+Lena Jensen,4,cannot be found,0,cannot be found,N/A,N/A

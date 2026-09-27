@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Rina Carver,1,data177.txt,0,"The email is about organizing a farewell celebration for Rina Carver, requesting assistance in drafting an internal announcement that highlights her achievements and celebration details.",benign,benign
+Rina Carver,2,cannot be found,0,cannot be found,N/A,N/A
+Rina Carver,3,cannot be found,0,cannot be found,N/A,N/A
+Rina Carver,4,cannot be found,0,cannot be found,N/A,N/A

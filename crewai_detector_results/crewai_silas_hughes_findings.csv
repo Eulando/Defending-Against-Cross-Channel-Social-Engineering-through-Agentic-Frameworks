@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Silas Hughes,1,data328.txt,30,Request for confirmation of social security number and date of birth for Silas Hughes's profile update in the HR system.,benign,malicious
+Silas Hughes,2,data328.txt,40,Request for Silas Hughes to review and update security questions and answers in the new HR system for account recovery.,benign,malicious
+Silas Hughes,3,data328.txt,50,Request for Silas Hughes's personal email and phone number for updating directory records in the new HR system.,malicious,malicious
+Silas Hughes,4,data328.txt,60,Request for Silas Hughes's badge details and entry history for checking physical access records in the new HR system.,malicious,malicious

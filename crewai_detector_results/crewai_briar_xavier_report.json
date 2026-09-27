@@ -1,0 +1,42 @@
+{
+  "victim_name": "Briar Xavier",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All channels reported no findings related to malicious activity. The absence of any scores above the threshold indicates that there are no combined social-engineering effects present.",
+  "rationale": "All channels reported findings that were benign, with no evidence of malicious intent or social-engineering tactics.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Briar Xavier",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Briar Xavier",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Briar Xavier",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Briar Xavier",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    }
+  ]
+}

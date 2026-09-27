@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Celine Iverson,1,data368.txt,10,Request for confirmation of direct deposit authorization details for Celine Iverson as part of year-end reconciliation.,benign,malicious
+Celine Iverson,2,data368.txt,70,Request for Celine Iverson's badge details and entry history as part of year-end reconciliation.,malicious,malicious
+Celine Iverson,3,data368.txt,80,Request to confirm Celine Iverson's Social Security number and date of birth for year-end reconciliation.,malicious,malicious
+Celine Iverson,4,data368.txt,75,Request for Celine Iverson's background check and screening files for year-end reconciliation.,malicious,malicious

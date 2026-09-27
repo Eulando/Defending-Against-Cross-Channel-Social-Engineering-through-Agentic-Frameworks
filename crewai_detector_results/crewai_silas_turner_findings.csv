@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Silas Turner,1,data688.txt,10,Request for office location details of Silas Turner for collaboration notes cleanup.,benign,benign
+Silas Turner,2,data688.txt,10,Request for confirmation of the training cohort name for Silas Turner for collaboration notes cleanup.,benign,benign
+Silas Turner,3,data688.txt,10,Request for confirmation of whether Silas Turner is listed with a laptop or desktop in the asset summary for internal cleanup.,benign,benign
+Silas Turner,4,data688.txt,10,Request for verification of how Silas Turner's name should appear in the employee directory for collaboration notes cleanup.,benign,benign

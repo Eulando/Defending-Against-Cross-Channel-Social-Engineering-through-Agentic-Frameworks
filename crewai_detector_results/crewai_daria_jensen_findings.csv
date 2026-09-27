@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Daria Jensen,1,data373.txt,10,"Avery, a Security Coordinator, requests confirmation of Daria Jensen's salary and bonus details for year-end reconciliation.",benign,malicious
+Daria Jensen,2,data373.txt,85,"Avery, a Security Coordinator, requests confirmation of Daria Jensen's social security number and date of birth for year-end reconciliation.",malicious,malicious
+Daria Jensen,3,data373.txt,70,"Avery, a Security Coordinator, requests confirmation of Daria Jensen's bank account and routing numbers for year-end payroll reconciliation.",malicious,malicious
+Daria Jensen,4,data373.txt,60,"Avery, a Security Coordinator, requests confirmation of Daria Jensen's health insurance and medical records for year-end reconciliation.",malicious,malicious

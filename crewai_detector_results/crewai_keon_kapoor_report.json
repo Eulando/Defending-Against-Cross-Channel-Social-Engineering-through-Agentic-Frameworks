@@ -1,0 +1,48 @@
+{
+  "victim_name": "Keon Kapoor",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "The combined requests across channels do not exhibit malicious social-engineering effects. Each request is professional and pertains to routine updates regarding Keon Kapoor's internal profile.",
+  "rationale": "All individual scores are below the threshold, indicating no immediate malicious intent. The requests are standard operational inquiries.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Keon Kapoor",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Keon Kapoor",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Keon Kapoor",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Keon Kapoor",
+      "findings": [
+        {
+          "filename": "data410.txt",
+          "score": 10,
+          "summary": "The email requests confirmation of the device type assigned to Keon Kapoor for a quarterly directory update."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The request is professional and ordinary, with a low maliciousness score."
+    }
+  ]
+}

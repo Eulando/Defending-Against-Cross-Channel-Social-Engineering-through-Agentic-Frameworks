@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Uri Foster,1,data270.txt,20,The email requests confirmation about multi-factor authentication backup codes for Uri Foster as part of a compliance audit.,benign,malicious
+Uri Foster,2,data270.txt,85,"The email requests Uri Foster's bank account and routing numbers for a compliance audit, which raises concerns about sensitive information handling.",malicious,malicious
+Uri Foster,3,data270.txt,90,"The email requests confirmation of Uri Foster's username and an account reset, which raises significant concerns about unauthorized access.",malicious,malicious
+Uri Foster,4,data270.txt,80,"The email requests Uri Foster's direct deposit authorization for a compliance audit, which raises concerns about sensitive financial information handling.",malicious,malicious

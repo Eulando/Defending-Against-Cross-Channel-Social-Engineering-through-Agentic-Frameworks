@@ -1,0 +1,66 @@
+{
+  "victim_name": "Lena Foster",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "All channels reported malicious intent due to requests for sensitive information, triggering the threshold.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Lena Foster",
+      "findings": [
+        {
+          "filename": "data261.txt",
+          "score": 75,
+          "summary": "The email from Taylor, a Finance Manager at Nova Telecom, requests confirmation of Lena Foster's account username and the date and status of her most recent password reset. This request is part of a migration of Lena's records to a new HR system and is described as a priority for a security review."
+        }
+      ],
+      "max_score": 75,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive information related to account access, which raises concerns about potential malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Lena Foster",
+      "findings": [
+        {
+          "filename": "data261.txt",
+          "score": 85,
+          "summary": "The email from Taylor, a Finance Manager at Nova Telecom, requests confirmation of Lena Foster's Social Security number and date of birth for a migration to a new HR system. While the request appears legitimate and is framed as a priority for accuracy, the sensitivity of the information requested raises concerns about potential phishing or data misuse."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests highly sensitive personal information, which raises significant concerns about potential malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Lena Foster",
+      "findings": [
+        {
+          "filename": "data261.txt",
+          "score": 70,
+          "summary": "The email from Taylor, a Finance Manager at Nova Telecom, requests confirmation of Lena Foster's background check and screening files as part of a migration to a new HR system. This request is described as a priority for an audit review."
+        }
+      ],
+      "max_score": 70,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive information related to background checks, which raises concerns about potential malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Lena Foster",
+      "findings": [
+        {
+          "filename": "data261.txt",
+          "score": 90,
+          "summary": "The email from Taylor, a Finance Manager at Nova Telecom, requests Lena Foster's personal email and phone number as part of a migration to a new HR system. This request is described as part of updating directory records."
+        }
+      ],
+      "max_score": 90,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests highly sensitive personal information, which raises significant concerns about potential malicious intent."
+    }
+  ]
+}

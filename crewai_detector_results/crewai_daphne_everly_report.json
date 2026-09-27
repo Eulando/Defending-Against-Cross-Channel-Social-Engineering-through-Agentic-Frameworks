@@ -1,0 +1,42 @@
+{
+  "victim_name": "Daphne Everly",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All channels reported no findings related to malicious activity, and all scores were below the threshold. Therefore, there are no combined social-engineering effects.",
+  "rationale": "All channels reported no findings, and the maximum score across all channels was 0, indicating no malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Daphne Everly",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Daphne Everly",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Daphne Everly",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Daphne Everly",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    }
+  ]
+}

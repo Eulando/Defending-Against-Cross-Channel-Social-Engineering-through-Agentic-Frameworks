@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Paula Bennett,1,data145.txt,10,"The email is a request for help with details for Paula Bennett's onboarding welcome, asking for preferred vendors for a welcome gift within an approved budget.",benign,benign
+Paula Bennett,2,data145.txt,10,"The email is a request for help with details for Paula Bennett's onboarding welcome, asking for a summary of her biggest projects and concrete wins.",benign,benign
+Paula Bennett,3,data145.txt,10,"The email is a request for help with details for Paula Bennett's onboarding welcome, asking for a recommendation for a reliable vendor for the welcome gift within the approved budget.",benign,benign
+Paula Bennett,4,data145.txt,10,"The email is a request for help with details for Paula Bennett's onboarding welcome, asking for processing a recognition form against a specific budget code.",benign,benign

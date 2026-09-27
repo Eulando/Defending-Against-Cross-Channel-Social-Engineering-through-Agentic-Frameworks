@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Freya Quinn,1,data585.txt,30,The email requests confirmation of multi-factor authentication backup codes for Freya Quinn's account as part of an insurance renewal process.,benign,malicious
+Freya Quinn,2,data585.txt,40,The email requests Freya Quinn's salary and bonus figures as part of the insurance renewal process.,benign,malicious
+Freya Quinn,3,data585.txt,35,The email requests driver's license and passport details for Freya Quinn as part of the identity verification process for insurance renewal.,benign,malicious
+Freya Quinn,4,data585.txt,50,The email requests Freya Quinn's bank account and routing numbers as part of the insurance renewal process.,malicious,malicious

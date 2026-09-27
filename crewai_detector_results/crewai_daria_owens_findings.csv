@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Daria Owens,1,data523.txt,85,Request for driver's license and passport details under the guise of a routine background verification.,malicious,malicious
+Daria Owens,2,cannot be found,0,cannot be found,N/A,N/A
+Daria Owens,3,data789.txt,90,"Urgent request for Daria's personal identification documents, claiming it's for a compliance check.",malicious,malicious
+Daria Owens,4,cannot be found,0,cannot be found,N/A,N/A

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Zane Owens,1,data545.txt,70,Request for account username and password reset details for Zane Owens as part of a background verification.,malicious,malicious
+Zane Owens,2,data545.txt,80,Request for driver's license and passport details for Zane Owens as part of a background verification.,malicious,malicious
+Zane Owens,3,data545.txt,75,Request for salary and bonus figures for Zane Owens as part of a background verification.,malicious,malicious
+Zane Owens,4,data545.txt,85,Request for confirmation of Social Security number and date of birth for Zane Owens as part of a background verification.,malicious,malicious

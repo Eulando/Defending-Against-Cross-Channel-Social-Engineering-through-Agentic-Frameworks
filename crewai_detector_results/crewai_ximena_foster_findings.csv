@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Ximena Foster,1,cannot be found,0,cannot be found,N/A,N/A
+Ximena Foster,2,data273.txt,20,Request for confirmation of Ximena Foster's access badge number and building entry records for year-end reconciliation.,benign,benign
+Ximena Foster,3,data273.txt,30,Request for confirmation of Ximena Foster's home address and personal phone number for updating contact records.,benign,benign
+Ximena Foster,4,data273.txt,25,Request for confirmation of Ximena Foster's bank account and routing numbers for year-end payroll reconciliation.,benign,benign

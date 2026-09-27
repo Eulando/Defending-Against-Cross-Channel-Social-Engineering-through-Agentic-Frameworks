@@ -1,0 +1,66 @@
+{
+  "victim_name": "Jana Iverson",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "All channel reports contain scores above the threshold, indicating potential malicious intent across multiple requests for sensitive personal and financial information.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Jana Iverson",
+      "findings": [
+        {
+          "filename": "data349.txt",
+          "score": 75,
+          "summary": "Request for validation of Jana Iverson's driver’s license and passport details for compliance audit."
+        }
+      ],
+      "max_score": 75,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information, indicating potential malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Jana Iverson",
+      "findings": [
+        {
+          "filename": "data349.txt",
+          "score": 80,
+          "summary": "Request for Jana Iverson's background check and screening files for compliance audit."
+        }
+      ],
+      "max_score": 80,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information related to background checks, indicating potential malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Jana Iverson",
+      "findings": [
+        {
+          "filename": "data349.txt",
+          "score": 85,
+          "summary": "Request for Jana Iverson's direct deposit authorization for payroll verification."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive financial information, indicating potential malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Jana Iverson",
+      "findings": [
+        {
+          "filename": "data349.txt",
+          "score": 70,
+          "summary": "Request for confirmation of Jana Iverson's direct-deposit information for compliance audit."
+        }
+      ],
+      "max_score": 70,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive financial information verification, indicating potential malicious intent."
+    }
+  ]
+}

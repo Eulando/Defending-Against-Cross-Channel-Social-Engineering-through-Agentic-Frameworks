@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Quentin Foster,1,data266.txt,10,The email is a routine HR request for Quentin Foster's background check and screening files for year-end reconciliation.,benign,malicious
+Quentin Foster,2,data266.txt,60,The email is a request for Quentin Foster's account username and confirmation of the most recent password reset date and status for a security review.,malicious,malicious
+Quentin Foster,3,data266.txt,50,The email is a request for Quentin Foster's badge details and entry history for year-end reconciliation.,malicious,malicious
+Quentin Foster,4,data266.txt,40,The email is a request for confirmation of health insurance and medical records for Quentin Foster for year-end reconciliation.,benign,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Yara Carver,1,data184.txt,20,Email requesting verification of budget code PRM-2026-331 for Yara Carver's promotion celebration.,benign,benign
+Yara Carver,2,data184.txt,20,Email requesting a shortlist of gift vendors for Yara Carver's promotion celebration.,benign,benign
+Yara Carver,3,data184.txt,20,Email requesting a list of key training milestones in Yara Carver's record for the promotion celebration program.,benign,benign
+Yara Carver,4,data184.txt,20,Email requesting impact metrics for projects led by Yara Carver for the promotion celebration.,benign,benign

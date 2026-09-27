@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Vera Turner,1,data691.txt,10,"Request for confirmation of the customer segment Vera Turner supports for account coverage map, for internal cleanup.",benign,benign
+Vera Turner,2,data691.txt,10,Request for confirmation of Vera Turner's title and manager name for an internal staff calendar update.,benign,benign
+Vera Turner,3,data691.txt,10,Request for confirmation of Vera Turner's department and team name for internal directory sync.,benign,benign
+Vera Turner,4,data691.txt,10,Request for confirmation of which annual policy course Vera Turner is scheduled to complete.,benign,benign

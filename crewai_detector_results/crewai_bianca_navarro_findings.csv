@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bianca Navarro,1,data491.txt,10,"The email is from Quinn, a Payroll Supervisor at Summit Outfitters, requesting non-sensitive budget project code information related to Bianca Navarro's team. The email does not request sensitive information and appears to be a routine inquiry regarding office information updates. The tone is polite and professional, indicating a benign nature.",benign,benign
+Bianca Navarro,2,data491.txt,10,"The email is from Quinn, a Payroll Supervisor at Summit Outfitters, requesting non-sensitive customer segment information related to Bianca Navarro's account coverage map. The email does not request sensitive information and appears to be a routine inquiry regarding office information updates. The tone is polite and professional, indicating a benign nature.",benign,benign
+Bianca Navarro,3,cannot be found,0,cannot be found,N/A,N/A
+Bianca Navarro,4,cannot be found,0,cannot be found,N/A,N/A

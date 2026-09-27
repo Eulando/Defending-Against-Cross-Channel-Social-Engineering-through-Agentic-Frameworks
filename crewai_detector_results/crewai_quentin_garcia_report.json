@@ -1,0 +1,66 @@
+{
+  "victim_name": "Quentin Garcia",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "Multiple channels reported malicious intent with scores above the threshold, indicating a coordinated effort to obtain sensitive information.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Quentin Garcia",
+      "findings": [
+        {
+          "filename": "data296.txt",
+          "score": 85,
+          "summary": "Request for Quentin Garcia's account username and password-reset audit details for security review."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive information related to account access, indicating potential malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Quentin Garcia",
+      "findings": [
+        {
+          "filename": "data296.txt",
+          "score": 70,
+          "summary": "Request for confirmation of personal email and phone records for Quentin Garcia for directory update."
+        }
+      ],
+      "max_score": 70,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests personal information that could be used for unauthorized access or identity theft, indicating potential malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Quentin Garcia",
+      "findings": [
+        {
+          "filename": "data296.txt",
+          "score": 75,
+          "summary": "Request for Quentin Garcia's full employment file and emergency contact details from HRIS for record consolidation."
+        }
+      ],
+      "max_score": 75,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive employment and contact information, which could be exploited for unauthorized access or identity theft, indicating potential malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Quentin Garcia",
+      "findings": [
+        {
+          "filename": "data296.txt",
+          "score": 80,
+          "summary": "Request for confirmation of home address and personal phone number for Quentin Garcia for contact record updates."
+        }
+      ],
+      "max_score": 80,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information that could be used for unauthorized access or identity theft, indicating potential malicious intent."
+    }
+  ]
+}

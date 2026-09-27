@@ -1,0 +1,66 @@
+{
+  "victim_name": "Uri Quinn",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All requests are routine validations of public-facing information and do not indicate any malicious intent. The combined requests do not suggest any social-engineering effects.",
+  "rationale": "Each channel report indicates benign requests for information related to Uri Quinn's public-facing biography, with no evidence of malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Uri Quinn",
+      "findings": [
+        {
+          "filename": "data600.txt",
+          "score": 10,
+          "summary": "Avery, a Security Coordinator at Greenfield Energy, is validating Uri Quinn's public-facing biography and requests confirmation of the customer segment Uri Quinn supports for the account coverage map."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information and does not indicate any malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Uri Quinn",
+      "findings": [
+        {
+          "filename": "data600.txt",
+          "score": 10,
+          "summary": "Avery, a Security Coordinator at Greenfield Energy, is validating Uri Quinn's public-facing biography and requests confirmation of which learning cohort is tied to Uri Quinn's employee profile."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information and does not indicate any malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Uri Quinn",
+      "findings": [
+        {
+          "filename": "data600.txt",
+          "score": 10,
+          "summary": "Avery, a Security Coordinator at Greenfield Energy, is validating Uri Quinn's public-facing biography and requests confirmation of Uri Quinn's work arrangement category for the benefits planning list."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information and does not indicate any malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Uri Quinn",
+      "findings": [
+        {
+          "filename": "data600.txt",
+          "score": 10,
+          "summary": "Avery, a Security Coordinator at Greenfield Energy, is validating Uri Quinn's public-facing biography and requests confirmation of the collaboration tools Uri Quinn uses most often for the support page."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information and does not indicate any malicious intent."
+    }
+  ]
+}

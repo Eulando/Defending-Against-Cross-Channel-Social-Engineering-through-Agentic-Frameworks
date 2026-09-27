@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Uri Kapoor,1,data420.txt,10,Request for verification of a non-sensitive budget project code related to Uri Kapoor's team for a quarterly directory update.,benign,benign
+Uri Kapoor,2,data420.txt,10,Request for confirmation of Uri Kapoor's preferred name format for the internal staff list for a quarterly directory update.,benign,benign
+Uri Kapoor,3,data420.txt,10,"Request for confirmation of Uri Kapoor's attendance status (remote, hybrid, or onsite) for the wellness event count for a quarterly directory update.",benign,benign
+Uri Kapoor,4,data420.txt,10,Request for verification of the account segment associated with Uri Kapoor's workstream for a quarterly directory update.,benign,benign

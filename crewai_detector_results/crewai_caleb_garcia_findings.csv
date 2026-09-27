@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Caleb Garcia,1,data282.txt,20,"The email requests verification of account-recovery measures for Caleb Garcia's personnel records, specifically about multi-factor authentication backup codes for compliance audit.",benign,malicious
+Caleb Garcia,2,data282.txt,70,"The email requests Caleb Garcia's personal email and phone number for updating directory records, which raises concerns about the legitimacy of the request.",malicious,malicious
+Caleb Garcia,3,data282.txt,80,"The email requests Caleb Garcia's health insurance and medical documentation, which raises significant concerns about the legitimacy of the request for sensitive personal information.",malicious,malicious
+Caleb Garcia,4,data282.txt,75,"The email requests Caleb Garcia's full employment file and emergency contact details, which raises concerns about the legitimacy of the request for sensitive personal information.",malicious,malicious

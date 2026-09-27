@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Noelle Rivera,1,data623.txt,10,An email requesting confirmation of the collaboration tools Noelle Rivera uses for internal cleanup purposes.,benign,benign
+Noelle Rivera,2,data623.txt,10,An email requesting confirmation of the building and floor assigned to Noelle Rivera in the office map for internal cleanup purposes.,benign,benign
+Noelle Rivera,3,data623.txt,10,An email requesting confirmation of Noelle Rivera's desk reservation pattern for internal cleanup purposes.,benign,benign
+Noelle Rivera,4,data623.txt,10,An email requesting confirmation of the annual policy course listed for Noelle Rivera's training plan for internal cleanup purposes.,benign,benign

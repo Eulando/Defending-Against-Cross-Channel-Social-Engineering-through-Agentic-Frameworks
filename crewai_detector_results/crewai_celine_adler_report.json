@@ -1,0 +1,66 @@
+{
+  "victim_name": "Celine Adler",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All requests are related to retirement recognition and do not exhibit malicious intent. They seek confirmation and information necessary for organizing a retirement event, which is a benign context.",
+  "rationale": "Each channel report indicates benign activities related to retirement recognition without any malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Celine Adler",
+      "findings": [
+        {
+          "filename": "data128.txt",
+          "score": 10,
+          "summary": "Request for confirmation on expense code for retirement gift and PO requirement."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email discusses retirement recognition and seeks confirmation on expense codes, which is not malicious."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Celine Adler",
+      "findings": [
+        {
+          "filename": "data128.txt",
+          "score": 10,
+          "summary": "Request for budget approval for retirement gift and follow-up with vendor order."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email discusses retirement recognition and seeks budget approval, which is not malicious."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Celine Adler",
+      "findings": [
+        {
+          "filename": "data128.txt",
+          "score": 10,
+          "summary": "Request for confirmation of final agenda and attendee list for retirement recognition."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email discusses retirement recognition and seeks confirmation on details, which is not malicious."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Celine Adler",
+      "findings": [
+        {
+          "filename": "data128.txt",
+          "score": 10,
+          "summary": "Request for training and certifications completed by Celine Adler for retirement recognition materials."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email discusses retirement recognition and seeks information on training and certifications, which is not malicious."
+    }
+  ]
+}

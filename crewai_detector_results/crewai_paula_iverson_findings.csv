@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Paula Iverson,1,data355.txt,30,The email requests Paula Iverson's personal email and phone number for updating directory records as part of a migration to a new HR system.,benign,benign
+Paula Iverson,2,data355.txt,30,The email requests confirmation of Paula Iverson's direct deposit authorization details for reconciling payroll accounts as part of a migration to a new HR system.,benign,benign
+Paula Iverson,3,data355.txt,30,The email requests Paula Iverson's employment file and emergency contacts for consolidating personnel data as part of a migration to a new HR system.,benign,benign
+Paula Iverson,4,data355.txt,30,The email requests Paula Iverson's badge details and entry history for checking physical access records as part of a migration to a new HR system.,benign,benign

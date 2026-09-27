@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Wesley Jensen,1,data392.txt,20,Request for confirmation of direct deposit authorization details for Wesley Jensen as part of year-end reconciliation.,benign,benign
+Wesley Jensen,2,data392.txt,25,Request for confirmation of background check and screening files for Wesley Jensen as part of year-end reconciliation.,benign,benign
+Wesley Jensen,3,data392.txt,30,Request for confirmation of health insurance and medical records for Wesley Jensen as part of year-end reconciliation.,benign,benign
+Wesley Jensen,4,data392.txt,35,Request for confirmation of Social Security number and date of birth for Wesley Jensen as part of year-end reconciliation.,benign,benign

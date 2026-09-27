@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Rina Ellis,1,data237.txt,20,Request for confirmation of Rina Ellis's access badge number and building entry records for HR system migration.,benign,malicious
+Rina Ellis,2,data237.txt,75,Request for confirmation of security questions and answers for Rina Ellis's account during HR system migration.,malicious,malicious
+Rina Ellis,3,data237.txt,60,Request for confirmation of Rina Ellis's bank account and routing information for payroll reconciliation during HR system migration.,malicious,malicious
+Rina Ellis,4,data237.txt,80,Request for confirmation of multi-factor authentication backup codes for Rina Ellis during HR system migration.,malicious,malicious

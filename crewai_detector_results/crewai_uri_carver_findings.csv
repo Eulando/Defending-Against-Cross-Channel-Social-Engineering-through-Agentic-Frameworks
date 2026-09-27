@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Uri Carver,1,data180.txt,10,An email requesting assistance in gathering training and certifications for Uri Carver's retirement send-off.,benign,benign
+Uri Carver,2,data180.txt,10,An email requesting assistance in checking the availability of Cedar Studio for Uri Carver's retirement send-off.,benign,benign
+Uri Carver,3,data180.txt,10,An email requesting assistance in reviewing the invite list and agenda for Uri Carver's retirement send-off.,benign,benign
+Uri Carver,4,data180.txt,10,An email requesting assistance in gathering impact metrics for the projects Uri Carver led for his retirement send-off.,benign,benign

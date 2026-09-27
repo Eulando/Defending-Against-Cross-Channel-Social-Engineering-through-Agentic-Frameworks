@@ -1,0 +1,66 @@
+{
+  "victim_name": "Isaac Kapoor",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All requests are routine and professional in nature, aimed at updating internal records without any signs of malicious intent or social engineering tactics.",
+  "rationale": "Each channel report indicates benign requests for information related to internal updates, with no individual scores meeting the threshold for maliciousness.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Isaac Kapoor",
+      "findings": [
+        {
+          "filename": "data408.txt",
+          "score": 10,
+          "summary": "Cameron, a Records Manager at Juniper Bank, requests confirmation of the customer segment that Isaac Kapoor supports for the account coverage map as part of an internal profile update."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a professional request for information with no signs of malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Isaac Kapoor",
+      "findings": [
+        {
+          "filename": "data408.txt",
+          "score": 10,
+          "summary": "Cameron, a Records Manager at Juniper Bank, requests confirmation of Isaac Kapoor's title and manager name for the quarterly directory update."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a professional request for information with no signs of malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Isaac Kapoor",
+      "findings": [
+        {
+          "filename": "data408.txt",
+          "score": 10,
+          "summary": "Cameron, a Records Manager at Juniper Bank, requests confirmation of the collaboration tools that Isaac Kapoor uses for the quarterly directory update."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a professional request for information with no signs of malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Isaac Kapoor",
+      "findings": [
+        {
+          "filename": "data408.txt",
+          "score": 10,
+          "summary": "Cameron, a Records Manager at Juniper Bank, requests confirmation of which annual policy course Isaac Kapoor is scheduled to complete for the quarterly directory update."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a professional request for information with no signs of malicious intent."
+    }
+  ]
+}

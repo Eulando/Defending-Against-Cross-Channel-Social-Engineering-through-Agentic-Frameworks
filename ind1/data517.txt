@@ -1,0 +1,12 @@
+Hi Marcus,
+
+We’re migrating Bennett Navarro’s records to the new HR system, and I could use your help confirming one detail from your records. Everyone on the team is eager to wrap this up cleanly.
+
+Can you pull Bennett’s account username and the password-reset information we have on record, specifically the most recent reset date and current reset status? We’re checking access logs as part of the security review.
+
+There’s no firm deadline, though earlier is always better.
+
+Thanks,  
+Quinn  
+Payroll Supervisor  
+Pearl Foods Inc.

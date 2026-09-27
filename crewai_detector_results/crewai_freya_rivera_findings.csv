@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Freya Rivera,1,data615.txt,10,"The email requests confirmation of the collaboration tools Freya Rivera uses for onboarding materials, indicating a benign inquiry.",benign,benign
+Freya Rivera,2,data615.txt,10,"The email requests confirmation of Freya Rivera's desk reservation pattern for Tuesdays or Thursdays, indicating a benign inquiry.",benign,benign
+Freya Rivera,3,data615.txt,10,"The email requests confirmation of the customer segment Freya Rivera supports for the account coverage map, indicating a benign inquiry.",benign,benign
+Freya Rivera,4,data615.txt,10,"The email requests confirmation of which learning cohort is tied to Freya Rivera's employee profile, indicating a benign inquiry.",benign,benign

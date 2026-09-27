@@ -1,0 +1,66 @@
+{
+  "victim_name": "Quentin Quinn",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "The presence of a score of 70 from channel 3 indicates a request for sensitive banking information, which is a strong indicator of malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Quentin Quinn",
+      "findings": [
+        {
+          "filename": "data596.txt",
+          "score": 30,
+          "summary": "Request for confirmation of home address and personal phone number for Quentin Quinn as part of migrating records to a new HR system."
+        }
+      ],
+      "max_score": 30,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for updating contact information and does not indicate malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Quentin Quinn",
+      "findings": [
+        {
+          "filename": "data596.txt",
+          "score": 25,
+          "summary": "Request for verification of recovery settings for Quentin Quinn's account as part of migrating records to a new HR system."
+        }
+      ],
+      "max_score": 25,
+      "channel_verdict": "benign",
+      "rationale": "The email is a standard request for account verification and does not suggest any malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Quentin Quinn",
+      "findings": [
+        {
+          "filename": "data596.txt",
+          "score": 70,
+          "summary": "Request for Quentin Quinn's bank account and routing numbers as part of verifying direct deposit details during record migration to a new HR system."
+        }
+      ],
+      "max_score": 70,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive banking information, which raises concerns about potential malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Quentin Quinn",
+      "findings": [
+        {
+          "filename": "data596.txt",
+          "score": 40,
+          "summary": "Request for confirmation of access badge number and building entry records for Quentin Quinn as part of validating access during record migration to a new HR system."
+        }
+      ],
+      "max_score": 40,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for access information and does not indicate malicious intent."
+    }
+  ]
+}

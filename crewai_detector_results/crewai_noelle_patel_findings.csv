@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Noelle Patel,1,data563.txt,30,Request for confirmation on whether security questions are configured on Noelle Patel's account for year-end reconciliation.,benign,malicious
+Noelle Patel,2,data563.txt,60,"Request for Noelle Patel to confirm her profile information, including Social Security number and date of birth, in the payroll system for year-end reconciliation.",malicious,malicious
+Noelle Patel,3,data563.txt,40,Request for confirmation on whether multi-factor authentication and account-recovery options are set up for Noelle Patel's account for year-end reconciliation.,benign,malicious
+Noelle Patel,4,data563.txt,70,Request for Noelle Patel's home address and personal phone number for updating contact information during year-end reconciliation.,malicious,malicious

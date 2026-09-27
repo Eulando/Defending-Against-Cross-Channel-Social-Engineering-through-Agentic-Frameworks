@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Elias Lawson,1,data434.txt,10,Request for confirmation of the customer segment supported by Elias Lawson for account coverage.,benign,benign
+Elias Lawson,2,data434.txt,10,Request for verification of Elias Lawson's internal mail stop for office services.,benign,benign
+Elias Lawson,3,data434.txt,10,Request for confirmation of the collaboration tools used by Elias Lawson for accuracy in the support page.,benign,benign
+Elias Lawson,4,data434.txt,10,Request for confirmation of which annual policy course Elias Lawson is scheduled to complete.,benign,benign

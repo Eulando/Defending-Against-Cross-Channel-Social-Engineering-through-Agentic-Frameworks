@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Aiden Hughes,1,data310.txt,70,"The email requests verification of Aiden Hughes's account details for year-end reconciliation, which raises concerns about potential unauthorized access.",malicious,malicious
+Aiden Hughes,2,data310.txt,80,"The email requests Aiden Hughes's personal email and phone number for directory records, indicating a potential phishing attempt to gather sensitive personal information.",malicious,malicious
+Aiden Hughes,3,data310.txt,90,"The email requests confirmation of Aiden Hughes's social security number and date of birth, indicating a high risk of unauthorized access to sensitive personal information.",malicious,malicious
+Aiden Hughes,4,data310.txt,85,"The email requests confirmation of Aiden Hughes's health insurance and medical records, indicating a potential risk of unauthorized access to sensitive health information.",malicious,malicious

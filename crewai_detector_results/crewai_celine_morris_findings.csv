@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Celine Morris,1,data488.txt,10,"The email is a request for information regarding Celine Morris's assigned chat and ticketing tools for a support matrix, indicating a benign administrative inquiry.",benign,benign
+Celine Morris,2,data488.txt,10,"The email is a request for verification of Celine Morris's internal mail stop for an office services list, indicating a benign administrative inquiry.",benign,benign
+Celine Morris,3,data488.txt,10,"The email is a request to verify whether Celine Morris is listed with a laptop or desktop in the asset summary, indicating a benign administrative inquiry.",benign,benign
+Celine Morris,4,data488.txt,10,"The email is a request to confirm Celine Morris's title and manager name from the HR profile for a department page update, indicating a benign administrative inquiry.",benign,benign

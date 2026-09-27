@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Wesley Kapoor,1,data422.txt,10,Request for verification of Wesley Kapoor's annual policy course in training records.,benign,benign
+Wesley Kapoor,2,data422.txt,10,Request for verification of how Wesley Kapoor's name should appear in the employee directory for internal cleanup.,benign,benign
+Wesley Kapoor,3,data422.txt,10,Request for verification of the building and floor assigned to Wesley Kapoor in the office map.,benign,benign
+Wesley Kapoor,4,data422.txt,10,Request for confirmation of the training cohort name listed for Wesley Kapoor for internal cleanup.,benign,benign

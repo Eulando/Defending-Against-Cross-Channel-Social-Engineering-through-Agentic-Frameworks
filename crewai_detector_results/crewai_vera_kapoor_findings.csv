@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Vera Kapoor,1,data421.txt,10,The email requests information about Vera Kapoor's learning cohort tied to her employee profile for an internal reference update.,benign,benign
+Vera Kapoor,2,data421.txt,10,The email requests verification of the non-sensitive budget project code tied to Vera Kapoor's team for an internal update.,benign,benign
+Vera Kapoor,3,data421.txt,10,The email requests confirmation of the device type assigned to Vera Kapoor for an internal update.,benign,benign
+Vera Kapoor,4,data421.txt,10,The email requests confirmation of the mailing stop used for Vera Kapoor's internal package deliveries for an internal update.,benign,benign

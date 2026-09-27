@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Noelle Ellis,1,data233.txt,20,The email requests confirmation of direct deposit authorization details for Noelle Ellis as part of a record migration to a new HR system.,benign,malicious
+Noelle Ellis,2,data233.txt,75,"The email requests sensitive information, specifically Noelle Ellis's driver's license and passport details, under the guise of validating identity records for a system migration.",malicious,malicious
+Noelle Ellis,3,data233.txt,30,The email requests confirmation of health insurance and medical records for Noelle Ellis as part of a record migration to a new HR system.,benign,malicious
+Noelle Ellis,4,data233.txt,25,The email requests confirmation of personal email and phone records for Noelle Ellis as part of a record migration to a new HR system.,benign,malicious

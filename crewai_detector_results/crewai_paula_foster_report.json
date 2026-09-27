@@ -1,0 +1,42 @@
+{
+  "victim_name": "Paula Foster",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All channels reported no findings related to malicious activity, and all scores were below the threshold. The requests made in the emails were routine and did not indicate any malicious intent.",
+  "rationale": "All channels reported benign findings with no evidence of malicious activity.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Paula Foster",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Paula Foster",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Paula Foster",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Paula Foster",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    }
+  ]
+}

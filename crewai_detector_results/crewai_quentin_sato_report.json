@@ -1,0 +1,48 @@
+{
+  "victim_name": "Quentin Sato",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "The combined requests across channels do not exhibit malicious social-engineering effects. All requests are for standard information related to onboarding processes, which is typical in a corporate environment.",
+  "rationale": "All individual scores are below the threshold, and the nature of the requests is benign.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Quentin Sato",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Quentin Sato",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Quentin Sato",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Quentin Sato",
+      "findings": [
+        {
+          "filename": "data656.txt",
+          "score": 0,
+          "summary": "The email from Casey, a Compliance Lead at Ventureline Consulting, requests Aisha to confirm the training cohort name for Quentin Sato before revising onboarding materials. The goal is to ensure the internal reference is accurate, and a response is requested within the week."
+        }
+      ],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "The email content is benign, requesting standard information for onboarding purposes."
+    }
+  ]
+}

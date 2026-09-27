@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Caleb Lawson,1,data432.txt,10,Request for confirmation of which annual policy course Caleb Lawson is scheduled to complete for the staff calendar update.,benign,benign
+Caleb Lawson,2,data432.txt,10,Request for confirmation of the building and floor listed for Caleb Lawson's regular workspace for an internal cleanup pass.,benign,benign
+Caleb Lawson,3,data432.txt,10,"Request for confirmation of the device type assigned to Caleb Lawson, whether it is a laptop or desktop, for an internal cleanup pass.",benign,benign
+Caleb Lawson,4,data432.txt,10,Request for confirmation of the project code currently associated with Caleb Lawson's department budget for an internal cleanup pass.,benign,benign

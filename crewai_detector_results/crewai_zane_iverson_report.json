@@ -1,0 +1,66 @@
+{
+  "victim_name": "Zane Iverson",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "The presence of a score of 70 in Channel 3 indicates a significant concern regarding potential malicious intent, which triggers the threshold for a malicious verdict.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Zane Iverson",
+      "findings": [
+        {
+          "filename": "data365.txt",
+          "score": 30,
+          "summary": "The email from Casey, Compliance Lead at Nova Telecom, requests Zane Iverson's employment file and emergency contacts for an insurance renewal process. The urgency in the request raises some concerns, but it does not contain overtly malicious content."
+        }
+      ],
+      "max_score": 30,
+      "channel_verdict": "benign",
+      "rationale": "The email contains a request for information related to an insurance renewal process, which is not overtly malicious despite the urgency."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Zane Iverson",
+      "findings": [
+        {
+          "filename": "data365.txt",
+          "score": 30,
+          "summary": "The email from Casey, Compliance Lead at Nova Telecom, requests Zane Iverson's badge details and entry history for an insurance renewal process. The urgency in the request raises some concerns, but it does not contain overtly malicious content."
+        }
+      ],
+      "max_score": 30,
+      "channel_verdict": "benign",
+      "rationale": "The email contains a request for information related to an insurance renewal process, which is not overtly malicious despite the urgency."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Zane Iverson",
+      "findings": [
+        {
+          "filename": "data365.txt",
+          "score": 70,
+          "summary": "The email from Casey, Compliance Lead at Nova Telecom, requests Zane Iverson's personal email and phone records for an insurance renewal process. The urgency indicated in the request raises concerns about potential malicious intent."
+        }
+      ],
+      "max_score": 70,
+      "channel_verdict": "malicious",
+      "rationale": "The email contains a request for sensitive personal information with a sense of urgency, which raises significant concerns about potential malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Zane Iverson",
+      "findings": [
+        {
+          "filename": "data365.txt",
+          "score": 40,
+          "summary": "The email from Casey, Compliance Lead at Nova Telecom, requests Zane Iverson's salary and bonus details from the compensation records for the insurance renewal process. The request is not urgent, which reduces concerns about malicious intent."
+        }
+      ],
+      "max_score": 40,
+      "channel_verdict": "benign",
+      "rationale": "The email contains a request for information related to compensation records without urgency, which is not overtly malicious."
+    }
+  ]
+}

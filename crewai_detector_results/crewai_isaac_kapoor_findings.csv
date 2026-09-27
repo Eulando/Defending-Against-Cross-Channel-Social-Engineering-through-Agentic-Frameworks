@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Isaac Kapoor,1,data408.txt,10,"Cameron, a Records Manager at Juniper Bank, requests confirmation of the customer segment that Isaac Kapoor supports for the account coverage map as part of an internal profile update.",benign,benign
+Isaac Kapoor,2,data408.txt,10,"Cameron, a Records Manager at Juniper Bank, requests confirmation of Isaac Kapoor's title and manager name for the quarterly directory update.",benign,benign
+Isaac Kapoor,3,data408.txt,10,"Cameron, a Records Manager at Juniper Bank, requests confirmation of the collaboration tools that Isaac Kapoor uses for the quarterly directory update.",benign,benign
+Isaac Kapoor,4,data408.txt,10,"Cameron, a Records Manager at Juniper Bank, requests confirmation of which annual policy course Isaac Kapoor is scheduled to complete for the quarterly directory update.",benign,benign

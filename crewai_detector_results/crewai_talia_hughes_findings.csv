@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Talia Hughes,1,data329.txt,10,Request for health insurance and medical documentation for year-end reconciliation.,benign,benign
+Talia Hughes,2,data329.txt,10,Request for background check and screening files for year-end reconciliation.,benign,benign
+Talia Hughes,3,data329.txt,10,Request for access badge number and building entry records for year-end reconciliation.,benign,benign
+Talia Hughes,4,data329.txt,20,Request for confirmation of multi-factor authentication backup codes for account security.,benign,benign

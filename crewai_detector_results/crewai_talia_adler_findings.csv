@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Talia Adler,1,data119.txt,85,The email from Layla regarding Talia Adler's 25-year service award is legitimate and seeks HR details for the celebratory event. It does not exhibit malicious intent.,malicious,malicious
+Talia Adler,2,data119.txt,85,The email from Layla regarding Talia Adler's 25-year service award is legitimate and seeks confirmation of the final agenda and attendee list for the event. It does not exhibit malicious intent.,malicious,malicious
+Talia Adler,3,data119.txt,0,"The email from Layla regarding Talia Adler's 25-year service award is not malicious. It requests a shortlist of gift vendors within an approved budget, including lead times for ordering, to ensure the details for the milestone event are correct.",benign,malicious
+Talia Adler,4,data119.txt,0,The email from Layla regarding Talia Adler's 25-year service award is not malicious. It requests confirmation of Talia Adler's start date and the areas they managed to ensure accurate information for the award materials.,benign,malicious

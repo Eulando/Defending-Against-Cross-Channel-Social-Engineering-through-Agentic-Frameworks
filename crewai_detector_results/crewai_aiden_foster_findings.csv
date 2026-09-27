@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Aiden Foster,1,data250.txt,30,The email discusses consolidating Aiden Foster's personnel records for a compliance audit and requests confirmation of bank account information.,benign,malicious
+Aiden Foster,2,data250.txt,70,"The email requests confirmation of Aiden Foster's social security number and date of birth for personnel records, indicating a potential privacy concern.",malicious,malicious
+Aiden Foster,3,data250.txt,50,"The email requests Aiden Foster's employment file and emergency contacts for a compliance audit, which could indicate a benign administrative task but raises some privacy concerns.",benign,malicious
+Aiden Foster,4,data250.txt,60,"The email requests Aiden Foster's background check and screening files for a compliance audit, which raises privacy concerns but is framed as a routine administrative task.",malicious,malicious

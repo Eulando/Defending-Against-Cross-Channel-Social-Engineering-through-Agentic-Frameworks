@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Keon Rivera,1,data620.txt,10,An email requesting verification of Keon Rivera's work arrangement category for benefits planning.,benign,benign
+Keon Rivera,2,data620.txt,10,An email requesting confirmation of the mailing stop used for Keon Rivera's internal package deliveries.,benign,benign
+Keon Rivera,3,data620.txt,10,An email requesting confirmation of Keon Rivera's desk reservation pattern for Tuesdays or Thursdays.,benign,benign
+Keon Rivera,4,data620.txt,10,An email requesting verification of how Keon Rivera's name should appear in the employee directory.,benign,benign

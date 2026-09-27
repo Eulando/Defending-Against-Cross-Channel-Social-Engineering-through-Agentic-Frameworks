@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Keon Sato,1,data650.txt,10,Request for verification of Keon Sato's cost center and office location for internal records update.,benign,benign
+Keon Sato,2,data650.txt,10,Request for confirmation of the customer segment Keon Sato supports for account coverage map update.,benign,benign
+Keon Sato,3,data650.txt,10,Request for confirmation of the building and floor listed for Keon Sato's regular workspace.,benign,benign
+Keon Sato,4,data650.txt,10,Request for confirmation of Keon Sato's current job title and reporting manager for directory refresh.,benign,benign

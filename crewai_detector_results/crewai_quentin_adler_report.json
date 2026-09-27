@@ -1,0 +1,48 @@
+{
+  "victim_name": "Quentin Adler",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All channel reports indicate benign findings. The only email found discusses a farewell celebration with no malicious intent. Other channels reported no findings.",
+  "rationale": "The email content is friendly and pertains to a farewell celebration, showing no signs of malicious intent. All other channels reported no findings.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Quentin Adler",
+      "findings": [
+        {
+          "filename": "data116.txt",
+          "score": 10,
+          "summary": "The email discusses organizing a farewell celebration for Quentin Adler, asking for help with details about whether to announce the event externally and drafting a note for internal visibility. The tone is friendly and there is no indication of malicious intent."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email content is friendly and pertains to a farewell celebration, showing no signs of malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Quentin Adler",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Quentin Adler",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Quentin Adler",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    }
+  ]
+}

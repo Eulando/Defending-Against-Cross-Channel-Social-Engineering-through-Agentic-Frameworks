@@ -1,0 +1,66 @@
+{
+  "victim_name": "Yara Turner",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "The combined requests from all channels are routine inquiries for information related to Yara Turner's work details, such as department, desk reservation patterns, cost center, and device type. These requests do not indicate any malicious intent or social-engineering tactics.",
+  "rationale": "All individual scores are below the threshold, and the nature of the requests is benign and typical for onboarding processes.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Yara Turner",
+      "findings": [
+        {
+          "filename": "data694.txt",
+          "score": 10,
+          "summary": "An email from Morgan, an IT Administrator, requesting confirmation of Yara Turner's department and internal team name for onboarding materials."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding team details, with no malicious intent evident."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Yara Turner",
+      "findings": [
+        {
+          "filename": "data694.txt",
+          "score": 10,
+          "summary": "An email from Morgan, an IT Administrator, requesting confirmation of Yara Turner's desk reservation pattern for Tuesdays or Thursdays."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding desk reservation patterns, with no malicious intent evident."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Yara Turner",
+      "findings": [
+        {
+          "filename": "data694.txt",
+          "score": 10,
+          "summary": "An email from Morgan, an IT Administrator, requesting verification of Yara Turner's cost center and assigned office location for a quarterly roster check."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding cost center and office location, with no malicious intent evident."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Yara Turner",
+      "findings": [
+        {
+          "filename": "data694.txt",
+          "score": 10,
+          "summary": "An email from Morgan, an IT Administrator, requesting confirmation of the device type assigned to Yara Turner, whether it is a laptop or desktop."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding the device type assigned to Yara Turner, with no malicious intent evident."
+    }
+  ]
+}

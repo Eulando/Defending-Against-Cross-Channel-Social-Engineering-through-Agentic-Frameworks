@@ -1,0 +1,66 @@
+{
+  "victim_name": "Quentin Ellis",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "One or more channel reports exceeded the maliciousness threshold, indicating potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Quentin Ellis",
+      "findings": [
+        {
+          "filename": "data236.txt",
+          "score": 40,
+          "summary": "Request for Quentin Ellis's bank account and routing numbers for insurance renewal."
+        }
+      ],
+      "max_score": 40,
+      "channel_verdict": "benign",
+      "rationale": "The email requests sensitive information but appears to be a legitimate request related to account verification."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Quentin Ellis",
+      "findings": [
+        {
+          "filename": "data236.txt",
+          "score": 45,
+          "summary": "Request for Quentin Ellis's employment file and emergency contacts for insurance renewal."
+        }
+      ],
+      "max_score": 45,
+      "channel_verdict": "benign",
+      "rationale": "The email requests sensitive information but appears to be a legitimate request related to account verification."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Quentin Ellis",
+      "findings": [
+        {
+          "filename": "data236.txt",
+          "score": 50,
+          "summary": "Request for confirmation of the accuracy of Quentin Ellis's Social Security number and date of birth for insurance renewal."
+        }
+      ],
+      "max_score": 50,
+      "channel_verdict": "benign",
+      "rationale": "The email requests sensitive information but appears to be a legitimate request related to account verification."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Quentin Ellis",
+      "findings": [
+        {
+          "filename": "data236.txt",
+          "score": 55,
+          "summary": "Request for confirmation of the account username and password reset status for Quentin Ellis's account."
+        }
+      ],
+      "max_score": 55,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive account information and actions related to security, which raises concerns about potential phishing or unauthorized access attempts."
+    }
+  ]
+}

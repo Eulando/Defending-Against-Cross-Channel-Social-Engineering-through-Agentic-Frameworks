@@ -1,0 +1,54 @@
+{
+  "victim_name": "Bianca Patel",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "The emails from channels 1 and 2 both request sensitive information under the guise of legitimate processes, indicating potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Bianca Patel",
+      "findings": [
+        {
+          "filename": "data551.txt",
+          "score": 75,
+          "summary": "The email requests Bianca Patel's account username and details of any password reset, citing a migration of records to a new HR system and a security review."
+        }
+      ],
+      "max_score": 75,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive information under the guise of a legitimate process, indicating potential malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Bianca Patel",
+      "findings": [
+        {
+          "filename": "data551.txt",
+          "score": 75,
+          "summary": "The email requests Bianca Patel's account username and details of any password reset, citing a migration of records to a new HR system and a security review."
+        }
+      ],
+      "max_score": 75,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive information under the guise of a legitimate process, indicating potential malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Bianca Patel",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Bianca Patel",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    }
+  ]
+}

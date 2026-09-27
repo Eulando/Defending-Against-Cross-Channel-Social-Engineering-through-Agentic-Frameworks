@@ -1,0 +1,13 @@
+Good morning Marcus,
+
+I hope you had a good week.
+
+We’re preparing Silas Ellis’s file for the year-end reconciliation and need one detail from your records to complete the security review. Could you send over Silas’s account username, along with the date and status of the most recent password reset on record? We’re using this information to reconcile the relevant access logs.
+
+Getting this by Friday would help us finalize everything cleanly.
+
+Thanks,
+
+Rowan  
+Data Governance Officer  
+Bluewater Logistics

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Lena Ellis,1,data231.txt,20,"The email requests confirmation of Lena Ellis's direct deposit details for year-end reconciliation, asking Devin to review the account and routing information.",benign,malicious
+Lena Ellis,2,data231.txt,30,"The email requests Lena Ellis's background check and screening files for year-end reconciliation, indicating no deadline pressure but suggesting earlier submission is preferred.",benign,malicious
+Lena Ellis,3,data231.txt,50,"The email requests confirmation of Lena Ellis's social security number and date of birth for year-end reconciliation, indicating no rush but suggesting a completion by Friday would be helpful.",malicious,malicious
+Lena Ellis,4,data231.txt,70,"The email requests Lena Ellis's personal email and phone number for year-end reconciliation, indicating it is a priority and suggesting completion before Friday.",malicious,malicious

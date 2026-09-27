@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Lena Carver,1,data171.txt,10,The email discusses organizing Lena Carver's retirement send-off and confirming expense details for a retirement gift. The tone is professional and the request appears legitimate.,benign,benign
+Lena Carver,2,data171.txt,10,The email discusses organizing Lena Carver's retirement send-off and requests help with preferred vendors for the retirement gift. The tone is professional and the request appears legitimate.,benign,benign
+Lena Carver,3,data171.txt,10,The email discusses organizing Lena Carver's retirement send-off and requests help with vendor recommendations for retirement gifts. The tone is professional and the request appears legitimate.,benign,benign
+Lena Carver,4,data171.txt,10,The email discusses organizing Lena Carver's retirement send-off and requests a summary of her biggest projects for a write-up. The tone is professional and the request appears legitimate.,benign,benign

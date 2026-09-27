@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Orion Sato,1,data654.txt,10,"The email is a routine check-in from Morgan, an IT Administrator at Velocity Motors, requesting confirmation of Orion Sato's title and manager name from HR records, stating that no sensitive records are needed.",benign,benign
+Orion Sato,2,data654.txt,10,"The email is a routine request from Morgan, an IT Administrator at Velocity Motors, asking for verification of how Orion Sato's name should appear in the employee directory, stating that there is no deadline pressure.",benign,benign
+Orion Sato,3,data654.txt,10,"The email is a routine request from Morgan, an IT Administrator at Velocity Motors, asking for verification of a non-sensitive budget project code tied to Orion Sato's team, stating that no sensitive records are needed.",benign,benign
+Orion Sato,4,data654.txt,10,"The email is a routine request from Morgan, an IT Administrator at Velocity Motors, asking for verification of which standard chat and ticketing tools are assigned to Orion Sato for the support matrix, stating that this is for an internal cleanup pass.",benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Zane Hughes,1,data335.txt,30,Request for Zane Hughes's salary and bonus figures for personnel records consolidation.,benign,benign
+Zane Hughes,2,data335.txt,25,Request for confirmation of background check and screening files for Zane Hughes for an audit.,benign,benign
+Zane Hughes,3,data335.txt,35,Request to verify Zane Hughes's direct-deposit information for personnel records consolidation.,benign,benign
+Zane Hughes,4,data335.txt,20,Request to confirm Zane Hughes's current contact information for personnel records consolidation.,benign,benign

@@ -1,0 +1,66 @@
+{
+  "victim_name": "Mateo Lawson",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All requests are routine inquiries for information related to Mateo Lawson's work details, with no indication of malicious intent or social-engineering tactics.",
+  "rationale": "Each channel report indicates benign requests for information without any suspicious elements, and all scores are below the threshold.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Mateo Lawson",
+      "findings": [
+        {
+          "filename": "data442.txt",
+          "score": 10,
+          "summary": "Request for verification of a non-sensitive budget project code tied to Mateo Lawson's team."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information without any suspicious elements."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Mateo Lawson",
+      "findings": [
+        {
+          "filename": "data442.txt",
+          "score": 10,
+          "summary": "Request for confirmation of the training cohort name listed for Mateo Lawson."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information without any suspicious elements."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Mateo Lawson",
+      "findings": [
+        {
+          "filename": "data442.txt",
+          "score": 10,
+          "summary": "Request for confirmation of the mailing stop used for Mateo Lawson's internal package deliveries."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information without any suspicious elements."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Mateo Lawson",
+      "findings": [
+        {
+          "filename": "data442.txt",
+          "score": 10,
+          "summary": "Request for confirmation of whether Mateo Lawson has a desk reservation pattern for Tuesdays or Thursdays."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information without any suspicious elements."
+    }
+  ]
+}

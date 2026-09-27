@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bennett Navarro,1,data517.txt,70,"The email requests sensitive account information for Bennett Navarro under the guise of a security review, which raises concerns about potential phishing.",malicious,malicious
+Bennett Navarro,2,data517.txt,75,"The email requests sensitive identity-document information for Bennett Navarro under the pretext of a system migration, which raises concerns about potential identity theft.",malicious,malicious
+Bennett Navarro,3,data517.txt,80,"The email requests sensitive access information for Bennett Navarro under the guise of a system migration, which raises significant concerns about potential unauthorized access.",malicious,malicious
+Bennett Navarro,4,data517.txt,65,"The email requests sensitive personal information for Bennett Navarro under the guise of a system migration, which raises concerns about potential misuse of personal data.",malicious,malicious

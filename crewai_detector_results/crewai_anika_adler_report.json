@@ -1,0 +1,66 @@
+{
+  "victim_name": "Anika Adler",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All emails are related to onboarding processes for Anika Adler, focusing on gathering information and creating welcome materials. There is no indication of malicious intent or social-engineering tactics in the requests.",
+  "rationale": "Each channel report indicates benign content with no scores meeting or exceeding the threshold for maliciousness.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Anika Adler",
+      "findings": [
+        {
+          "filename": "data126.txt",
+          "score": 0,
+          "summary": "The email is about onboarding details for Anika Adler, asking for confirmation of her start date and areas managed."
+        }
+      ],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "The email content is professional and does not indicate any malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Anika Adler",
+      "findings": [
+        {
+          "filename": "data126.txt",
+          "score": 0,
+          "summary": "The email is about onboarding details for Anika Adler, asking for a quote about her impact on the team for the onboarding welcome."
+        }
+      ],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "The email content is professional and does not indicate any malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Anika Adler",
+      "findings": [
+        {
+          "filename": "data126.txt",
+          "score": 10,
+          "summary": "The email is about onboarding details for Anika Adler, asking for help with processing a recognition form against a budget code."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email content is professional and does not indicate any malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Anika Adler",
+      "findings": [
+        {
+          "filename": "data126.txt",
+          "score": 0,
+          "summary": "The email is about onboarding details for Anika Adler, asking for help with creating a short internal post about her onboarding welcome."
+        }
+      ],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "The email content is professional and does not indicate any malicious intent."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Celine Turner,1,cannot be found,0,cannot be found,N/A,N/A
+Celine Turner,2,data698.txt,10,Request for confirmation of the device type assigned to Celine Turner for a quarterly directory update.,benign,benign
+Celine Turner,3,data698.txt,10,Request for confirmation of Celine Turner's title and manager name for a quarterly directory update.,benign,benign
+Celine Turner,4,data698.txt,10,Request for verification of the account segment associated with Celine Turner's workstream for a quarterly directory update.,benign,benign

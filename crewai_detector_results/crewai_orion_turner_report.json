@@ -1,0 +1,54 @@
+{
+  "victim_name": "Orion Turner",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "The email from Channel 4 has a score of 95, which exceeds the threshold of 50, indicating a malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Orion Turner",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Orion Turner",
+      "findings": [
+        {
+          "filename": "data684.txt",
+          "score": 10,
+          "summary": "The email is a request from Avery, a Security Coordinator at Nova Telecom, asking for verification of whether Orion Turner is listed with a laptop or desktop in the asset summary."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email content is benign and does not exhibit any malicious elements."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Orion Turner",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Orion Turner",
+      "findings": [
+        {
+          "filename": "data684.txt",
+          "score": 95,
+          "summary": "The email is a request from Avery, a Security Coordinator at Nova Telecom, asking for confirmation of the customer segment that Orion Turner supports for the account coverage map."
+        }
+      ],
+      "max_score": 95,
+      "channel_verdict": "malicious",
+      "rationale": "The email content, while appearing benign, has a high maliciousness score indicating potential risk."
+    }
+  ]
+}

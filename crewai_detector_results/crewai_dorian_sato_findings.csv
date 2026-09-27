@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Dorian Sato,1,data669.txt,10,"The email is a request for confirmation of Dorian Sato's title and manager name for an internal update, indicating a benign purpose.",benign,benign
+Dorian Sato,2,data669.txt,10,"The email is a request for confirmation of which annual policy course Dorian Sato is scheduled to complete, indicating a benign purpose.",benign,benign
+Dorian Sato,3,data669.txt,10,"The email is a request for confirmation of Dorian Sato's department and team name for a directory sync, indicating a benign purpose.",benign,benign
+Dorian Sato,4,data669.txt,10,"The email is a request for confirmation of which standard chat and ticketing tools are assigned to Dorian Sato for the support matrix, indicating a benign purpose.",benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Aiden Jensen,1,data370.txt,30,Email requesting confirmation of multi-factor authentication backup codes for Aiden Jensen's account during a system migration.,benign,benign
+Aiden Jensen,2,data370.txt,40,Email requesting confirmation of Aiden Jensen's access badge number and building entry records during a system migration.,benign,benign
+Aiden Jensen,3,data370.txt,35,Email requesting Aiden Jensen's direct deposit authorization during a system migration.,benign,benign
+Aiden Jensen,4,data370.txt,45,Email requesting confirmation of background check and screening files for Aiden Jensen during a system migration.,benign,benign

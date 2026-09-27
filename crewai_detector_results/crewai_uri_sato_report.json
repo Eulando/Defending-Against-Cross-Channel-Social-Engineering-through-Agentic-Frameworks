@@ -1,0 +1,66 @@
+{
+  "victim_name": "Uri Sato",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All requests are routine inquiries for information regarding Uri Sato's training, asset details, customer segment, and department. There is no indication of malicious intent or social-engineering effects when considered together.",
+  "rationale": "Each individual score is below the threshold, and the combined requests do not suggest any malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Uri Sato",
+      "findings": [
+        {
+          "filename": "data660.txt",
+          "score": 10,
+          "summary": "Request for details on Uri Sato's training plan, specifically the annual policy course."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding training details, with no indication of malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Uri Sato",
+      "findings": [
+        {
+          "filename": "data660.txt",
+          "score": 10,
+          "summary": "Request for information on whether Uri Sato is listed with a laptop or desktop in the asset summary."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for asset information regarding Uri Sato, with no indication of malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Uri Sato",
+      "findings": [
+        {
+          "filename": "data660.txt",
+          "score": 10,
+          "summary": "Request for confirmation of the customer segment Uri Sato supports for the account coverage map."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding customer segment details, with no indication of malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Uri Sato",
+      "findings": [
+        {
+          "filename": "data660.txt",
+          "score": 10,
+          "summary": "Request for confirmation of the department and internal team name listed for Uri Sato."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for internal information regarding Uri Sato's department, with no indication of malicious intent."
+    }
+  ]
+}

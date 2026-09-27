@@ -1,0 +1,48 @@
+{
+  "victim_name": "Yara Kapoor",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "The combined requests across all channels do not indicate any malicious intent or social-engineering effects. The requests are routine internal inquiries related to Yara Kapoor's work.",
+  "rationale": "All individual scores are below the threshold, and the content of the requests does not suggest any malicious activity.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Yara Kapoor",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Yara Kapoor",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Yara Kapoor",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Yara Kapoor",
+      "findings": [
+        {
+          "filename": "data424.txt",
+          "score": 10,
+          "summary": "Request for confirmation of Yara Kapoor's department and team name in HRIS for directory synchronization."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email content indicates a routine internal request with no malicious intent."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "victim_name": "Daria Quinn",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "The combined requests do not exhibit malicious social-engineering effects as all individual scores are below the threshold and the requests appear legitimate.",
+  "rationale": "All channels reported benign findings, with no individual scores reaching the threshold of 50. The requests made were routine and did not indicate any malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Daria Quinn",
+      "findings": [
+        {
+          "filename": "data583.txt",
+          "score": 20,
+          "summary": "Request for verification of access badge number and building entry records for Daria Quinn as part of a routine background verification process."
+        }
+      ],
+      "max_score": 20,
+      "channel_verdict": "benign",
+      "rationale": "The email appears to be a legitimate request for verification related to routine background checks, with no indications of malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Daria Quinn",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Daria Quinn",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Daria Quinn",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    }
+  ]
+}

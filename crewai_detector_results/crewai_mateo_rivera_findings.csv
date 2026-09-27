@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Mateo Rivera,1,data622.txt,10,Request for verification of Mateo Rivera's cost center and office location for a quarterly directory update.,benign,benign
+Mateo Rivera,2,data622.txt,10,Request for verification of Mateo Rivera's department and team name in HRIS for a quarterly directory update.,benign,benign
+Mateo Rivera,3,data622.txt,10,Request for confirmation of the project code associated with Mateo Rivera's department budget for a quarterly directory update.,benign,benign
+Mateo Rivera,4,data622.txt,10,Request for confirmation of the collaboration tools used by Mateo Rivera for an internal cleanup pass.,benign,benign

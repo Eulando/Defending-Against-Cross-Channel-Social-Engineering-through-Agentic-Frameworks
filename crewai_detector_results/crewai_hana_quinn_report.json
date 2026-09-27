@@ -1,0 +1,66 @@
+{
+  "victim_name": "Hana Quinn",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "At least one email score is above the threshold, indicating potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Hana Quinn",
+      "findings": [
+        {
+          "filename": "data587.txt",
+          "score": 10,
+          "summary": "Request for confirmation of background check and screening files for Hana Quinn for year-end reconciliation."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email content is professional and appears to be a legitimate request for information related to an audit."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Hana Quinn",
+      "findings": [
+        {
+          "filename": "data587.txt",
+          "score": 80,
+          "summary": "Request for confirmation of Hana Quinn's Social Security number and date of birth for year-end reconciliation."
+        }
+      ],
+      "max_score": 80,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information, which raises concerns about potential malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Hana Quinn",
+      "findings": [
+        {
+          "filename": "data587.txt",
+          "score": 70,
+          "summary": "Request for confirmation of health insurance and medical records for Hana Quinn for year-end reconciliation."
+        }
+      ],
+      "max_score": 70,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information related to health insurance and medical records, indicating potential malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Hana Quinn",
+      "findings": [
+        {
+          "filename": "data587.txt",
+          "score": 90,
+          "summary": "Request for confirmation of security questions and answers for Hana Quinn's account for account recovery settings."
+        }
+      ],
+      "max_score": 90,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive information related to security questions and answers, indicating a high potential for malicious intent."
+    }
+  ]
+}

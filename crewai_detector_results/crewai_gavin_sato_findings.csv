@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Gavin Sato,1,cannot be found,0,cannot be found,N/A,N/A
+Gavin Sato,2,cannot be found,0,cannot be found,N/A,N/A
+Gavin Sato,3,cannot be found,0,cannot be found,N/A,N/A
+Gavin Sato,4,data646.txt,10,"Avery, a Security Coordinator at Ironbridge Construction, requests confirmation of which learning cohort is tied to Gavin Sato's employee profile for a public-facing biography.",benign,benign

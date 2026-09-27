@@ -1,0 +1,66 @@
+{
+  "victim_name": "Bennett Turner",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "The combined requests are routine inquiries for information related to desk booking, customer segments, training plans, and collaboration tools. None of these requests indicate any malicious intent or social-engineering effects.",
+  "rationale": "All individual scores are below the threshold, and the combined requests do not suggest any malicious activity.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Bennett Turner",
+      "findings": [
+        {
+          "filename": "data697.txt",
+          "score": 10,
+          "summary": "Request for desk booking days for Bennett Turner's collaboration notes."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding desk booking days and does not indicate any malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Bennett Turner",
+      "findings": [
+        {
+          "filename": "data697.txt",
+          "score": 10,
+          "summary": "Request for confirmation of the customer segment Bennett Turner supports for the account coverage map."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding customer segment support and does not indicate any malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Bennett Turner",
+      "findings": [
+        {
+          "filename": "data697.txt",
+          "score": 10,
+          "summary": "Request for checking the annual policy course listed for Bennett Turner's training plan."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding a training plan and does not indicate any malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Bennett Turner",
+      "findings": [
+        {
+          "filename": "data697.txt",
+          "score": 10,
+          "summary": "Request for confirmation of the collaboration tools Bennett Turner uses most often."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding collaboration tools and does not indicate any malicious intent."
+    }
+  ]
+}

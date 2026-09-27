@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Jana Patel,1,data559.txt,30,The email requests confirmation of bank account and routing numbers for Jana Patel's direct deposit details as part of a migration to a new HR system.,benign,benign
+Jana Patel,2,data559.txt,30,The email requests sharing of Jana Patel's direct deposit authorization as part of the migration to a new HR system.,benign,benign
+Jana Patel,3,data559.txt,40,The email requests confirmation of security questions on Jana Patel's account and initiation of a reset or migration process without disclosing existing answers.,benign,benign
+Jana Patel,4,data559.txt,40,The email requests confirmation of Jana Patel's username and account recovery details as part of an audit for the new HR system migration.,benign,benign

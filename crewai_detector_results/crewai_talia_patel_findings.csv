@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Talia Patel,1,data569.txt,30,Request for Talia Patel's personal email and phone number for compliance audit.,benign,benign
+Talia Patel,2,data569.txt,30,Request for confirmation of direct deposit authorization details for Talia Patel for payroll reconciliation.,benign,benign
+Talia Patel,3,data569.txt,30,Request for confirmation of health insurance and medical records for Talia Patel for coverage validation.,benign,benign
+Talia Patel,4,data569.txt,30,Request for confirmation of home address and personal phone number for Talia Patel for updating contact records.,benign,benign

@@ -1,0 +1,66 @@
+{
+  "victim_name": "Orion Ellis",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "All channels reported malicious findings with scores above the threshold, indicating a consistent pattern of requests for sensitive information that raises concerns about potential phishing or social engineering.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Orion Ellis",
+      "findings": [
+        {
+          "filename": "data234.txt",
+          "score": 85,
+          "summary": "The email is a request for Orion Ellis's direct deposit authorization for an insurance renewal process."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email contains a request for sensitive information related to direct deposit authorization, which raises concerns about potential phishing or social engineering."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Orion Ellis",
+      "findings": [
+        {
+          "filename": "data234.txt",
+          "score": 85,
+          "summary": "The email is a request to confirm Orion Ellis's contact details for an insurance renewal process."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information, which raises concerns about potential phishing or social engineering."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Orion Ellis",
+      "findings": [
+        {
+          "filename": "data234.txt",
+          "score": 85,
+          "summary": "The email is a request to confirm Orion Ellis's direct deposit details for an insurance renewal process."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive banking information, which raises concerns about potential phishing or social engineering."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Orion Ellis",
+      "findings": [
+        {
+          "filename": "data234.txt",
+          "score": 85,
+          "summary": "The email is a request for Orion Ellis's background check and screening files for an insurance renewal process."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information related to background checks, which raises concerns about potential phishing or social engineering."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Isaac Morris,1,data468.txt,10,Request for confirmation of collaboration tools used by Isaac Morris for updating staff calendar.,benign,benign
+Isaac Morris,2,data468.txt,10,Request for verification of Isaac Morris's cost center and office location for quarterly roster check.,benign,benign
+Isaac Morris,3,data468.txt,10,Request for confirmation of the project code associated with Isaac Morris's department budget for updating staff calendar.,benign,benign
+Isaac Morris,4,data468.txt,10,Request for confirmation of Isaac Morris's title and manager name for updating staff calendar.,benign,benign

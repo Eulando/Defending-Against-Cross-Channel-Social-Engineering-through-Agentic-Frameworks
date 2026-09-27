@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bianca Foster,1,data251.txt,20,Request for health insurance and medical documentation for insurance renewal process.,benign,benign
+Bianca Foster,2,data251.txt,30,Request to confirm Social Security number and date of birth for insurance renewal process.,benign,benign
+Bianca Foster,3,data251.txt,25,Request to confirm account security questions for insurance renewal process.,benign,benign
+Bianca Foster,4,data251.txt,40,Request for Bianca Foster's home address and personal phone number for insurance renewal process.,benign,benign

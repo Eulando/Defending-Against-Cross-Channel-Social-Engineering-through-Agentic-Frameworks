@@ -1,0 +1,66 @@
+{
+  "victim_name": "Orion Owens",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "Multiple channels reported high scores indicating malicious intent, with requests for sensitive information.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Orion Owens",
+      "findings": [
+        {
+          "filename": "data534.txt",
+          "score": 20,
+          "summary": "Request for Orion Owens to confirm and update direct deposit information for year-end reconciliation."
+        }
+      ],
+      "max_score": 20,
+      "channel_verdict": "benign",
+      "rationale": "The email requests a routine update of banking information and does not exhibit malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Orion Owens",
+      "findings": [
+        {
+          "filename": "data534.txt",
+          "score": 85,
+          "summary": "Request for multi-factor authentication backup codes for Orion Owens's account verification."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive information related to multi-factor authentication, indicating potential malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Orion Owens",
+      "findings": [
+        {
+          "filename": "data534.txt",
+          "score": 90,
+          "summary": "Request for Orion Owens's home address and personal phone number for updating contact information."
+        }
+      ],
+      "max_score": 90,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information, indicating a high likelihood of malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Orion Owens",
+      "findings": [
+        {
+          "filename": "data534.txt",
+          "score": 95,
+          "summary": "Request for Orion Owens's username and reset details for account access verification."
+        }
+      ],
+      "max_score": 95,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive account information, indicating a very high likelihood of malicious intent."
+    }
+  ]
+}

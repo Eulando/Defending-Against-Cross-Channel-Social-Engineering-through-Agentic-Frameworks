@@ -1,0 +1,66 @@
+{
+  "victim_name": "Wesley Garcia",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "Multiple channels reported high maliciousness scores due to requests for sensitive personal and financial information, indicating a coordinated effort to exploit the victim.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Wesley Garcia",
+      "findings": [
+        {
+          "filename": "data302.txt",
+          "score": 85,
+          "summary": "The email requests Wesley Garcia to verify his direct-deposit details and confirm his bank account and routing information through Velocity Motors' authorized payroll system for an annual compliance audit. This could be a legitimate request, but the method of confirmation should be scrutinized to ensure it is secure."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email contains a high maliciousness score due to the request for sensitive information and the potential for phishing."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Wesley Garcia",
+      "findings": [
+        {
+          "filename": "data302.txt",
+          "score": 80,
+          "summary": "The email requests confirmation of whether the security questions on Wesley Garcia's account are current and properly recorded for an annual compliance audit. This request raises concerns about the security of sensitive information."
+        }
+      ],
+      "max_score": 80,
+      "channel_verdict": "malicious",
+      "rationale": "The email contains a high maliciousness score due to the request for sensitive information regarding security questions, which could be exploited."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Wesley Garcia",
+      "findings": [
+        {
+          "filename": "data302.txt",
+          "score": 75,
+          "summary": "The email requests Wesley Garcia's full employment file and emergency contact details from HRIS for an annual compliance audit. This request raises concerns about the handling of sensitive personal information."
+        }
+      ],
+      "max_score": 75,
+      "channel_verdict": "malicious",
+      "rationale": "The email contains a significant maliciousness score due to the request for sensitive personal information, which could be misused."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Wesley Garcia",
+      "findings": [
+        {
+          "filename": "data302.txt",
+          "score": 90,
+          "summary": "The email requests confirmation of Wesley Garcia's salary and bonus details from the compensation records for an annual compliance audit. This request raises significant concerns about the handling of sensitive financial information."
+        }
+      ],
+      "max_score": 90,
+      "channel_verdict": "malicious",
+      "rationale": "The email contains a very high maliciousness score due to the request for sensitive financial information, which could be exploited."
+    }
+  ]
+}

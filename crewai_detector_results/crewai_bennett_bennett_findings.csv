@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bennett Bennett,1,data157.txt,20,"The email is a request from Sofia, a People Operations Specialist at Brightline Media, asking for recommendations on vendors for welcome gift-type orders for Bennett Bennett's onboarding, including lead times.",benign,benign
+Bennett Bennett,2,data157.txt,20,"The email from Sofia is a routine request regarding expense confirmation for the welcome gift for Bennett Bennett's onboarding, asking if expense code WEL-2026-063 covers it and if a purchase order is needed.",benign,benign
+Bennett Bennett,3,data157.txt,10,"The email from Sofia is a request for assistance in reviewing the invite list and agenda for Bennett Bennett's onboarding welcome, asking if Bennett's family should be added to the invite list and aiming to finalize details by Friday.",benign,benign
+Bennett Bennett,4,data157.txt,0,"The email from Sofia is a legitimate request for impact metrics related to projects led by Bennett Bennett, indicating no malicious intent.",benign,benign

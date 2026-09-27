@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Freya Foster,1,data255.txt,20,Request for confirmation of Freya Foster's access badge number and building entry records for HR system migration.,benign,malicious
+Freya Foster,2,data255.txt,25,Request for review and update of Freya Foster's direct deposit information for HR system migration.,benign,malicious
+Freya Foster,3,data255.txt,70,Request for confirmation of Freya Foster's social security number and date of birth for HR system migration.,malicious,malicious
+Freya Foster,4,data255.txt,60,Request for Freya Foster's direct deposit authorization for payroll setup verification during HR system migration.,malicious,malicious

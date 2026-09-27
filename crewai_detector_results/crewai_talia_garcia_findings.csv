@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Talia Garcia,1,data299.txt,70,Request for driver's license and passport details for identity verification of Talia Garcia.,malicious,malicious
+Talia Garcia,2,data299.txt,75,Request for direct deposit authorization for payroll setup verification of Talia Garcia.,malicious,malicious
+Talia Garcia,3,data299.txt,80,Request for full employment file and emergency contact details for Talia Garcia.,malicious,malicious
+Talia Garcia,4,data299.txt,85,Request for salary and bonus figures for Talia Garcia during compensation data reconciliation.,malicious,malicious

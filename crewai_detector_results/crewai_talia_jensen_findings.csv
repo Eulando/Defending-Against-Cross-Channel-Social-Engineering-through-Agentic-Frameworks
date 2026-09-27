@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Talia Jensen,1,cannot be found,0,cannot be found,N/A,N/A
+Talia Jensen,2,cannot be found,0,cannot be found,N/A,N/A
+Talia Jensen,3,data389.txt,0,"The email from Taylor, a Finance Manager at Crestline Hotels, requests Talia Jensen's salary and bonus figures for a record migration to a new HR system. It is directed to Elena and asks for a response by the end of the week.",benign,benign
+Talia Jensen,4,cannot be found,0,cannot be found,N/A,N/A

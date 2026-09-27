@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Dorian Ellis,1,data249.txt,10,The email is a professional request for Dorian to review and update bank account details for an insurance renewal.,benign,malicious
+Dorian Ellis,2,data249.txt,60,"The email requests sensitive account information related to Dorian Ellis's account review for an insurance renewal, including username and access-log entries.",malicious,malicious
+Dorian Ellis,3,data249.txt,70,The email requests sensitive salary and bonus figures related to Dorian Ellis's account review for an insurance renewal.,malicious,malicious
+Dorian Ellis,4,data249.txt,80,The email requests sensitive badge details and entry history related to Dorian Ellis's account review for an insurance renewal.,malicious,malicious

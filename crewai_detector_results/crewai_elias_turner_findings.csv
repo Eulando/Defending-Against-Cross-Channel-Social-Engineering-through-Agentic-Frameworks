@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Elias Turner,1,data674.txt,10,The email is a request from HR to confirm Elias Turner's job title and reporting manager for a directory update.,benign,benign
+Elias Turner,2,data674.txt,10,The email is a request from HR to confirm the device type assigned to Elias Turner for a department page update.,benign,benign
+Elias Turner,3,data674.txt,10,The email is a request from HR to confirm the mailing stop used for Elias Turner's internal package deliveries.,benign,benign
+Elias Turner,4,data674.txt,10,The email is a request from HR to check Elias Turner's work arrangement category for the benefits planning list.,benign,benign

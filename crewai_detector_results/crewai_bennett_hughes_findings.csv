@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bennett Hughes,1,data337.txt,30,Request for Bennett Hughes's direct deposit authorization for insurance renewal process.,benign,benign
+Bennett Hughes,2,data337.txt,30,Request to confirm Bennett Hughes's current direct deposit details for insurance renewal process.,benign,benign
+Bennett Hughes,3,data337.txt,30,Request to confirm Bennett Hughes's account security questions for insurance renewal process.,benign,benign
+Bennett Hughes,4,data337.txt,30,Request to confirm Bennett Hughes's background check and screening files for insurance renewal audit.,benign,benign

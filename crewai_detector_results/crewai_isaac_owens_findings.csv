@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Isaac Owens,1,data528.txt,10,Request for confirmation of Isaac Owens's access badge number and building entry records for HR system migration.,benign,benign
+Isaac Owens,2,data528.txt,15,Request for confirmation of Isaac Owens's personal email and phone records for HR system migration.,benign,benign
+Isaac Owens,3,data528.txt,20,Request for review of Isaac Owens's Social Security number and date of birth for HR system migration.,benign,benign
+Isaac Owens,4,data528.txt,10,Request for confirmation of Isaac Owens's direct deposit authorization details for HR system migration.,benign,benign

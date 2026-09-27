@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Wesley Navarro,1,data512.txt,20,Request for salary and bonus figures for Wesley Navarro as part of a routine background verification.,benign,benign
+Wesley Navarro,2,data512.txt,25,Request to confirm or update bank account and routing numbers for Wesley Navarro's payroll record as part of a year-end payroll reconciliation.,benign,benign
+Wesley Navarro,3,data512.txt,30,Request for driver's license and passport details for Wesley Navarro as part of a routine background verification.,benign,benign
+Wesley Navarro,4,data512.txt,25,Request for Wesley Navarro's full employment file and emergency contact details as part of a routine background verification.,benign,benign

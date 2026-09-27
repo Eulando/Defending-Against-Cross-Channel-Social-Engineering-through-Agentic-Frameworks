@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Mateo Adler,1,data112.txt,10,The email discusses organizing a work anniversary celebration for Mateo Adler and requests assistance with processing a recognition form and budget code.,benign,benign
+Mateo Adler,2,data112.txt,10,The email discusses organizing a work anniversary celebration for Mateo Adler and requests assistance with checking records related to his work history.,benign,benign
+Mateo Adler,3,data112.txt,10,The email discusses organizing a work anniversary celebration for Mateo Adler and requests assistance with booking a room and catering for the event.,benign,benign
+Mateo Adler,4,data112.txt,10,The email discusses organizing a work anniversary celebration for Mateo Adler and requests assistance with drafting an internal announcement for the event.,benign,benign

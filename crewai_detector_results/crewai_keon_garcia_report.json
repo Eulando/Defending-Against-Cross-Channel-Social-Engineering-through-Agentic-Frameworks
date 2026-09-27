@@ -1,0 +1,66 @@
+{
+  "victim_name": "Keon Garcia",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "The presence of two channel reports with scores of 50 and 60 indicates malicious intent, as they request sensitive personal and security information under the guise of a compliance audit.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Keon Garcia",
+      "findings": [
+        {
+          "filename": "data290.txt",
+          "score": 30,
+          "summary": "Request for confirmation of direct deposit authorization details for Keon Garcia as part of personnel records consolidation for an annual compliance audit."
+        }
+      ],
+      "max_score": 30,
+      "channel_verdict": "benign",
+      "rationale": "The email requests standard payroll information and does not exhibit malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Keon Garcia",
+      "findings": [
+        {
+          "filename": "data290.txt",
+          "score": 40,
+          "summary": "Request for confirmation of personal email and phone records for Keon Garcia as part of personnel records consolidation for an annual compliance audit."
+        }
+      ],
+      "max_score": 40,
+      "channel_verdict": "benign",
+      "rationale": "The email requests standard contact information for directory updates and does not exhibit malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Keon Garcia",
+      "findings": [
+        {
+          "filename": "data290.txt",
+          "score": 50,
+          "summary": "Request for confirmation of Keon Garcia's current home address and personal phone number as part of personnel records consolidation for an annual compliance audit."
+        }
+      ],
+      "max_score": 50,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information under the guise of a compliance audit, which raises concerns about potential malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Keon Garcia",
+      "findings": [
+        {
+          "filename": "data290.txt",
+          "score": 60,
+          "summary": "Request for confirmation of the status of multi-factor authentication backup codes for Keon Garcia as part of personnel records consolidation for an annual compliance audit."
+        }
+      ],
+      "max_score": 60,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive security information regarding account recovery, which raises concerns about potential malicious intent."
+    }
+  ]
+}

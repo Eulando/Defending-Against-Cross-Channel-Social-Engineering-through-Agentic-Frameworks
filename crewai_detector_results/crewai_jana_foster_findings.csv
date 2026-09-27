@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Jana Foster,1,data259.txt,10,Request for Jana Foster's employment file and emergency contacts for year-end reconciliation.,benign,benign
+Jana Foster,1,data259.txt,10,Request for Jana Foster's employment file and emergency contacts for year-end reconciliation.,benign,benign
+Jana Foster,3,cannot be found,0,cannot be found,N/A,N/A
+Jana Foster,4,cannot be found,0,cannot be found,N/A,N/A

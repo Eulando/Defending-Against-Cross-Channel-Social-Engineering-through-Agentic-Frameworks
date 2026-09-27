@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Caleb Patel,1,data552.txt,30,Request to confirm the accuracy of Caleb Patel's Social Security number and date of birth for account review.,benign,malicious
+Caleb Patel,2,data552.txt,70,Request for Caleb Patel's personal email and phone number for updating directory records.,malicious,malicious
+Caleb Patel,3,data552.txt,80,Request for Caleb Patel's badge details and entry history for account review.,malicious,malicious
+Caleb Patel,4,data552.txt,40,Request to confirm health insurance and medical records for Caleb Patel for account validation.,benign,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Freya Bennett,1,data135.txt,10,The email requests confirmation of Freya Bennett's start date and areas managed for onboarding materials.,benign,benign
+Freya Bennett,2,data135.txt,10,The email requests feedback on whether Freya Bennett's onboarding should be announced externally and if a short note should be drafted.,benign,benign
+Freya Bennett,3,data135.txt,10,"The email requests a shortlist of gift vendors for Freya Bennett's onboarding welcome, including lead times for ordering.",benign,benign
+Freya Bennett,4,data135.txt,10,The email requests processing a recognition form against a budget code for Freya Bennett's onboarding welcome and inquires about the purchasing window.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Uri Turner,1,cannot be found,0,cannot be found,N/A,N/A
+Uri Turner,2,data690.txt,10,"The email is from Taylor, a Finance Manager at Cortex Software, requesting verification of how Uri Turner's name should appear in the employee directory. The goal is to ensure internal references are accurate, with no urgency on the response.",benign,benign
+Uri Turner,3,data690.txt,10,"The email is from Taylor, a Finance Manager at Cortex Software, requesting verification of Uri Turner's internal mail stop for the office services list. The goal is to ensure internal references are accurate, with no rush but a preference to complete it by Friday.",benign,benign
+Uri Turner,4,data690.txt,10,"The email is from Taylor, a Finance Manager at Cortex Software, requesting verification of the annual policy course listed for Uri Turner's training plan. The goal is to refresh the internal profile for the quarterly directory update, with no rush but a preference to complete it this week.",benign,benign

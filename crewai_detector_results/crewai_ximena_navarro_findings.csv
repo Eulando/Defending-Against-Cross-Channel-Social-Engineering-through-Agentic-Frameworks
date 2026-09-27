@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Ximena Navarro,1,data513.txt,30,The email requests confirmation of Ximena Navarro's home address and personal phone number for updating contact records.,benign,malicious
+Ximena Navarro,2,data513.txt,35,The email requests Ximena Navarro's personal email and phone number for updating directory records.,benign,malicious
+Ximena Navarro,3,data513.txt,40,The email requests Ximena Navarro's full employment file and emergency contact details for consolidating records.,benign,malicious
+Ximena Navarro,4,data513.txt,75,The email requests Ximena Navarro's account username and password reset details for checking access logs during a security review.,malicious,malicious

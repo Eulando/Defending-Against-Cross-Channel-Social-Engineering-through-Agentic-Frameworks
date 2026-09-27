@@ -1,0 +1,48 @@
+{
+  "victim_name": "Zane Dawson",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "The combined requests across all channels do not indicate any malicious intent. The only finding is a legitimate request for standard information related to health insurance and medical records, which is common in professional settings.",
+  "rationale": "All individual scores are below the threshold, and the requests do not exhibit any malicious social-engineering effects.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Zane Dawson",
+      "findings": [
+        {
+          "filename": "data215.txt",
+          "score": 10,
+          "summary": "Request for confirmation of health insurance and medical records for Zane Dawson for year-end reconciliation."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email appears legitimate and professional, requesting standard information for record-keeping."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Zane Dawson",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Zane Dawson",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Zane Dawson",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    }
+  ]
+}

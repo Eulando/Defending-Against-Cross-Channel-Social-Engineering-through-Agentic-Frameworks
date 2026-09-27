@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Celine Patel,1,data578.txt,20,Request for Celine Patel's background check and screening files for migration to a new HR system.,benign,benign
+Celine Patel,2,data578.txt,30,Request for Celine Patel to confirm her home address and personal phone number for migration to a new HR system.,benign,benign
+Celine Patel,3,data578.txt,40,Request to confirm Celine Patel's multi-factor authentication backup codes and initiate a reset if needed for account recovery.,benign,benign
+Celine Patel,4,data578.txt,25,Request for Celine Patel's employment file and emergency contacts for migration to a new HR system.,benign,benign

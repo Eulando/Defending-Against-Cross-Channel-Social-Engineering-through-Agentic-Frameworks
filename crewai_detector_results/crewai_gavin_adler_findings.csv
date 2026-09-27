@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Gavin Adler,1,data106.txt,10,The email discusses organizing an innovation award ceremony for Gavin Adler and requests details about his training and certifications.,benign,benign
+Gavin Adler,2,data106.txt,15,The email discusses organizing an innovation award ceremony for Gavin Adler and requests details about his significant projects from the Atlas or Aurora programs.,benign,benign
+Gavin Adler,3,data106.txt,12,The email discusses organizing an innovation award ceremony for Gavin Adler and requests details about how long he ran the night shift operation.,benign,benign
+Gavin Adler,4,data106.txt,8,The email discusses organizing an innovation award ceremony for Gavin Adler and requests help with verifying a budget code and approval steps for the ceremony purchase.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Isaac Quinn,1,data588.txt,30,Request for driver's license and passport details for identity verification during record migration to a new HR system.,benign,benign
+Isaac Quinn,2,data588.txt,30,Request for health insurance and medical records for validation of coverage details during record migration to a new HR system.,benign,benign
+Isaac Quinn,3,data588.txt,30,Request for salary and bonus details from compensation records for finalizing year-end figures during record migration to a new HR system.,benign,benign
+Isaac Quinn,4,data588.txt,30,Request for employment file and emergency contacts during personnel data consolidation for record migration to a new HR system.,benign,benign

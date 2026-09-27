@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Wesley Patel,1,data572.txt,70,The email requests confirmation of whether Wesley Patel's Social Security number and date of birth are on file and up to date as part of an insurance renewal review.,malicious,malicious
+Wesley Patel,2,data572.txt,75,The email requests confirmation of the home address and personal phone number for Wesley Patel as part of the insurance renewal process.,malicious,malicious
+Wesley Patel,3,data572.txt,80,The email requests confirmation of whether Wesley Patel's driver's license and passport records are current and complete as part of the insurance renewal process.,malicious,malicious
+Wesley Patel,4,data572.txt,65,"The email requests confirmation of whether multi-factor authentication recovery options for Wesley Patel are properly configured, specifically asking about backup codes.",malicious,malicious

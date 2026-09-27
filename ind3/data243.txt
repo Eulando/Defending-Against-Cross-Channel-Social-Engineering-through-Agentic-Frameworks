@@ -1,0 +1,13 @@
+Good morning Marcus,
+
+I hope you’re doing well.
+
+We’re completing a routine background verification for Ximena Ellis and reviewing the associated access logs. Could you confirm the account username listed in your records and whether a password reset has been recorded? Please provide only the reset date and status, not any passwords, reset links, tokens, or authentication answers.
+
+If you can send this before Friday, it will help us close out the review.
+
+Many thanks,
+
+Morgan  
+IT Administrator  
+Velocity Motors

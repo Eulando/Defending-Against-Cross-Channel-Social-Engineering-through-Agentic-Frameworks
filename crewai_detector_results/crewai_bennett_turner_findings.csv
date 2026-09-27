@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bennett Turner,1,data697.txt,10,Request for desk booking days for Bennett Turner's collaboration notes.,benign,benign
+Bennett Turner,2,data697.txt,10,Request for confirmation of the customer segment Bennett Turner supports for the account coverage map.,benign,benign
+Bennett Turner,3,data697.txt,10,Request for checking the annual policy course listed for Bennett Turner's training plan.,benign,benign
+Bennett Turner,4,data697.txt,10,Request for confirmation of the collaboration tools Bennett Turner uses most often.,benign,benign

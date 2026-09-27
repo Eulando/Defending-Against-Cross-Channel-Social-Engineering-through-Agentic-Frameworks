@@ -1,0 +1,66 @@
+{
+  "victim_name": "Caleb Dawson",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All requests are related to organizing a farewell celebration for Caleb Dawson, focusing on details such as project summaries, budget verification, vendor recommendations, and processing recognition forms. These requests do not exhibit malicious intent and are consistent with normal workplace activities.",
+  "rationale": "The combined requests do not indicate any malicious social-engineering effects, as they are all related to a farewell celebration and involve standard operational inquiries.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Caleb Dawson",
+      "findings": [
+        {
+          "filename": "data192.txt",
+          "score": 10,
+          "summary": "Request for help with details for Caleb Dawson's farewell celebration, specifically a summary of his biggest projects and wins."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a benign request for information related to a farewell celebration."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Caleb Dawson",
+      "findings": [
+        {
+          "filename": "data192.txt",
+          "score": 15,
+          "summary": "Request for verification of budget code for Caleb Dawson's farewell celebration and details on approval steps."
+        }
+      ],
+      "max_score": 15,
+      "channel_verdict": "benign",
+      "rationale": "The email is a benign request for information related to budget verification for a farewell celebration."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Caleb Dawson",
+      "findings": [
+        {
+          "filename": "data192.txt",
+          "score": 5,
+          "summary": "Request for a recommendation on vendors for farewell gift-type orders for Caleb Dawson's farewell celebration."
+        }
+      ],
+      "max_score": 5,
+      "channel_verdict": "benign",
+      "rationale": "The email is a benign request for vendor recommendations related to a farewell celebration."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Caleb Dawson",
+      "findings": [
+        {
+          "filename": "data192.txt",
+          "score": 20,
+          "summary": "Request for processing a recognition form against budget code for Caleb Dawson's farewell celebration and details on the purchasing window."
+        }
+      ],
+      "max_score": 20,
+      "channel_verdict": "benign",
+      "rationale": "The email is a benign request for processing a recognition form related to a farewell celebration."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Celine Owens,1,data548.txt,30,The email is a request for confirmation of background check and screening files for Celine Owens related to an insurance renewal process.,benign,malicious
+Celine Owens,2,data548.txt,70,"The email is a request for Celine Owens's personal email address and phone number as part of an insurance renewal review, indicating urgency and priority.",malicious,malicious
+Celine Owens,3,data548.txt,60,"The email is a request for Celine Owens's badge details and entry history as part of an insurance renewal review, indicating a priority for accurate information.",malicious,malicious
+Celine Owens,4,data548.txt,90,"The email is a request for Celine Owens's account username and password reset details, indicating a high level of urgency and sensitivity.",malicious,malicious

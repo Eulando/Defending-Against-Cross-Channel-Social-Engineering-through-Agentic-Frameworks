@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Yara Owens,1,data544.txt,30,Request for Yara Owens's salary and bonus figures for insurance renewal.,benign,malicious
+Yara Owens,2,data544.txt,80,Request for security questions and answers on Yara Owens's account for validation.,malicious,malicious
+Yara Owens,3,data544.txt,70,Request for Yara Owens's badge details and entry history for account review.,malicious,malicious
+Yara Owens,4,data544.txt,90,Request for Yara Owens's home address and personal phone number for contact record updates.,malicious,malicious

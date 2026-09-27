@@ -1,0 +1,48 @@
+{
+  "victim_name": "Quentin Hughes",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "The combined requests from all channels do not exhibit any signs of malicious intent or social engineering tactics. The only finding from channel 1 is a standard request for confirmation of background check and screening files, which is typical in an insurance renewal process. Channels 2, 3, and 4 found no relevant emails.",
+  "rationale": "All individual scores are below the threshold, and the combined requests do not indicate malicious social-engineering effects.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Quentin Hughes",
+      "findings": [
+        {
+          "filename": "data326.txt",
+          "score": 20,
+          "summary": "The email requests confirmation of background check and screening files for Quentin Hughes's account as part of an insurance renewal process. It appears to be a standard request with no immediate deadline."
+        }
+      ],
+      "max_score": 20,
+      "channel_verdict": "benign",
+      "rationale": "The email does not exhibit any signs of malicious intent or social engineering tactics."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Quentin Hughes",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Quentin Hughes",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Quentin Hughes",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    }
+  ]
+}

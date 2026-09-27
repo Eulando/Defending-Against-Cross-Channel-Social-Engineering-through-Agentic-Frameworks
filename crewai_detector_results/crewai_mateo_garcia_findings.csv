@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Mateo Garcia,1,data292.txt,30,"The email requests verification of bank account and routing numbers for year-end reconciliation, emphasizing urgency.",benign,benign
+Mateo Garcia,2,data292.txt,25,"The email requests confirmation of health insurance and medical records for Mateo Garcia, emphasizing the need for validation of coverage details.",benign,benign
+Mateo Garcia,3,data292.txt,20,"The email requests confirmation of background check and screening files for Mateo Garcia, indicating a review for an audit.",benign,benign
+Mateo Garcia,4,data292.txt,35,"The email requests confirmation of multi-factor authentication recovery options for Mateo Garcia's account, emphasizing the need for verification without sharing sensitive information.",benign,benign

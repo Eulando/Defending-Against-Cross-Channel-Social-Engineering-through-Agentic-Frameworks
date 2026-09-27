@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Mateo Dawson,1,data202.txt,20,Request for badge details and entry history for compliance audit.,benign,benign
+Mateo Dawson,2,data202.txt,15,Request for Mateo Dawson to review and update home address and personal phone number for compliance audit.,benign,benign
+Mateo Dawson,3,data202.txt,30,Request for Mateo Dawson's account username and password reset details for compliance audit.,benign,benign
+Mateo Dawson,4,data202.txt,10,Request for confirmation of personal email and phone records for updating the directory.,benign,benign

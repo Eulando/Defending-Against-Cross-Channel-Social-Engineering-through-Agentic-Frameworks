@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Uri Morris,1,data480.txt,10,Request for office assignment details for Uri Morris as part of onboarding materials.,benign,benign
+Uri Morris,2,data480.txt,10,Request for confirmation of Uri Morris's job title and reporting manager for directory refresh.,benign,benign
+Uri Morris,3,data480.txt,10,Request for confirmation of Uri Morris's desk reservation pattern for internal reference.,benign,benign
+Uri Morris,4,data480.txt,10,Request for confirmation of Uri Morris's preferred name format for the internal staff list.,benign,benign

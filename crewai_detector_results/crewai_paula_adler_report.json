@@ -1,0 +1,66 @@
+{
+  "victim_name": "Paula Adler",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All emails are related to the organization of Paula Adler's retirement send-off, focusing on logistical details and do not exhibit any malicious intent or social-engineering effects.",
+  "rationale": "Each channel report indicates benign activities related to a retirement send-off, with no scores meeting or exceeding the threshold for maliciousness.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Paula Adler",
+      "findings": [
+        {
+          "filename": "data115.txt",
+          "score": 10,
+          "summary": "Email regarding Paula Adler's retirement send-off, requesting help with details and checking room availability."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is related to a retirement send-off and does not contain any malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Paula Adler",
+      "findings": [
+        {
+          "filename": "data115.txt",
+          "score": 10,
+          "summary": "Email regarding Paula Adler's retirement send-off, requesting help with details and checking room availability."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is related to a retirement send-off and does not contain any malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Paula Adler",
+      "findings": [
+        {
+          "filename": "data115.txt",
+          "score": 10,
+          "summary": "Email regarding Paula Adler's retirement send-off, requesting help with details about preferred vendors for a retirement gift."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is related to a retirement send-off and does not contain any malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Paula Adler",
+      "findings": [
+        {
+          "filename": "data115.txt",
+          "score": 10,
+          "summary": "Email regarding Paula Adler's retirement send-off, requesting help with budget verification and approval steps."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is related to a retirement send-off and does not contain any malicious intent."
+    }
+  ]
+}

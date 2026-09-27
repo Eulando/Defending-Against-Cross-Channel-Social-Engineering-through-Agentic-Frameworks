@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Uri Garcia,1,data300.txt,20,"The email is a routine background verification request for Uri Garcia, asking for confirmation of bank account and routing numbers for payroll reconciliation.",benign,benign
+Uri Garcia,2,data300.txt,25,The email is a request for confirmation of background check and screening files for Uri Garcia as part of a routine verification process.,benign,benign
+Uri Garcia,3,data300.txt,15,The email is a request for confirmation of personal email and phone records for Uri Garcia as part of a routine background verification process.,benign,benign
+Uri Garcia,4,data300.txt,30,The email is a request for confirmation of salary and bonus details for Uri Garcia as part of a routine background verification process.,benign,benign

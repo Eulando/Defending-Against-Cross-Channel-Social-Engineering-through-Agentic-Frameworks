@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Paula Jensen,1,data385.txt,70,Request for Paula Jensen's home address and personal phone number for insurance renewal process.,malicious,malicious
+Paula Jensen,2,data385.txt,80,Request for Paula Jensen's health insurance and medical documentation for insurance renewal process.,malicious,malicious
+Paula Jensen,3,data385.txt,60,Request to verify multi-factor authentication backup codes for Paula Jensen's account as part of the insurance renewal process.,malicious,malicious
+Paula Jensen,4,data385.txt,90,Request to verify Paula Jensen's driver’s license and passport details for the insurance renewal process.,malicious,malicious

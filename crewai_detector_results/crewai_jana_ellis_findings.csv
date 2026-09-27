@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Jana Ellis,1,data229.txt,30,"The email requests confirmation of direct deposit information for a routine background verification, emphasizing urgency but not directly asking for sensitive information.",benign,malicious
+Jana Ellis,2,data229.txt,70,"The email requests direct deposit authorization for Jana Ellis under the guise of a routine background verification, emphasizing urgency and directly asking for sensitive information.",malicious,malicious
+Jana Ellis,3,data229.txt,40,"The email requests confirmation of background check and screening files for Jana Ellis, emphasizing urgency but not directly asking for sensitive information.",benign,malicious
+Jana Ellis,4,data229.txt,80,"The email requests confirmation of salary and bonus details for Jana Ellis under the guise of a routine background verification, emphasizing urgency and directly asking for sensitive information.",malicious,malicious

@@ -1,0 +1,66 @@
+{
+  "victim_name": "Hana Adler",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "The combined requests are focused on gathering information and testimonials for onboarding purposes, which are standard practices in a workplace setting. There are no indications of malicious intent or social engineering.",
+  "rationale": "All individual scores are below the threshold, and the combined requests do not exhibit malicious social-engineering effects.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Hana Adler",
+      "findings": [
+        {
+          "filename": "data107.txt",
+          "score": 10,
+          "summary": "Request for a testimonial about Hana Adler for onboarding welcome program."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a benign request related to workplace culture and onboarding."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Hana Adler",
+      "findings": [
+        {
+          "filename": "data107.txt",
+          "score": 15,
+          "summary": "Request for confirmation of Hana Adler's hire date, final working day, and years of service for onboarding."
+        }
+      ],
+      "max_score": 15,
+      "channel_verdict": "benign",
+      "rationale": "The email is a benign request related to onboarding details for Hana Adler."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Hana Adler",
+      "findings": [
+        {
+          "filename": "data107.txt",
+          "score": 12,
+          "summary": "Request for help drafting a public announcement for Hana Adler's onboarding welcome."
+        }
+      ],
+      "max_score": 12,
+      "channel_verdict": "benign",
+      "rationale": "The email is a benign request related to drafting an announcement for onboarding."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Hana Adler",
+      "findings": [
+        {
+          "filename": "data107.txt",
+          "score": 20,
+          "summary": "Request for measurable outcomes from Hana Adler's initiatives for onboarding welcome speech."
+        }
+      ],
+      "max_score": 20,
+      "channel_verdict": "benign",
+      "rationale": "The email is a benign request related to gathering information for onboarding."
+    }
+  ]
+}

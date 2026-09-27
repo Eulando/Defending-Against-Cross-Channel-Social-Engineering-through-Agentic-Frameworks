@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bennett Lawson,1,data457.txt,10,Request for information regarding Bennett Lawson's office equipment for internal reference update.,benign,benign
+Bennett Lawson,2,data457.txt,10,Request for confirmation of Bennett Lawson's preferred name format for the internal staff list.,benign,benign
+Bennett Lawson,3,data457.txt,10,Request for confirmation of Bennett Lawson's desk reservation pattern for internal records.,benign,benign
+Bennett Lawson,4,data457.txt,10,Request for confirmation of Bennett Lawson's department and team name for directory synchronization.,benign,benign

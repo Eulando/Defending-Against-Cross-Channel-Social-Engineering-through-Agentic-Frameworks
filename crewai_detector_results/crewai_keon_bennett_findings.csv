@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Keon Bennett,1,data140.txt,10,The email discusses organizing an innovation award ceremony for Keon Bennett and requests assistance with details related to a recognition form and budget code.,benign,benign
+Keon Bennett,2,data140.txt,10,The email discusses organizing an innovation award ceremony for Keon Bennett and requests assistance with details related to whether the ceremony should be announced externally and drafting a note.,benign,benign
+Keon Bennett,3,data140.txt,10,The email discusses organizing an innovation award ceremony for Keon Bennett and requests assistance with booking a room and catering for the event.,benign,benign
+Keon Bennett,4,data140.txt,10,The email discusses organizing an innovation award ceremony for Keon Bennett and requests assistance with finding measurable outcomes from his initiatives for use in a speech.,benign,benign

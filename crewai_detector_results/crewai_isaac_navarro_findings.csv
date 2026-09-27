@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Isaac Navarro,1,data498.txt,10,Request for confirmation of which annual policy course Isaac Navarro is scheduled to complete for updating event and office information.,benign,benign
+Isaac Navarro,2,data498.txt,10,Request for confirmation of which learning cohort is tied to Isaac Navarro's employee profile for updating event and office information.,benign,benign
+Isaac Navarro,3,data498.txt,10,Request for verification of Isaac Navarro's cost center and assigned office location for the quarterly roster check.,benign,benign
+Isaac Navarro,4,data498.txt,10,Request for confirmation of the collaboration tools Isaac Navarro uses most often for updating the support page.,benign,benign

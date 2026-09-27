@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Daria Sato,1,data643.txt,10,The email requests assistance in checking which learning cohort is tied to Daria Sato's employee profile for internal reference accuracy.,benign,benign
+Daria Sato,2,data643.txt,10,The email requests assistance in checking the usual desk booking days listed for Daria Sato as part of an internal cleanup process.,benign,benign
+Daria Sato,3,data643.txt,10,The email requests assistance in verifying Daria Sato's internal mail stop for the office services list as part of an internal reference accuracy check.,benign,benign
+Daria Sato,4,data643.txt,10,The email requests assistance in verifying which account segment is associated with Daria Sato's workstream as part of an internal reference check.,benign,benign

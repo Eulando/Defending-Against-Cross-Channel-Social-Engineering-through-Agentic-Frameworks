@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Caleb Turner,1,data672.txt,10,Request for confirmation of building and floor for Caleb Turner's workspace for an internal directory update.,benign,benign
+Caleb Turner,2,data672.txt,15,Request for confirmation of which annual policy course Caleb Turner is scheduled to complete for an internal directory update.,benign,benign
+Caleb Turner,3,data672.txt,10,Request for verification of Caleb Turner's internal mail stop for the office services list for an internal directory update.,benign,benign
+Caleb Turner,4,data672.txt,10,Request for confirmation of the training cohort name listed for Caleb Turner for an internal directory update.,benign,benign

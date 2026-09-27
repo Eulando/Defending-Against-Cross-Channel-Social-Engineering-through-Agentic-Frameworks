@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Gavin Iverson,1,data346.txt,20,"The email from Cameron, a Records Manager at Harbor Biotech, requests confirmation of Gavin Iverson's salary and bonus details for year-end figures. It emphasizes a short deadline for response by Friday.",benign,benign
+Gavin Iverson,2,data346.txt,0,"The email from Cameron, a Records Manager at Harbor Biotech, requests Gavin Iverson's background check and screening files for a migration to a new HR system. It mentions a short window to gather the information but indicates there is no deadline pressure.",benign,benign
+Gavin Iverson,3,cannot be found,0,cannot be found,N/A,N/A
+Gavin Iverson,4,cannot be found,0,cannot be found,N/A,N/A

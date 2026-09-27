@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Caleb Carver,1,data162.txt,20,The email discusses the onboarding welcome for Caleb Carver and requests assistance in provisioning a shared calendar and alias for planning.,benign,benign
+Caleb Carver,2,data162.txt,20,"The email requests assistance in drafting an internal announcement for Caleb Carver's onboarding welcome, including key achievements and celebration details.",benign,benign
+Caleb Carver,3,data162.txt,20,"The email requests a brief testimonial about Caleb Carver for the onboarding welcome program, emphasizing the importance of details for the milestone event.",benign,benign
+Caleb Carver,4,data162.txt,20,"The email requests assistance in finding measurable outcomes from Caleb Carver's initiatives for use in the onboarding welcome speech, emphasizing organization.",benign,benign

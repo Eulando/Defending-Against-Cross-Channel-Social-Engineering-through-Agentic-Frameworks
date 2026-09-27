@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Isaac Iverson,1,data348.txt,10,Request for confirmation of Isaac Iverson's salary and bonus details for insurance renewal.,benign,benign
+Isaac Iverson,2,data348.txt,15,Request for confirmation of Isaac Iverson's driver’s license and passport details for insurance renewal.,benign,benign
+Isaac Iverson,3,data348.txt,20,Request for Isaac Iverson's employment file and emergency contacts for insurance renewal.,benign,benign
+Isaac Iverson,4,data348.txt,25,Request to verify if multi-factor authentication backup codes for Isaac Iverson's account are configured and current.,benign,benign

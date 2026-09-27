@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Paula Adler,1,data115.txt,10,"Email regarding Paula Adler's retirement send-off, requesting help with details and checking room availability.",benign,benign
+Paula Adler,2,data115.txt,10,"Email regarding Paula Adler's retirement send-off, requesting help with details and checking room availability.",benign,benign
+Paula Adler,3,data115.txt,10,"Email regarding Paula Adler's retirement send-off, requesting help with details about preferred vendors for a retirement gift.",benign,benign
+Paula Adler,4,data115.txt,10,"Email regarding Paula Adler's retirement send-off, requesting help with budget verification and approval steps.",benign,benign

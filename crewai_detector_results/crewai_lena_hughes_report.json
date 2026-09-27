@@ -1,0 +1,66 @@
+{
+  "victim_name": "Lena Hughes",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "The presence of multiple requests for sensitive information, with scores above the threshold, indicates malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Lena Hughes",
+      "findings": [
+        {
+          "filename": "data321.txt",
+          "score": 30,
+          "summary": "The email requests confirmation of Lena Hughes' driver's license and passport details for a routine background verification, indicating a benign inquiry."
+        }
+      ],
+      "max_score": 30,
+      "channel_verdict": "benign",
+      "rationale": "The email content indicates a routine verification process without any malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Lena Hughes",
+      "findings": [
+        {
+          "filename": "data321.txt",
+          "score": 85,
+          "summary": "The email from Riley, Operations Director at Greenfield Energy, requests Lena Hughes's salary and bonus figures for a routine background verification. It emphasizes the need for accuracy but does not impose any deadline pressure."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The request for salary and bonus figures raises concerns about potential misuse of sensitive information, indicating a malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Lena Hughes",
+      "findings": [
+        {
+          "filename": "data321.txt",
+          "score": 70,
+          "summary": "The email from Riley, Operations Director at Greenfield Energy, requests confirmation of Lena Hughes's personal email and phone records for a routine background verification. It emphasizes the need for accuracy and requests a response by Friday."
+        }
+      ],
+      "max_score": 70,
+      "channel_verdict": "malicious",
+      "rationale": "The request for personal contact information raises concerns about potential misuse of sensitive data, indicating a malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Lena Hughes",
+      "findings": [
+        {
+          "filename": "data321.txt",
+          "score": 90,
+          "summary": "The email from Riley, Operations Director at Greenfield Energy, requests Lena Hughes's health insurance and medical documentation for a routine background verification. It emphasizes the need for accuracy and requests a response by the end of the week."
+        }
+      ],
+      "max_score": 90,
+      "channel_verdict": "malicious",
+      "rationale": "The request for sensitive health insurance and medical documentation raises significant concerns about potential misuse of personal information, indicating a malicious intent."
+    }
+  ]
+}

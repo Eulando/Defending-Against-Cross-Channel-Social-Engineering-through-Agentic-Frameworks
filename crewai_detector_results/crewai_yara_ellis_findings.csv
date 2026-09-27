@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Yara Ellis,1,data244.txt,20,Request to confirm and update Yara Ellis's identity documentation for compliance audit.,benign,malicious
+Yara Ellis,2,data244.txt,30,Request to confirm Yara Ellis's social security number and date of birth for compliance audit.,benign,malicious
+Yara Ellis,3,data244.txt,70,Request for Yara Ellis's account username and password-reset information for security review.,malicious,malicious
+Yara Ellis,4,data244.txt,50,Request for Yara Ellis's direct deposit authorization for payroll verification.,malicious,malicious

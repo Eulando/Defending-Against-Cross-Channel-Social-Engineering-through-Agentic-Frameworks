@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Yara Turner,1,data694.txt,10,"An email from Morgan, an IT Administrator, requesting confirmation of Yara Turner's department and internal team name for onboarding materials.",benign,benign
+Yara Turner,2,data694.txt,10,"An email from Morgan, an IT Administrator, requesting confirmation of Yara Turner's desk reservation pattern for Tuesdays or Thursdays.",benign,benign
+Yara Turner,3,data694.txt,10,"An email from Morgan, an IT Administrator, requesting verification of Yara Turner's cost center and assigned office location for a quarterly roster check.",benign,benign
+Yara Turner,4,data694.txt,10,"An email from Morgan, an IT Administrator, requesting confirmation of the device type assigned to Yara Turner, whether it is a laptop or desktop.",benign,benign

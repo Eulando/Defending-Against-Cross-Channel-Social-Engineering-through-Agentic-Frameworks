@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Dorian Turner,1,data699.txt,10,Request for confirmation of Dorian Turner's workspace details for onboarding materials.,benign,benign
+Dorian Turner,2,data699.txt,10,Request for confirmation of Dorian Turner's desk reservation pattern for onboarding materials.,benign,benign
+Dorian Turner,3,data699.txt,10,Request for confirmation of the collaboration tools Dorian Turner uses for internal records.,benign,benign
+Dorian Turner,4,data699.txt,10,Request for verification of the account segment associated with Dorian Turner's workstream for internal records.,benign,benign

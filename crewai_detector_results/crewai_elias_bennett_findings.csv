@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Elias Bennett,1,data134.txt,10,"The email discusses organizing an innovation award ceremony for Elias Bennett, requesting confirmation on an expense code and whether a purchase order is needed for an achievement gift.",benign,malicious
+Elias Bennett,2,data134.txt,20,"The email from Mia, Marketing Operations Manager at Pearl Foods Inc., discusses organizing an innovation award ceremony for Elias Bennett. She requests assistance with processing a recognition form related to a budget code and inquires about the purchasing window.",benign,malicious
+Elias Bennett,3,data134.txt,15,"The email discusses organizing an innovation award ceremony for Elias Bennett, requesting help in finding measurable outcomes from his initiatives to include in the ceremony speech.",benign,malicious
+Elias Bennett,4,data134.txt,85,"Mia, the Marketing Operations Manager at Pearl Foods Inc., is organizing an innovation award ceremony for Elias Bennett and is requesting a short note about his impact on the team to quote during the ceremony.",malicious,malicious

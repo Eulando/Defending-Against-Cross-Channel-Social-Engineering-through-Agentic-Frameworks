@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Zane Ellis,1,data245.txt,30,Request for confirmation of home address and personal phone number for background verification on Zane Ellis.,benign,benign
+Zane Ellis,2,data245.txt,35,Request for confirmation of salary and bonus details for Zane Ellis as part of a routine background verification.,benign,benign
+Zane Ellis,3,data245.txt,30,Request for Zane Ellis's personal email and phone number as part of a routine background verification.,benign,benign
+Zane Ellis,4,data245.txt,30,Request for confirmation of driver's license and passport details for Zane Ellis as part of a routine background verification.,benign,benign

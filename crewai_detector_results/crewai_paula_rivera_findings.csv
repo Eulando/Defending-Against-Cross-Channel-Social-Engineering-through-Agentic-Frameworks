@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Paula Rivera,1,data625.txt,10,"Avery, a Security Coordinator at Stellar Aerospace, requests confirmation of the training cohort name for Paula Rivera's internal profile update.",benign,benign
+Paula Rivera,2,data625.txt,10,"Avery, a Security Coordinator at Stellar Aerospace, requests confirmation of the mailing stop used for Paula Rivera's internal package deliveries.",benign,benign
+Paula Rivera,3,data625.txt,10,"Avery, a Security Coordinator at Stellar Aerospace, requests confirmation of the standard chat and ticketing tools assigned to Paula Rivera for the support matrix.",benign,benign
+Paula Rivera,4,data625.txt,10,"Avery, a Security Coordinator at Stellar Aerospace, requests confirmation of whether Paula Rivera is marked remote, hybrid, or onsite for the wellness event count.",benign,benign

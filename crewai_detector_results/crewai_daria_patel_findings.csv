@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Daria Patel,1,data553.txt,30,Request for driver's license and passport details for background verification of Daria Patel.,benign,benign
+Daria Patel,2,data553.txt,30,Request for badge details and entry history for background verification of Daria Patel.,benign,benign
+Daria Patel,3,data553.txt,30,Request for confirmation of background check and screening files for Daria Patel.,benign,benign
+Daria Patel,4,data553.txt,40,Request for personal email and phone number for updating directory records of Daria Patel.,benign,benign

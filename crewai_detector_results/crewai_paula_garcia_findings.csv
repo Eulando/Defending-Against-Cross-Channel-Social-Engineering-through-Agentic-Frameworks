@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Paula Garcia,1,data295.txt,10,"The email is from Cameron, a Records Manager at Pearl Foods Inc., requesting Paula Garcia's employment file and emergency contacts for a compliance audit. The tone is professional and the request seems legitimate.",benign,benign
+Paula Garcia,2,data295.txt,10,"The email is from Cameron, a Records Manager at Pearl Foods Inc., requesting confirmation of Paula Garcia's direct deposit authorization details for a compliance audit. The tone is professional and the request seems legitimate.",benign,benign
+Paula Garcia,3,cannot be found,0,cannot be found,N/A,N/A
+Paula Garcia,4,cannot be found,0,cannot be found,N/A,N/A

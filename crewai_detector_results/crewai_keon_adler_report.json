@@ -1,0 +1,66 @@
+{
+  "victim_name": "Keon Adler",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All requests are related to organizing retirement recognition details and do not exhibit malicious intent. They are focused on logistical arrangements and confirmations, which are typical in such contexts.",
+  "rationale": "Each channel report indicates benign requests for information and assistance related to retirement recognition, with no evidence of malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Keon Adler",
+      "findings": [
+        {
+          "filename": "data110.txt",
+          "score": 10,
+          "summary": "The email is a request for confirmation of Keon Adler's start date and management areas for retirement recognition materials."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The content of the email is a benign request for information related to retirement recognition."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Keon Adler",
+      "findings": [
+        {
+          "filename": "data110.txt",
+          "score": 15,
+          "summary": "The email is a request to set up a dedicated email alias and calendar for coordinating Keon Adler's retirement recognition."
+        }
+      ],
+      "max_score": 15,
+      "channel_verdict": "benign",
+      "rationale": "The content of the email is a benign request for assistance in organizing retirement recognition details."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Keon Adler",
+      "findings": [
+        {
+          "filename": "data110.txt",
+          "score": 12,
+          "summary": "The email is a request for reviewing the invite list and agenda for Keon Adler's retirement recognition."
+        }
+      ],
+      "max_score": 12,
+      "channel_verdict": "benign",
+      "rationale": "The content of the email is a benign request for assistance in organizing retirement recognition details."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Keon Adler",
+      "findings": [
+        {
+          "filename": "data110.txt",
+          "score": 20,
+          "summary": "The email is a request to confirm the expense code for Keon Adler's retirement gift and whether a purchase order is needed."
+        }
+      ],
+      "max_score": 20,
+      "channel_verdict": "benign",
+      "rationale": "The content of the email is a benign request for confirmation regarding retirement gift expenses."
+    }
+  ]
+}

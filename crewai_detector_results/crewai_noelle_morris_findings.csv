@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Noelle Morris,1,data473.txt,10,"The email is a request for confirmation of Noelle Morris's preferred name format for an internal staff list, related to onboarding materials.",benign,benign
+Noelle Morris,2,data473.txt,10,"The email is a request for verification of the account segment associated with Noelle Morris's workstream, related to onboarding materials.",benign,benign
+Noelle Morris,3,data473.txt,10,"The email is a request for checking which building and floor are assigned to Noelle Morris in the office map, related to internal cleanup before onboarding materials are revised.",benign,benign
+Noelle Morris,4,data473.txt,10,"The email is a request for checking which standard chat and ticketing tools are assigned to Noelle Morris for the support matrix, related to onboarding materials.",benign,benign

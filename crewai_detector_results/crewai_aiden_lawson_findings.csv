@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Aiden Lawson,1,data430.txt,10,The email is a request for confirmation of mailing stop for Aiden Lawson's internal package deliveries as part of an internal cleanup process.,benign,benign
+Aiden Lawson,2,data430.txt,10,The email is a request for confirmation of which annual policy course Aiden Lawson is scheduled to complete as part of onboarding materials revision.,benign,benign
+Aiden Lawson,3,data430.txt,10,"The email is a request for confirmation of Aiden Lawson's work status (remote, hybrid, or onsite) for the wellness event count as part of onboarding materials revision.",benign,benign
+Aiden Lawson,4,data430.txt,10,The email is a request for confirmation of Aiden Lawson's title and manager name from the HR profile as part of onboarding materials revision.,benign,benign

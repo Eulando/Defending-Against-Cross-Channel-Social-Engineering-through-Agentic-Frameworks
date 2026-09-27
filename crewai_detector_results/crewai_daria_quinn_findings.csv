@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Daria Quinn,1,data583.txt,20,Request for verification of access badge number and building entry records for Daria Quinn as part of a routine background verification process.,benign,benign
+Daria Quinn,2,cannot be found,0,cannot be found,N/A,N/A
+Daria Quinn,3,cannot be found,0,cannot be found,N/A,N/A
+Daria Quinn,4,cannot be found,0,cannot be found,N/A,N/A

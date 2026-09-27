@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Keon Adler,1,data110.txt,10,The email is a request for confirmation of Keon Adler's start date and management areas for retirement recognition materials.,benign,benign
+Keon Adler,2,data110.txt,15,The email is a request to set up a dedicated email alias and calendar for coordinating Keon Adler's retirement recognition.,benign,benign
+Keon Adler,3,data110.txt,12,The email is a request for reviewing the invite list and agenda for Keon Adler's retirement recognition.,benign,benign
+Keon Adler,4,data110.txt,20,The email is a request to confirm the expense code for Keon Adler's retirement gift and whether a purchase order is needed.,benign,benign

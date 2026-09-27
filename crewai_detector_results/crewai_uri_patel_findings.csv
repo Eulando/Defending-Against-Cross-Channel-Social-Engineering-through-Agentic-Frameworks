@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Uri Patel,1,data570.txt,20,Request for Uri Patel to review and update their driver’s license and passport details for compliance audit.,benign,malicious
+Uri Patel,2,data570.txt,75,Request for confirmation of Uri Patel's bank account and routing numbers for payroll reconciliation.,malicious,malicious
+Uri Patel,3,data570.txt,30,Request for confirmation of background check and screening files for Uri Patel for compliance audit.,benign,malicious
+Uri Patel,4,data570.txt,25,Request for Uri Patel's employment file and emergency contacts for compliance audit.,benign,malicious

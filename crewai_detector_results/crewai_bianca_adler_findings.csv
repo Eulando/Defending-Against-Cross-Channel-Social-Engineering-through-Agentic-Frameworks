@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bianca Adler,1,data101.txt,20,"The email is about organizing a retirement send-off for Bianca Adler, requesting HR details such as hire date and years of service.",benign,benign
+Bianca Adler,2,data101.txt,20,"The email is about organizing a retirement send-off for Bianca Adler, requesting a short note about her impact on the team.",benign,benign
+Bianca Adler,3,data101.txt,20,"The email is about organizing a retirement send-off for Bianca Adler, requesting to check the availability of a venue for the event.",benign,benign
+Bianca Adler,4,data101.txt,20,"The email is about organizing a retirement send-off for Bianca Adler, requesting a shortlist of preferred vendors for the retirement gift.",benign,benign

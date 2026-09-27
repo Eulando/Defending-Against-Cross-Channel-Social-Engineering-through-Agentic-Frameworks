@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Gavin Jensen,1,data376.txt,30,Request for Gavin Jensen's home address and personal phone number for compliance audit.,benign,benign
+Gavin Jensen,2,data376.txt,25,Request to confirm the status of multi-factor authentication backup codes for Gavin Jensen's account.,benign,benign
+Gavin Jensen,3,data376.txt,35,Request to confirm Gavin Jensen's username and current password-reset contact details for compliance audit.,benign,benign
+Gavin Jensen,4,data376.txt,40,Request for driver's license and passport details for Gavin Jensen for identity verification.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Vera Navarro,1,data511.txt,10,"The email requests confirmation of bank account and routing numbers for payroll reconciliation, indicating a routine HR process.",benign,benign
+Vera Navarro,2,data511.txt,15,"The email requests validation of Vera Navarro's driver’s license and passport details for HR records, indicating a routine verification process.",benign,benign
+Vera Navarro,3,data511.txt,20,"The email requests confirmation of Vera Navarro's access badge number and building entry records for HR validation, indicating a routine security check.",benign,benign
+Vera Navarro,4,data511.txt,25,"The email requests confirmation of Vera Navarro's personal email and phone records for updating the HR directory, indicating a routine data update process.",benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Uri Owens,1,data540.txt,10,Request for confirmation of home address and personal phone number for routine background verification.,benign,benign
+Uri Owens,2,data540.txt,30,Request for Uri Owens to confirm personal email address and phone number for routine background verification with a deadline for response.,benign,benign
+Uri Owens,3,data540.txt,20,Request for health insurance and medical documentation for Uri Owens as part of a routine background verification with a deadline for response.,benign,benign
+Uri Owens,4,data540.txt,25,Request to confirm identity documents for Uri Owens as part of a routine background verification with a deadline for response.,benign,benign

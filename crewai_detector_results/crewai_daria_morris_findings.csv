@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Daria Morris,1,data463.txt,10,"The email is a request for confirmation of the training cohort name for Daria Morris, related to onboarding materials.",benign,benign
+Daria Morris,2,data463.txt,10,"The email is a request for confirmation of Daria Morris's title and manager name for internal records, related to onboarding materials.",benign,benign
+Daria Morris,3,data463.txt,10,"The email is a request for verification of how Daria Morris's name should appear in the employee directory, related to onboarding materials.",benign,benign
+Daria Morris,4,data463.txt,10,"The email is a request for confirmation of the device type assigned to Daria Morris, related to onboarding materials.",benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bennett Kapoor,1,data427.txt,10,"Cameron, a Records Manager at Helios Manufacturing, requests verification of the account segment associated with Bennett Kapoor's workstream as part of a routine check-in regarding onboarding materials.",benign,benign
+Bennett Kapoor,2,data427.txt,10,"Cameron, a Records Manager at Helios Manufacturing, requests verification of the annual policy course listed for Bennett Kapoor's training plan as part of a routine check-in regarding onboarding materials.",benign,benign
+Bennett Kapoor,3,data427.txt,10,"Cameron, a Records Manager at Helios Manufacturing, requests verification of whether Bennett Kapoor is listed with a laptop or desktop in the asset summary as part of a routine check-in regarding onboarding materials.",benign,benign
+Bennett Kapoor,4,data427.txt,10,"Cameron, a Records Manager at Helios Manufacturing, requests verification of which building and floor are assigned to Bennett Kapoor in the office map as part of a routine check-in regarding onboarding materials.",benign,benign

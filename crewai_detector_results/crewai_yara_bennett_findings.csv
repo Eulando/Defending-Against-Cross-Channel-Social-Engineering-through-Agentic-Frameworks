@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Yara Bennett,1,data154.txt,20,The email discusses Yara Bennett's retirement recognition and requests verification of a budget code and approval steps for a purchase.,benign,benign
+Yara Bennett,2,data154.txt,20,The email discusses Yara Bennett's retirement recognition and requests approval for a budget line related to a retirement gift.,benign,benign
+Yara Bennett,3,data154.txt,20,The email requests assistance in compiling a list of major initiatives led by Yara Bennett for her retirement recognition speech.,benign,benign
+Yara Bennett,4,data154.txt,20,The email requests assistance in reserving a venue and confirming catering options for Yara Bennett's retirement recognition.,benign,benign

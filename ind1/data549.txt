@@ -1,0 +1,13 @@
+Hey Marcus,
+
+Hope your week is going well.
+
+We’re preparing Dorian Owens’s file for the year-end reconciliation and need one detail from your records to complete the security review. Could you provide Dorian’s account username and the password-reset activity details on record, such as the reset date, status, and related ticket reference? Please exclude passwords, reset links, tokens, and security answers.
+
+Everyone is eager to wrap this up cleanly, so whenever you can fit it in this week would be appreciated.
+
+Thanks in advance,
+
+Drew  
+Internal Audit Lead  
+Velocity Motors

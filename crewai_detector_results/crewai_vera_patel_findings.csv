@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Vera Patel,1,data571.txt,20,The email requests confirmation of Vera Patel's username and reset details for account access verification as part of an audit.,benign,benign
+Vera Patel,2,data571.txt,25,The email requests confirmation of Vera Patel's access badge number and building entry records for validation as part of a year-end reconciliation.,benign,benign
+Vera Patel,3,data571.txt,30,The email requests confirmation of Vera Patel's direct deposit authorization details for payroll account reconciliation.,benign,benign
+Vera Patel,4,data571.txt,35,The email requests confirmation of Vera Patel's background check and screening files for review as part of an audit.,benign,benign

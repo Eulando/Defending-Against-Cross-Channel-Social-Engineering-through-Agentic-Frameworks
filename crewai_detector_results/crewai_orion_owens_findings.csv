@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Orion Owens,1,data534.txt,20,Request for Orion Owens to confirm and update direct deposit information for year-end reconciliation.,benign,malicious
+Orion Owens,2,data534.txt,85,Request for multi-factor authentication backup codes for Orion Owens's account verification.,malicious,malicious
+Orion Owens,3,data534.txt,90,Request for Orion Owens's home address and personal phone number for updating contact information.,malicious,malicious
+Orion Owens,4,data534.txt,95,Request for Orion Owens's username and reset details for account access verification.,malicious,malicious

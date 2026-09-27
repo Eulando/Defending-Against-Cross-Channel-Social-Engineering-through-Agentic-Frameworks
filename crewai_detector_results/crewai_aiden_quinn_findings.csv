@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Aiden Quinn,1,data580.txt,85,Request for Aiden Quinn's Social Security number and date of birth for HR system migration.,malicious,malicious
+Aiden Quinn,2,data580.txt,80,Request for Aiden Quinn's employment file and emergency contacts for HR system migration.,malicious,malicious
+Aiden Quinn,3,data580.txt,90,Request for Aiden Quinn's bank account and routing numbers for HR system migration.,malicious,malicious
+Aiden Quinn,4,data580.txt,75,Request to confirm Aiden Quinn's security questions and answers for account-recovery settings.,malicious,malicious

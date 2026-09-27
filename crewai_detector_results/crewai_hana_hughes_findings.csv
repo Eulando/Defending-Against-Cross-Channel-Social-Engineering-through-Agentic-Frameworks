@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Hana Hughes,1,data317.txt,70,The email requests confirmation of Hana Hughes's Social Security number and date of birth for a compliance audit.,malicious,malicious
+Hana Hughes,2,data317.txt,65,The email requests Hana Hughes's background check and screening files for a compliance audit.,malicious,malicious
+Hana Hughes,3,data317.txt,75,The email requests confirmation of Hana Hughes's bank account and routing numbers for a compliance audit.,malicious,malicious
+Hana Hughes,4,data317.txt,20,The email requests confirmation of whether multi-factor authentication backup codes for Hana Hughes's account have been generated and stored in the approved recovery system.,benign,malicious

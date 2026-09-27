@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Elias Ellis,1,data224.txt,20,"The email requests confirmation that account recovery options for Elias Ellis are properly configured and accessible, without sharing sensitive information.",benign,benign
+Elias Ellis,2,data224.txt,10,The email requests assistance in pulling Elias Ellis's full employment file and emergency contact details from HRIS for year-end reconciliation.,benign,benign
+Elias Ellis,3,data224.txt,10,"The email requests confirmation of the account username associated with Elias Ellis's file and inquires about any recorded password reset, including the date and status.",benign,benign
+Elias Ellis,4,data224.txt,15,"The email requests Elias Ellis's background check and screening files for year-end reconciliation, indicating no deadline pressure.",benign,benign

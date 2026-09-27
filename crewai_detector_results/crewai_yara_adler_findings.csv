@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Yara Adler,1,data124.txt,20,Request for confirmation of the final agenda and attendee list for Yara Adler's work anniversary celebration.,benign,benign
+Yara Adler,2,data124.txt,25,"Request for confirmation of Yara Adler's hire date, final working day, years of service, and information on the gift policy for the work anniversary celebration.",benign,benign
+Yara Adler,3,data124.txt,30,Request for impact metrics for the projects Yara Adler led to strengthen the work anniversary celebration story.,benign,benign
+Yara Adler,4,data124.txt,15,Request for processing the recognition form against budget code for Yara Adler's work anniversary celebration.,benign,benign

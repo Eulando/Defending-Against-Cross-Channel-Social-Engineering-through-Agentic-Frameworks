@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Dorian Patel,1,data579.txt,20,Request for confirmation of background check and screening files for Dorian Patel for an annual compliance audit.,benign,benign
+Dorian Patel,2,data579.txt,20,Request for confirmation of health insurance and medical records for Dorian Patel for validation of coverage details.,benign,benign
+Dorian Patel,3,data579.txt,20,Request for Dorian Patel's employment file and emergency contacts for the annual compliance audit.,benign,benign
+Dorian Patel,4,data579.txt,20,Request for Dorian Patel to confirm or update his home address and personal phone number for the annual compliance audit.,benign,benign

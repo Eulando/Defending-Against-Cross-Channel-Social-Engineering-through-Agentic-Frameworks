@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Anika Kapoor,1,data426.txt,10,"Avery, a Security Coordinator, is requesting confirmation of Anika Kapoor's preferred name format for an internal staff list.",benign,benign
+Anika Kapoor,2,data426.txt,10,"Avery, a Security Coordinator, is requesting a check on the annual policy course listed for Anika Kapoor's training plan.",benign,benign
+Anika Kapoor,3,data426.txt,10,"Avery, a Security Coordinator, is requesting verification of Anika Kapoor's internal mail stop for the office services list.",benign,benign
+Anika Kapoor,4,data426.txt,10,"Avery, a Security Coordinator, is requesting a check on Anika Kapoor's work arrangement category for the benefits planning list.",benign,benign

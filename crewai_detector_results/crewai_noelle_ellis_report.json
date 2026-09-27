@@ -1,0 +1,66 @@
+{
+  "victim_name": "Noelle Ellis",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "The second channel report indicates a high score of 75, which is above the threshold of 50, indicating potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Noelle Ellis",
+      "findings": [
+        {
+          "filename": "data233.txt",
+          "score": 20,
+          "summary": "The email requests confirmation of direct deposit authorization details for Noelle Ellis as part of a record migration to a new HR system."
+        }
+      ],
+      "max_score": 20,
+      "channel_verdict": "benign",
+      "rationale": "The email content does not exhibit malicious intent and is related to standard HR procedures."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Noelle Ellis",
+      "findings": [
+        {
+          "filename": "data233.txt",
+          "score": 75,
+          "summary": "The email requests sensitive information, specifically Noelle Ellis's driver's license and passport details, under the guise of validating identity records for a system migration."
+        }
+      ],
+      "max_score": 75,
+      "channel_verdict": "malicious",
+      "rationale": "The request for sensitive personal information raises significant concerns about potential malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Noelle Ellis",
+      "findings": [
+        {
+          "filename": "data233.txt",
+          "score": 30,
+          "summary": "The email requests confirmation of health insurance and medical records for Noelle Ellis as part of a record migration to a new HR system."
+        }
+      ],
+      "max_score": 30,
+      "channel_verdict": "benign",
+      "rationale": "The email content does not exhibit malicious intent and is related to standard HR procedures."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Noelle Ellis",
+      "findings": [
+        {
+          "filename": "data233.txt",
+          "score": 25,
+          "summary": "The email requests confirmation of personal email and phone records for Noelle Ellis as part of a record migration to a new HR system."
+        }
+      ],
+      "max_score": 25,
+      "channel_verdict": "benign",
+      "rationale": "The email content does not exhibit malicious intent and is related to standard HR procedures."
+    }
+  ]
+}

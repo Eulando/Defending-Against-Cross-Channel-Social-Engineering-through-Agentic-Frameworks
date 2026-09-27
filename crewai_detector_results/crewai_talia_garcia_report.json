@@ -1,0 +1,66 @@
+{
+  "victim_name": "Talia Garcia",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "Multiple channels reported malicious intent with scores above the threshold, indicating a coordinated effort to obtain sensitive information.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Talia Garcia",
+      "findings": [
+        {
+          "filename": "data299.txt",
+          "score": 70,
+          "summary": "Request for driver's license and passport details for identity verification of Talia Garcia."
+        }
+      ],
+      "max_score": 70,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information for identity verification, indicating potential malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Talia Garcia",
+      "findings": [
+        {
+          "filename": "data299.txt",
+          "score": 75,
+          "summary": "Request for direct deposit authorization for payroll setup verification of Talia Garcia."
+        }
+      ],
+      "max_score": 75,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive financial information related to payroll, indicating potential malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Talia Garcia",
+      "findings": [
+        {
+          "filename": "data299.txt",
+          "score": 80,
+          "summary": "Request for full employment file and emergency contact details for Talia Garcia."
+        }
+      ],
+      "max_score": 80,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal and employment information, indicating potential malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Talia Garcia",
+      "findings": [
+        {
+          "filename": "data299.txt",
+          "score": 85,
+          "summary": "Request for salary and bonus figures for Talia Garcia during compensation data reconciliation."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive financial information related to salary and bonuses, indicating potential malicious intent."
+    }
+  ]
+}

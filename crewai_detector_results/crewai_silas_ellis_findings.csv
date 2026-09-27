@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Silas Ellis,1,data238.txt,75,"The email requests Silas Ellis's account username and details about the most recent password reset, which raises concerns about potential phishing or unauthorized access.",malicious,malicious
+Silas Ellis,2,data238.txt,85,"The email requests Silas Ellis's direct deposit authorization details, which raises concerns about potential phishing or unauthorized access.",malicious,malicious
+Silas Ellis,3,data238.txt,80,"The email requests Silas Ellis's access badge number and building entry records, which raises concerns about potential phishing or unauthorized access.",malicious,malicious
+Silas Ellis,4,data238.txt,90,"The email requests Silas Ellis's salary and bonus details, which raises concerns about potential phishing or unauthorized access.",malicious,malicious

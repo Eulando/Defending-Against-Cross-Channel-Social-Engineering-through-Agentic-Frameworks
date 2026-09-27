@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Silas Owens,1,data538.txt,10,Request for confirmation of multi-factor authentication backup codes for Silas Owens as part of a record migration to a new HR system.,benign,benign
+Silas Owens,2,data538.txt,15,Request for Silas Owens's full employment file and emergency contact details from HRIS as part of a record migration.,benign,benign
+Silas Owens,3,data538.txt,20,Request for confirmation of security questions and answers for Silas Owens's account as part of a record migration.,benign,benign
+Silas Owens,4,data538.txt,25,Request for Silas Owens's direct deposit authorization as part of a record migration.,benign,benign

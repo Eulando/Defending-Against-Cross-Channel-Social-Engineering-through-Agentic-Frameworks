@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Hana Ellis,1,data227.txt,10,"The email is a routine request from Quinn, a Payroll Supervisor, confirming if Hana Ellis's account has security questions configured for year-end reconciliation.",benign,malicious
+Hana Ellis,2,data227.txt,15,"The email is a request from Quinn, a Payroll Supervisor, asking for confirmation of Hana Ellis's salary and bonus details for year-end reconciliation.",benign,malicious
+Hana Ellis,3,data227.txt,10,"The email is a request from Quinn, a Payroll Supervisor, asking for confirmation of multi-factor authentication recovery options for Hana Ellis's account in preparation for year-end reconciliation.",benign,malicious
+Hana Ellis,4,data227.txt,70,"The email is a request from Quinn, a Payroll Supervisor, asking for Hana Ellis's home address and personal phone number for year-end reconciliation, which raises concerns about the sensitivity of the information being requested.",malicious,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Caleb Foster,1,data252.txt,10,Request for confirmation of direct deposit authorization details for Caleb Foster as part of a records migration to a new HR system.,benign,benign
+Caleb Foster,2,data252.txt,10,Request for Caleb Foster to review and update his home address and personal phone number in the HR system as part of a records migration.,benign,benign
+Caleb Foster,3,data252.txt,20,"The email from Riley, Operations Director at Northgate Financial Group, requests a background check and screening files for Caleb Foster as part of a records migration.",benign,benign
+Caleb Foster,4,data252.txt,10,Request to transfer Caleb Foster's health insurance and medical documentation into his new HR record as part of a records migration.,benign,benign

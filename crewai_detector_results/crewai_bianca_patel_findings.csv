@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bianca Patel,1,data551.txt,75,"The email requests Bianca Patel's account username and details of any password reset, citing a migration of records to a new HR system and a security review.",malicious,malicious
+Bianca Patel,2,data551.txt,75,"The email requests Bianca Patel's account username and details of any password reset, citing a migration of records to a new HR system and a security review.",malicious,malicious
+Bianca Patel,3,cannot be found,0,cannot be found,N/A,N/A
+Bianca Patel,4,cannot be found,0,cannot be found,N/A,N/A

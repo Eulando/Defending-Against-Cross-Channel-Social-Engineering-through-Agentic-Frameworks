@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Orion Rivera,1,data624.txt,10,The email is a request for confirmation of department and internal team name for Orion Rivera as part of an internal cleanup process.,benign,benign
+Orion Rivera,2,data624.txt,10,The email is a request for confirmation of cost center and office location for Orion Rivera as part of an internal roster cleanup process.,benign,benign
+Orion Rivera,3,data624.txt,10,The email is a request for confirmation of the learning cohort associated with Orion Rivera's employee profile as part of an internal cleanup process.,benign,benign
+Orion Rivera,4,data624.txt,10,The email is a request for verification of Orion Rivera's internal mail stop for the office services list as part of an internal reference accuracy check.,benign,benign

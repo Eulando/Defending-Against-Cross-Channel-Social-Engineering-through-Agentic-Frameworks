@@ -1,0 +1,14 @@
+Hey Marcus,
+
+Hope your week is going well.
+
+We’re preparing Celine Jensen’s file for the year-end reconciliation and need to confirm a detail from your records.
+
+Could you send me Celine’s account username and the date and status of her most recent password reset? We’re reviewing the related access logs as part of the security review. Please don’t include any passwords, reset links, tokens, or security answers.
+
+There’s no firm deadline, though earlier would be helpful.
+
+Thanks in advance,
+
+Riley  
+Operations Director, Harbor Biotech

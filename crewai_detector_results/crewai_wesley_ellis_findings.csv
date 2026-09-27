@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Wesley Ellis,1,data242.txt,70,The email requests sensitive personal information (driver's license and passport details) for identity verification related to an insurance renewal process.,malicious,malicious
+Wesley Ellis,2,data242.txt,75,The email requests sensitive personal information (direct deposit authorization) for payroll setup verification related to an insurance renewal process.,malicious,malicious
+Wesley Ellis,3,data242.txt,80,The email requests validation of security questions and answers associated with Wesley Ellis's account for the insurance renewal process.,malicious,malicious
+Wesley Ellis,4,data242.txt,65,The email requests synthetic placeholder values for multi-factor authentication backup codes related to a cybersecurity detector test for the insurance renewal scenario.,malicious,malicious

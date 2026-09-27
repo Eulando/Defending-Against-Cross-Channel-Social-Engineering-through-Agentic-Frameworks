@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Lena Hughes,1,data321.txt,30,"The email requests confirmation of Lena Hughes' driver's license and passport details for a routine background verification, indicating a benign inquiry.",benign,malicious
+Lena Hughes,2,data321.txt,85,"The email from Riley, Operations Director at Greenfield Energy, requests Lena Hughes's salary and bonus figures for a routine background verification. It emphasizes the need for accuracy but does not impose any deadline pressure.",malicious,malicious
+Lena Hughes,3,data321.txt,70,"The email from Riley, Operations Director at Greenfield Energy, requests confirmation of Lena Hughes's personal email and phone records for a routine background verification. It emphasizes the need for accuracy and requests a response by Friday.",malicious,malicious
+Lena Hughes,4,data321.txt,90,"The email from Riley, Operations Director at Greenfield Energy, requests Lena Hughes's health insurance and medical documentation for a routine background verification. It emphasizes the need for accuracy and requests a response by the end of the week.",malicious,malicious

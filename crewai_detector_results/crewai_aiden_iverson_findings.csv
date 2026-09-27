@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Aiden Iverson,1,data340.txt,30,Request for confirmation of direct deposit authorization details for Aiden Iverson's account related to insurance renewal.,benign,malicious
+Aiden Iverson,2,data340.txt,40,Request to verify multi-factor authentication backup codes for Aiden Iverson's account related to insurance renewal.,benign,malicious
+Aiden Iverson,3,data340.txt,50,Request to confirm the accuracy of Social Security number and date of birth for Aiden Iverson's account related to insurance renewal.,benign,malicious
+Aiden Iverson,4,data340.txt,30,Request to confirm the home address and personal phone number for Aiden Iverson's account related to insurance renewal.,benign,malicious

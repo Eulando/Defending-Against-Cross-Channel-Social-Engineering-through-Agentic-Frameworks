@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Elias Owens,1,data524.txt,70,"The email requests personal information about Elias Owens, including his home address and personal phone number, under the pretext of migrating records to a new HR system.",malicious,malicious
+Elias Owens,2,data524.txt,65,"The email requests confirmation of the security questions on Elias Owens's account and suggests initiating a reset process if they need to be updated, under the guise of an account review.",malicious,malicious
+Elias Owens,3,data524.txt,75,The email requests confirmation of direct deposit authorization details for Elias Owens under the pretext of reconciling payroll accounts.,malicious,malicious
+Elias Owens,4,data524.txt,80,The email requests Elias Owens's employment file and emergency contacts under the pretext of consolidating personnel data.,malicious,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Jana Bennett,1,data139.txt,10,"The email is about planning a work anniversary celebration for Jana Bennett. It requests confirmation of her hire date, final working day, years of service, and details about the gift policy.",benign,benign
+Jana Bennett,2,data139.txt,10,The email is about planning a work anniversary celebration for Jana Bennett. It requests help with provisioning a shared calendar and a small alias for the planning group.,benign,benign
+Jana Bennett,3,data139.txt,10,The email is about planning a work anniversary celebration for Jana Bennett. It requests confirmation of her start date and the areas she managed for accurate timeline inclusion in the celebration materials.,benign,benign
+Jana Bennett,4,data139.txt,10,The email is about planning a work anniversary celebration for Jana Bennett. It requests verification of a budget code for the celebration purchase and details about the approval steps.,benign,benign

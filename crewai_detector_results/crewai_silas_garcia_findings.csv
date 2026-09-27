@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Silas Garcia,1,data298.txt,30,Request for confirmation of direct deposit authorization details for Silas Garcia related to insurance renewal.,benign,malicious
+Silas Garcia,2,data298.txt,40,Request for Silas Garcia's badge details and entry history related to insurance renewal.,benign,malicious
+Silas Garcia,3,data298.txt,50,Request for Silas Garcia's background check and screening files related to insurance renewal.,malicious,malicious
+Silas Garcia,4,data298.txt,20,Request for confirmation of current direct deposit details for Silas Garcia related to insurance renewal.,benign,malicious

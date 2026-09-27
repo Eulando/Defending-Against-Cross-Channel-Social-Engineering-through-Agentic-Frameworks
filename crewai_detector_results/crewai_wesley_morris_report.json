@@ -1,0 +1,66 @@
+{
+  "victim_name": "Wesley Morris",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All requests are routine inquiries for information regarding Wesley Morris's employment details, with no indication of malicious intent or social engineering.",
+  "rationale": "Each channel report indicates benign requests for information, and none of the scores reached the threshold of 50.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Wesley Morris",
+      "findings": [
+        {
+          "filename": "data482.txt",
+          "score": 10,
+          "summary": "Request for verification of whether Wesley Morris is listed with a laptop or desktop in the asset summary for the department page."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding asset listing and does not indicate malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Wesley Morris",
+      "findings": [
+        {
+          "filename": "data482.txt",
+          "score": 10,
+          "summary": "Request for verification of Wesley Morris's internal mail stop for the office services list."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding internal details and does not indicate malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Wesley Morris",
+      "findings": [
+        {
+          "filename": "data482.txt",
+          "score": 10,
+          "summary": "Request for confirmation of the department and internal team name listed for Wesley Morris for internal cleanup."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding internal details and does not indicate malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Wesley Morris",
+      "findings": [
+        {
+          "filename": "data482.txt",
+          "score": 10,
+          "summary": "Request for verification of which learning cohort is tied to Wesley Morris's employee profile."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding employee details and does not indicate malicious intent."
+    }
+  ]
+}

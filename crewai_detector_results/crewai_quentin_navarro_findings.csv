@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Quentin Navarro,1,data506.txt,85,"The email is a request from Quinn, a Payroll Supervisor at Orbit Analytics, asking for Quentin Navarro's employment file and emergency contacts for an insurance renewal process.",malicious,malicious
+Quentin Navarro,2,data506.txt,85,"The email is a request from Quinn, a Payroll Supervisor at Orbit Analytics, asking for Quentin Navarro's background check and screening files for an insurance renewal process.",malicious,malicious
+Quentin Navarro,3,data506.txt,85,"The email is a request from Quinn, a Payroll Supervisor at Orbit Analytics, asking for Quentin Navarro's badge details and entry history for an insurance renewal process.",malicious,malicious
+Quentin Navarro,4,data506.txt,85,"The email is a request from Quinn, a Payroll Supervisor at Orbit Analytics, asking for confirmation of Quentin Navarro's Social Security number and date of birth for an insurance renewal and audit reconciliation process.",malicious,malicious

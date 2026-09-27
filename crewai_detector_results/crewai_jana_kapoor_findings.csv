@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Jana Kapoor,1,data409.txt,10,Request for confirmation of the mailing stop used for Jana Kapoor's internal package deliveries.,benign,benign
+Jana Kapoor,2,data409.txt,10,Request for confirmation of Jana Kapoor's current job title and reporting manager for the directory refresh.,benign,benign
+Jana Kapoor,3,data409.txt,10,Request for confirmation of the project code currently associated with Jana Kapoor's department budget.,benign,benign
+Jana Kapoor,4,data409.txt,10,Request for confirmation of the building and floor listed for Jana Kapoor's regular workspace.,benign,benign

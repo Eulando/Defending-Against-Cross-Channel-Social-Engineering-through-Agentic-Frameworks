@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Elias Garcia,1,data284.txt,10,Request for confirmation of personal email and phone records for Elias Garcia for year-end reconciliation. The tone is polite and there is no immediate pressure for a response.,benign,benign
+Elias Garcia,2,cannot be found,0,cannot be found,N/A,N/A
+Elias Garcia,3,cannot be found,0,cannot be found,N/A,N/A
+Elias Garcia,4,cannot be found,0,cannot be found,N/A,N/A

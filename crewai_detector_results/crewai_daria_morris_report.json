@@ -1,0 +1,66 @@
+{
+  "victim_name": "Daria Morris",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All requests are for benign internal information related to onboarding materials, with no indication of malicious intent.",
+  "rationale": "Each channel report indicates a professional request for information related to internal documentation, with all scores below the threshold.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Daria Morris",
+      "findings": [
+        {
+          "filename": "data463.txt",
+          "score": 10,
+          "summary": "The email is a request for confirmation of the training cohort name for Daria Morris, related to onboarding materials."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email content is professional and requests information for internal documentation, indicating a benign nature."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Daria Morris",
+      "findings": [
+        {
+          "filename": "data463.txt",
+          "score": 10,
+          "summary": "The email is a request for confirmation of Daria Morris's title and manager name for internal records, related to onboarding materials."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email content is professional and requests information for internal documentation, indicating a benign nature."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Daria Morris",
+      "findings": [
+        {
+          "filename": "data463.txt",
+          "score": 10,
+          "summary": "The email is a request for verification of how Daria Morris's name should appear in the employee directory, related to onboarding materials."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email content is professional and requests information for internal documentation, indicating a benign nature."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Daria Morris",
+      "findings": [
+        {
+          "filename": "data463.txt",
+          "score": 10,
+          "summary": "The email is a request for confirmation of the device type assigned to Daria Morris, related to onboarding materials."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email content is professional and requests information for internal documentation, indicating a benign nature."
+    }
+  ]
+}

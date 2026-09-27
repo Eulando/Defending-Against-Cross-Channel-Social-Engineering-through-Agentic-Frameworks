@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Anika Dawson,1,data216.txt,10,"The email requests verification of Anika Dawson's identity documentation for a compliance audit, asking for confirmation of current driver’s license and passport details.",benign,benign
+Anika Dawson,2,data216.txt,10,"The email requests confirmation of health insurance and medical records for Anika Dawson for a compliance audit, asking for coverage details for renewal.",benign,benign
+Anika Dawson,3,data216.txt,10,"The email requests confirmation of Anika Dawson's home address and personal phone number for a compliance audit, asking for updated contact records.",benign,benign
+Anika Dawson,4,data216.txt,10,"The email requests confirmation of background check and screening files for Anika Dawson for a compliance audit, indicating it is a priority to finalize details.",benign,benign

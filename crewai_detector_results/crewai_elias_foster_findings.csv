@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Elias Foster,1,data254.txt,20,"The email is a follow-up regarding the routine background verification for Elias Foster, requesting confirmation on the collection of his driver's license and passport information.",benign,benign
+Elias Foster,2,data254.txt,25,The email is a request for Elias Foster's direct deposit authorization as part of a routine background verification for payroll setup.,benign,benign
+Elias Foster,3,data254.txt,30,The email is a request for Elias Foster's salary and bonus figures as part of a routine background verification for compensation data reconciliation.,benign,benign
+Elias Foster,4,data254.txt,35,The email is a request for Elias Foster's bank account and routing numbers as part of a routine background verification for direct deposit details.,benign,benign

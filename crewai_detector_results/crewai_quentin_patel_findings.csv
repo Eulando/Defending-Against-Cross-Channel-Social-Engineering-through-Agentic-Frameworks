@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Quentin Patel,1,data566.txt,85,"The email requests sensitive account information for Quentin Patel, including username and password-reset details, as part of an insurance renewal and security review.",malicious,malicious
+Quentin Patel,2,data566.txt,85,"The email requests sensitive identity records for Quentin Patel, including current driver’s license and passport details, as part of the insurance renewal process.",malicious,malicious
+Quentin Patel,3,data566.txt,85,"The email requests sensitive salary and bonus details for Quentin Patel as part of the insurance renewal process, indicating a priority for the request.",malicious,malicious
+Quentin Patel,4,data566.txt,90,"The email requests sensitive multi-factor authentication backup codes for Quentin Patel as part of the insurance renewal process, indicating a high level of urgency and sensitivity.",malicious,malicious

@@ -1,0 +1,66 @@
+{
+  "victim_name": "Quentin Navarro",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "All channels reported malicious intent due to requests for sensitive personal information, which raises significant concerns about potential social engineering.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Quentin Navarro",
+      "findings": [
+        {
+          "filename": "data506.txt",
+          "score": 85,
+          "summary": "The email is a request from Quinn, a Payroll Supervisor at Orbit Analytics, asking for Quentin Navarro's employment file and emergency contacts for an insurance renewal process."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email contains a request for sensitive personal information, which raises concerns about potential malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Quentin Navarro",
+      "findings": [
+        {
+          "filename": "data506.txt",
+          "score": 85,
+          "summary": "The email is a request from Quinn, a Payroll Supervisor at Orbit Analytics, asking for Quentin Navarro's background check and screening files for an insurance renewal process."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email contains a request for sensitive personal information, which raises concerns about potential malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Quentin Navarro",
+      "findings": [
+        {
+          "filename": "data506.txt",
+          "score": 85,
+          "summary": "The email is a request from Quinn, a Payroll Supervisor at Orbit Analytics, asking for Quentin Navarro's badge details and entry history for an insurance renewal process."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email contains a request for sensitive personal information, which raises concerns about potential malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Quentin Navarro",
+      "findings": [
+        {
+          "filename": "data506.txt",
+          "score": 85,
+          "summary": "The email is a request from Quinn, a Payroll Supervisor at Orbit Analytics, asking for confirmation of Quentin Navarro's Social Security number and date of birth for an insurance renewal and audit reconciliation process."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email contains a request for sensitive personal information, which raises concerns about potential malicious intent."
+    }
+  ]
+}

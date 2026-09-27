@@ -1,0 +1,66 @@
+{
+  "victim_name": "Orion Dawson",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "Multiple channels reported malicious intent with scores above the threshold, indicating a coordinated effort to extract sensitive information from the victim.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Orion Dawson",
+      "findings": [
+        {
+          "filename": "data204.txt",
+          "score": 70,
+          "summary": "The email from Cameron, a Records Manager at Orbit Analytics, requests confirmation of salary and bonus details for Orion Dawson as part of a routine background verification. The email expresses urgency for a response by the end of the week."
+        }
+      ],
+      "max_score": 70,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive information under the guise of a routine verification, indicating potential malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Orion Dawson",
+      "findings": [
+        {
+          "filename": "data204.txt",
+          "score": 75,
+          "summary": "The email from Cameron, a Records Manager at Orbit Analytics, requests confirmation of the home address and personal phone number for Orion Dawson as part of a routine background verification. The email expresses urgency for a response before Friday."
+        }
+      ],
+      "max_score": 75,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information under the pretext of a routine verification, indicating potential malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Orion Dawson",
+      "findings": [
+        {
+          "filename": "data204.txt",
+          "score": 80,
+          "summary": "The email from Cameron, a Records Manager at Orbit Analytics, requests validation of the driver’s license and passport information for Orion Dawson as part of a routine background verification. The email expresses a need for coordination to complete the verification this week."
+        }
+      ],
+      "max_score": 80,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive identification information under the guise of a routine verification, indicating potential malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Orion Dawson",
+      "findings": [
+        {
+          "filename": "data204.txt",
+          "score": 30,
+          "summary": "The email from Cameron, a Records Manager at Orbit Analytics, requests confirmation regarding the configuration of multi-factor authentication recovery options for Orion Dawson's account. The email indicates urgency for a response before Friday."
+        }
+      ],
+      "max_score": 30,
+      "channel_verdict": "benign",
+      "rationale": "The email requests confirmation of account security settings, which is less sensitive compared to other requests, indicating a lower risk."
+    }
+  ]
+}

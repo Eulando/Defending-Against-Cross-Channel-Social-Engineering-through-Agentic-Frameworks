@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Uri Hughes,1,data330.txt,30,Request for salary and bonus figures for Uri Hughes's account related to insurance renewal.,benign,benign
+Uri Hughes,2,data330.txt,40,Request for background check and screening files for Uri Hughes's account related to insurance renewal.,benign,benign
+Uri Hughes,3,data330.txt,35,Request for confirmation of health insurance and medical records for Uri Hughes's account related to insurance renewal.,benign,benign
+Uri Hughes,4,data330.txt,30,Request for confirmation of direct deposit authorization details for Uri Hughes's account related to insurance renewal.,benign,benign

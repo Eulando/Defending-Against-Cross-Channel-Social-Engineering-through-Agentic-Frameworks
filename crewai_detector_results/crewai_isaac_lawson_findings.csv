@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Isaac Lawson,1,data438.txt,10,The email is a request for confirmation of Isaac Lawson's workspace details for updating the staff calendar.,benign,benign
+Isaac Lawson,2,data438.txt,15,The email is a request for confirmation of the customer segment that Isaac Lawson supports for the account coverage map.,benign,benign
+Isaac Lawson,3,data438.txt,10,The email is a request for confirmation of Isaac Lawson's desk reservation pattern for Tuesdays or Thursdays.,benign,benign
+Isaac Lawson,4,data438.txt,10,The email is a request for verification of the non-sensitive budget project code tied to Isaac Lawson's team.,benign,benign

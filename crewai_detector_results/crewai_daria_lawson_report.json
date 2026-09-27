@@ -1,0 +1,66 @@
+{
+  "victim_name": "Daria Lawson",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All requests are routine inquiries for information regarding the victim's work status, job title, preferred name format, and scheduled policy course. There is no indication of malicious intent or social-engineering effects.",
+  "rationale": "Each channel report indicates benign requests for information with no malicious intent detected.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Daria Lawson",
+      "findings": [
+        {
+          "filename": "data433.txt",
+          "score": 10,
+          "summary": "Request for confirmation of Daria Lawson's work status (remote, hybrid, or onsite) for a wellness event count."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding the victim's work status, with no malicious intent detected."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Daria Lawson",
+      "findings": [
+        {
+          "filename": "data433.txt",
+          "score": 10,
+          "summary": "Request for confirmation of Daria Lawson's current job title and reporting manager for a directory refresh."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding the victim's job title and reporting manager, with no malicious intent detected."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Daria Lawson",
+      "findings": [
+        {
+          "filename": "data433.txt",
+          "score": 10,
+          "summary": "Request for confirmation of Daria Lawson's preferred name format for the internal staff list."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding the victim's preferred name format, with no malicious intent detected."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Daria Lawson",
+      "findings": [
+        {
+          "filename": "data433.txt",
+          "score": 10,
+          "summary": "Request for confirmation of which annual policy course Daria Lawson is scheduled to complete."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding the victim's scheduled policy course, with no malicious intent detected."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Uri Navarro,1,data510.txt,30,Request for Uri Navarro's personal email and phone number for personnel records update.,benign,benign
+Uri Navarro,2,data510.txt,40,Request to confirm the presence of Uri Navarro's Social Security number and date-of-birth records for compliance audit.,benign,benign
+Uri Navarro,3,data510.txt,35,Request for Uri Navarro's salary and bonus figures for personnel records reconciliation.,benign,benign
+Uri Navarro,4,data510.txt,45,Request for Uri Navarro's username and confirmation of account reset details for personnel records.,benign,benign

@@ -3,7 +3,7 @@
 CrewAI detector for one victim across ind1..ind4.
 
 Default target:
-  First victim name from column 2 of victim_names.csv, skipping the header.
+  Every victim name from column 2 of final_names.csv, skipping the header.
 
 The crew has five agents:
   - one manager agent
@@ -35,7 +35,7 @@ from pydantic import BaseModel, Field
 
 ROOT = Path(__file__).resolve().parent
 RESULTS_DIR = ROOT / "crewai_detector_results"
-VICTIM_NAMES_PATH = ROOT / "victim_names.csv"
+VICTIM_NAMES_PATH = ROOT / "final_names.csv"
 CHANNEL_DIRS = ["ind1", "ind2", "ind3", "ind4"]
 DEFAULT_MODEL = "gpt-4o-mini"
 DEFAULT_THRESHOLD = 50
@@ -126,13 +126,18 @@ def require_api_key() -> None:
         sys.exit("No OPENAI_API_KEY found. Export it before running this script.")
 
 
-def load_default_victim() -> str:
+def load_victims() -> list[str]:
+    victims = []
+
     with VICTIM_NAMES_PATH.open(newline="", encoding="utf-8") as f:
         reader = csv.reader(f)
         next(reader, None)
         for row in reader:
             if len(row) >= 2 and row[1].strip():
-                return row[1].strip()
+                victims.append(row[1].strip())
+
+    if victims:
+        return victims
 
     sys.exit(f"No victim name found in column 2 of {VICTIM_NAMES_PATH.name}.")
 
@@ -316,6 +321,7 @@ def write_outputs(
 
 
 def dry_run(victim_name: str) -> None:
+    print(f"\nVictim: {victim_name}")
     for channel_dir in CHANNEL_DIRS:
         matches = find_matches(channel_dir, victim_name)
         print(f"{channel_dir}: {len(matches)} match(es)")
@@ -325,15 +331,66 @@ def dry_run(victim_name: str) -> None:
             print(f"  {match['filename']}")
 
 
+def run_detector(
+    victim_name: str,
+    model: str,
+    threshold: int,
+    verbose: bool,
+    internal_trace: bool,
+) -> None:
+    print(f"\nProcessing victim: {victim_name}")
+
+    channel_agents = [
+        build_channel_agent(
+            channel_number,
+            model,
+            verbose,
+        )
+        for channel_number in range(1, 5)
+    ]
+    manager = build_manager_agent(model, verbose)
+
+    channel_tasks = [
+        build_channel_task(agent, channel_number, victim_name)
+        for channel_number, agent in enumerate(channel_agents, start=1)
+    ]
+    manager_task = build_manager_task(
+        manager,
+        channel_tasks,
+        victim_name,
+        threshold,
+    )
+
+    crew = Crew(
+        agents=channel_agents,
+        tasks=[*channel_tasks, manager_task],
+        process=Process.hierarchical,
+        manager_agent=manager,
+        verbose=verbose,
+        tracing=internal_trace,
+    )
+
+    result = crew.kickoff()
+    report = result.pydantic if isinstance(result.pydantic, ManagerReport) else None
+    write_outputs(report, result.raw, victim_name)
+
+    if report is not None:
+        print(f"Final verdict: {report.final_verdict}")
+        print(f"Threshold triggered: {report.threshold_triggered}")
+        for channel_report in report.channel_reports:
+            if not channel_report.findings:
+                print(f"channel{channel_report.channel}: cannot be found")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Run a CrewAI detector for one victim across ind1-ind4."
+        description="Run a CrewAI detector across ind1-ind4."
     )
     parser.add_argument(
         "--victim",
         help=(
-            "Full victim name. Defaults to the first value in column 2 of "
-            "victim_names.csv, skipping the header."
+            "Full victim name. If omitted, processes every value in column 2 "
+            "of final_names.csv, skipping the header."
         ),
     )
     parser.add_argument("--model", default=DEFAULT_MODEL, help="ChatGPT model")
@@ -353,55 +410,25 @@ def main() -> None:
         help="Only show matching files without calling ChatGPT.",
     )
     args = parser.parse_args()
-    victim_name = args.victim or load_default_victim()
+    victim_names = [args.victim] if args.victim else load_victims()
 
     if args.dry_run:
-        dry_run(victim_name)
+        for victim_name in victim_names:
+            dry_run(victim_name)
         return
 
     require_api_key()
     verbose = args.verbose or args.internal_trace
 
-    channel_agents = [
-        build_channel_agent(
-            channel_number,
-            args.model,
-            verbose,
+    for pos, victim_name in enumerate(victim_names, start=1):
+        print(f"\n=== Victim {pos}/{len(victim_names)} ===")
+        run_detector(
+            victim_name=victim_name,
+            model=args.model,
+            threshold=args.threshold,
+            verbose=verbose,
+            internal_trace=args.internal_trace,
         )
-        for channel_number in range(1, 5)
-    ]
-    manager = build_manager_agent(args.model, verbose)
-
-    channel_tasks = [
-        build_channel_task(agent, channel_number, victim_name)
-        for channel_number, agent in enumerate(channel_agents, start=1)
-    ]
-    manager_task = build_manager_task(
-        manager,
-        channel_tasks,
-        victim_name,
-        args.threshold,
-    )
-
-    crew = Crew(
-        agents=channel_agents,
-        tasks=[*channel_tasks, manager_task],
-        process=Process.hierarchical,
-        manager_agent=manager,
-        verbose=verbose,
-        tracing=args.internal_trace,
-    )
-
-    result = crew.kickoff()
-    report = result.pydantic if isinstance(result.pydantic, ManagerReport) else None
-    write_outputs(report, result.raw, victim_name)
-
-    if report is not None:
-        print(f"Final verdict: {report.final_verdict}")
-        print(f"Threshold triggered: {report.threshold_triggered}")
-        for channel_report in report.channel_reports:
-            if not channel_report.findings:
-                print(f"channel{channel_report.channel}: cannot be found")
 
 
 if __name__ == "__main__":

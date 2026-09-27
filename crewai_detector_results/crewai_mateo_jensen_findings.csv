@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Mateo Jensen,1,data382.txt,20,"The email requests confirmation of Mateo Jensen's username and account recovery details for year-end reconciliation, indicating a legitimate business inquiry.",benign,malicious
+Mateo Jensen,2,data382.txt,75,"The email requests sensitive information, specifically Mateo Jensen's bank account and routing numbers, which raises concerns about potential malicious intent.",malicious,malicious
+Mateo Jensen,3,data382.txt,0,"The email from Riley, Operations Director at Northgate Financial Group, requests Mateo Jensen's salary and bonus figures for year-end reconciliation, emphasizing the need for a response by the end of the week.",benign,malicious
+Mateo Jensen,4,data382.txt,50,"The email requests Mateo Jensen's background check and screening files for year-end reconciliation, which raises concerns about the legitimacy of the request.",malicious,malicious

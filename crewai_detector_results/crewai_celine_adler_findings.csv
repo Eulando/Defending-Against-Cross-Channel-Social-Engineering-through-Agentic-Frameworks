@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Celine Adler,1,data128.txt,10,Request for confirmation on expense code for retirement gift and PO requirement.,benign,benign
+Celine Adler,2,data128.txt,10,Request for budget approval for retirement gift and follow-up with vendor order.,benign,benign
+Celine Adler,3,data128.txt,10,Request for confirmation of final agenda and attendee list for retirement recognition.,benign,benign
+Celine Adler,4,data128.txt,10,Request for training and certifications completed by Celine Adler for retirement recognition materials.,benign,benign

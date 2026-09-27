@@ -1,0 +1,66 @@
+{
+  "victim_name": "Elias Dawson",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "The combined requests across all channels are focused on organizing a retirement recognition for Elias Dawson, which involves budget approval, gathering training milestones, reviewing invite lists, and arranging catering. None of these requests exhibit malicious intent or social engineering tactics.",
+  "rationale": "All individual scores are below the threshold of 50, and the combined requests do not indicate any malicious social-engineering effects.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Elias Dawson",
+      "findings": [
+        {
+          "filename": "data194.txt",
+          "score": 20,
+          "summary": "The email discusses Elias Dawson's retirement recognition and requests budget approval for a retirement gift."
+        }
+      ],
+      "max_score": 20,
+      "channel_verdict": "benign",
+      "rationale": "The email content is related to a retirement recognition and does not exhibit malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Elias Dawson",
+      "findings": [
+        {
+          "filename": "data194.txt",
+          "score": 15,
+          "summary": "The email requests a list of key training milestones in Elias Dawson's record for the retirement recognition program."
+        }
+      ],
+      "max_score": 15,
+      "channel_verdict": "benign",
+      "rationale": "The email content is related to a retirement recognition and does not exhibit malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Elias Dawson",
+      "findings": [
+        {
+          "filename": "data194.txt",
+          "score": 10,
+          "summary": "The email requests help with reviewing the invite list and agenda for Elias Dawson's retirement recognition."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email content is related to a retirement recognition and does not exhibit malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Elias Dawson",
+      "findings": [
+        {
+          "filename": "data194.txt",
+          "score": 5,
+          "summary": "The email requests help with holding a conference room and selecting a catering package for Elias Dawson's retirement recognition."
+        }
+      ],
+      "max_score": 5,
+      "channel_verdict": "benign",
+      "rationale": "The email content is related to a retirement recognition and does not exhibit malicious intent."
+    }
+  ]
+}

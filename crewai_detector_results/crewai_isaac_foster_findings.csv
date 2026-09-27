@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Isaac Foster,1,data258.txt,20,Request for Isaac Foster's employment file and emergency contacts for a compliance audit.,benign,benign
+Isaac Foster,2,data258.txt,15,Request for confirmation of Isaac Foster's personal email and phone records for updating the directory.,benign,benign
+Isaac Foster,3,data258.txt,25,Request for confirmation of Isaac Foster's home address and personal phone number for updating contact records.,benign,benign
+Isaac Foster,4,data258.txt,30,Request for confirmation of Isaac Foster's background check and screening files for the audit.,benign,benign

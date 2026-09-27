@@ -1,0 +1,66 @@
+{
+  "victim_name": "Uri Foster",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "Multiple channels reported high scores indicating malicious intent, particularly concerning sensitive information requests.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Uri Foster",
+      "findings": [
+        {
+          "filename": "data270.txt",
+          "score": 20,
+          "summary": "The email requests confirmation about multi-factor authentication backup codes for Uri Foster as part of a compliance audit."
+        }
+      ],
+      "max_score": 20,
+      "channel_verdict": "benign",
+      "rationale": "The content of the email is related to compliance and security measures, which is standard practice and does not indicate malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Uri Foster",
+      "findings": [
+        {
+          "filename": "data270.txt",
+          "score": 85,
+          "summary": "The email requests Uri Foster's bank account and routing numbers for a compliance audit, which raises concerns about sensitive information handling."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The request for bank account and routing numbers is highly sensitive and could indicate malicious intent, especially in the context of a compliance audit."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Uri Foster",
+      "findings": [
+        {
+          "filename": "data270.txt",
+          "score": 90,
+          "summary": "The email requests confirmation of Uri Foster's username and an account reset, which raises significant concerns about unauthorized access."
+        }
+      ],
+      "max_score": 90,
+      "channel_verdict": "malicious",
+      "rationale": "The request for username confirmation and account reset is highly sensitive and suggests potential malicious intent, especially in the context of a compliance audit."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Uri Foster",
+      "findings": [
+        {
+          "filename": "data270.txt",
+          "score": 80,
+          "summary": "The email requests Uri Foster's direct deposit authorization for a compliance audit, which raises concerns about sensitive financial information handling."
+        }
+      ],
+      "max_score": 80,
+      "channel_verdict": "malicious",
+      "rationale": "The request for direct deposit authorization is sensitive and could indicate malicious intent, especially in the context of a compliance audit."
+    }
+  ]
+}

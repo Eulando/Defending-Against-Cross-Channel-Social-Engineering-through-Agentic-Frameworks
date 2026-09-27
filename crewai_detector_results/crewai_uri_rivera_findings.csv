@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Uri Rivera,1,data630.txt,10,The email is a request for confirmation of Uri Rivera's current job title and reporting manager for a directory refresh.,benign,benign
+Uri Rivera,2,data630.txt,10,The email is a request for verification of Uri Rivera's internal mail stop for the office services list as part of a validation process.,benign,benign
+Uri Rivera,3,data630.txt,10,The email is a request for confirmation of the training cohort name listed for Uri Rivera as part of a validation process.,benign,benign
+Uri Rivera,4,data630.txt,10,The email is a request for confirmation of which annual policy course Uri Rivera is scheduled to complete as part of a validation process.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Anika Garcia,1,data306.txt,30,Request for Anika Garcia's salary and bonus figures for year-end reconciliation.,benign,malicious
+Anika Garcia,2,data306.txt,70,Request for Anika Garcia's account username and password reset details for year-end reconciliation.,malicious,malicious
+Anika Garcia,3,data306.txt,60,Request for Anika Garcia's direct deposit information to confirm it is current for year-end reconciliation.,malicious,malicious
+Anika Garcia,4,data306.txt,80,Request for Anika Garcia's badge details and entry history for year-end reconciliation.,malicious,malicious

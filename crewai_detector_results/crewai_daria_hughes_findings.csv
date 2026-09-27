@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Daria Hughes,1,data313.txt,20,Request for payroll setup verification and direct deposit authorization for Daria Hughes.,benign,malicious
+Daria Hughes,2,data313.txt,75,Request for driver's license and passport details for Daria Hughes as part of a background verification.,malicious,malicious
+Daria Hughes,3,data313.txt,70,Request for Daria Hughes's employment file and emergency contacts as part of a background verification.,malicious,malicious
+Daria Hughes,4,data313.txt,65,Request for confirmation of Daria Hughes's salary and bonus details as part of a background verification.,malicious,malicious

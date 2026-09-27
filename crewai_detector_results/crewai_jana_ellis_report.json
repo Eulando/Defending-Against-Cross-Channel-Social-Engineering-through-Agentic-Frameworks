@@ -1,0 +1,66 @@
+{
+  "victim_name": "Jana Ellis",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "The presence of multiple emails requesting sensitive information, with scores above the threshold, indicates malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Jana Ellis",
+      "findings": [
+        {
+          "filename": "data229.txt",
+          "score": 30,
+          "summary": "The email requests confirmation of direct deposit information for a routine background verification, emphasizing urgency but not directly asking for sensitive information."
+        }
+      ],
+      "max_score": 30,
+      "channel_verdict": "benign",
+      "rationale": "The email does not exhibit clear malicious intent, as it requests verification through authorized contacts and does not ask for sensitive information directly."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Jana Ellis",
+      "findings": [
+        {
+          "filename": "data229.txt",
+          "score": 70,
+          "summary": "The email requests direct deposit authorization for Jana Ellis under the guise of a routine background verification, emphasizing urgency and directly asking for sensitive information."
+        }
+      ],
+      "max_score": 70,
+      "channel_verdict": "malicious",
+      "rationale": "The email exhibits malicious intent by directly requesting sensitive information under the pretext of a routine verification, which raises significant concerns."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Jana Ellis",
+      "findings": [
+        {
+          "filename": "data229.txt",
+          "score": 40,
+          "summary": "The email requests confirmation of background check and screening files for Jana Ellis, emphasizing urgency but not directly asking for sensitive information."
+        }
+      ],
+      "max_score": 40,
+      "channel_verdict": "benign",
+      "rationale": "The email does not exhibit clear malicious intent, as it requests confirmation through authorized contacts and does not ask for sensitive information directly."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Jana Ellis",
+      "findings": [
+        {
+          "filename": "data229.txt",
+          "score": 80,
+          "summary": "The email requests confirmation of salary and bonus details for Jana Ellis under the guise of a routine background verification, emphasizing urgency and directly asking for sensitive information."
+        }
+      ],
+      "max_score": 80,
+      "channel_verdict": "malicious",
+      "rationale": "The email exhibits malicious intent by directly requesting sensitive information under the pretext of a routine verification, which raises significant concerns."
+    }
+  ]
+}

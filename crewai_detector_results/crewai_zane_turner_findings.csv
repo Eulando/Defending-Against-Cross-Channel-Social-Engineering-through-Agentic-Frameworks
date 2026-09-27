@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Zane Turner,1,data695.txt,10,Request for verification of Zane Turner's desk booking days for internal records.,benign,benign
+Zane Turner,2,data695.txt,10,Request for confirmation of Zane Turner's department and internal team name for a biography update.,benign,benign
+Zane Turner,3,data695.txt,10,Request for confirmation of the mailing stop used for Zane Turner's internal package deliveries.,benign,benign
+Zane Turner,4,data695.txt,10,Request for verification of Zane Turner's cost center and assigned office location for a quarterly roster check.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Gavin Bennett,1,data136.txt,10,Request for confirmation on expense code for Gavin Bennett's service award.,benign,benign
+Gavin Bennett,2,data136.txt,15,Request for setting up an email alias and calendar for Gavin Bennett's service award.,benign,benign
+Gavin Bennett,3,data136.txt,12,Request for measurable outcomes from Gavin Bennett's initiatives for the service award speech.,benign,benign
+Gavin Bennett,4,data136.txt,18,Request for a list of major initiatives led by Gavin Bennett for the service award speech.,benign,benign

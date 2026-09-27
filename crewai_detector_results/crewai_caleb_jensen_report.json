@@ -1,0 +1,54 @@
+{
+  "victim_name": "Caleb Jensen",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "The request for Caleb Jensen's social security number and date of birth raises significant concerns about potential identity theft, which is classified as malicious.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Caleb Jensen",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Caleb Jensen",
+      "findings": [
+        {
+          "filename": "data372.txt",
+          "score": 10,
+          "summary": "The email is a request for badge details and entry history for Caleb Jensen as part of an insurance renewal process."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The request appears legitimate and related to compliance with insurance requirements."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Caleb Jensen",
+      "findings": [
+        {
+          "filename": "data372.txt",
+          "score": 85,
+          "summary": "The email is a request for Caleb Jensen's social security number and date of birth as part of an insurance renewal process, raising concerns about potential identity theft."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The request for sensitive personal information is suspicious and could indicate malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Caleb Jensen",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    }
+  ]
+}

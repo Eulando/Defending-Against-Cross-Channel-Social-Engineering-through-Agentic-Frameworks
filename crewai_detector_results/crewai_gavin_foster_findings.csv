@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Gavin Foster,1,data256.txt,10,"Avery, a Security Coordinator at Orbit Analytics, requests confirmation of security questions and answers for Gavin Foster's account as part of an insurance renewal process.",benign,benign
+Gavin Foster,2,data256.txt,15,"Avery, a Security Coordinator at Orbit Analytics, requests confirmation of personal email and phone records for Gavin Foster's account as part of an insurance renewal process.",benign,benign
+Gavin Foster,3,data256.txt,20,"Avery, a Security Coordinator at Orbit Analytics, requests confirmation of bank account and routing numbers for Gavin Foster's account as part of an insurance renewal process.",benign,benign
+Gavin Foster,4,data256.txt,25,"Avery, a Security Coordinator at Orbit Analytics, requests confirmation of salary and bonus details for Gavin Foster's account as part of an insurance renewal process.",benign,benign

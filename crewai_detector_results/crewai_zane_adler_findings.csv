@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Zane Adler,1,data125.txt,10,"Email requesting assistance in organizing Zane Adler's farewell celebration, including reserving a room and confirming catering.",benign,benign
+Zane Adler,2,data125.txt,10,"Email requesting assistance in organizing Zane Adler's farewell celebration, including reviewing external announcement and drafting a note.",benign,benign
+Zane Adler,3,data125.txt,10,"Email requesting assistance in processing a recognition form for Zane Adler's farewell celebration, including budget code and vendor choice.",benign,benign
+Zane Adler,4,data125.txt,10,Email requesting confirmation of expense code for Zane Adler's farewell gift and whether a purchase order is needed.,benign,benign

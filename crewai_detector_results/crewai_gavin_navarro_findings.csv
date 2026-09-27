@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Gavin Navarro,1,data496.txt,10,"The email is a routine inquiry from HR asking for confirmation of the building and floor for Gavin Navarro's workspace, with no sensitive information requested.",benign,benign
+Gavin Navarro,2,data496.txt,10,"The email is a routine inquiry from HR asking for confirmation of Gavin Navarro's current job title and reporting manager for a directory refresh, with no sensitive information requested.",benign,benign
+Gavin Navarro,3,data496.txt,10,"The email is a routine inquiry from HR asking for confirmation of the cost center and office location for Gavin Navarro as part of an internal roster cleanup, with no sensitive information requested.",benign,benign
+Gavin Navarro,4,data496.txt,10,"The email is a routine inquiry from HR asking for confirmation of the mailing stop used for Gavin Navarro's internal package deliveries, with no sensitive information requested.",benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Yara Iverson,1,data364.txt,30,Email requesting confirmation of bank account and routing numbers for Yara Iverson's records migration to a new HR system.,benign,benign
+Yara Iverson,2,data364.txt,30,Email requesting an account review for Yara Iverson's records migration to a new HR system.,benign,benign
+Yara Iverson,3,data364.txt,40,Email requesting Yara Iverson's salary and bonus figures for compensation data reconciliation during the HR system migration.,benign,benign
+Yara Iverson,4,data364.txt,35,Email requesting Yara Iverson's employment file and emergency contacts for personnel data consolidation during the HR system migration.,benign,benign

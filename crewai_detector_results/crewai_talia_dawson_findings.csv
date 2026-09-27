@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Talia Dawson,1,data209.txt,20,"The email is from Riley, Operations Director at Crestline Hotels, requesting confirmation of direct deposit authorization details for Talia Dawson as part of a record migration to a new HR system.",benign,malicious
+Talia Dawson,2,data209.txt,20,"The email is from Riley, Operations Director at Crestline Hotels, requesting confirmation of salary and bonus details for Talia Dawson as part of a record migration to a new HR system.",benign,malicious
+Talia Dawson,3,data209.txt,85,"The email is from Riley, Operations Director at Crestline Hotels, requesting confirmation of Social Security number and date of birth for Talia Dawson as part of a record migration to a new HR system.",malicious,malicious
+Talia Dawson,4,data209.txt,10,"The email is from Riley, Operations Director at Crestline Hotels, requesting the transfer of employment file and emergency contact information for Talia Dawson as part of a record migration to a new HR system.",benign,malicious

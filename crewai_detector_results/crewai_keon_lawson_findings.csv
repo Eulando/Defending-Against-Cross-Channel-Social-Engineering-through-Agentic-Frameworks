@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Keon Lawson,1,cannot be found,0,cannot be found,N/A,N/A
+Keon Lawson,2,cannot be found,0,cannot be found,N/A,N/A
+Keon Lawson,3,data440.txt,10,"The email from Morgan, an IT Administrator at Summit Retail Group, is a routine request regarding the annual policy course for Keon Lawson's training plan. It does not ask for sensitive information and appears to be a standard onboarding inquiry.",benign,benign
+Keon Lawson,4,data440.txt,20,"The email from Morgan, an IT Administrator at Summit Retail Group, is a routine request for verification of the account segment associated with Keon Lawson's workstream. It does not ask for sensitive information and appears to be related to onboarding materials.",benign,benign

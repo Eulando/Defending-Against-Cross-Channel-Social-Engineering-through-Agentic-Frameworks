@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Keon Turner,1,data680.txt,10,Request for confirmation of Keon Turner's current job title and reporting manager for a directory refresh.,benign,benign
+Keon Turner,2,data680.txt,15,Request for verification of the non-sensitive budget project code tied to Keon Turner's team.,benign,benign
+Keon Turner,3,data680.txt,12,Request for checking Keon Turner's work arrangement category for the benefits planning list.,benign,benign
+Keon Turner,4,data680.txt,10,Request for checking Keon Turner's department and team name in HRIS for the directory sync.,benign,benign

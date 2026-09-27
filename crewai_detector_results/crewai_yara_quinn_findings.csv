@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Yara Quinn,1,data604.txt,10,Request for confirmation of Yara Quinn's title and manager name for staff calendar update.,benign,benign
+Yara Quinn,2,data604.txt,10,Request for confirmation of whether Yara Quinn is listed with a laptop or desktop in the asset summary for staff calendar update.,benign,benign
+Yara Quinn,3,data604.txt,10,Request for verification of Yara Quinn's internal mail stop for the office services list.,benign,benign
+Yara Quinn,4,data604.txt,10,Request for checking which building and floor are assigned to Yara Quinn in the office map for staff calendar update.,benign,benign

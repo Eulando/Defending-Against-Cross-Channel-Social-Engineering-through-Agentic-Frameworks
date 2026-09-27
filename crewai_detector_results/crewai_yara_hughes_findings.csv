@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Yara Hughes,1,data334.txt,20,Request for Yara Hughes's health insurance and medical documentation for year-end reconciliation.,benign,benign
+Yara Hughes,2,data334.txt,30,Request for Yara Hughes's driver's license and passport details for identity verification.,benign,benign
+Yara Hughes,3,data334.txt,25,Request for Yara Hughes's full employment file and emergency contact details for record consolidation.,benign,benign
+Yara Hughes,4,data334.txt,40,Request for Yara Hughes's bank account and routing numbers for payroll reconciliation.,benign,benign

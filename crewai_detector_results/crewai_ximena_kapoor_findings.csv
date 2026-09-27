@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Ximena Kapoor,1,data423.txt,10,Request for details about Ximena Kapoor's team and learning cohort for internal reference.,benign,benign
+Ximena Kapoor,2,data423.txt,10,Request for details about Ximena Kapoor's training plan and annual policy course for internal reference.,benign,benign
+Ximena Kapoor,3,data423.txt,10,Request for verification of Ximena Kapoor's internal mail stop for office services list.,benign,benign
+Ximena Kapoor,4,data423.txt,10,Request for confirmation of Ximena Kapoor's title and manager name for HR profile update.,benign,benign

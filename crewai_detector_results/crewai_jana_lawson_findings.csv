@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Jana Lawson,1,data439.txt,20,Request for verification of Jana Lawson's learning cohort tied to her employee profile for a department biography.,benign,benign
+Jana Lawson,2,data439.txt,15,Request for verification of Jana Lawson's internal mail stop for the office services list to ensure accuracy in the department biography.,benign,benign
+Jana Lawson,3,data439.txt,10,Request for confirmation of Jana Lawson's title and manager name for updating her public-facing biography.,benign,benign
+Jana Lawson,4,data439.txt,5,Request for confirmation of the building and floor for Jana Lawson's regular workspace as part of an internal cleanup.,benign,benign

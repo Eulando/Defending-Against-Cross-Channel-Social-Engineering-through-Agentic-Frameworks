@@ -1,0 +1,66 @@
+{
+  "victim_name": "Keon Turner",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "The combined requests are standard inquiries for information related to job title, budget project code, work arrangement, and department name. None of these requests indicate malicious intent or a coordinated effort to manipulate or deceive the victim.",
+  "rationale": "All individual scores are below the threshold of 50, and the nature of the requests is benign.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Keon Turner",
+      "findings": [
+        {
+          "filename": "data680.txt",
+          "score": 10,
+          "summary": "Request for confirmation of Keon Turner's current job title and reporting manager for a directory refresh."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a standard request for information regarding job title and reporting manager, which does not indicate malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Keon Turner",
+      "findings": [
+        {
+          "filename": "data680.txt",
+          "score": 15,
+          "summary": "Request for verification of the non-sensitive budget project code tied to Keon Turner's team."
+        }
+      ],
+      "max_score": 15,
+      "channel_verdict": "benign",
+      "rationale": "The email is a standard request for verification of a non-sensitive budget project code, which does not indicate malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Keon Turner",
+      "findings": [
+        {
+          "filename": "data680.txt",
+          "score": 12,
+          "summary": "Request for checking Keon Turner's work arrangement category for the benefits planning list."
+        }
+      ],
+      "max_score": 12,
+      "channel_verdict": "benign",
+      "rationale": "The email is a standard request for information regarding work arrangement, which does not indicate malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Keon Turner",
+      "findings": [
+        {
+          "filename": "data680.txt",
+          "score": 10,
+          "summary": "Request for checking Keon Turner's department and team name in HRIS for the directory sync."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a standard request for information regarding department and team name, which does not indicate malicious intent."
+    }
+  ]
+}

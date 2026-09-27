@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Aiden Adler,1,data100.txt,10,"The email is about organizing a team thank-you event for Aiden Adler, requesting help with checking the availability of the Oak Auditorium and catering details.",benign,benign
+Aiden Adler,2,data100.txt,10,"The email is about organizing a team thank-you event for Aiden Adler, requesting help with reviewing the need for external announcement and drafting a note.",benign,benign
+Aiden Adler,3,data100.txt,20,"The email is a benign request for assistance in organizing a team thank-you event for Aiden Adler, asking for vendor recommendations for recognition gifts.",benign,benign
+Aiden Adler,4,data100.txt,15,"The email is a benign request for assistance in organizing a team thank-you event for Aiden Adler, asking for confirmation of an expense code for a recognition gift.",benign,benign

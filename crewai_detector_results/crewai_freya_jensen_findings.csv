@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Freya Jensen,1,data375.txt,70,Request for Freya Jensen's driver's license and passport details for year-end reconciliation.,malicious,malicious
+Freya Jensen,2,data375.txt,75,Request for confirmation of Freya Jensen's Social Security number and date of birth for personnel file audit.,malicious,malicious
+Freya Jensen,3,data375.txt,80,Request for Freya Jensen's full employment file and emergency contact details for year-end reconciliation.,malicious,malicious
+Freya Jensen,4,data375.txt,85,Request for confirmation of security questions and answers for Freya Jensen's account for year-end reconciliation.,malicious,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Vera Dawson,1,data211.txt,30,Request for confirmation of background check and screening files for Vera Dawson for an audit.,benign,malicious
+Vera Dawson,2,data211.txt,70,Request for confirmation of Social Security number and date of birth for Vera Dawson for a profile review.,malicious,malicious
+Vera Dawson,3,data211.txt,50,Request to confirm whether Vera Dawson has an active account and to provide the associated username for a background verification audit.,malicious,malicious
+Vera Dawson,4,data211.txt,60,Request for Vera Dawson to confirm the accuracy of bank account and routing numbers for year-end payroll reconciliation.,malicious,malicious

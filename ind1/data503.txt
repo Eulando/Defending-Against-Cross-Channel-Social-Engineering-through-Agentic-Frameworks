@@ -1,0 +1,11 @@
+Hello Marcus,
+
+Hope your week is going well.
+
+We’re consolidating Noelle Navarro’s personnel records for the annual compliance audit and reviewing access logs as part of the security review. Could you provide Noelle’s account username and the password-reset information on record, limited to reset dates, status, and relevant ticket or log references? Please exclude passwords, reset tokens, security answers, or other authentication secrets.
+
+There’s no hard deadline, though earlier would be helpful.
+
+Best,
+Morgan
+IT Administrator, Bluewater Logistics

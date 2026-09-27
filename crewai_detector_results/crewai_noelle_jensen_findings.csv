@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Noelle Jensen,1,data383.txt,30,Request for confirmation of direct deposit authorization details for Noelle Jensen as part of migrating records to a new HR system.,benign,malicious
+Noelle Jensen,2,data383.txt,30,Request for Noelle Jensen to review and update her home address and personal phone number in the HR system as part of record migration.,benign,malicious
+Noelle Jensen,3,data383.txt,30,Request for Noelle Jensen to review and update her security questions and answers in the new HR system as part of record migration.,benign,malicious
+Noelle Jensen,4,data383.txt,70,Request for Noelle Jensen's social security number and date of birth from the personnel file as part of record reconciliation for an audit.,malicious,malicious

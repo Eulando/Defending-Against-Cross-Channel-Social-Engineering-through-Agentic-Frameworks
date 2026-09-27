@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bianca Quinn,1,data581.txt,70,The email requests verification of account access details and a password reset for Bianca Quinn's account as part of an insurance renewal audit.,malicious,malicious
+Bianca Quinn,2,data581.txt,80,The email requests personal email address and phone number for Bianca Quinn as part of an insurance renewal process.,malicious,malicious
+Bianca Quinn,3,data581.txt,75,The email requests confirmation of Bianca Quinn's direct deposit information and urges her to review or update her bank account and routing numbers.,malicious,malicious
+Bianca Quinn,4,data581.txt,85,The email requests Bianca Quinn's home address and personal phone number as part of an insurance renewal process.,malicious,malicious

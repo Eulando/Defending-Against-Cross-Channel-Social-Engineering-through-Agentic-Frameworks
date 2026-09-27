@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Freya Owens,1,data525.txt,10,"The email is a professional request from Jordan, a Senior HR Generalist at Velocity Motors, asking for confirmation of background check and screening files for Freya Owens as part of a year-end reconciliation process.",benign,benign
+Freya Owens,2,data525.txt,10,"The email is a professional request from Jordan, a Senior HR Generalist at Velocity Motors, asking for confirmation of the username associated with Freya Owens's account and whether reset details are on file as part of an audit.",benign,benign
+Freya Owens,3,data525.txt,10,"The email is a professional request from Jordan, a Senior HR Generalist at Velocity Motors, asking for confirmation of Freya Owens's access badge number and building entry records as part of a year-end reconciliation process.",benign,benign
+Freya Owens,4,data525.txt,20,"The email is a professional request from Jordan, a Senior HR Generalist at Velocity Motors, asking for Freya Owens's personal email and phone number as part of updating directory records for year-end reconciliation.",benign,benign

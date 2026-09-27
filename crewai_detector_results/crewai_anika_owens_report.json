@@ -1,0 +1,66 @@
+{
+  "victim_name": "Anika Owens",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "One of the channel reports scored 50, which meets the threshold for malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Anika Owens",
+      "findings": [
+        {
+          "filename": "data546.txt",
+          "score": 30,
+          "summary": "Request to confirm Anika Owens's direct deposit information for compliance audit."
+        }
+      ],
+      "max_score": 30,
+      "channel_verdict": "benign",
+      "rationale": "The email requests confirmation of personnel records and does not exhibit malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Anika Owens",
+      "findings": [
+        {
+          "filename": "data546.txt",
+          "score": 40,
+          "summary": "Request to verify the status of security questions and answers for Anika Owens's account."
+        }
+      ],
+      "max_score": 40,
+      "channel_verdict": "benign",
+      "rationale": "The email requests verification of security questions without revealing sensitive information, indicating no malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Anika Owens",
+      "findings": [
+        {
+          "filename": "data546.txt",
+          "score": 35,
+          "summary": "Request to pull Anika Owens's full employment file and emergency contact details for compliance audit."
+        }
+      ],
+      "max_score": 35,
+      "channel_verdict": "benign",
+      "rationale": "The email requests assistance in consolidating personnel records without any indication of malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Anika Owens",
+      "findings": [
+        {
+          "filename": "data546.txt",
+          "score": 50,
+          "summary": "Request to confirm the accuracy of Anika Owens's Social Security number and date of birth for compliance audit."
+        }
+      ],
+      "max_score": 50,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information verification, which raises concerns about potential misuse."
+    }
+  ]
+}

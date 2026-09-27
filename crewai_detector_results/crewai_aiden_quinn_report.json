@@ -1,0 +1,66 @@
+{
+  "victim_name": "Aiden Quinn",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "Multiple emails request sensitive personal and financial information, indicating a coordinated effort to gather data for potential malicious use.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Aiden Quinn",
+      "findings": [
+        {
+          "filename": "data580.txt",
+          "score": 85,
+          "summary": "Request for Aiden Quinn's Social Security number and date of birth for HR system migration."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information, indicating potential malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Aiden Quinn",
+      "findings": [
+        {
+          "filename": "data580.txt",
+          "score": 80,
+          "summary": "Request for Aiden Quinn's employment file and emergency contacts for HR system migration."
+        }
+      ],
+      "max_score": 80,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information, indicating potential malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Aiden Quinn",
+      "findings": [
+        {
+          "filename": "data580.txt",
+          "score": 90,
+          "summary": "Request for Aiden Quinn's bank account and routing numbers for HR system migration."
+        }
+      ],
+      "max_score": 90,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests highly sensitive financial information, indicating potential malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Aiden Quinn",
+      "findings": [
+        {
+          "filename": "data580.txt",
+          "score": 75,
+          "summary": "Request to confirm Aiden Quinn's security questions and answers for account-recovery settings."
+        }
+      ],
+      "max_score": 75,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive information related to account security, indicating potential malicious intent."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Caleb Jensen,1,cannot be found,0,cannot be found,N/A,N/A
+Caleb Jensen,2,data372.txt,10,The email is a request for badge details and entry history for Caleb Jensen as part of an insurance renewal process.,benign,malicious
+Caleb Jensen,3,data372.txt,85,"The email is a request for Caleb Jensen's social security number and date of birth as part of an insurance renewal process, raising concerns about potential identity theft.",malicious,malicious
+Caleb Jensen,4,cannot be found,0,cannot be found,N/A,N/A

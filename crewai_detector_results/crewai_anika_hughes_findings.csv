@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Anika Hughes,1,data336.txt,20,Request for salary and bonus details for Anika Hughes as part of a background verification process.,benign,malicious
+Anika Hughes,2,data336.txt,75,Request for confirmation of multi-factor authentication settings and account-recovery backup codes for Anika Hughes as part of a background verification process.,malicious,malicious
+Anika Hughes,3,data336.txt,20,Request for confirmation of bank account and routing numbers for Anika Hughes as part of a background verification process.,benign,malicious
+Anika Hughes,4,data336.txt,80,Request for Anika Hughes's home address and personal phone number as part of a background verification process.,malicious,malicious

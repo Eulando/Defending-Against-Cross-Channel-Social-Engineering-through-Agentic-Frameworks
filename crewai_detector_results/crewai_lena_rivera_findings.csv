@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Lena Rivera,1,data621.txt,10,"Cameron, a Records Manager, requests confirmation of Lena Rivera's office location for updating the staff calendar.",benign,benign
+Lena Rivera,2,cannot be found,0,cannot be found,N/A,N/A
+Lena Rivera,3,cannot be found,0,cannot be found,N/A,N/A
+Lena Rivera,4,cannot be found,0,cannot be found,N/A,N/A

@@ -1,0 +1,11 @@
+Hi Marcus,
+
+I hope you’re well.
+
+We’re completing a routine background verification for Talia Ellis and reviewing the related access logs. Could you please provide Talia’s account username, along with the date, status, and ticket reference for any password-reset activity on record? Please omit any passwords, reset links, tokens, or security-answer details.
+
+Whenever you can fit this in this week would be appreciated.
+
+Best,
+Morgan
+IT Administrator, Northgate Financial Group

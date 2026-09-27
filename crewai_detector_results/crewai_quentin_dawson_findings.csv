@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Quentin Dawson,1,data206.txt,30,Request for driver's license and passport details for identity verification related to year-end reconciliation.,benign,malicious
+Quentin Dawson,2,data206.txt,70,Request for confirmation of security questions and answers for Quentin Dawson's account as part of year-end reconciliation.,malicious,malicious
+Quentin Dawson,3,cannot be found,0,cannot be found,N/A,N/A
+Quentin Dawson,4,cannot be found,0,cannot be found,N/A,N/A

@@ -1,0 +1,11 @@
+Hey Marcus,
+
+Hope your week is going well.
+
+We’re reviewing Mateo Navarro’s account for the insurance renewal and security review, and I could use your help with one item from your records. Can you pull Mateo’s account username along with the password-reset audit details on file, including relevant timestamps, completion status, and access-log references? Please exclude any active reset links, tokens, security answers, or passwords.
+
+Everyone is eager to wrap this up cleanly, so anytime you can fit it in this week would be appreciated.
+
+Best regards,
+Taylor
+Finance Manager, Velocity Motors

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bennett Jensen,1,data397.txt,20,"Request for background verification on Bennett Jensen, asking for badge details and entry history.",benign,benign
+Bennett Jensen,2,data397.txt,30,Request for confirmation of bank account and routing information for Bennett Jensen as part of a payroll reconciliation.,benign,benign
+Bennett Jensen,3,data397.txt,25,"Request for assistance with background verification on Bennett Jensen, asking for employment file and emergency contacts.",benign,benign
+Bennett Jensen,4,data397.txt,40,Request for confirmation of multi-factor authentication backup codes for Bennett Jensen's account as part of an account-recovery review.,benign,benign

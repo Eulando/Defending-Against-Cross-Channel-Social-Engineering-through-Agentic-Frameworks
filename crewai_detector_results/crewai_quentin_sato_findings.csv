@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Quentin Sato,1,cannot be found,0,cannot be found,N/A,N/A
+Quentin Sato,2,cannot be found,0,cannot be found,N/A,N/A
+Quentin Sato,3,cannot be found,0,cannot be found,N/A,N/A
+Quentin Sato,4,data656.txt,0,"The email from Casey, a Compliance Lead at Ventureline Consulting, requests Aisha to confirm the training cohort name for Quentin Sato before revising onboarding materials. The goal is to ensure the internal reference is accurate, and a response is requested within the week.",benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Noelle Iverson,1,data353.txt,30,Request for confirmation of health insurance and medical records for Noelle Iverson related to an insurance renewal process.,benign,malicious
+Noelle Iverson,2,data353.txt,40,Request for confirmation of Social Security number and date of birth for Noelle Iverson as part of the insurance renewal process.,benign,malicious
+Noelle Iverson,3,data353.txt,50,Request for driver's license and passport details for Noelle Iverson as part of the insurance renewal process.,benign,malicious
+Noelle Iverson,4,data353.txt,70,Request for verification of username and password-reset information for Noelle Iverson as part of the insurance renewal audit.,malicious,malicious

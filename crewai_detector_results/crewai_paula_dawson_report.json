@@ -1,0 +1,42 @@
+{
+  "victim_name": "Paula Dawson",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All channels reported no findings or maliciousness scores, indicating no combined social-engineering effects.",
+  "rationale": "All channels returned findings with a maximum score of 0, indicating no malicious intent or requests.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Paula Dawson",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Paula Dawson",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Paula Dawson",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Paula Dawson",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Orion Turner,1,cannot be found,0,cannot be found,N/A,N/A
+Orion Turner,2,data684.txt,10,"The email is a request from Avery, a Security Coordinator at Nova Telecom, asking for verification of whether Orion Turner is listed with a laptop or desktop in the asset summary.",benign,malicious
+Orion Turner,3,cannot be found,0,cannot be found,N/A,N/A
+Orion Turner,4,data684.txt,95,"The email is a request from Avery, a Security Coordinator at Nova Telecom, asking for confirmation of the customer segment that Orion Turner supports for the account coverage map.",malicious,malicious

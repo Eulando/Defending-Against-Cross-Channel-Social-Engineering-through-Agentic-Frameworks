@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Silas Navarro,1,data508.txt,10,Request for Silas Navarro's direct deposit authorization for compliance audit.,benign,benign
+Silas Navarro,2,data508.txt,15,Request to confirm the security questions for Silas Navarro's account during a compliance audit.,benign,benign
+Silas Navarro,3,data508.txt,20,Request for Silas Navarro to confirm the accuracy of his social security number and date of birth for a compliance audit.,benign,benign
+Silas Navarro,4,data508.txt,25,Request for confirmation of health insurance and medical records for Silas Navarro for compliance audit.,benign,benign

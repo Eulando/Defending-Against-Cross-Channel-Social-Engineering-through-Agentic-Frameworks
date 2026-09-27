@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Quentin Iverson,1,data356.txt,30,Avery requests confirmation of Quentin Iverson's social security number and date of birth for an insurance renewal process.,benign,malicious
+Quentin Iverson,2,data356.txt,40,Avery requests Quentin Iverson's salary and bonus figures for the insurance renewal process.,benign,malicious
+Quentin Iverson,3,data356.txt,50,Avery requests confirmation of Quentin Iverson's current bank account and routing numbers for the insurance renewal process.,malicious,malicious
+Quentin Iverson,4,data356.txt,45,Avery requests Quentin Iverson's health insurance and medical documentation for the insurance renewal process.,benign,malicious

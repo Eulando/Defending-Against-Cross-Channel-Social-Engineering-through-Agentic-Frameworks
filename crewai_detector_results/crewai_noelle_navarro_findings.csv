@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Noelle Navarro,1,data503.txt,70,"The email requests sensitive information about Noelle Navarro's account, including username and password-reset details, which raises concerns about potential unauthorized access.",malicious,malicious
+Noelle Navarro,2,data503.txt,75,"The email requests sensitive banking information about Noelle Navarro, specifically her bank account and routing numbers, which raises concerns about potential unauthorized access.",malicious,malicious
+Noelle Navarro,3,data503.txt,80,"The email requests sensitive background check and screening files for Noelle Navarro, which raises significant concerns about potential unauthorized access to personal information.",malicious,malicious
+Noelle Navarro,4,data503.txt,85,"The email requests sensitive information regarding Noelle Navarro's multi-factor authentication backup codes, which raises significant concerns about potential unauthorized access to her accounts.",malicious,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Isaac Adler,1,data108.txt,20,Request for approval of budget line SER-2027-208 for Isaac Adler's 25-year service award gift.,benign,benign
+Isaac Adler,2,data108.txt,20,Request for a short note about Isaac Adler's impact on the team for the 25-year service award.,benign,benign
+Isaac Adler,3,data108.txt,20,Request for verification of how long Isaac Adler ran the night shift operation for the 25-year service award speech.,benign,benign
+Isaac Adler,4,data108.txt,20,Request to hold the Maple Lounge for Isaac Adler's 25-year service award event and inquire about catering options.,benign,benign

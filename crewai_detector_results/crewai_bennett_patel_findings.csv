@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bennett Patel,1,cannot be found,0,cannot be found,N/A,N/A
+Bennett Patel,2,cannot be found,0,cannot be found,N/A,N/A
+Bennett Patel,3,data577.txt,10,Request for confirmation of multi-factor authentication backup codes and account recovery options for Bennett Patel's account.,benign,benign
+Bennett Patel,4,data577.txt,20,Request for confirmation of Bennett Patel's social security number and date of birth for year-end reconciliation.,benign,benign

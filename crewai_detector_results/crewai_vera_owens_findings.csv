@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Vera Owens,1,data541.txt,30,"The email is a request for confirmation of Vera Owens's username and reset details for an audit, with no malicious intent.",benign,malicious
+Vera Owens,2,data541.txt,40,"The email is a request for Vera Owens's direct deposit authorization for payroll verification, indicating a routine administrative task.",benign,malicious
+Vera Owens,3,data541.txt,35,"The email is a request to verify the account recovery settings for Vera Owens's account, indicating a routine administrative check.",benign,malicious
+Vera Owens,4,data541.txt,50,"The email is a request for Vera Owens's personal email and phone number for updating directory records, which raises concerns about privacy.",malicious,malicious

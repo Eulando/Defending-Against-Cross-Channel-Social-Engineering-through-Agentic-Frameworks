@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Talia Kapoor,1,data419.txt,10,Request for confirmation of collaboration tools used by Talia Kapoor for internal record accuracy.,benign,benign
+Talia Kapoor,2,data419.txt,10,Request for confirmation of the mailing stop used for Talia Kapoor's internal package deliveries.,benign,benign
+Talia Kapoor,3,data419.txt,10,Request for verification of a non-sensitive budget project code tied to Talia Kapoor's team.,benign,benign
+Talia Kapoor,4,data419.txt,10,Request for verification of how Talia Kapoor's name should appear in the employee directory.,benign,benign

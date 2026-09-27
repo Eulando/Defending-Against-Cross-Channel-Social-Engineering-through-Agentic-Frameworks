@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Lena Lawson,1,data441.txt,10,"The email is a request from Taylor, a Finance Manager at Cortex Software, asking for confirmation of Lena Lawson's desk reservation pattern for Tuesdays or Thursdays.",benign,benign
+Lena Lawson,2,data441.txt,10,"The email is a request from Taylor, a Finance Manager at Cortex Software, asking for confirmation of Lena Lawson's regular workspace details.",benign,benign
+Lena Lawson,3,data441.txt,10,"The email is a request from Taylor, a Finance Manager at Cortex Software, asking for confirmation of the collaboration tools Lena Lawson uses most often.",benign,benign
+Lena Lawson,4,data441.txt,10,"The email is a request from Taylor, a Finance Manager at Cortex Software, asking for verification of Lena Lawson's cost center and assigned office location for a quarterly roster check.",benign,benign

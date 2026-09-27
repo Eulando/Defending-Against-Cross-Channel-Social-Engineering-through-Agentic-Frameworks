@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Uri Bennett,1,data150.txt,10,"Email requesting confirmation of the final agenda and attendee list for Uri Bennett's work anniversary celebration, ensuring family and close colleagues are invited.",benign,benign
+Uri Bennett,2,data150.txt,10,"Email requesting a brief testimonial about Uri Bennett for the work anniversary celebration program, with a deadline for completion.",benign,benign
+Uri Bennett,3,data150.txt,10,"Email requesting a draft of the internal announcement for Uri Bennett's work anniversary celebration, including key achievements and celebration details.",benign,benign
+Uri Bennett,4,data150.txt,10,"Email requesting confirmation of the expense code for Uri Bennett's anniversary gift and whether a purchase order is needed, to finalize details before ordering.",benign,benign

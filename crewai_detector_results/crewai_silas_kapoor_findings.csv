@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Silas Kapoor,1,data418.txt,10,Request for confirmation of annual policy course listed for Silas Kapoor's training plan.,benign,benign
+Silas Kapoor,2,data418.txt,10,Request for verification of account segment associated with Silas Kapoor's workstream for internal cleanup.,benign,benign
+Silas Kapoor,3,data418.txt,10,Request for confirmation of Silas Kapoor's preferred name format for the internal staff list.,benign,benign
+Silas Kapoor,4,data418.txt,10,Request for confirmation of cost center and office location listed for Silas Kapoor for internal roster cleanup.,benign,benign

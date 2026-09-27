@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Noelle Adler,1,data113.txt,0,The email is about organizing a team thank-you event for Noelle Adler. It requests budget approval for a recognition gift and asks for a response by the end of the week.,benign,benign
+Noelle Adler,2,data113.txt,10,The email is about organizing a team thank-you event for Noelle Adler. It requests confirmation on an expense code for a recognition gift and whether a purchase order is needed.,benign,benign
+Noelle Adler,3,data113.txt,0,The email is about organizing a team thank-you event for Noelle Adler. It requests a recommendation for a reliable vendor for the recognition gift within the approved budget and mentions delivery lead time as a constraint.,benign,benign
+Noelle Adler,4,cannot be found,0,cannot be found,N/A,N/A

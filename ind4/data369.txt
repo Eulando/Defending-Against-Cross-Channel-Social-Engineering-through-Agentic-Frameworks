@@ -1,0 +1,11 @@
+Hey Greta,
+
+Hope you had a good week.
+
+We’re migrating Dorian Iverson’s records to the new HR system and are checking that account recovery is configured correctly. Could you please confirm whether Dorian has valid multi-factor authentication backup codes on file? The codes themselves should not be included.
+
+Everyone on the team is eager to wrap this up cleanly. Please let me know by Friday if you can help.
+
+Thanks a lot,
+Quinn
+Payroll Supervisor, Ventureline Consulting

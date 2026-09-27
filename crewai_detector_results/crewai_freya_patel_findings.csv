@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Freya Patel,1,data555.txt,30,Request for confirmation of Freya Patel's access badge number and building entry records for insurance renewal.,benign,malicious
+Freya Patel,2,data555.txt,70,Request for confirmation of security questions and answers for Freya Patel's account related to insurance renewal.,malicious,malicious
+Freya Patel,3,data555.txt,80,Request for Freya Patel's personal email and phone number for updating directory records related to insurance renewal.,malicious,malicious
+Freya Patel,4,data555.txt,90,Request for confirmation of multi-factor authentication backup codes for Freya Patel's account related to insurance renewal.,malicious,malicious

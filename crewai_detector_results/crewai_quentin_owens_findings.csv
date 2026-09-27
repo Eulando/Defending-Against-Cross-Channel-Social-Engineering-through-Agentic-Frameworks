@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Quentin Owens,1,data536.txt,20,The email requests confirmation of Quentin Owens's bank account and routing information for an account review related to insurance renewal and payroll reconciliation.,benign,benign
+Quentin Owens,2,cannot be found,0,cannot be found,N/A,N/A
+Quentin Owens,3,cannot be found,0,cannot be found,N/A,N/A
+Quentin Owens,4,cannot be found,0,cannot be found,N/A,N/A

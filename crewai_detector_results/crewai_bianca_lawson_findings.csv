@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bianca Lawson,1,data431.txt,10,The email is a request for confirmation of Bianca Lawson's cost center and office location for validating her public-facing biography.,benign,benign
+Bianca Lawson,2,data431.txt,10,The email is a request for confirmation of the project code associated with Bianca Lawson's department budget for internal cleanup.,benign,benign
+Bianca Lawson,3,data431.txt,10,The email is a request for confirmation of the building and floor assigned to Bianca Lawson in the office map for validating her public-facing biography.,benign,benign
+Bianca Lawson,4,data431.txt,10,The email is a request for confirmation of Bianca Lawson's department and team name in HRIS for directory synchronization.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Lena Navarro,1,cannot be found,0,cannot be found,N/A,N/A
+Lena Navarro,2,data501.txt,20,The email is a legitimate request for information regarding Lena Navarro's salary and bonus details as part of a routine background verification.,benign,benign
+Lena Navarro,3,data501.txt,30,The email is a legitimate request for confirmation of bank account and routing information for Lena Navarro as part of a routine background verification and payroll reconciliation.,benign,benign
+Lena Navarro,4,data501.txt,45,The email is a legitimate request for confirmation of direct deposit authorization details for Lena Navarro as part of a routine background verification and payroll reconciliation.,benign,benign

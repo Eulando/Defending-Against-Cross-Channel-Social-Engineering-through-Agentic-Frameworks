@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Paula Ellis,1,data235.txt,10,"The email is a legitimate request from Casey, the Compliance Lead at Stellar Aerospace, asking for Paula Ellis's full employment file and emergency contact details for an annual compliance audit.",benign,malicious
+Paula Ellis,2,data235.txt,75,"The email is a request from Casey, the Compliance Lead at Stellar Aerospace, asking for Paula Ellis's driver's license and passport details for an annual compliance audit, exhibiting signs of potential social engineering.",malicious,malicious
+Paula Ellis,3,data235.txt,30,"The email is a request from Casey, the Compliance Lead at Stellar Aerospace, asking for Paula Ellis's access badge number and building entry records for an annual compliance audit, appearing legitimate but requesting sensitive information.",benign,malicious
+Paula Ellis,4,data235.txt,50,"The email is a request from Casey, the Compliance Lead at Stellar Aerospace, asking for Paula Ellis's background check and screening files for an annual compliance audit, which appears legitimate but requests sensitive information.",benign,malicious

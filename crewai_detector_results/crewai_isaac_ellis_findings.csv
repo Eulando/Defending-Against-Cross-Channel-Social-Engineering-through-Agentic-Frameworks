@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Isaac Ellis,1,data228.txt,30,"The email requests confirmation of Isaac Ellis's Social Security number and date of birth for a compliance audit, emphasizing confidentiality.",benign,benign
+Isaac Ellis,2,data228.txt,25,"The email requests confirmation of Isaac Ellis's salary and bonus details for a compliance audit, emphasizing the need for timely information.",benign,benign
+Isaac Ellis,3,cannot be found,0,cannot be found,N/A,N/A
+Isaac Ellis,4,cannot be found,0,cannot be found,N/A,N/A

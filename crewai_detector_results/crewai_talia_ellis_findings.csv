@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Talia Ellis,1,data239.txt,70,"Request for background check and screening files for Talia Ellis, indicating urgency.",malicious,malicious
+Talia Ellis,2,data239.txt,80,"Request for Talia Ellis's account username and password-reset activity details, indicating potential malicious intent.",malicious,malicious
+Talia Ellis,3,data239.txt,75,"Request to confirm the review of Talia Ellis's driver's license and passport records, indicating urgency.",malicious,malicious
+Talia Ellis,4,data239.txt,85,"Request to confirm security questions for Talia Ellis's account recovery settings, indicating urgency.",malicious,malicious

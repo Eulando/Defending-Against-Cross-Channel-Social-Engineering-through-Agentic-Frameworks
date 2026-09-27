@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Rina Owens,1,data537.txt,30,Request for confirmation of Rina Owens's access badge number and building entry records for a compliance audit.,benign,malicious
+Rina Owens,2,data537.txt,40,Request for Rina Owens's driver's license and passport details for identity verification as part of a compliance audit.,benign,malicious
+Rina Owens,3,data537.txt,50,Request for Rina Owens to review and confirm her bank account and routing information for payroll accuracy as part of a compliance audit.,malicious,malicious
+Rina Owens,4,data537.txt,45,Request for confirmation of Rina Owens's username and whether current reset details are on file for account-access review.,benign,malicious

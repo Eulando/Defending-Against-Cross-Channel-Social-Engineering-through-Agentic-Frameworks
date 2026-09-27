@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Yara Patel,1,data574.txt,10,"The email is a routine background verification request for Yara Patel, asking for confirmation of an account-recovery verification step without sharing security questions or answers.",benign,malicious
+Yara Patel,2,data574.txt,10,"The email is a routine background verification request for Yara Patel, asking for badge details and entry history without any indication of malicious intent.",benign,malicious
+Yara Patel,3,data574.txt,60,"The email is a routine background verification request for Yara Patel, asking for bank account and routing numbers for payroll reconciliation. The request for sensitive financial information raises concerns.",malicious,malicious
+Yara Patel,4,data574.txt,50,"The email is a routine background verification request for Yara Patel, asking for background check and screening files. The request for sensitive information could raise concerns.",malicious,malicious

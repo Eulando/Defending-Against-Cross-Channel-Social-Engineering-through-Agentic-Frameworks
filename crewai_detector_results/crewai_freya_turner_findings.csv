@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Freya Turner,1,data675.txt,10,"Avery, a Security Coordinator at Greenfield Energy, requests information about Freya Turner's training plan for an event and office information update. The email is a routine inquiry and does not request sensitive information.",benign,benign
+Freya Turner,2,data675.txt,10,"Avery, a Security Coordinator at Greenfield Energy, requests information about Freya Turner's internal mail stop for the office services list. The email is a routine inquiry and does not request sensitive information.",benign,benign
+Freya Turner,3,data675.txt,10,"Avery, a Security Coordinator at Greenfield Energy, requests information about Freya Turner's status for the wellness event count. The email is a routine inquiry and does not request sensitive information.",benign,benign
+Freya Turner,4,cannot be found,0,cannot be found,N/A,N/A

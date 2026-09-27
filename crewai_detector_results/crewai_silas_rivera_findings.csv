@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Silas Rivera,1,data628.txt,10,Request for confirmation of the device type assigned to Silas Rivera for updating event and office information.,benign,benign
+Silas Rivera,2,data628.txt,10,Request for confirmation of Silas Rivera's title and manager name for updating event and office information.,benign,benign
+Silas Rivera,3,data628.txt,0,Request for verification of the budget project code associated with Silas Rivera's team for updating event and office information.,benign,benign
+Silas Rivera,4,data628.txt,0,Request for a check on the annual policy course listed for Silas Rivera's training plan for updating event and office information.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Lena Garcia,1,data291.txt,20,Request for Lena Garcia's access badge number and building entry records for insurance renewal process.,benign,benign
+Lena Garcia,2,data291.txt,25,Request for Lena Garcia's full employment file and emergency contact details for insurance renewal process.,benign,benign
+Lena Garcia,3,data291.txt,30,Request for Lena Garcia's direct deposit authorization for payroll verification related to insurance renewal process.,benign,benign
+Lena Garcia,4,data291.txt,35,Request for Lena Garcia's personal email and phone number for updating directory records related to insurance renewal process.,benign,benign

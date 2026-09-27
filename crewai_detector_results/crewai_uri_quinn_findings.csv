@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Uri Quinn,1,data600.txt,10,"Avery, a Security Coordinator at Greenfield Energy, is validating Uri Quinn's public-facing biography and requests confirmation of the customer segment Uri Quinn supports for the account coverage map.",benign,benign
+Uri Quinn,2,data600.txt,10,"Avery, a Security Coordinator at Greenfield Energy, is validating Uri Quinn's public-facing biography and requests confirmation of which learning cohort is tied to Uri Quinn's employee profile.",benign,benign
+Uri Quinn,3,data600.txt,10,"Avery, a Security Coordinator at Greenfield Energy, is validating Uri Quinn's public-facing biography and requests confirmation of Uri Quinn's work arrangement category for the benefits planning list.",benign,benign
+Uri Quinn,4,data600.txt,10,"Avery, a Security Coordinator at Greenfield Energy, is validating Uri Quinn's public-facing biography and requests confirmation of the collaboration tools Uri Quinn uses most often for the support page.",benign,benign

@@ -1,0 +1,48 @@
+{
+  "victim_name": "Isaac Turner",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All channel reports indicate benign findings. The only email found was a routine request for information regarding Isaac Turner's asset summary, which does not suggest any malicious intent. The other channels reported no findings.",
+  "rationale": "The evidence from all channels does not indicate any malicious activity. The single email found was a standard request for information.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Isaac Turner",
+      "findings": [
+        {
+          "filename": "data678.txt",
+          "score": 10,
+          "summary": "Request for an update on Isaac Turner's asset summary, specifically whether he is listed with a laptop or desktop."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information and does not indicate any malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Isaac Turner",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Isaac Turner",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Isaac Turner",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Wesley Iverson,1,data362.txt,70,"The email requests Wesley Iverson's personal email and phone number for an insurance renewal process, indicating potential phishing behavior.",malicious,malicious
+Wesley Iverson,2,data362.txt,75,"The email requests Wesley Iverson's direct deposit authorization for payroll verification, indicating potential phishing behavior.",malicious,malicious
+Wesley Iverson,3,data362.txt,95,"The email requests Wesley Iverson's Social Security number and date of birth for audit reconciliation, indicating high potential for phishing behavior.",malicious,malicious
+Wesley Iverson,4,data362.txt,80,"The email requests Wesley Iverson's bank account and routing numbers for payroll reconciliation, indicating potential phishing behavior.",malicious,malicious

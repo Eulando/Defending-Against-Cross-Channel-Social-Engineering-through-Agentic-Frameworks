@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Aiden Carver,1,data160.txt,20,Email requesting confirmation of Aiden Carver's start date and managed areas for a team thank-you event.,benign,benign
+Aiden Carver,2,data160.txt,20,Email requesting a recommendation for a vendor for Aiden Carver's team thank-you event gift.,benign,benign
+Aiden Carver,3,data160.txt,20,Email requesting training and certifications completed by Aiden Carver for a team thank-you event.,benign,benign
+Aiden Carver,4,data160.txt,20,Email requesting help drafting a public announcement for Aiden Carver's team thank-you event.,benign,benign

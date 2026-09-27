@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Quentin Jensen,1,data386.txt,30,Request for confirmation of multi-factor authentication and account-recovery method for Quentin Jensen's account.,benign,malicious
+Quentin Jensen,2,data386.txt,70,"Request for Quentin Jensen's background check and screening files, marked as a priority.",malicious,malicious
+Quentin Jensen,3,data386.txt,50,Request for confirmation of Quentin Jensen's direct deposit information without sharing sensitive bank details.,benign,malicious
+Quentin Jensen,4,data386.txt,80,"Request for Quentin Jensen's full employment file and emergency contact details, indicating urgency.",malicious,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Isaac Turner,1,data678.txt,10,"Request for an update on Isaac Turner's asset summary, specifically whether he is listed with a laptop or desktop.",benign,benign
+Isaac Turner,2,cannot be found,0,cannot be found,N/A,N/A
+Isaac Turner,3,cannot be found,0,cannot be found,N/A,N/A
+Isaac Turner,4,cannot be found,0,cannot be found,N/A,N/A

@@ -1,0 +1,66 @@
+{
+  "victim_name": "Celine Foster",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "The presence of multiple requests for sensitive personal information, including banking details and social security number, indicates a malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Celine Foster",
+      "findings": [
+        {
+          "filename": "data278.txt",
+          "score": 30,
+          "summary": "Request for confirmation of Celine Foster's salary and bonus details for insurance renewal process."
+        }
+      ],
+      "max_score": 30,
+      "channel_verdict": "benign",
+      "rationale": "The email is a standard request for information related to salary and bonus details, with no malicious intent evident."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Celine Foster",
+      "findings": [
+        {
+          "filename": "data278.txt",
+          "score": 40,
+          "summary": "Request for confirmation of Celine Foster's home address and personal phone number for updating contact records."
+        }
+      ],
+      "max_score": 40,
+      "channel_verdict": "benign",
+      "rationale": "The email is a standard request for personal information related to contact records, with no malicious intent evident."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Celine Foster",
+      "findings": [
+        {
+          "filename": "data278.txt",
+          "score": 70,
+          "summary": "Request for Celine Foster's bank account and routing numbers for verifying direct deposit details."
+        }
+      ],
+      "max_score": 70,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive banking information, which raises concerns about potential malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Celine Foster",
+      "findings": [
+        {
+          "filename": "data278.txt",
+          "score": 90,
+          "summary": "Request for confirmation of Celine Foster's social security number and date of birth for updating her profile."
+        }
+      ],
+      "max_score": 90,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests highly sensitive personal information, which raises significant concerns about potential malicious intent."
+    }
+  ]
+}

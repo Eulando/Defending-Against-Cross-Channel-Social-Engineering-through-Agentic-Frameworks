@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bennett Rivera,1,cannot be found,0,cannot be found,N/A,N/A
+Bennett Rivera,2,data637.txt,10,"The email is a request from Morgan, an IT Administrator at Velocity Motors, asking for confirmation of the mailing stop for Bennett Rivera's internal package deliveries as part of a quarterly directory update.",benign,benign
+Bennett Rivera,3,data637.txt,10,"The email is a request from Morgan, an IT Administrator at Velocity Motors, asking for confirmation of the annual policy course listed for Bennett Rivera's training plan as part of a quarterly directory update.",benign,benign
+Bennett Rivera,4,data637.txt,10,"The email is a request from Morgan, an IT Administrator at Velocity Motors, asking for confirmation of the collaboration tools used by Bennett Rivera for a quarterly directory update.",benign,benign

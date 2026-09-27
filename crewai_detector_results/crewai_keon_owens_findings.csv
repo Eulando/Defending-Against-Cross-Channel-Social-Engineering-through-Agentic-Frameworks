@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Keon Owens,1,data530.txt,30,"Email regarding the review of Keon Owens's account for insurance renewal, requesting confirmation of validated security questions.",benign,benign
+Keon Owens,2,data530.txt,35,"Email regarding the review of Keon Owens's account for insurance renewal, requesting verification of multi-factor authentication recovery without sending backup codes.",benign,benign
+Keon Owens,3,data530.txt,40,"Email regarding the review of Keon Owens's account for insurance renewal, requesting confirmation of username and reset information.",benign,benign
+Keon Owens,4,data530.txt,45,"Email regarding the review of Keon Owens's account for insurance renewal, requesting confirmation of background check and screening files.",benign,benign

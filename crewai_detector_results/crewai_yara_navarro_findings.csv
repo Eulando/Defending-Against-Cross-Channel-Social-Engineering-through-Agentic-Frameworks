@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Yara Navarro,1,data514.txt,60,Request for Yara Navarro's bank account and routing numbers for payroll reconciliation.,malicious,malicious
+Yara Navarro,2,data514.txt,50,Request for Yara Navarro to confirm or update her home address and personal phone number for insurance renewal.,benign,malicious
+Yara Navarro,3,data514.txt,80,Request for Yara Navarro's Social Security number and date of birth for account profile update.,malicious,malicious
+Yara Navarro,4,data514.txt,70,Request for Yara Navarro's employment file and emergency contacts for insurance renewal.,malicious,malicious

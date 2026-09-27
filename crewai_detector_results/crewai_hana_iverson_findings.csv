@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Hana Iverson,1,data347.txt,30,"Avery, a Security Coordinator at Cortex Software, requests Hana Iverson's home address and personal phone number for year-end reconciliation. The email is polite and lacks immediate pressure.",benign,benign
+Hana Iverson,2,cannot be found,0,cannot be found,N/A,N/A
+Hana Iverson,3,cannot be found,0,cannot be found,N/A,N/A
+Hana Iverson,4,cannot be found,0,cannot be found,N/A,N/A

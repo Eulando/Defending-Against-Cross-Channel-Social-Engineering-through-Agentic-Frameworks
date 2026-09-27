@@ -1,0 +1,66 @@
+{
+  "victim_name": "Paula Morris",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "The combined requests are routine inquiries for information related to Paula Morris's office and event details, budget project codes, assigned tools, and name format. None of these requests indicate malicious intent or social-engineering tactics.",
+  "rationale": "All individual scores are below the threshold, and the nature of the requests does not suggest any malicious activity.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Paula Morris",
+      "findings": [
+        {
+          "filename": "data475.txt",
+          "score": 10,
+          "summary": "Request for desk booking days for Paula Morris's event and office information update."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding desk booking days, indicating no malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Paula Morris",
+      "findings": [
+        {
+          "filename": "data475.txt",
+          "score": 15,
+          "summary": "Request to verify the non-sensitive budget project code tied to Paula Morris's team for updating event and office information."
+        }
+      ],
+      "max_score": 15,
+      "channel_verdict": "benign",
+      "rationale": "The email is a standard request for verification of budget information, indicating no malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Paula Morris",
+      "findings": [
+        {
+          "filename": "data475.txt",
+          "score": 12,
+          "summary": "Request to check which standard chat and ticketing tools are assigned to Paula Morris for the support matrix as part of an internal cleanup."
+        }
+      ],
+      "max_score": 12,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for information regarding tools assigned to Paula Morris, indicating no malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Paula Morris",
+      "findings": [
+        {
+          "filename": "data475.txt",
+          "score": 8,
+          "summary": "Request to confirm Paula Morris's preferred name format for the internal staff list as part of an internal cleanup."
+        }
+      ],
+      "max_score": 8,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request for confirmation of name format, indicating no malicious intent."
+    }
+  ]
+}

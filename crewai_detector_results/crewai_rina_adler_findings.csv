@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Rina Adler,1,data117.txt,10,"Email regarding Rina Adler's onboarding welcome, requesting help with details and reviewing the invite list and agenda.",benign,benign
+Rina Adler,2,data117.txt,10,"Email regarding Rina Adler's onboarding welcome, requesting help with drafting a public announcement for approval.",benign,benign
+Rina Adler,3,data117.txt,10,"Email regarding Rina Adler's onboarding welcome, requesting a quote about her impact on the team for the onboarding welcome.",benign,benign
+Rina Adler,4,data117.txt,10,"Email regarding Rina Adler's onboarding welcome, requesting a short internal post about her achievements and event logistics.",benign,benign

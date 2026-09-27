@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Dorian Dawson,1,data219.txt,20,"The email is a request from Quinn, a Payroll Supervisor at Cortex Software, asking for confirmation of personal email and phone records for Dorian Dawson as part of a migration to a new HR system.",benign,benign
+Dorian Dawson,2,data219.txt,25,"The email is a request from Quinn, a Payroll Supervisor at Cortex Software, asking for Dorian Dawson's background check and screening files as part of a migration to a new HR system.",benign,benign
+Dorian Dawson,3,data219.txt,10,"The email is a request from Quinn, a Payroll Supervisor at Cortex Software, asking for verification of identity-document entries for Dorian Dawson as part of a migration to a new HR system.",benign,benign
+Dorian Dawson,4,data219.txt,30,"The email is a request from Quinn, a Payroll Supervisor at Cortex Software, asking for coordination with Dorian Dawson to ensure bank account and routing numbers are current as part of a year-end payroll reconciliation.",benign,benign

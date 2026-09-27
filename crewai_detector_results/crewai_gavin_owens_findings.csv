@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Gavin Owens,1,data526.txt,20,"Request for immediate confirmation of background check and screening files for Gavin Owens, framed as a routine verification process.",benign,benign
+Gavin Owens,2,cannot be found,0,cannot be found,N/A,N/A
+Gavin Owens,3,cannot be found,0,cannot be found,N/A,N/A
+Gavin Owens,4,cannot be found,0,cannot be found,N/A,N/A

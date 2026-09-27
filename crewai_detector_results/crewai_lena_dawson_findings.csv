@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Lena Dawson,1,data201.txt,10,"Avery, a Security Coordinator, requests Lena Dawson's health insurance and medical documentation for HR record migration.",benign,benign
+Lena Dawson,2,data201.txt,0,"Avery, a Security Coordinator, requests Lena Dawson to review and update her direct deposit information for HR record migration.",benign,benign
+Lena Dawson,3,data201.txt,10,"Avery, a Security Coordinator, requests confirmation of Lena Dawson's Social Security number and date of birth for personnel file reconciliation.",benign,benign
+Lena Dawson,4,data201.txt,0,"Avery, a Security Coordinator, requests confirmation of Lena Dawson's direct deposit authorization details for payroll account reconciliation.",benign,benign

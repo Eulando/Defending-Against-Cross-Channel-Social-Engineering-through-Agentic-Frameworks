@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Lena Iverson,1,data351.txt,30,"The email is a follow-up regarding a routine background verification for Lena Iverson, requesting confirmation of her Social Security number and date of birth without asking for the actual values.",benign,malicious
+Lena Iverson,2,data351.txt,70,"The email requests Lena Iverson's home address and personal phone number for a routine background verification, which raises concerns about the sensitivity of the information being requested.",malicious,malicious
+Lena Iverson,3,data351.txt,50,"The email requests confirmation of Lena Iverson's direct deposit information, which is sensitive financial information, raising concerns about the legitimacy of the request.",malicious,malicious
+Lena Iverson,4,data351.txt,80,"The email requests Lena Iverson's salary and bonus figures, which are sensitive financial details, raising significant concerns about the legitimacy of the request.",malicious,malicious

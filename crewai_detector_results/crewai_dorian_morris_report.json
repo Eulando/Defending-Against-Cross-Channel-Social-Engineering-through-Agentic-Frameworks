@@ -1,0 +1,66 @@
+{
+  "victim_name": "Dorian Morris",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All requests are routine and do not indicate any malicious intent. They involve confirming non-sensitive information related to Dorian Morris's work, which does not suggest any social-engineering tactics.",
+  "rationale": "Each channel report indicates benign content with no scores reaching the threshold of 50. The combined requests do not exhibit malicious social-engineering effects.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Dorian Morris",
+      "findings": [
+        {
+          "filename": "data489.txt",
+          "score": 10,
+          "summary": "Email from HR requesting confirmation of collaboration tools used by Dorian Morris for updating event information. No sensitive information requested."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email content is routine and does not indicate any malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Dorian Morris",
+      "findings": [
+        {
+          "filename": "data489.txt",
+          "score": 10,
+          "summary": "Email from HR requesting confirmation of the learning cohort tied to Dorian Morris's employee profile for updating event information. No sensitive information requested."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email content is routine and does not indicate any malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Dorian Morris",
+      "findings": [
+        {
+          "filename": "data489.txt",
+          "score": 10,
+          "summary": "Email from HR requesting confirmation of the customer segment supported by Dorian Morris for the account coverage map as part of an internal cleanup. No sensitive information requested."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email content is routine and does not indicate any malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Dorian Morris",
+      "findings": [
+        {
+          "filename": "data489.txt",
+          "score": 10,
+          "summary": "Email from HR requesting verification of the non-sensitive budget project code tied to Dorian Morris's team for updating event information. No sensitive information requested."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email content is routine and does not indicate any malicious intent."
+    }
+  ]
+}

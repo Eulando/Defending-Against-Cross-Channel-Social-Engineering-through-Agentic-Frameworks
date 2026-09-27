@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Wesley Owens,1,data542.txt,75,Request for Wesley Owens's home address and personal phone number for personnel records update.,malicious,malicious
+Wesley Owens,2,data542.txt,60,Request for confirmation of background check and screening files for Wesley Owens for an audit.,malicious,malicious
+Wesley Owens,3,data542.txt,70,Request for confirmation of multi-factor authentication backup codes and account recovery options for Wesley Owens.,malicious,malicious
+Wesley Owens,4,data542.txt,80,"Request for confirmation of the completeness and currency of Wesley Owens's identity documentation, including driver's license and passport records.",malicious,malicious

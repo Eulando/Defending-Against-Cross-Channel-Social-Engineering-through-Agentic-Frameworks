@@ -1,0 +1,66 @@
+{
+  "victim_name": "Zane Garcia",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "One of the channel reports indicated a score of 70, which is above the threshold of 50, leading to a final verdict of malicious.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Zane Garcia",
+      "findings": [
+        {
+          "filename": "data305.txt",
+          "score": 30,
+          "summary": "Request for Zane Garcia's badge details and entry history for HR system migration."
+        }
+      ],
+      "max_score": 30,
+      "channel_verdict": "benign",
+      "rationale": "The email requests information for a legitimate HR process and does not exhibit malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Zane Garcia",
+      "findings": [
+        {
+          "filename": "data305.txt",
+          "score": 30,
+          "summary": "Request for Zane Garcia's account username and password reset details for HR system migration."
+        }
+      ],
+      "max_score": 30,
+      "channel_verdict": "benign",
+      "rationale": "The email requests information for a legitimate HR process and does not exhibit malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Zane Garcia",
+      "findings": [
+        {
+          "filename": "data305.txt",
+          "score": 70,
+          "summary": "Request for Zane Garcia's Social Security number and date of birth for HR system migration audit."
+        }
+      ],
+      "max_score": 70,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information, which raises concerns about potential misuse and indicates malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Zane Garcia",
+      "findings": [
+        {
+          "filename": "data305.txt",
+          "score": 30,
+          "summary": "Request for Zane Garcia's direct deposit authorization for HR system migration."
+        }
+      ],
+      "max_score": 30,
+      "channel_verdict": "benign",
+      "rationale": "The email requests information for a legitimate HR process and does not exhibit malicious intent."
+    }
+  ]
+}

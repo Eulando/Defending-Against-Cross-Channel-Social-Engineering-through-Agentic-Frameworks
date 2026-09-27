@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Zane Jensen,1,data395.txt,20,Request for Zane Jensen's full employment file and emergency contact details for insurance renewal process.,benign,malicious
+Zane Jensen,2,data395.txt,60,Request for Zane Jensen to confirm or update his Social Security number and date of birth for insurance renewal and personnel record reconciliation.,malicious,malicious
+Zane Jensen,3,data395.txt,50,Request for confirmation of Zane Jensen's username and account recovery details for insurance renewal audit.,malicious,malicious
+Zane Jensen,4,data395.txt,40,Request for confirmation of Zane Jensen's personal email and phone records for directory updates related to insurance renewal.,benign,malicious

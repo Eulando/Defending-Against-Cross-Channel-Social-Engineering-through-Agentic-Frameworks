@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Orion Iverson,1,data354.txt,20,"The email is a professional request from Jordan, a Senior HR Generalist at Brightline Media, asking for confirmation of Orion Iverson's access badge number and building entry records for an annual compliance audit.",benign,benign
+Orion Iverson,2,cannot be found,0,cannot be found,N/A,N/A
+Orion Iverson,3,data354.txt,20,"The email is a professional request from Jordan, a Senior HR Generalist at Brightline Media, asking for confirmation of Orion Iverson's access badge number and building entry records for an annual compliance audit.",benign,benign
+Orion Iverson,4,cannot be found,0,cannot be found,N/A,N/A

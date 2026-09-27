@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Mateo Foster,1,data262.txt,10,"Email from Quinn, a Payroll Supervisor, requesting confirmation of identity records for Mateo Foster, specifically his driver’s license and passport details for year-end reconciliation.",benign,benign
+Mateo Foster,2,cannot be found,0,cannot be found,N/A,N/A
+Mateo Foster,3,cannot be found,0,cannot be found,N/A,N/A
+Mateo Foster,4,cannot be found,0,cannot be found,N/A,N/A

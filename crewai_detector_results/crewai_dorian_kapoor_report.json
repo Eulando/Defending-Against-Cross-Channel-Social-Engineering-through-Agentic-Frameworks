@@ -1,0 +1,66 @@
+{
+  "victim_name": "Dorian Kapoor",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All requests are for benign information related to Dorian Kapoor's office details, with no indication of malicious intent. The combined requests do not suggest any harmful social-engineering effects.",
+  "rationale": "Each channel report indicates a polite request for information that is standard in an office environment, with no urgency or sensitive data involved.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Dorian Kapoor",
+      "findings": [
+        {
+          "filename": "data429.txt",
+          "score": 10,
+          "summary": "Request for Dorian Kapoor's office location details for updating an event calendar."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a polite request for information and does not indicate any malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Dorian Kapoor",
+      "findings": [
+        {
+          "filename": "data429.txt",
+          "score": 10,
+          "summary": "Request for confirmation of Dorian Kapoor's cost center and office location for internal roster cleanup."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a polite request for information related to internal records and does not indicate any malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Dorian Kapoor",
+      "findings": [
+        {
+          "filename": "data429.txt",
+          "score": 10,
+          "summary": "Request for confirmation of whether Dorian Kapoor is listed with a laptop or desktop in the asset summary for updating office information."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a polite request for information regarding office assets and does not indicate any malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Dorian Kapoor",
+      "findings": [
+        {
+          "filename": "data429.txt",
+          "score": 10,
+          "summary": "Request for confirmation of the training cohort name listed for Dorian Kapoor as part of updating office information."
+        }
+      ],
+      "max_score": 10,
+      "channel_verdict": "benign",
+      "rationale": "The email is a polite request for information regarding training details and does not indicate any malicious intent."
+    }
+  ]
+}

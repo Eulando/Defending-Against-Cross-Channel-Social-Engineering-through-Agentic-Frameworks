@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Keon Quinn,1,data590.txt,20,Request for confirmation of current direct deposit details for Keon Quinn as part of a routine background verification.,benign,malicious
+Keon Quinn,2,data590.txt,75,"Request for Keon Quinn's personal email and phone number as part of a routine background verification, marked as a priority.",malicious,malicious
+Keon Quinn,3,data590.txt,60,"Request for confirmation of Keon Quinn's salary and bonus details as part of a routine background verification, with a deadline for response.",malicious,malicious
+Keon Quinn,4,data590.txt,80,"Request for confirmation of Keon Quinn's Social Security number and date of birth as part of a routine background verification, marked as a priority.",malicious,malicious

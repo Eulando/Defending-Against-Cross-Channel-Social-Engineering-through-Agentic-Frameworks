@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Aiden Rivera,1,data610.txt,10,Request for confirmation on whether Aiden Rivera is listed with a laptop or desktop in the asset summary.,benign,benign
+Aiden Rivera,2,data610.txt,10,Request for confirmation on which annual policy course Aiden Rivera is scheduled to complete.,benign,benign
+Aiden Rivera,3,data610.txt,10,Request for verification on how Aiden Rivera's name should appear in the employee directory.,benign,benign
+Aiden Rivera,4,data610.txt,10,Request for verification of the non-sensitive budget project code tied to Aiden Rivera's team.,benign,benign

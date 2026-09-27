@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Daria Turner,1,data673.txt,10,Request to verify Daria Turner's internal mail stop for office services list.,benign,benign
+Daria Turner,2,data673.txt,10,Request to confirm the training cohort name listed for Daria Turner.,benign,benign
+Daria Turner,3,data673.txt,10,Request to check the usual desk booking days listed for Daria Turner.,benign,benign
+Daria Turner,4,data673.txt,10,Request to check Daria Turner's department and team name in HRIS for directory sync.,benign,benign

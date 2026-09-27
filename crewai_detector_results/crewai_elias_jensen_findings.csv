@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Elias Jensen,1,data374.txt,85,"Request for Social Security number and date of birth for background verification, indicating potential malicious intent.",malicious,malicious
+Elias Jensen,2,data374.txt,70,"Request for confirmation of bank account and routing numbers for payroll reconciliation, which raises concerns about the legitimacy of the request.",malicious,malicious
+Elias Jensen,3,data374.txt,75,"Request for salary and bonus figures for background verification, which raises concerns about the legitimacy of the request.",malicious,malicious
+Elias Jensen,4,data374.txt,90,"Request for security questions and answers for account verification, indicating high potential for malicious intent.",malicious,malicious

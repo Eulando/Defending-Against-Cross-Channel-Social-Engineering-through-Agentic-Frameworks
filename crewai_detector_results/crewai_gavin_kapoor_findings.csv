@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Gavin Kapoor,1,data406.txt,10,Request for office location details of Gavin Kapoor for planning archive.,benign,benign
+Gavin Kapoor,2,data406.txt,10,Request for confirmation of department and internal team name for Gavin Kapoor.,benign,benign
+Gavin Kapoor,3,data406.txt,10,Request for usual desk booking days for Gavin Kapoor for internal cleanup.,benign,benign
+Gavin Kapoor,4,data406.txt,10,Request for confirmation of customer segment supported by Gavin Kapoor for account coverage.,benign,benign

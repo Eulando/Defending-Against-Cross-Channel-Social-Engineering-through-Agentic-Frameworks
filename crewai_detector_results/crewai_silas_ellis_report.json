@@ -1,0 +1,66 @@
+{
+  "victim_name": "Silas Ellis",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "All channels reported malicious intent with scores above the threshold, indicating a high likelihood of social engineering attempts targeting Silas Ellis.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Silas Ellis",
+      "findings": [
+        {
+          "filename": "data238.txt",
+          "score": 75,
+          "summary": "The email requests Silas Ellis's account username and details about the most recent password reset, which raises concerns about potential phishing or unauthorized access."
+        }
+      ],
+      "max_score": 75,
+      "channel_verdict": "malicious",
+      "rationale": "The email's request for sensitive information indicates a high likelihood of malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Silas Ellis",
+      "findings": [
+        {
+          "filename": "data238.txt",
+          "score": 85,
+          "summary": "The email requests Silas Ellis's direct deposit authorization details, which raises concerns about potential phishing or unauthorized access."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email's request for sensitive information indicates a high likelihood of malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Silas Ellis",
+      "findings": [
+        {
+          "filename": "data238.txt",
+          "score": 80,
+          "summary": "The email requests Silas Ellis's access badge number and building entry records, which raises concerns about potential phishing or unauthorized access."
+        }
+      ],
+      "max_score": 80,
+      "channel_verdict": "malicious",
+      "rationale": "The email's request for sensitive information indicates a high likelihood of malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Silas Ellis",
+      "findings": [
+        {
+          "filename": "data238.txt",
+          "score": 90,
+          "summary": "The email requests Silas Ellis's salary and bonus details, which raises concerns about potential phishing or unauthorized access."
+        }
+      ],
+      "max_score": 90,
+      "channel_verdict": "malicious",
+      "rationale": "The email's request for sensitive information indicates a high likelihood of malicious intent."
+    }
+  ]
+}

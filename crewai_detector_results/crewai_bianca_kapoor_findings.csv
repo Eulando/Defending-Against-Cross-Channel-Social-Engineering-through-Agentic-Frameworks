@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bianca Kapoor,1,data401.txt,10,Avery is requesting verification of the account segment associated with Bianca Kapoor's workstream for updating event and office information.,benign,benign
+Bianca Kapoor,2,data401.txt,10,Avery is requesting verification of the learning cohort associated with Bianca Kapoor's employee profile for updating event and office information.,benign,benign
+Bianca Kapoor,3,data401.txt,10,Avery is requesting verification of the standard chat and ticketing tools assigned to Bianca Kapoor for the support matrix.,benign,benign
+Bianca Kapoor,4,data401.txt,10,Avery is requesting verification of the usual desk booking days listed for Bianca Kapoor for updating event and office information.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Yara Kapoor,1,cannot be found,0,cannot be found,N/A,N/A
+Yara Kapoor,2,cannot be found,0,cannot be found,N/A,N/A
+Yara Kapoor,3,cannot be found,0,cannot be found,N/A,N/A
+Yara Kapoor,4,data424.txt,10,Request for confirmation of Yara Kapoor's department and team name in HRIS for directory synchronization.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Wesley Dawson,1,data212.txt,85,"The email is from Casey, Compliance Lead at Velocity Motors, requesting driver's license and passport details for Wesley Dawson as part of an insurance renewal process.",malicious,malicious
+Wesley Dawson,2,data212.txt,90,"The email is from Casey, Compliance Lead at Velocity Motors, requesting confirmation of security questions and answers for Wesley Dawson's account as part of an insurance renewal process.",malicious,malicious
+Wesley Dawson,3,data212.txt,88,"The email is from Casey, Compliance Lead at Velocity Motors, requesting confirmation of direct deposit authorization details for Wesley Dawson's account as part of an insurance renewal process.",malicious,malicious
+Wesley Dawson,4,data212.txt,85,"The email is from Casey, Compliance Lead at Velocity Motors, requesting the account username and details of any password-reset activity for Wesley Dawson's account as part of an insurance renewal and security review.",malicious,malicious

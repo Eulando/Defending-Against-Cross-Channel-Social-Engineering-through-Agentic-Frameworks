@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Caleb Rivera,1,data612.txt,10,Request for confirmation of training cohort name for internal record-keeping.,benign,benign
+Caleb Rivera,2,data612.txt,10,Request for confirmation of mailing stop for internal package deliveries.,benign,benign
+Caleb Rivera,3,data612.txt,10,Request for confirmation of usual desk booking days for internal record-keeping.,benign,benign
+Caleb Rivera,4,data612.txt,10,Request for confirmation of building and floor for Caleb Rivera's regular workspace.,benign,benign
