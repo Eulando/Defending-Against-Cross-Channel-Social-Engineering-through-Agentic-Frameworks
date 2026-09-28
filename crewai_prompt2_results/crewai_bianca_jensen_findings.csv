@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bianca Jensen,1,data371.txt,30,Request for Bianca Jensen's home address and personal phone number for compliance audit.,benign,benign
+Bianca Jensen,2,data371.txt,30,Request for Bianca Jensen's full employment file and emergency contact details for compliance audit.,benign,benign
+Bianca Jensen,3,data371.txt,30,Request for confirmation of health insurance and medical records for Bianca Jensen for compliance audit.,benign,benign
+Bianca Jensen,4,data371.txt,30,Request for confirmation of bank account and routing information for Bianca Jensen for payroll reconciliation.,benign,benign

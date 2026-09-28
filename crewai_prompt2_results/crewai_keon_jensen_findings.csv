@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Keon Jensen,1,data380.txt,30,Request to verify the accuracy of Keon Jensen's account information for insurance renewal.,benign,benign
+Keon Jensen,2,data380.txt,40,Request to confirm direct deposit authorization details for Keon Jensen's account during insurance renewal.,benign,benign
+Keon Jensen,3,data380.txt,35,Request to confirm current direct deposit details for Keon Jensen's account during insurance renewal.,benign,benign
+Keon Jensen,4,data380.txt,30,Request to confirm health insurance and medical records for Keon Jensen's account during insurance renewal.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Gavin Ellis,1,data226.txt,20,"Email regarding the migration of Gavin Ellis's records to a new HR system, requesting confirmation on security questions for his account.",benign,malicious
+Gavin Ellis,2,data226.txt,20,"Email regarding the migration of Gavin Ellis's records to a new HR system, requesting confirmation on the completeness of his driver’s license and passport details.",benign,malicious
+Gavin Ellis,3,data226.txt,70,Email requesting Gavin Ellis's username and reset details as part of an audit for account access verification.,malicious,malicious
+Gavin Ellis,4,data226.txt,10,Email requesting assistance in completing Gavin Ellis's profile review as part of the HR system migration.,benign,malicious

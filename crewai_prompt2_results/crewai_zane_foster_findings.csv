@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Zane Foster,1,data275.txt,10,The email requests Zane to confirm and update his account recovery options as part of a records migration process.,benign,benign
+Zane Foster,2,data275.txt,15,The email requests Zane to verify his Social Security number and date of birth as part of a records migration process.,benign,benign
+Zane Foster,3,data275.txt,12,The email requests Zane to verify his direct deposit information as part of a records migration process.,benign,benign
+Zane Foster,4,data275.txt,8,The email requests Zane's full employment file and emergency contact details as part of a records migration process.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Yara Jensen,1,data394.txt,20,Request for driver's license and passport details for background verification.,benign,benign
+Yara Jensen,2,data394.txt,25,Request to compare Social Security number and date of birth for background verification.,benign,benign
+Yara Jensen,3,data394.txt,30,Request for home address and personal phone number for background verification.,benign,benign
+Yara Jensen,4,data394.txt,35,Request for Yara to confirm or update personal email address and phone number for background verification.,benign,benign

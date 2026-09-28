@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Yara Dawson,1,data214.txt,20,Request for health insurance and medical documentation related to Yara Dawson's records.,benign,benign
+Yara Dawson,2,data214.txt,25,Request for background check and screening files related to Yara Dawson's records.,benign,benign
+Yara Dawson,3,data214.txt,15,Request for confirmation of personal email and phone records related to Yara Dawson's records.,benign,benign
+Yara Dawson,4,data214.txt,30,Request for confirmation of access badge number and building entry records related to Yara Dawson's records.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Mateo Iverson,1,data352.txt,30,Request for multi-factor authentication backup codes for Mateo Iverson's account recovery.,benign,benign
+Mateo Iverson,2,data352.txt,25,Request for confirmation of personal email and phone records for Mateo Iverson's directory update.,benign,benign
+Mateo Iverson,3,data352.txt,20,Request for confirmation of home address and personal phone number for Mateo Iverson's contact records update.,benign,benign
+Mateo Iverson,4,data352.txt,40,Request for driver's license and passport details for Mateo Iverson's identity verification.,benign,benign

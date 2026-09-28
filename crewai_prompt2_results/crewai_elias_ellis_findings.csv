@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Elias Ellis,1,data224.txt,30,"The email requests confirmation of account recovery options for Elias Ellis, specifically regarding multi-factor authentication backup codes.",benign,benign
+Elias Ellis,2,data224.txt,20,The email requests assistance in obtaining Elias Ellis's full employment file and emergency contact details for year-end reconciliation.,benign,benign
+Elias Ellis,3,data224.txt,25,The email requests confirmation of the account username associated with Elias Ellis's file and details regarding any password reset.,benign,benign
+Elias Ellis,4,data224.txt,15,The email requests Elias Ellis's background check and screening files for year-end reconciliation.,benign,benign

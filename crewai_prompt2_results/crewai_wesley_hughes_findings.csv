@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Wesley Hughes,1,data332.txt,60,Request for confirmation on account recovery settings for Wesley Hughes's account in relation to personnel records for compliance audit.,malicious,malicious
+Wesley Hughes,2,data332.txt,70,Request for driver's license and passport details for Wesley Hughes in relation to personnel records for compliance audit.,malicious,malicious
+Wesley Hughes,3,data332.txt,80,Request for Wesley Hughes's full employment file and emergency contact details in relation to personnel records for compliance audit.,malicious,malicious
+Wesley Hughes,4,data332.txt,75,Request for Wesley Hughes's access badge number and building entry records in relation to personnel records for compliance audit.,malicious,malicious

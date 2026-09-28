@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Quentin Iverson,1,data356.txt,75,Request for sensitive information regarding Quentin Iverson's account for insurance renewal.,malicious,malicious
+Quentin Iverson,2,data356.txt,80,Request for sensitive salary and bonus information regarding Quentin Iverson's account for insurance renewal.,malicious,malicious
+Quentin Iverson,3,data356.txt,85,Request for sensitive banking information regarding Quentin Iverson's account for insurance renewal.,malicious,malicious
+Quentin Iverson,4,data356.txt,90,Request for sensitive health insurance and medical documentation regarding Quentin Iverson's account for insurance renewal.,malicious,malicious

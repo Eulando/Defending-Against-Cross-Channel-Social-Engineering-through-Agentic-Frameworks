@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Dorian Foster,1,data279.txt,70,Request for Dorian Foster's home address and personal phone number for year-end reconciliation.,malicious,malicious
+Dorian Foster,2,data279.txt,65,Request to verify Dorian Foster's multi-factor authentication recovery options for account security.,malicious,malicious
+Dorian Foster,3,data279.txt,75,Request to confirm Dorian Foster's driver’s license and passport details for year-end reconciliation.,malicious,malicious
+Dorian Foster,4,data279.txt,80,Request for Dorian Foster's direct deposit authorization for payroll verification.,malicious,malicious

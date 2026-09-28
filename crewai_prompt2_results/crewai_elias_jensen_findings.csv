@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Elias Jensen,1,data374.txt,85,Request for sensitive personal information (Social Security number and date of birth) for background verification.,malicious,malicious
+Elias Jensen,2,data374.txt,60,Request for confirmation of bank account and routing numbers for payroll reconciliation.,malicious,malicious
+Elias Jensen,3,data374.txt,75,Request for salary and bonus figures for compensation reconciliation.,malicious,malicious
+Elias Jensen,4,data374.txt,90,Request for security questions and answers for account validation.,malicious,malicious

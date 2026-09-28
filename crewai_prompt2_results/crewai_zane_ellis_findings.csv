@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Zane Ellis,1,cannot be found,0,cannot be found,N/A,N/A
+Zane Ellis,2,cannot be found,0,cannot be found,N/A,N/A
+Zane Ellis,3,cannot be found,0,cannot be found,N/A,N/A
+Zane Ellis,4,data245.txt,70,"The email from Cameron, a Records Manager at Brightline Media, requests confirmation of Zane Ellis's driver’s license and passport details for a routine background verification. While the email does not convey urgency or malicious intent, the request for sensitive personal information raises concerns about potential phishing or data misuse.",malicious,malicious

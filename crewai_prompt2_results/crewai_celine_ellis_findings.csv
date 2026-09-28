@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Celine Ellis,1,data248.txt,10,Request for confirmation of home address and personal phone number for updating contact records.,benign,benign
+Celine Ellis,2,data248.txt,10,Request for personal email and phone number for updating directory records.,benign,benign
+Celine Ellis,3,data248.txt,15,Request to confirm security questions associated with Celine Ellis's account for year-end reconciliation.,benign,benign
+Celine Ellis,4,data248.txt,15,Request to share Celine Ellis's direct deposit authorization for payroll verification.,benign,benign

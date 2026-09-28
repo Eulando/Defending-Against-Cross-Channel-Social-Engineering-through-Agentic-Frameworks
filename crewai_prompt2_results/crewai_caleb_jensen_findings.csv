@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Caleb Jensen,1,data372.txt,20,Request for driver's license and passport details for identity verification related to insurance renewal.,benign,malicious
+Caleb Jensen,2,data372.txt,25,Request for badge details and entry history for identity verification related to insurance renewal.,benign,malicious
+Caleb Jensen,3,data372.txt,70,Request for social security number and date of birth for identity verification related to an audit.,malicious,malicious
+Caleb Jensen,4,data372.txt,30,Request for health insurance and medical records for validation related to insurance renewal.,benign,malicious

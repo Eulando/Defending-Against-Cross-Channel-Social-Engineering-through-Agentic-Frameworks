@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Hana Hughes,1,data317.txt,20,Request for confirmation of personnel records for compliance audit.,benign,benign
+Hana Hughes,2,data317.txt,30,Request for background check and screening files for compliance audit.,benign,benign
+Hana Hughes,3,data317.txt,25,Request for verification of bank account and routing numbers for compliance audit.,benign,benign
+Hana Hughes,4,data317.txt,35,Request for confirmation of multi-factor authentication backup codes for account recovery.,benign,benign

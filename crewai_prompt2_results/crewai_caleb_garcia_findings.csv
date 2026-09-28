@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Caleb Garcia,1,data282.txt,20,Request to verify account-recovery measures for Caleb Garcia's personnel records.,benign,benign
+Caleb Garcia,2,data282.txt,30,Request for Caleb Garcia's personal email and phone number for directory records update.,benign,benign
+Caleb Garcia,3,data282.txt,40,Request for Caleb Garcia's health insurance and medical documentation for benefit records.,benign,benign
+Caleb Garcia,4,data282.txt,35,Request for Caleb Garcia's full employment file and emergency contact details from HRIS.,benign,benign

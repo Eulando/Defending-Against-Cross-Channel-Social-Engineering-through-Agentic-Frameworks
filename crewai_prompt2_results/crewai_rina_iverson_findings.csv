@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Rina Iverson,1,data357.txt,30,Request for confirmation on the security questions of Rina Iverson's account for compliance audit.,benign,benign
+Rina Iverson,2,data357.txt,30,Request for confirmation on the status of multi-factor authentication backup codes for Rina Iverson's account for compliance audit.,benign,benign
+Rina Iverson,3,data357.txt,30,Request for Rina Iverson's badge details and entry history for compliance audit.,benign,benign
+Rina Iverson,4,data357.txt,30,Request for Rina Iverson's background check and screening files for compliance audit.,benign,benign

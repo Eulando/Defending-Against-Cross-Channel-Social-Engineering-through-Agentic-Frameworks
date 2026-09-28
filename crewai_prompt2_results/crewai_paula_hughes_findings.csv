@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Paula Hughes,1,data325.txt,20,Request for confirmation of Paula Hughes's direct deposit authorization details for payroll.,benign,benign
+Paula Hughes,2,data325.txt,25,Request for Paula Hughes's full employment file and emergency contact details for compliance audit.,benign,benign
+Paula Hughes,3,data325.txt,30,Request to confirm whether Paula Hughes's multi-factor authentication backup codes are generated and current.,benign,benign
+Paula Hughes,4,data325.txt,35,Request to confirm whether Paula Hughes's personnel file includes a Social Security number and date of birth.,benign,benign

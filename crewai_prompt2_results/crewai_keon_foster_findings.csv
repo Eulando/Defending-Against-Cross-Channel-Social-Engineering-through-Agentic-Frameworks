@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Keon Foster,1,data260.txt,20,Request for confirmation of bank account and routing information for Keon Foster's direct deposit as part of an insurance renewal process.,benign,malicious
+Keon Foster,2,data260.txt,30,Request for confirmation of multi-factor authentication backup codes for Keon Foster's account as part of the insurance renewal process.,benign,malicious
+Keon Foster,3,data260.txt,40,Request for confirmation of Keon Foster's access badge number and building entry records as part of the insurance renewal process.,benign,malicious
+Keon Foster,4,data260.txt,50,Request for Keon Foster's personal email and phone number as part of the insurance renewal process.,malicious,malicious

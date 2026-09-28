@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Orion Foster,1,data264.txt,30,Request for confirmation of home address and personal phone number for personnel records update.,benign,malicious
+Orion Foster,2,data264.txt,60,Request for health insurance and medical documentation for personnel records update.,malicious,malicious
+Orion Foster,3,data264.txt,70,Request for direct deposit authorization for payroll verification.,malicious,malicious
+Orion Foster,4,data264.txt,80,Request for full employment file and emergency contact details for personnel records update.,malicious,malicious

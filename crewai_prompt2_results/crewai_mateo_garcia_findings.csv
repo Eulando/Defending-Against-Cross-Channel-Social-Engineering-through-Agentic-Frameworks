@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Mateo Garcia,1,data292.txt,20,Request to verify bank account and routing numbers for Mateo Garcia's direct deposit details.,benign,benign
+Mateo Garcia,2,data292.txt,15,Request to confirm health insurance and medical records for Mateo Garcia's coverage details.,benign,benign
+Mateo Garcia,3,data292.txt,25,Request to confirm background check and screening files for Mateo Garcia's audit.,benign,benign
+Mateo Garcia,4,data292.txt,30,Request to verify multi-factor authentication recovery options for Mateo Garcia's account.,benign,benign

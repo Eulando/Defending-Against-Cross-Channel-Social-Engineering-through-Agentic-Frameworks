@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Keon Ellis,1,data230.txt,20,Request for confirmation of home address and personal phone number for background verification.,benign,benign
+Keon Ellis,2,data230.txt,25,Request to verify username and reset details for background verification as part of an account-access audit.,benign,benign
+Keon Ellis,3,data230.txt,30,Request for badge details and entry history for background verification.,benign,benign
+Keon Ellis,4,data230.txt,35,Request to confirm and update direct deposit details for background verification.,benign,benign

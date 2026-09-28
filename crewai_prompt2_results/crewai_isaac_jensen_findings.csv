@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Isaac Jensen,1,data378.txt,20,Request for confirmation regarding a background verification for Isaac Jensen.,benign,benign
+Isaac Jensen,2,data378.txt,30,Request for confirmation regarding security questions on Isaac Jensen's account.,benign,benign
+Isaac Jensen,3,data378.txt,25,Request for confirmation regarding multi-factor authentication recovery options for Isaac Jensen's account.,benign,benign
+Isaac Jensen,4,data378.txt,15,Request for confirmation of current contact details for Isaac Jensen.,benign,benign

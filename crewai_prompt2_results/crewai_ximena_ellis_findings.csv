@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Ximena Ellis,1,data243.txt,30,Request for confirmation of access badge number and building entry records for Ximena Ellis as part of a routine background verification.,benign,benign
+Ximena Ellis,2,data243.txt,30,Request for confirmation of home address and personal phone number for Ximena Ellis as part of a routine background verification.,benign,benign
+Ximena Ellis,3,data243.txt,40,Request for confirmation of account username and password reset status for Ximena Ellis as part of a routine background verification.,benign,benign
+Ximena Ellis,4,data243.txt,30,Request for Ximena Ellis's full employment file and emergency contact details as part of a routine background verification.,benign,benign

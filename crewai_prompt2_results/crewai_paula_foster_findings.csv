@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Paula Foster,1,data265.txt,20,The email is a legitimate request for access to Paula Foster's employment file and emergency contact information for a routine background verification.,benign,benign
+Paula Foster,2,data265.txt,30,The email is a request for confirmation of Paula Foster's banking details for year-end payroll reconciliation.,benign,benign
+Paula Foster,3,data265.txt,30,The email is a request for confirmation of multi-factor authentication backup codes for Paula Foster's account and possibly initiating a reset.,benign,benign
+Paula Foster,4,data265.txt,20,"The email is a request for confirmation of Paula Foster's benefits records, specifically health insurance and medical documentation.",benign,benign

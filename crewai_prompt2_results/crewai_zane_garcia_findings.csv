@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Zane Garcia,1,data305.txt,20,Request for Zane Garcia's badge details and entry history for HR system migration.,benign,benign
+Zane Garcia,2,data305.txt,25,Request for confirmation of Zane Garcia's account username and password reset details for HR system migration.,benign,benign
+Zane Garcia,3,data305.txt,40,Request for Zane Garcia's Social Security number and date of birth for HR system migration audit.,benign,benign
+Zane Garcia,4,data305.txt,30,Request for Zane Garcia's direct deposit authorization for HR system migration.,benign,benign

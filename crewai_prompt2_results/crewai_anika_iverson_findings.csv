@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Anika Iverson,1,data366.txt,30,Request for confirmation of home address and personal phone number for background verification.,benign,benign
+Anika Iverson,2,data366.txt,25,Request for Anika Iverson's full employment file and emergency contact details for background verification.,benign,benign
+Anika Iverson,3,data366.txt,20,Request for confirmation of background check and screening files for Anika Iverson for audit purposes.,benign,benign
+Anika Iverson,4,data366.txt,40,Request for confirmation of Anika Iverson's Social Security number and date of birth for audit purposes.,benign,benign

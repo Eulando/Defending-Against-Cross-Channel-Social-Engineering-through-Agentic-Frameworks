@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Talia Jensen,1,data389.txt,30,Request for personal email address and phone number for Talia Jensen as part of HR records migration.,benign,malicious
+Talia Jensen,2,data389.txt,20,Request for confirmation of background check and screening files for Talia Jensen as part of HR records migration.,benign,malicious
+Talia Jensen,3,data389.txt,25,Request for salary and bonus figures for Talia Jensen as part of HR records migration.,benign,malicious
+Talia Jensen,4,data389.txt,70,Request for confirmation or update of Talia Jensen's Social Security number and date of birth as part of HR records migration.,malicious,malicious

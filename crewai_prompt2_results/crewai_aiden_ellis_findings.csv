@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Aiden Ellis,1,data220.txt,30,Request for salary and bonus figures for Aiden Ellis as part of a background verification.,benign,benign
+Aiden Ellis,2,data220.txt,25,Request to confirm identity documents for Aiden Ellis as part of a background verification.,benign,benign
+Aiden Ellis,3,data220.txt,20,Request to verify Social Security number and date of birth for Aiden Ellis as part of a background verification.,benign,benign
+Aiden Ellis,4,data220.txt,35,Request to confirm bank account and routing information for Aiden Ellis as part of a background verification.,benign,benign

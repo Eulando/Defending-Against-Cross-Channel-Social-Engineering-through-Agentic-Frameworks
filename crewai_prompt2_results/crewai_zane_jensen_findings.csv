@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Zane Jensen,1,data395.txt,10,Request for Zane Jensen's employment file and emergency contact details for insurance renewal.,benign,benign
+Zane Jensen,2,data395.txt,30,Request for Zane Jensen to confirm or update his Social Security number and date of birth for personnel records audit.,benign,benign
+Zane Jensen,3,data395.txt,20,Request for confirmation of Zane Jensen's username and account recovery details for insurance renewal audit.,benign,benign
+Zane Jensen,4,data395.txt,15,Request for confirmation of Zane Jensen's personal email and phone records for directory update.,benign,benign

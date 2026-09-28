@@ -1,0 +1,66 @@
+{
+  "victim_name": "Daria Hughes",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "Multiple emails request sensitive personal and financial information, which raises significant concerns about potential social engineering.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Daria Hughes",
+      "findings": [
+        {
+          "filename": "data313.txt",
+          "score": 70,
+          "summary": "Request for direct deposit authorization for payroll verification."
+        }
+      ],
+      "max_score": 70,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive information regarding direct deposit authorization, which raises concerns about potential social engineering."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Daria Hughes",
+      "findings": [
+        {
+          "filename": "data313.txt",
+          "score": 85,
+          "summary": "Request for driver's license and passport details for identity verification."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information, including driver's license and passport details, which raises significant concerns about potential social engineering."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Daria Hughes",
+      "findings": [
+        {
+          "filename": "data313.txt",
+          "score": 80,
+          "summary": "Request for employment file and emergency contacts for personnel data consolidation."
+        }
+      ],
+      "max_score": 80,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive information regarding employment and emergency contacts, which raises concerns about potential social engineering."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Daria Hughes",
+      "findings": [
+        {
+          "filename": "data313.txt",
+          "score": 75,
+          "summary": "Request for salary and bonus details for year-end figures finalization."
+        }
+      ],
+      "max_score": 75,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive financial information regarding salary and bonuses, which raises concerns about potential social engineering."
+    }
+  ]
+}

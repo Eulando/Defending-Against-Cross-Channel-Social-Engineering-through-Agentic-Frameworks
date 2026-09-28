@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Dorian Jensen,1,data399.txt,30,Request for confirmation of access badge number and building entry records for Dorian Jensen for compliance audit.,benign,benign
+Dorian Jensen,2,data399.txt,30,Request for confirmation of background check and screening files for Dorian Jensen for compliance audit.,benign,benign
+Dorian Jensen,3,data399.txt,30,Request for confirmation of Dorian Jensen's account recovery setup including multi-factor authentication backup codes for compliance audit.,benign,benign
+Dorian Jensen,4,data399.txt,30,Request for confirmation of Dorian Jensen's direct deposit authorization for payroll setup verification.,benign,benign

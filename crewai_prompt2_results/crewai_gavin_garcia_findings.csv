@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Gavin Garcia,1,data286.txt,20,Request for confirmation of Gavin's account username and password reset details for compliance audit.,benign,benign
+Gavin Garcia,2,data286.txt,30,Request for verification of Gavin's Social Security number and date of birth for personnel records audit.,benign,benign
+Gavin Garcia,3,data286.txt,25,Request for Gavin's salary and bonus figures for personnel records audit.,benign,benign
+Gavin Garcia,4,data286.txt,15,Request for confirmation of Gavin's account recovery questions for personnel records audit.,benign,benign

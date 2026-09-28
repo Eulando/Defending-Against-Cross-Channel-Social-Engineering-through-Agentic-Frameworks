@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bianca Foster,1,data251.txt,30,Request for health insurance and medical documentation for Bianca Foster's account review.,benign,malicious
+Bianca Foster,2,data251.txt,40,Request to confirm the completeness and currency of Bianca Foster's Social Security number and date of birth in her employee record.,benign,malicious
+Bianca Foster,3,data251.txt,35,Request to confirm the current status of Bianca Foster's account security questions for insurance renewal.,benign,malicious
+Bianca Foster,4,data251.txt,50,Request for Bianca Foster's home address and personal phone number for account review.,malicious,malicious

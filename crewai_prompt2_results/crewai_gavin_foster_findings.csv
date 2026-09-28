@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Gavin Foster,1,data256.txt,30,Request for confirmation of security questions and answers for Gavin Foster's account related to insurance renewal.,benign,malicious
+Gavin Foster,2,data256.txt,35,Request for confirmation of personal email and phone records for Gavin Foster's account related to directory updates.,benign,malicious
+Gavin Foster,3,data256.txt,70,Request for bank account and routing numbers for Gavin Foster's account related to insurance renewal.,malicious,malicious
+Gavin Foster,4,data256.txt,65,Request for confirmation of salary and bonus details for Gavin Foster's account related to year-end figures.,malicious,malicious

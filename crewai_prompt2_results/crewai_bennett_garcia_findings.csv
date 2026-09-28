@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bennett Garcia,1,data307.txt,10,Request for background check and screening files for insurance renewal process.,benign,benign
+Bennett Garcia,2,data307.txt,10,Request to confirm account recovery security questions for insurance renewal process.,benign,benign
+Bennett Garcia,3,data307.txt,10,Request to confirm personal email and phone records for updating the directory related to insurance renewal process.,benign,benign
+Bennett Garcia,4,data307.txt,10,Request to confirm health insurance and medical records for validating coverage details related to insurance renewal process.,benign,benign

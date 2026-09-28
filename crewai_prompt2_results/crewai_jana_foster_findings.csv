@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Jana Foster,1,data259.txt,20,Request for employment file and emergency contacts for year-end reconciliation.,benign,malicious
+Jana Foster,2,data259.txt,70,Request for security questions and answers related to Jana Foster's account for validation.,malicious,malicious
+Jana Foster,3,data259.txt,80,Request for background check and screening files related to Jana Foster for review.,malicious,malicious
+Jana Foster,4,data259.txt,50,Request for confirmation of direct deposit authorization details for Jana Foster.,malicious,malicious

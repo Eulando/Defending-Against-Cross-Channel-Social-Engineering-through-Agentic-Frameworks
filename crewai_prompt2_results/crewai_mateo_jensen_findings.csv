@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Mateo Jensen,1,data382.txt,30,Request for confirmation of Mateo Jensen's username and account recovery details for year-end reconciliation.,benign,malicious
+Mateo Jensen,2,data382.txt,70,Request for Mateo Jensen's bank account and routing numbers for year-end reconciliation.,malicious,malicious
+Mateo Jensen,3,data382.txt,60,Request for Mateo Jensen's salary and bonus figures for year-end reconciliation.,malicious,malicious
+Mateo Jensen,4,data382.txt,80,Request for Mateo Jensen's background check and screening files for year-end reconciliation.,malicious,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Freya Iverson,1,data345.txt,30,Request for personal email and phone number of Freya Iverson for background verification.,benign,benign
+Freya Iverson,2,data345.txt,25,Request to confirm the availability of multi-factor authentication backup codes for Freya Iverson's account as part of a background verification.,benign,benign
+Freya Iverson,3,data345.txt,35,Request to confirm the home address and personal phone number of Freya Iverson for background verification.,benign,benign
+Freya Iverson,4,data345.txt,40,Request to pull Freya Iverson's full employment file and emergency contact details from HRIS for background verification.,benign,benign

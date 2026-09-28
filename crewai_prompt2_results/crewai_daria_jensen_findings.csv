@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Daria Jensen,1,data373.txt,10,Request for confirmation of salary and bonus details for year-end reconciliation.,benign,malicious
+Daria Jensen,2,data373.txt,70,Request for confirmation of social security number and date of birth for records update.,malicious,malicious
+Daria Jensen,3,data373.txt,80,Request for confirmation of bank account and routing numbers for payroll reconciliation.,malicious,malicious
+Daria Jensen,4,data373.txt,60,Request for confirmation of health insurance and medical records for coverage validation.,malicious,malicious

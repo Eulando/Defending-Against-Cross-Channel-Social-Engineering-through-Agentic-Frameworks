@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Lena Ellis,1,data231.txt,20,Request to confirm Lena Ellis's direct deposit details for payroll.,benign,malicious
+Lena Ellis,2,data231.txt,30,Request for Lena Ellis's background check and screening files for year-end reconciliation.,benign,malicious
+Lena Ellis,3,data231.txt,40,Request to confirm Lena Ellis's social security number and date of birth for records update.,benign,malicious
+Lena Ellis,4,data231.txt,50,Request for Lena Ellis's personal email and phone number for directory record updates.,malicious,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Celine Foster,1,data278.txt,10,Request for confirmation of salary and bonus details for insurance renewal.,benign,malicious
+Celine Foster,2,data278.txt,20,Request for confirmation of home address and personal phone number for updating contact records.,benign,malicious
+Celine Foster,3,data278.txt,70,Request for verification of bank account and routing numbers for direct deposit details.,malicious,malicious
+Celine Foster,4,data278.txt,90,Request for confirmation of social security number and date of birth for profile update.,malicious,malicious

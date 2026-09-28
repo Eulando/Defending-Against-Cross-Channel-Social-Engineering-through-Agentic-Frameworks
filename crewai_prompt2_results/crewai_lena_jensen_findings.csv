@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Lena Jensen,1,data381.txt,20,Request for confirmation on multi-factor authentication recovery options for Lena Jensen's account.,benign,benign
+Lena Jensen,2,data381.txt,30,Request for Lena Jensen's health insurance and medical documentation for compliance audit.,benign,benign
+Lena Jensen,3,data381.txt,25,Request for Lena Jensen to confirm her Social Security number and date of birth for personnel records.,benign,benign
+Lena Jensen,4,data381.txt,35,Request for confirmation of direct deposit authorization details for Lena Jensen's payroll accounts.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Silas Jensen,1,data388.txt,10,Request for confirmation of home address and personal phone number for Silas Jensen for record updating.,benign,benign
+Silas Jensen,2,data388.txt,20,Request for health insurance and medical documentation for Silas Jensen for benefit record verification.,benign,benign
+Silas Jensen,3,data388.txt,15,Request for confirmation of direct deposit authorization details for Silas Jensen for payroll reconciliation.,benign,benign
+Silas Jensen,4,data388.txt,25,Request for confirmation of salary and bonus details for Silas Jensen for year-end reconciliation.,benign,benign

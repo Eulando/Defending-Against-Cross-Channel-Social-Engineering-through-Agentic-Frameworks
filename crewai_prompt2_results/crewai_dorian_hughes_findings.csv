@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Dorian Hughes,1,data339.txt,10,Request for health insurance and medical documentation for Dorian Hughes for year-end reconciliation.,benign,benign
+Dorian Hughes,2,data339.txt,30,Request for multi-factor authentication backup codes for Dorian Hughes for account recovery.,benign,benign
+Dorian Hughes,3,data339.txt,20,Request for direct deposit authorization for Dorian Hughes for payroll verification.,benign,benign
+Dorian Hughes,4,data339.txt,40,Request for personal email and phone number for Dorian Hughes for directory record updates.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Gavin Iverson,1,data346.txt,30,Request for confirmation of salary and bonus details for Gavin Iverson's records in the new HR system.,benign,benign
+Gavin Iverson,2,data346.txt,40,Request for Gavin Iverson's background check and screening files as part of the HR system migration.,benign,benign
+Gavin Iverson,3,data346.txt,35,Request for confirmation of Gavin Iverson's access badge number and building entry records as part of the HR system migration.,benign,benign
+Gavin Iverson,4,data346.txt,25,Request for confirmation of direct deposit authorization details for Gavin Iverson as part of the HR system migration.,benign,benign

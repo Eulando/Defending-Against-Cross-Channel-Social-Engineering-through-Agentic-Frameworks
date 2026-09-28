@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Aiden Garcia,1,data280.txt,20,Request for background check and screening files for Aiden Garcia.,benign,benign
+Aiden Garcia,2,data280.txt,20,Request for salary and bonus figures for Aiden Garcia.,benign,benign
+Aiden Garcia,3,data280.txt,20,Request for health insurance and medical documentation for Aiden Garcia.,benign,benign
+Aiden Garcia,4,data280.txt,20,Request to verify direct deposit details for Aiden Garcia.,benign,benign

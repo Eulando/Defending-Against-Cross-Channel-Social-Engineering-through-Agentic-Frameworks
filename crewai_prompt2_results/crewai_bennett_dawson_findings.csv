@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bennett Dawson,1,data217.txt,60,Request for Bennett Dawson's personal email and phone number for account review.,malicious,malicious
+Bennett Dawson,2,data217.txt,65,"Request for confirmation of Bennett Dawson's identity records, including driver's license and passport information.",malicious,malicious
+Bennett Dawson,3,data217.txt,80,Request for verification of Bennett Dawson's Social Security number and date of birth for audit purposes.,malicious,malicious
+Bennett Dawson,4,data217.txt,75,Request for confirmation of multi-factor authentication backup codes for Bennett Dawson's account recovery.,malicious,malicious

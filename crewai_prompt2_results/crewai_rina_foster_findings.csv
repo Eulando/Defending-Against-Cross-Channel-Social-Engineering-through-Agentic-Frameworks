@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Rina Foster,1,data267.txt,20,Request for health insurance and medical documentation for compliance audit.,benign,benign
+Rina Foster,2,data267.txt,20,Request for confirmation of background check and screening files for compliance audit.,benign,benign
+Rina Foster,3,data267.txt,20,Request for confirmation of access badge number and building entry records for compliance audit.,benign,benign
+Rina Foster,4,data267.txt,20,Request to verify the status of security questions for account recovery settings for compliance audit.,benign,benign

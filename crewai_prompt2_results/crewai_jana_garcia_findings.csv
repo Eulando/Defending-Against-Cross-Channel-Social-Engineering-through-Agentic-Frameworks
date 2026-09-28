@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Jana Garcia,1,data289.txt,20,Request for confirmation of salary and bonus details for background verification.,benign,benign
+Jana Garcia,2,data289.txt,30,Request for confirmation of bank account and routing information for background verification.,benign,benign
+Jana Garcia,3,data289.txt,25,Request for health insurance and medical documentation for background verification.,benign,benign
+Jana Garcia,4,data289.txt,35,Request for confirmation of access badge number and building entry records for background verification.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Dorian Iverson,1,data369.txt,20,Request for confirmation of salary and bonus details for Dorian Iverson as part of HR system migration.,benign,benign
+Dorian Iverson,2,data369.txt,30,Request for driver's license and passport details for Dorian Iverson as part of identity verification during HR system migration.,benign,benign
+Dorian Iverson,3,data369.txt,25,Request for confirmation of access badge number and building entry records for Dorian Iverson as part of HR system migration.,benign,benign
+Dorian Iverson,4,data369.txt,35,Request for confirmation of multi-factor authentication backup codes for Dorian Iverson as part of HR system migration.,benign,benign

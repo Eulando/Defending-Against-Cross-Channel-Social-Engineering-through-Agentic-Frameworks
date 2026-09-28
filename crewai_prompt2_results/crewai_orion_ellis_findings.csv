@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Orion Ellis,1,data234.txt,20,Request for direct deposit authorization related to insurance renewal process.,benign,benign
+Orion Ellis,2,data234.txt,15,Request for confirmation of contact details for insurance renewal.,benign,benign
+Orion Ellis,3,data234.txt,25,Request for confirmation of direct deposit details for insurance renewal.,benign,benign
+Orion Ellis,4,data234.txt,30,Request for background check and screening files related to insurance renewal.,benign,benign

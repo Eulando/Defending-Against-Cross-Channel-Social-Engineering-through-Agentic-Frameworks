@@ -1,0 +1,66 @@
+{
+  "victim_name": "Jana Hughes",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "The presence of emails with scores of 60 and 55 indicates malicious intent due to requests for sensitive personal information.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Jana Hughes",
+      "findings": [
+        {
+          "filename": "data319.txt",
+          "score": 20,
+          "summary": "The email discusses reviewing Jana Hughes's account for insurance renewal and requests confirmation on account recovery settings."
+        }
+      ],
+      "max_score": 20,
+      "channel_verdict": "benign",
+      "rationale": "The email is a routine request regarding account settings and does not indicate malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Jana Hughes",
+      "findings": [
+        {
+          "filename": "data319.txt",
+          "score": 25,
+          "summary": "The email requests confirmation of personal email and phone records for Jana Hughes as part of the insurance renewal process."
+        }
+      ],
+      "max_score": 25,
+      "channel_verdict": "benign",
+      "rationale": "The email is a standard request for updating contact information and does not suggest malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Jana Hughes",
+      "findings": [
+        {
+          "filename": "data319.txt",
+          "score": 60,
+          "summary": "The email requests confirmation of Jana Hughes's Social Security number and date of birth for the insurance renewal process."
+        }
+      ],
+      "max_score": 60,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information, which raises concerns about potential malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Jana Hughes",
+      "findings": [
+        {
+          "filename": "data319.txt",
+          "score": 55,
+          "summary": "The email requests Jana Hughes's employment file and emergency contacts as part of the insurance renewal process."
+        }
+      ],
+      "max_score": 55,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information, which raises concerns about potential malicious intent."
+    }
+  ]
+}

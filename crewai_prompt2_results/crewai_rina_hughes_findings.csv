@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Rina Hughes,1,data327.txt,30,Request for salary and bonus figures for Rina Hughes as part of a routine background verification.,benign,benign
+Rina Hughes,2,data327.txt,30,Request to validate identity records for Rina Hughes as part of a routine background verification.,benign,benign
+Rina Hughes,3,data327.txt,30,Request to confirm home address and personal phone number for Rina Hughes as part of a routine background verification.,benign,benign
+Rina Hughes,4,data327.txt,30,Request to confirm direct deposit authorization details for Rina Hughes as part of a routine background verification.,benign,benign

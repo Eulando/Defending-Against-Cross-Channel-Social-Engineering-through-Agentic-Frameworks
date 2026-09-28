@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Rina Jensen,1,data387.txt,10,Request for confirmation of health insurance and medical records for Rina Jensen for compliance audit.,benign,benign
+Rina Jensen,2,data387.txt,10,Request for confirmation of direct deposit authorization details for Rina Jensen for payroll reconciliation.,benign,benign
+Rina Jensen,3,data387.txt,10,Request for confirmation of multi-factor authentication backup codes for Rina Jensen's account for compliance audit.,benign,benign
+Rina Jensen,4,data387.txt,10,Request for driver's license and passport details for Rina Jensen for identity verification.,benign,benign

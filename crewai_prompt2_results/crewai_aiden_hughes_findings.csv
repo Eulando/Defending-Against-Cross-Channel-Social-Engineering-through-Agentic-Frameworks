@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Aiden Hughes,1,data310.txt,30,Request to verify account details for year-end reconciliation.,benign,malicious
+Aiden Hughes,2,data310.txt,40,Request for Aiden Hughes's personal email and phone number for directory updates.,benign,malicious
+Aiden Hughes,3,data310.txt,50,Request to confirm Aiden Hughes's social security number and date of birth for profile accuracy.,malicious,malicious
+Aiden Hughes,4,data310.txt,60,Request to confirm health insurance and medical records for Aiden Hughes for coverage validation.,malicious,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Lena Iverson,1,data351.txt,30,Request for confirmation of background verification details for Lena Iverson.,benign,malicious
+Lena Iverson,2,data351.txt,70,Request for Lena Iverson's home address and personal phone number for background verification.,malicious,malicious
+Lena Iverson,3,data351.txt,60,Request to confirm Lena Iverson's direct deposit information for background verification.,malicious,malicious
+Lena Iverson,4,data351.txt,80,Request for Lena Iverson's salary and bonus figures for background verification.,malicious,malicious

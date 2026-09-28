@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Lena Hughes,1,data321.txt,30,Request for confirmation of driver's license and passport details for background verification.,benign,benign
+Lena Hughes,2,data321.txt,40,Request for salary and bonus figures for Lena Hughes as part of a background verification.,benign,benign
+Lena Hughes,3,data321.txt,35,Request for confirmation of personal email and phone records for Lena Hughes as part of a background verification.,benign,benign
+Lena Hughes,4,data321.txt,45,Request for health insurance and medical documentation for Lena Hughes as part of a background verification.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Anika Foster,1,data276.txt,30,Request for background verification details regarding Anika Foster's badge and entry history.,benign,malicious
+Anika Foster,2,data276.txt,70,Request for verification of Anika Foster's bank account and routing numbers.,malicious,malicious
+Anika Foster,3,data276.txt,50,Request for confirmation of Anika Foster's home address and personal phone number.,malicious,malicious
+Anika Foster,4,data276.txt,80,Request for confirmation of multi-factor authentication backup codes for Anika Foster's account.,malicious,malicious

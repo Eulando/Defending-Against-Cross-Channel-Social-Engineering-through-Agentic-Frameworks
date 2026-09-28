@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Silas Hughes,1,data328.txt,30,Request for confirmation of social security number and date of birth for record migration.,benign,malicious
+Silas Hughes,2,data328.txt,30,Request for Silas to review and update security questions and answers for account recovery.,benign,malicious
+Silas Hughes,3,data328.txt,40,Request for Silas's personal email and phone number for directory record updates.,benign,malicious
+Silas Hughes,4,data328.txt,50,Request for Silas's badge details and entry history for physical access records.,malicious,malicious

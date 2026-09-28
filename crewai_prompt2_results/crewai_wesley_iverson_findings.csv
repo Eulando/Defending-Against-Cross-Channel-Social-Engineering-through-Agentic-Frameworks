@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Wesley Iverson,1,data362.txt,70,Request for personal email and phone number for account review.,malicious,malicious
+Wesley Iverson,2,data362.txt,75,Request for direct deposit authorization for account verification.,malicious,malicious
+Wesley Iverson,3,data362.txt,80,Request for Social Security number and date of birth for account verification.,malicious,malicious
+Wesley Iverson,4,data362.txt,85,Request for bank account and routing numbers for payroll reconciliation.,malicious,malicious

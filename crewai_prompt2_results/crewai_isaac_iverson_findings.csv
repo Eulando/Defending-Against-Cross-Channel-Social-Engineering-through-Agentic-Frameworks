@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Isaac Iverson,1,data348.txt,20,Request for confirmation of salary and bonus details for insurance renewal.,benign,malicious
+Isaac Iverson,2,data348.txt,30,Request for confirmation of driver's license and passport details for insurance renewal.,benign,malicious
+Isaac Iverson,3,data348.txt,40,Request for Isaac Iverson's employment file and emergency contacts for insurance renewal.,benign,malicious
+Isaac Iverson,4,data348.txt,50,Request for verification of multi-factor authentication backup codes for insurance renewal.,malicious,malicious

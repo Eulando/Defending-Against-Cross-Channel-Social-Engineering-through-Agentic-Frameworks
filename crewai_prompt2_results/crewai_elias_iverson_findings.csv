@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Elias Iverson,1,data344.txt,30,Email requesting confirmation of account-recovery configuration for Elias Iverson's records in the new HR system.,benign,malicious
+Elias Iverson,2,data344.txt,40,Email requesting confirmation of social security number and date of birth for Elias Iverson's profile update in the new HR system.,benign,malicious
+Elias Iverson,3,data344.txt,50,Email requesting Elias Iverson's employment file and emergency contacts for the new HR system.,malicious,malicious
+Elias Iverson,4,data344.txt,70,Email requesting Elias Iverson's health insurance and medical documentation for the new HR system.,malicious,malicious

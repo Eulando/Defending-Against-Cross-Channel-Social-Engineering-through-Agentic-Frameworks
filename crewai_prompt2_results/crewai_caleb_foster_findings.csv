@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Caleb Foster,1,data252.txt,20,Request for confirmation of direct deposit authorization details for Caleb Foster's records during migration to a new HR system.,benign,benign
+Caleb Foster,2,data252.txt,15,Request for Caleb Foster to review and update his home address and personal phone number in the HR system during migration.,benign,benign
+Caleb Foster,3,data252.txt,25,Request for Caleb Foster's background check and screening files during migration to a new HR system.,benign,benign
+Caleb Foster,4,data252.txt,10,Request to transfer Caleb Foster's health insurance and medical documentation into his new HR record during migration.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Orion Hughes,1,data324.txt,75,"The email discusses rephrasing a request for sensitive identity-document details, indicating potential malicious intent.",malicious,malicious
+Orion Hughes,2,data324.txt,40,"The email requests confirmation of Orion Hughes's username and account reset details as part of an HR system migration, indicating a legitimate administrative process.",benign,malicious
+Orion Hughes,3,data324.txt,50,"The email requests confirmation of the security questions on Orion Hughes's account as part of an HR system migration, which could be seen as a legitimate administrative process but raises concerns due to the nature of the request.",benign,malicious
+Orion Hughes,4,data324.txt,60,"The email requests confirmation of direct deposit authorization details for Orion Hughes as part of an HR system migration, which raises concerns about the handling of sensitive financial information.",benign,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bennett Ellis,1,data247.txt,20,Request for salary and bonus figures for Bennett Ellis as part of HR records migration.,benign,benign
+Bennett Ellis,2,data247.txt,30,Request for Bennett Ellis's employment file and emergency contacts as part of HR records migration.,benign,benign
+Bennett Ellis,3,data247.txt,40,Request for Bennett Ellis's username and reset details as part of HR records migration.,benign,benign
+Bennett Ellis,4,data247.txt,35,Request for confirmation of Bennett Ellis's home address and personal phone number as part of HR records migration.,benign,benign

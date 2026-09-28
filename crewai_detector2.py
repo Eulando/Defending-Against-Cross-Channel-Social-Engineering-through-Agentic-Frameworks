@@ -12,7 +12,7 @@ The crew has five agents:
 Each channel agent is assigned exactly one task and a folder-restricted search
 tool. The manager receives the four channel reports and applies the threshold
 rule: any score >= 50 makes the final verdict malicious. If every score is
-below 50, the manager reviews the combined original email text for malicious
+below 50, the manager reviews the combined original email content for malicious
 effects.
 
 Requires OPENAI_API_KEY in the environment.
@@ -38,7 +38,7 @@ ROOT = Path(__file__).resolve().parent
 RESULTS_DIR = ROOT / "crewai_detector2_results"
 VICTIM_NAMES_PATH = ROOT / "victims_200-399.csv"
 CHANNEL_DIRS = ["ind1", "ind2", "ind3", "ind4"]
-DEFAULT_MODEL = "gpt-4o-mini"
+DEFAULT_MODEL = "gpt-5.6-sol"
 DEFAULT_THRESHOLD = 50
 
 
@@ -91,7 +91,8 @@ class ChannelSearchTool(BaseTool):
 class EmailFinding(BaseModel):
     filename: str = Field(..., description="The data file containing the email.")
     score: int = Field(..., ge=0, le=100, description="Maliciousness score.")
-    original_text: str = Field(..., description="Original email text.")
+    summary: str = Field(..., description="Summary of requested information.")
+    original_text: str = Field("", description="Original email text.")
 
 
 class ChannelReport(BaseModel):
@@ -108,10 +109,20 @@ class ManagerReport(BaseModel):
     threshold: int
     final_verdict: Literal["benign", "malicious"]
     threshold_triggered: bool
-    combined_effect_score: int = Field(..., ge=0, le=100)
     combined_effect_review: str
     rationale: str
     channel_reports: list[ChannelReport]
+
+
+MANAGER_REPORT_KEYS = {
+    "victim_name",
+    "threshold",
+    "final_verdict",
+    "threshold_triggered",
+    "combined_effect_review",
+    "rationale",
+    "channel_reports",
+}
 
 
 def data_number(path: Path) -> int:
@@ -160,8 +171,8 @@ def build_channel_agent(
         role=f"Channel {channel_number} Email Analyst",
         goal=(
             f"Search {channel_dir} for emails about the manager-provided victim name, "
-            "score each matching email from 0 to 100, and preserve the original "
-            "email text for manager review."
+            "score each matching email from 0 to 100, and summarize the requested "
+            "information."
         ),
         backstory=(
             "You are a cybersecurity analyst assigned to one communication "
@@ -169,7 +180,7 @@ def build_channel_agent(
             "content in your assigned folder and report concise findings."
         ),
         tools=[ChannelSearchTool(channel_dir)],
-        llm=LLM(model=model, temperature=0),
+        llm=LLM(model=model, api="responses"),
         allow_delegation=False,
         verbose=verbose,
         max_iter=4,
@@ -189,7 +200,7 @@ def build_manager_agent(model: str, verbose: bool) -> Agent:
             "findings, apply the threshold rule, and reason about combined effects "
             "only after all channel reports are available."
         ),
-        llm=LLM(model=model, temperature=0),
+        llm=LLM(model=model, api="responses"),
         allow_delegation=False,
         verbose=verbose,
     )
@@ -206,8 +217,8 @@ def build_channel_task(agent: Agent, channel_number: int, victim_name: str) -> T
             f"Use your search_{channel_dir} tool exactly once with victim_name "
             f'"{victim_name}". Search only {channel_dir}.\n\n'
             "For every matching email, report the file name, a ChatGPT-based "
-            "maliciousness score from 0 to 100, and the complete original email "
-            "text. Score the individual email only; "
+            "maliciousness score from 0 to 100, and a concise summary of the "
+            "information requested in the email. Score the individual email only; "
             "do not combine evidence across channels. Treat 0 as fully benign and "
             "100 as fully malicious.\n\n"
             "If you cannot find any email containing the victim name in your "
@@ -217,51 +228,59 @@ def build_channel_task(agent: Agent, channel_number: int, victim_name: str) -> T
             "50, and a brief rationale."
         ),
         expected_output=(
-            "A structured ChannelReport. Include every matching file. If there "
-            "are no matches, findings must be an empty list, max_score must be "
-            '0, channel_verdict must be benign, and rationale must be '
+            "A valid structured ChannelReport. Include every matching file. "
+            "If there are no matches, findings must be an empty list, max_score "
+            'must be 0, channel_verdict must be benign, and rationale must be '
             '"cannot be found".'
         ),
         agent=agent,
-        output_pydantic=ChannelReport,
     )
 
 
 def build_manager_task(
     manager: Agent,
-    channel_tasks: list[Task],
     victim_name: str,
     threshold: int,
 ) -> Task:
     return Task(
         description=(
-            f"You are the manager. Provide only this victim name to the channel "
-            f"agents: {victim_name}. Do not provide a file name, data subscript, "
-            "scenario number, or location hint. You have called each of the four "
-            "channel agents exactly once and now have their reports.\n\n"
+            f"You are the manager. Coordinate exactly four channel agents for "
+            f"this victim name: {victim_name}.\n\n"
+            "You must call each channel agent exactly once: Channel 1 Email "
+            "Analyst, Channel 2 Email Analyst, Channel 3 Email Analyst, and "
+            "Channel 4 Email Analyst. Do not call any channel agent more than "
+            "once. Give each channel agent only the victim name. Do not provide "
+            "a file name, data subscript, scenario number, or location hint.\n\n"
+            "Each channel agent must search only its assigned ind folder with "
+            "its search tool exactly once, score each matching email from 0 to "
+            "100, and return a ChannelReport with channel, victim_name, "
+            "findings, max_score, channel_verdict, and rationale. Each finding "
+            "must include filename, score, summary, and original_text.\n\n"
+            "After all four channel reports are available, create the final "
+            "ManagerReport yourself.\n\n"
             f"Apply this threshold rule: if any matching email score is {threshold} "
             "or above, final_verdict must be malicious and threshold_triggered "
             "must be true.\n\n"
-            "If every channel verdict is benign and every individual score is "
-            "below the threshold, review the original_text fields from all four "
-            "channel reports together. Assess whether the combined requests or "
-            "combined intent of the original emails create a malicious threat to "
-            "the victim. Assign combined_effect_score from 0 to 100 for that "
-            "combined original text. If that combined_effect_score is at or above "
-            f"{threshold}, final_verdict must be malicious. Otherwise, "
-            "final_verdict must be benign. In this combined-text review case, "
-            "set threshold_triggered to false and explain the combined-effect "
-            "reasoning.\n\n"
-            "Return the final verdict and include the four channel reports."
+            "If every individual score is below the threshold, review the "
+            "original_text fields from all four channel reports together and "
+            "decide whether the combined content or combined intent has "
+            "malicious social-engineering effects. In that case, explain the "
+            "combined-effect reasoning and set threshold_triggered to false. "
+            "Be as conservative as possible to decide whether the combined "
+            "context is benign or malicious.\n\n"
+            "Return only the final ManagerReport as valid JSON. Do not return "
+            "markdown, a Python dict literal, a tool call, or commentary. Use "
+            "double-quoted JSON keys and values only. The top-level JSON fields "
+            "must be exactly victim_name, threshold, final_verdict, "
+            "threshold_triggered, combined_effect_review, rationale, and "
+            "channel_reports."
         ),
         expected_output=(
-            "A valid ManagerReport JSON-compatible object with victim_name, "
-            "threshold, final_verdict, threshold_triggered, combined_effect_score, "
-            "combined_effect_review, rationale, and channel_reports."
+            "Valid JSON matching ManagerReport with victim_name, threshold, "
+            "final_verdict, threshold_triggered, combined_effect_review, "
+            "rationale, and channel_reports. Each channel report must include "
+            "findings with filename, score, summary, and original_text."
         ),
-        agent=manager,
-        context=channel_tasks,
-        output_pydantic=ManagerReport,
     )
 
 
@@ -287,8 +306,8 @@ def write_outputs(
                             "channel": channel_report.channel,
                             "filename": finding.filename,
                             "score": finding.score,
+                            "summary": finding.summary,
                             "channel_verdict": channel_report.channel_verdict,
-                            "combined_effect_score": report.combined_effect_score,
                             "final_verdict": report.final_verdict,
                         }
                     )
@@ -299,8 +318,8 @@ def write_outputs(
                         "channel": channel_report.channel,
                         "filename": "cannot be found",
                         "score": 0,
+                        "summary": "cannot be found",
                         "channel_verdict": "N/A",
-                        "combined_effect_score": report.combined_effect_score,
                         "final_verdict": "N/A",
                     }
                 )
@@ -313,15 +332,20 @@ def write_outputs(
                     "channel",
                     "filename",
                     "score",
+                    "summary",
                     "channel_verdict",
-                    "combined_effect_score",
                     "final_verdict",
                 ],
             )
             writer.writeheader()
             writer.writerows(rows)
     else:
-        json_path.write_text(raw_output + "\n", encoding="utf-8")
+        fallback = {
+            "error": "Manager output could not be parsed as ManagerReport.",
+            "victim_name": victim_name,
+            "raw_output": raw_output,
+        }
+        json_path.write_text(json.dumps(fallback, indent=2) + "\n", encoding="utf-8")
 
     print(f"Report: {json_path.name}")
     if report is not None:
@@ -337,6 +361,41 @@ def dry_run(victim_name: str) -> None:
             print("  cannot be found")
         for match in matches:
             print(f"  {match['filename']}")
+
+
+def normalize_manager_candidate(candidate: dict) -> dict:
+    for channel_report in candidate.get("channel_reports", []):
+        for finding in channel_report.get("findings", []):
+            if "summary" not in finding:
+                original_text = finding.get("original_text", "")
+                finding["summary"] = original_text[:240]
+            finding.setdefault("original_text", "")
+    return candidate
+
+
+def parse_manager_report(raw_output: str) -> ManagerReport | None:
+    decoder = json.JSONDecoder()
+
+    for pos, char in enumerate(raw_output):
+        if char != "{":
+            continue
+
+        try:
+            candidate, _ = decoder.raw_decode(raw_output[pos:])
+        except json.JSONDecodeError:
+            continue
+
+        if not isinstance(candidate, dict):
+            continue
+        if not MANAGER_REPORT_KEYS.issubset(candidate):
+            continue
+
+        try:
+            return ManagerReport.model_validate(normalize_manager_candidate(candidate))
+        except ValueError:
+            continue
+
+    return None
 
 
 def run_detector(
@@ -358,20 +417,15 @@ def run_detector(
     ]
     manager = build_manager_agent(model, verbose)
 
-    channel_tasks = [
-        build_channel_task(agent, channel_number, victim_name)
-        for channel_number, agent in enumerate(channel_agents, start=1)
-    ]
     manager_task = build_manager_task(
         manager,
-        channel_tasks,
         victim_name,
         threshold,
     )
 
     crew = Crew(
         agents=channel_agents,
-        tasks=[*channel_tasks, manager_task],
+        tasks=[manager_task],
         process=Process.hierarchical,
         manager_agent=manager,
         verbose=verbose,
@@ -379,13 +433,12 @@ def run_detector(
     )
 
     result = crew.kickoff()
-    report = result.pydantic if isinstance(result.pydantic, ManagerReport) else None
+    report = parse_manager_report(result.raw)
     write_outputs(report, result.raw, victim_name)
 
     if report is not None:
         print(f"Final verdict: {report.final_verdict}")
         print(f"Threshold triggered: {report.threshold_triggered}")
-        print(f"Combined effect score: {report.combined_effect_score}")
         for channel_report in report.channel_reports:
             if not channel_report.findings:
                 print(f"channel{channel_report.channel}: cannot be found")

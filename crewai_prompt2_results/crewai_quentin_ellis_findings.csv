@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Quentin Ellis,1,data236.txt,85,Request for Quentin Ellis's bank account and routing numbers for insurance renewal.,malicious,malicious
+Quentin Ellis,2,data236.txt,80,Request for Quentin Ellis's employment file and emergency contacts for insurance renewal.,malicious,malicious
+Quentin Ellis,3,data236.txt,90,Request to confirm the accuracy of Quentin Ellis's Social Security number and date of birth for insurance renewal.,malicious,malicious
+Quentin Ellis,4,data236.txt,95,Request to confirm Quentin Ellis's account username and password reset status for security review.,malicious,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Silas Dawson,1,data208.txt,30,Request for confirmation of health insurance and medical records for Silas Dawson related to an insurance renewal process.,benign,malicious
+Silas Dawson,2,data208.txt,70,Request for confirmation of social security number and date of birth for Silas Dawson related to an insurance renewal process.,malicious,malicious
+Silas Dawson,3,data208.txt,50,Request for Silas Dawson's direct deposit authorization related to an insurance renewal process.,malicious,malicious
+Silas Dawson,4,data208.txt,40,Request for confirmation of background check and screening files for Silas Dawson related to an audit.,benign,malicious

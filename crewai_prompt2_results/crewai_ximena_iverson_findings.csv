@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Ximena Iverson,1,data363.txt,30,Request for confirmation of salary and bonus details for Ximena Iverson as part of a routine background verification.,benign,benign
+Ximena Iverson,2,data363.txt,30,Request for confirmation of Ximena Iverson's account username and details regarding password-reset activity as part of a routine background verification.,benign,benign
+Ximena Iverson,3,data363.txt,30,Request for review of Ximena Iverson's social security number and date of birth for a routine background verification and audit.,benign,benign
+Ximena Iverson,4,data363.txt,30,Request for confirmation of health insurance and medical records for Ximena Iverson as part of a routine background verification.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Yara Foster,1,data274.txt,30,Request for Yara Foster's badge details and entry history for insurance renewal.,benign,benign
+Yara Foster,2,data274.txt,30,Request for confirmation of direct deposit authorization details for Yara Foster's payroll accounts.,benign,benign
+Yara Foster,3,data274.txt,30,Request to confirm Yara Foster's current direct deposit details for insurance renewal.,benign,benign
+Yara Foster,4,data274.txt,30,Request to verify the status of account recovery questions for Yara Foster's account as part of the insurance renewal process.,benign,benign

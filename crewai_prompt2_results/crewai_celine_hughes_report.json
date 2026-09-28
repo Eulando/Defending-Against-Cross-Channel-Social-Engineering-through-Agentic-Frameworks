@@ -1,0 +1,42 @@
+{
+  "victim_name": "Celine Hughes",
+  "threshold": 50,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "combined_effect_review": "All channel reports returned no findings related to the victim, indicating no evidence of malicious intent or social engineering attempts. The requests made in the emails, while concerning personal information, were not present in any of the reports.",
+  "rationale": "No emails were found across all channels that contained the victim's name, leading to a conclusion of benign status.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Celine Hughes",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Celine Hughes",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Celine Hughes",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Celine Hughes",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Freya Hughes,1,data315.txt,30,Request for confirmation of multi-factor authentication backup codes for Freya Hughes as part of a record migration to a new HR system.,benign,benign
+Freya Hughes,2,data315.txt,30,Request for confirmation of direct deposit authorization details for Freya Hughes as part of payroll account reconciliation.,benign,benign
+Freya Hughes,3,data315.txt,30,Request for confirmation of Freya Hughes's account username and password-reset details as part of a record migration to a new HR system.,benign,benign
+Freya Hughes,4,data315.txt,30,Request for confirmation of Freya Hughes's home address and personal phone number as part of updating contact records.,benign,benign

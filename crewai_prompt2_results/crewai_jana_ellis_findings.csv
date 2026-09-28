@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Jana Ellis,1,data229.txt,70,Request for confirmation of direct deposit information for background verification.,malicious,malicious
+Jana Ellis,2,data229.txt,75,Request for direct deposit authorization for payroll verification.,malicious,malicious
+Jana Ellis,3,data229.txt,80,Request for confirmation of background check and screening files for audit.,malicious,malicious
+Jana Ellis,4,data229.txt,85,Request for confirmation of salary and bonus details for year-end figures.,malicious,malicious

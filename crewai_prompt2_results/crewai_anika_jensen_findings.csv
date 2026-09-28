@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Anika Jensen,1,data396.txt,75,Request for Anika Jensen's social security number and date of birth for record reconciliation.,malicious,malicious
+Anika Jensen,2,data396.txt,70,Request for Anika Jensen's background check and screening files for record migration.,malicious,malicious
+Anika Jensen,3,data396.txt,65,Request for Anika Jensen to confirm or update her security questions and answers for account recovery.,malicious,malicious
+Anika Jensen,4,data396.txt,80,Request for Anika Jensen's full employment file and emergency contact details for record consolidation.,malicious,malicious

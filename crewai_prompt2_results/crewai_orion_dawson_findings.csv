@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Orion Dawson,1,data204.txt,20,Request for confirmation of salary and bonus details for background verification.,benign,benign
+Orion Dawson,2,data204.txt,25,Request for confirmation of home address and personal phone number for background verification.,benign,benign
+Orion Dawson,3,data204.txt,30,Request for validation of driver's license and passport information for background verification.,benign,benign
+Orion Dawson,4,data204.txt,35,Request for confirmation of multi-factor authentication recovery options for Orion's account.,benign,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Vera Hughes,1,data331.txt,30,Request for confirmation of health insurance and medical records for background verification.,benign,malicious
+Vera Hughes,2,data331.txt,40,Request to confirm the status of direct deposit information for background verification.,benign,malicious
+Vera Hughes,3,data331.txt,50,Request to confirm the accuracy of identifying information in the authorized personnel record for background verification.,malicious,malicious
+Vera Hughes,4,data331.txt,70,"Request to confirm account access details, including username and reset information for background verification.",malicious,malicious

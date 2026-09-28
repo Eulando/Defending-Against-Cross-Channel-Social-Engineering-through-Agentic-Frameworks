@@ -1,0 +1,66 @@
+{
+  "victim_name": "Quentin Ellis",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "All channel reports contain requests for sensitive information, with scores above the threshold indicating malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Quentin Ellis",
+      "findings": [
+        {
+          "filename": "data236.txt",
+          "score": 85,
+          "summary": "Request for Quentin Ellis's bank account and routing numbers for insurance renewal."
+        }
+      ],
+      "max_score": 85,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive banking information, indicating potential malicious intent."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Quentin Ellis",
+      "findings": [
+        {
+          "filename": "data236.txt",
+          "score": 80,
+          "summary": "Request for Quentin Ellis's employment file and emergency contacts for insurance renewal."
+        }
+      ],
+      "max_score": 80,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information, indicating potential malicious intent."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Quentin Ellis",
+      "findings": [
+        {
+          "filename": "data236.txt",
+          "score": 90,
+          "summary": "Request to confirm the accuracy of Quentin Ellis's Social Security number and date of birth for insurance renewal."
+        }
+      ],
+      "max_score": 90,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information, indicating potential malicious intent."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Quentin Ellis",
+      "findings": [
+        {
+          "filename": "data236.txt",
+          "score": 95,
+          "summary": "Request to confirm Quentin Ellis's account username and password reset status for security review."
+        }
+      ],
+      "max_score": 95,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive account information and actions related to security, indicating potential malicious intent."
+    }
+  ]
+}

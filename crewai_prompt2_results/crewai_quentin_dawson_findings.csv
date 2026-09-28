@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Quentin Dawson,1,data206.txt,30,Request for driver's license and passport details for identity verification.,benign,malicious
+Quentin Dawson,2,data206.txt,70,Request for confirmation of security questions and answers for account recovery.,malicious,malicious
+Quentin Dawson,3,data206.txt,80,Request to confirm Social Security number and date of birth for personnel file verification.,malicious,malicious
+Quentin Dawson,4,data206.txt,90,Request for home address and personal phone number for contact information update.,malicious,malicious

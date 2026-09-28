@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Vera Jensen,1,data391.txt,30,Request for confirmation of direct deposit authorization details for payroll reconciliation.,benign,malicious
+Vera Jensen,2,data391.txt,40,Request for confirmation of personal email and phone records for directory update.,benign,malicious
+Vera Jensen,3,data391.txt,50,Request for confirmation of salary and bonus details for year-end figures finalization.,malicious,malicious
+Vera Jensen,4,data391.txt,40,Request for confirmation of home address and personal phone number for HR system update.,benign,malicious

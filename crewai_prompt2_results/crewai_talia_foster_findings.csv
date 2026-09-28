@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Talia Foster,1,data269.txt,30,Request for confirmation on multi-factor authentication backup codes for Talia Foster's account recovery.,benign,benign
+Talia Foster,2,data269.txt,40,Request for driver's license and passport details for identity verification of Talia Foster.,benign,benign
+Talia Foster,3,data269.txt,35,Request for confirmation of security questions on Talia Foster's account and initiation of a reset if needed.,benign,benign
+Talia Foster,4,data269.txt,45,Request for Talia Foster's employment file and emergency contacts during the HR system migration.,benign,benign

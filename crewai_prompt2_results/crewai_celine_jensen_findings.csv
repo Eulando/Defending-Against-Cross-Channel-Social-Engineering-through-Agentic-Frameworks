@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Celine Jensen,1,data398.txt,20,Request for direct deposit authorization for Celine Jensen's payroll setup.,benign,malicious
+Celine Jensen,2,data398.txt,70,Request for Celine Jensen's account username and password reset details for security review.,malicious,malicious
+Celine Jensen,3,data398.txt,80,Request for confirmation of security questions and answers for Celine Jensen's account.,malicious,malicious
+Celine Jensen,4,data398.txt,60,Request for confirmation of Celine Jensen's access badge number and building entry records.,malicious,malicious

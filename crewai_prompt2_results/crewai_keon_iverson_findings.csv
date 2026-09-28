@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Keon Iverson,1,data350.txt,20,Request for confirmation of Keon Iverson's Social Security number and date of birth for HR system migration.,benign,benign
+Keon Iverson,2,data350.txt,25,Request for Keon Iverson's direct deposit authorization for payroll setup verification.,benign,benign
+Keon Iverson,3,data350.txt,30,Request for confirmation of Keon Iverson's personal email and phone records for directory update.,benign,benign
+Keon Iverson,4,data350.txt,35,Request for confirmation of Keon Iverson's current home address and personal phone number for HR record update.,benign,benign

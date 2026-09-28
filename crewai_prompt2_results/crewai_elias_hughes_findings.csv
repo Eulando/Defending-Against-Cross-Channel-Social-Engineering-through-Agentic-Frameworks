@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Elias Hughes,1,data314.txt,20,Request for confirmation of access badge number and building entry records for Elias Hughes as part of HR system migration.,benign,benign
+Elias Hughes,2,data314.txt,30,Request for health insurance and medical documentation for Elias Hughes as part of HR system migration.,benign,benign
+Elias Hughes,3,data314.txt,25,Request for Elias Hughes's full employment file and emergency contact details as part of HR system migration.,benign,benign
+Elias Hughes,4,data314.txt,35,Request for verification of Elias Hughes's direct deposit details as part of HR system migration.,benign,benign

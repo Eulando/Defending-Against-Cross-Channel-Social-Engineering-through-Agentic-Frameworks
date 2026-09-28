@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Noelle Ellis,1,data233.txt,20,Request for confirmation of direct deposit authorization details for Noelle Ellis as part of HR system migration.,benign,malicious
+Noelle Ellis,2,data233.txt,75,Request for Noelle Ellis's driver's license and passport details as part of identity record validation.,malicious,malicious
+Noelle Ellis,3,data233.txt,50,Request for confirmation of health insurance and medical records for Noelle Ellis as part of coverage validation.,malicious,malicious
+Noelle Ellis,4,data233.txt,60,Request for confirmation of personal email and phone records for Noelle Ellis as part of directory updates.,malicious,malicious

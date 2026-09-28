@@ -1,0 +1,48 @@
+{
+  "victim_name": "Zane Ellis",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "The email from channel 4 has a score of 70, which exceeds the threshold of 50, indicating potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Zane Ellis",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Zane Ellis",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Zane Ellis",
+      "findings": [],
+      "max_score": 0,
+      "channel_verdict": "benign",
+      "rationale": "cannot be found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Zane Ellis",
+      "findings": [
+        {
+          "filename": "data245.txt",
+          "score": 70,
+          "summary": "The email from Cameron, a Records Manager at Brightline Media, requests confirmation of Zane Ellis's driver\u2019s license and passport details for a routine background verification. While the email does not convey urgency or malicious intent, the request for sensitive personal information raises concerns about potential phishing or data misuse."
+        }
+      ],
+      "max_score": 70,
+      "channel_verdict": "malicious",
+      "rationale": "The request for sensitive personal information raises concerns about potential phishing or data misuse."
+    }
+  ]
+}

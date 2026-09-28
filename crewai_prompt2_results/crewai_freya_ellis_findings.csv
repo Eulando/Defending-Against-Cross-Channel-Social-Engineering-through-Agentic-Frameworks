@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Freya Ellis,1,data225.txt,20,Request to confirm bank account and routing numbers for Freya Ellis's account as part of insurance renewal and payroll reconciliation.,benign,benign
+Freya Ellis,2,data225.txt,30,Request for driver's license and passport details for Freya Ellis's account verification as part of the insurance renewal process.,benign,benign
+Freya Ellis,3,data225.txt,25,Request to confirm personal email and phone records for Freya Ellis's account as part of the insurance renewal process.,benign,benign
+Freya Ellis,4,data225.txt,35,Request to share Freya Ellis's employment file and emergency contacts as part of the personnel data consolidation for the insurance renewal process.,benign,benign

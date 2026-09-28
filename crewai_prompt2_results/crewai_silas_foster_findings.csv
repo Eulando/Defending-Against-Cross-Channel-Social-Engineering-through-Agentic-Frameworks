@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Silas Foster,1,data268.txt,20,Request for confirmation of home address and personal phone number for Silas Foster's account update.,benign,malicious
+Silas Foster,2,data268.txt,40,Request for Silas Foster's employment file and emergency contacts for account review.,benign,malicious
+Silas Foster,3,data268.txt,50,Request for Silas Foster's direct deposit authorization for payroll verification.,malicious,malicious
+Silas Foster,4,data268.txt,70,Request for Silas Foster's driver's license and passport details for identity verification.,malicious,malicious

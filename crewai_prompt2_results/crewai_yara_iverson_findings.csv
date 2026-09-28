@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Yara Iverson,1,data364.txt,20,Request for confirmation of bank account and routing numbers for Yara Iverson's records migration.,benign,benign
+Yara Iverson,2,data364.txt,20,Request for account review related to Yara Iverson's records migration.,benign,benign
+Yara Iverson,3,data364.txt,30,Request for Yara Iverson's salary and bonus figures for records reconciliation.,benign,benign
+Yara Iverson,4,data364.txt,40,Request for Yara Iverson's employment file and emergency contacts for personnel data consolidation.,benign,benign

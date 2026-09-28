@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Vera Ellis,1,data241.txt,30,Request for confirmation of username and verification of account access for Vera Ellis's records migration.,benign,benign
+Vera Ellis,2,data241.txt,30,Request for confirmation of background check and screening files for Vera Ellis's records migration.,benign,benign
+Vera Ellis,3,data241.txt,30,Request for verification of multi-factor authentication recovery options for Vera Ellis's account.,benign,benign
+Vera Ellis,4,data241.txt,30,Request for confirmation of direct deposit authorization details for Vera Ellis's payroll accounts reconciliation.,benign,benign

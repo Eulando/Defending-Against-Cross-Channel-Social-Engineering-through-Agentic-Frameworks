@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Dorian Garcia,1,data309.txt,20,Request for confirmation of direct deposit authorization details for Dorian Garcia related to payroll reconciliation.,benign,benign
+Dorian Garcia,2,data309.txt,25,Request for confirmation of home address and personal phone number for Dorian Garcia related to updating contact records.,benign,benign
+Dorian Garcia,3,data309.txt,30,Request for confirmation of access badge number and building entry records for Dorian Garcia related to access validation.,benign,benign
+Dorian Garcia,4,data309.txt,35,Request for confirmation of bank account and routing numbers for Dorian Garcia related to payroll reconciliation.,benign,benign

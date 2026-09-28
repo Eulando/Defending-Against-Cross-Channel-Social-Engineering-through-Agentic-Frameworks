@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Gavin Hughes,1,data316.txt,20,Request for confirmation of personal email and phone records for Gavin Hughes for directory update.,benign,benign
+Gavin Hughes,2,data316.txt,25,Request for confirmation of health insurance and medical records for Gavin Hughes for coverage validation.,benign,benign
+Gavin Hughes,3,data316.txt,30,Request for confirmation of background check and screening files for Gavin Hughes for audit review.,benign,benign
+Gavin Hughes,4,data316.txt,35,Request for confirmation of direct deposit authorization for Gavin Hughes for payroll verification.,benign,benign

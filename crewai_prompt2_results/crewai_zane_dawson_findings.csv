@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Zane Dawson,1,data215.txt,20,Request for confirmation of health insurance and medical records for Zane Dawson for year-end reconciliation.,benign,malicious
+Zane Dawson,2,data215.txt,30,Request for Zane Dawson's badge details and entry history for year-end reconciliation.,benign,malicious
+Zane Dawson,3,data215.txt,50,Request for Zane Dawson's account username and password-reset details for year-end reconciliation.,malicious,malicious
+Zane Dawson,4,data215.txt,60,Request for Zane Dawson's personal email and phone number for directory record updates.,malicious,malicious

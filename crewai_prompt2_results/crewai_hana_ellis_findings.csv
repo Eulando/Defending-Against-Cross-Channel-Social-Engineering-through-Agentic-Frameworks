@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Hana Ellis,1,cannot be found,0,cannot be found,N/A,N/A
+Hana Ellis,2,data227.txt,10,Request for confirmation of salary and bonus details for year-end reconciliation.,benign,malicious
+Hana Ellis,3,data227.txt,15,Request for verification of multi-factor authentication recovery options for Hana Ellis's account.,benign,malicious
+Hana Ellis,4,data227.txt,80,Request for Hana Ellis's home address and personal phone number for year-end reconciliation.,malicious,malicious

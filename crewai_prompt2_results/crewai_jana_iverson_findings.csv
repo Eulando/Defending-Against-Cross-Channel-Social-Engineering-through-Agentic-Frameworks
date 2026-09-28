@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Jana Iverson,1,data349.txt,75,"Request for validation of Jana Iverson's personnel records, specifically asking for driver's license and passport details to be uploaded to a secure system.",malicious,malicious
+Jana Iverson,2,data349.txt,80,"Request for Jana Iverson's background check and screening files for a compliance audit, indicating urgency.",malicious,malicious
+Jana Iverson,3,data349.txt,85,"Request for Jana Iverson's direct deposit authorization for payroll verification, indicating urgency.",malicious,malicious
+Jana Iverson,4,data349.txt,70,"Request for confirmation of Jana Iverson's direct deposit information for a compliance audit, without needing to disclose sensitive details.",malicious,malicious

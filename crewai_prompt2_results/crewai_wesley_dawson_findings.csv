@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Wesley Dawson,1,data212.txt,20,Request for driver's license and passport details for identity verification related to insurance renewal.,benign,benign
+Wesley Dawson,2,data212.txt,30,Request for confirmation of security questions and answers for account recovery related to insurance renewal.,benign,benign
+Wesley Dawson,3,data212.txt,25,Request for confirmation of direct deposit authorization details for payroll reconciliation related to insurance renewal.,benign,benign
+Wesley Dawson,4,data212.txt,40,Request for account username and password-reset activity details related to insurance renewal and security review.,benign,benign

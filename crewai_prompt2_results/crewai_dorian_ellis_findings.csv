@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Dorian Ellis,1,data249.txt,20,Request for Dorian to review and update bank account details for insurance renewal.,benign,malicious
+Dorian Ellis,2,data249.txt,70,Request for account username and access-log entries related to Dorian's account for security review.,malicious,malicious
+Dorian Ellis,3,data249.txt,60,Request for Dorian's salary and bonus figures for the insurance renewal process.,malicious,malicious
+Dorian Ellis,4,data249.txt,80,Request for Dorian's badge details and entry history for physical access records.,malicious,malicious

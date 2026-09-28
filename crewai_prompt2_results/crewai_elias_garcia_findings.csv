@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Elias Garcia,1,data284.txt,10,Request for confirmation of personal email and phone records for Elias Garcia for directory update.,benign,malicious
+Elias Garcia,2,data284.txt,60,Request for confirmation of account username and password reset details for Elias Garcia for security review.,malicious,malicious
+Elias Garcia,3,data284.txt,70,Request for confirmation of access badge number and building entry records for Elias Garcia for access validation.,malicious,malicious
+Elias Garcia,4,data284.txt,80,Request for confirmation of Social Security number and date of birth for Elias Garcia for records review.,malicious,malicious

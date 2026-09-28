@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Celine Garcia,1,data308.txt,20,Request for background verification details regarding Celine Garcia's badge and entry history.,benign,benign
+Celine Garcia,2,data308.txt,20,Request for background verification details regarding Celine Garcia's employment file and emergency contacts.,benign,benign
+Celine Garcia,3,data308.txt,20,Request for verification status regarding Celine Garcia's personnel records for an audit.,benign,benign
+Celine Garcia,4,data308.txt,20,Request for confirmation of bank account and routing information for Celine Garcia's payroll reconciliation.,benign,benign

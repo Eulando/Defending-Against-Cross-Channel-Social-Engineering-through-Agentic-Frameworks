@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Keon Dawson,1,data200.txt,30,Request for confirmation of bank account and routing numbers for payroll.,benign,malicious
+Keon Dawson,2,data200.txt,30,Request for confirmation of access badge number and building entry records for insurance renewal.,benign,malicious
+Keon Dawson,3,data200.txt,40,Request for confirmation of security questions and answers for account recovery settings.,benign,malicious
+Keon Dawson,4,data200.txt,50,Request for background check and screening files for insurance renewal.,malicious,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Uri Jensen,1,data390.txt,20,Request for Uri Jensen's employment file and emergency contacts for compliance audit.,benign,benign
+Uri Jensen,2,data390.txt,30,Request to review bank account and routing numbers for Uri Jensen for payroll reconciliation.,benign,benign
+Uri Jensen,3,data390.txt,25,Request to confirm security questions on Uri Jensen's account for compliance audit.,benign,benign
+Uri Jensen,4,data390.txt,35,Request for Uri Jensen's background check and screening files for compliance audit.,benign,benign

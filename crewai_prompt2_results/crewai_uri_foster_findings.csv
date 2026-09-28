@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Uri Foster,1,data270.txt,20,Request for confirmation on multi-factor authentication backup codes for Uri Foster's personnel records.,benign,malicious
+Uri Foster,2,data270.txt,80,Request for Uri Foster's bank account and routing numbers for compliance audit.,malicious,malicious
+Uri Foster,3,data270.txt,70,Request for Uri Foster's username and account reset for compliance audit.,malicious,malicious
+Uri Foster,4,data270.txt,75,Request for Uri Foster's direct deposit authorization for compliance audit.,malicious,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Bianca Iverson,1,data341.txt,30,Request for personnel records and account information for compliance audit.,benign,benign
+Bianca Iverson,2,data341.txt,40,Request for confirmation of multi-factor authentication and backup recovery codes for account recovery review.,benign,benign
+Bianca Iverson,3,data341.txt,35,Request for badge details and entry history for physical access records related to compliance audit.,benign,benign
+Bianca Iverson,4,data341.txt,45,Request for confirmation of direct deposit authorization details for payroll reconciliation.,benign,benign

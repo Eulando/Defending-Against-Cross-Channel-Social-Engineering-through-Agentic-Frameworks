@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Zane Iverson,1,data365.txt,30,Request for Zane Iverson's employment file and emergency contacts for insurance renewal.,benign,benign
+Zane Iverson,2,data365.txt,40,Request for Zane Iverson's badge details and entry history for insurance renewal.,benign,benign
+Zane Iverson,3,data365.txt,35,Request for confirmation of Zane Iverson's personal email and phone records for directory update.,benign,benign
+Zane Iverson,4,data365.txt,45,Request for confirmation of Zane Iverson's salary and bonus details for year-end figures.,benign,benign

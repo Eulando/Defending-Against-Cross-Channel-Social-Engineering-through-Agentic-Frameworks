@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Keon Garcia,1,data290.txt,20,Request for confirmation of direct deposit authorization details for Keon Garcia related to payroll reconciliation.,benign,benign
+Keon Garcia,2,data290.txt,25,Request for confirmation of personal email and phone records for Keon Garcia related to directory updates.,benign,benign
+Keon Garcia,3,data290.txt,30,Request for confirmation of Keon Garcia's current home address and personal phone number for contact information updates.,benign,benign
+Keon Garcia,4,data290.txt,35,Request for confirmation of the status of multi-factor authentication backup codes for Keon Garcia related to account recovery.,benign,benign

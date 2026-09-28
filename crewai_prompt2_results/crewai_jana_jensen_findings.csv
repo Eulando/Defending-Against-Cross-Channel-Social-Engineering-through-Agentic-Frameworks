@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Jana Jensen,1,data379.txt,80,Request for sensitive identity information (driver's license and passport details) for Jana Jensen as part of an insurance renewal process.,malicious,malicious
+Jana Jensen,2,data379.txt,70,Request for confirmation of Jana Jensen's username and reset details for an insurance renewal audit.,malicious,malicious
+Jana Jensen,3,data379.txt,75,Request for confirmation of background check and screening files for Jana Jensen as part of the insurance renewal process.,malicious,malicious
+Jana Jensen,4,data379.txt,85,Request for health insurance and medical documentation for Jana Jensen as part of the insurance renewal process.,malicious,malicious

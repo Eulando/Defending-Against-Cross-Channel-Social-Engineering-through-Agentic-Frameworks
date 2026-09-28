@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Jana Hughes,1,data319.txt,20,The email discusses reviewing Jana Hughes's account for insurance renewal and requests confirmation on account recovery settings.,benign,malicious
+Jana Hughes,2,data319.txt,25,The email requests confirmation of personal email and phone records for Jana Hughes as part of the insurance renewal process.,benign,malicious
+Jana Hughes,3,data319.txt,60,The email requests confirmation of Jana Hughes's Social Security number and date of birth for the insurance renewal process.,malicious,malicious
+Jana Hughes,4,data319.txt,55,The email requests Jana Hughes's employment file and emergency contacts as part of the insurance renewal process.,malicious,malicious

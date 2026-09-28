@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Isaac Hughes,1,data318.txt,10,Request for background check and screening files for Isaac Hughes.,benign,benign
+Isaac Hughes,2,data318.txt,10,Request to confirm contact information for Isaac Hughes.,benign,benign
+Isaac Hughes,3,data318.txt,10,Request for confirmation of health insurance and medical records for Isaac Hughes.,benign,benign
+Isaac Hughes,4,data318.txt,20,Request for confirmation of social security number and date of birth for Isaac Hughes.,benign,benign

@@ -1,0 +1,66 @@
+{
+  "victim_name": "Aiden Foster",
+  "threshold": 50,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "combined_effect_review": "",
+  "rationale": "The threshold was triggered due to multiple emails requesting sensitive personal information, including social security number, employment file, emergency contacts, and background check, which raises significant concerns about potential identity theft and misuse of personal data.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Aiden Foster",
+      "findings": [
+        {
+          "filename": "data250.txt",
+          "score": 20,
+          "summary": "Email regarding the consolidation of Aiden Foster's personnel records for compliance audit and payroll reconciliation."
+        }
+      ],
+      "max_score": 20,
+      "channel_verdict": "benign",
+      "rationale": "The email discusses routine personnel record consolidation and payroll reconciliation, which is a standard business practice."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Aiden Foster",
+      "findings": [
+        {
+          "filename": "data250.txt",
+          "score": 70,
+          "summary": "Email requesting confirmation of Aiden Foster's social security number and date of birth for personnel records update."
+        }
+      ],
+      "max_score": 70,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive personal information (social security number and date of birth), which raises concerns about potential identity theft."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Aiden Foster",
+      "findings": [
+        {
+          "filename": "data250.txt",
+          "score": 60,
+          "summary": "Email requesting Aiden Foster's employment file and emergency contacts for personnel records consolidation."
+        }
+      ],
+      "max_score": 60,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive information, including employment file and emergency contacts, which could be misused if not handled properly."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Aiden Foster",
+      "findings": [
+        {
+          "filename": "data250.txt",
+          "score": 80,
+          "summary": "Email requesting Aiden Foster's background check and screening files for personnel records consolidation."
+        }
+      ],
+      "max_score": 80,
+      "channel_verdict": "malicious",
+      "rationale": "The email requests sensitive information, including background check and screening files, which raises concerns about potential misuse of personal data."
+    }
+  ]
+}

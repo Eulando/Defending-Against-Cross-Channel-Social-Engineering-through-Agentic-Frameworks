@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Caleb Hughes,1,data312.txt,20,Request for confirmation of background check and screening files for compliance audit.,benign,benign
+Caleb Hughes,2,data312.txt,25,Request for direct deposit authorization for payroll verification related to compliance audit.,benign,benign
+Caleb Hughes,3,data312.txt,30,Request to confirm and update security questions associated with Caleb Hughes's account for compliance audit.,benign,benign
+Caleb Hughes,4,data312.txt,35,Request to reconcile Social Security number and date of birth for Caleb Hughes's personnel records related to compliance audit.,benign,benign

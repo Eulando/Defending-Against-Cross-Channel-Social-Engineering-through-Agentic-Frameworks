@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Noelle Hughes,1,data323.txt,20,Request for confirmation of salary and bonus details for Noelle Hughes for compliance audit.,benign,malicious
+Noelle Hughes,2,data323.txt,15,Request for Noelle Hughes to review and update her personal email address and phone number for compliance audit.,benign,malicious
+Noelle Hughes,3,data323.txt,70,Request for confirmation of security questions and answers for Noelle Hughes's account for account recovery settings.,malicious,malicious
+Noelle Hughes,4,data323.txt,80,Request for confirmation of Social Security number and date of birth for Noelle Hughes's personnel file.,malicious,malicious

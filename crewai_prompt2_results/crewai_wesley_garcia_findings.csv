@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Wesley Garcia,1,data302.txt,30,Request to verify direct-deposit details for compliance audit.,benign,benign
+Wesley Garcia,2,data302.txt,40,Request to confirm security questions for account review.,benign,benign
+Wesley Garcia,3,data302.txt,35,Request for full employment file and emergency contact details.,benign,benign
+Wesley Garcia,4,data302.txt,45,Request to confirm salary and bonus details for year-end figures.,benign,benign

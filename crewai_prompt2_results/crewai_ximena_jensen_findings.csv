@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,summary,channel_verdict,final_verdict
+Ximena Jensen,1,data393.txt,30,Request for confirmation of salary and bonus details for insurance renewal.,benign,malicious
+Ximena Jensen,2,data393.txt,40,Request for confirmation of access badge number and building entry records for account review.,benign,malicious
+Ximena Jensen,3,data393.txt,50,Request for background check and screening files for account review.,malicious,malicious
+Ximena Jensen,4,data393.txt,80,Request for home address and personal phone number for account review.,malicious,malicious
