@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,channel_verdict,combined_effect_score,final_verdict
+Keon Dawson,1,data200.txt,20,benign,40,benign
+Keon Dawson,2,data200.txt,25,benign,40,benign
+Keon Dawson,3,data200.txt,30,benign,40,benign
+Keon Dawson,4,data200.txt,35,benign,40,benign

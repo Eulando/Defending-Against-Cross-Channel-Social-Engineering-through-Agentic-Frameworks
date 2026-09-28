@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,channel_verdict,combined_effect_score,final_verdict
+Mateo Dawson,1,data202.txt,20,benign,25,benign
+Mateo Dawson,2,data202.txt,15,benign,25,benign
+Mateo Dawson,3,data202.txt,40,benign,25,benign
+Mateo Dawson,4,data202.txt,25,benign,25,benign

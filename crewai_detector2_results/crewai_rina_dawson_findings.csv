@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,channel_verdict,combined_effect_score,final_verdict
+Rina Dawson,1,data207.txt,85,malicious,0,malicious
+Rina Dawson,2,data207.txt,75,malicious,0,malicious
+Rina Dawson,3,cannot be found,0,N/A,0,N/A
+Rina Dawson,4,cannot be found,0,N/A,0,N/A

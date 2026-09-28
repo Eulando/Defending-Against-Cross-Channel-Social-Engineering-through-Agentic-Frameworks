@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,channel_verdict,combined_effect_score,final_verdict
+Paula Dawson,1,data205.txt,85,malicious,0,malicious
+Paula Dawson,2,data205.txt,75,malicious,0,malicious
+Paula Dawson,3,data205.txt,85,malicious,0,malicious
+Paula Dawson,4,data205.txt,75,malicious,0,malicious

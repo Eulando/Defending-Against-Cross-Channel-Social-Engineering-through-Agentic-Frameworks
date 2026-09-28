@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,channel_verdict,combined_effect_score,final_verdict
+Quentin Dawson,1,data206.txt,20,benign,30,benign
+Quentin Dawson,2,data206.txt,25,benign,30,benign
+Quentin Dawson,3,data206.txt,30,benign,30,benign
+Quentin Dawson,4,data206.txt,35,benign,30,benign

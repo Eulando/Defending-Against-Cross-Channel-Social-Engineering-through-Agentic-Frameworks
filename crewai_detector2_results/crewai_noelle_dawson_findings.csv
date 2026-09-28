@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,channel_verdict,combined_effect_score,final_verdict
+Noelle Dawson,1,data203.txt,30,benign,0,benign
+Noelle Dawson,2,data203.txt,40,benign,0,benign
+Noelle Dawson,3,cannot be found,0,N/A,0,N/A
+Noelle Dawson,4,cannot be found,0,N/A,0,N/A

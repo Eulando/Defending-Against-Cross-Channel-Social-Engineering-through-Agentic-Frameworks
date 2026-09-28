@@ -1,0 +1,5 @@
+victim_name,channel,filename,score,channel_verdict,combined_effect_score,final_verdict
+Orion Dawson,1,data204.txt,10,benign,10,benign
+Orion Dawson,2,data204.txt,10,benign,10,benign
+Orion Dawson,3,data204.txt,10,benign,10,benign
+Orion Dawson,4,data204.txt,10,benign,10,benign
