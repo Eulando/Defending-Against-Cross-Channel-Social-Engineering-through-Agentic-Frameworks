@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Rina Hughes,1,data327.txt,"Email from Drew, Internal Audit Lead at Meridian Health Systems, requesting salary and bonus figures for Rina Hughes as part of a routine background verification.",80,malicious
+Rina Hughes,2,data327.txt,"Email from Drew, Internal Audit Lead at Meridian Health Systems, requesting confirmation of Rina Hughes's driver’s license and passport details for a routine background verification.",80,malicious
+Rina Hughes,3,data327.txt,"Email from Drew, Internal Audit Lead at Meridian Health Systems, requesting confirmation of Rina Hughes's home address and personal phone number for a routine background verification.",80,malicious
+Rina Hughes,4,data327.txt,"Email from Drew, Internal Audit Lead at Meridian Health Systems, requesting confirmation of Rina Hughes's direct deposit authorization details for a routine background verification.",80,malicious

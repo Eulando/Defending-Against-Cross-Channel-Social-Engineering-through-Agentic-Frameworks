@@ -1,0 +1,54 @@
+{
+  "victim_name": "Paula Jensen",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal information related to the victim's account, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Paula Jensen",
+      "findings": [
+        {
+          "filename": "data385.txt",
+          "channel_summary": "Email from Drew, Internal Audit Lead at Velocity Motors, requesting Paula Jensen's home address and personal phone number for the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to the victim's account review."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Paula Jensen",
+      "findings": [
+        {
+          "filename": "data385.txt",
+          "channel_summary": "Email from Drew, Internal Audit Lead at Velocity Motors, requesting Paula Jensen's health insurance and medical documentation for the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to the victim's account review."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Paula Jensen",
+      "findings": [
+        {
+          "filename": "data385.txt",
+          "channel_summary": "Email from Drew, Internal Audit Lead at Velocity Motors, requesting confirmation of multi-factor authentication backup codes for Paula Jensen's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for verification of security details related to the victim's account review."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Paula Jensen",
+      "findings": [
+        {
+          "filename": "data385.txt",
+          "channel_summary": "Email from Drew, Internal Audit Lead at Velocity Motors, requesting verification of Paula Jensen's driver’s license and passport details for the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for confirmation of identity records related to the victim's account review."
+    }
+  ]
+}

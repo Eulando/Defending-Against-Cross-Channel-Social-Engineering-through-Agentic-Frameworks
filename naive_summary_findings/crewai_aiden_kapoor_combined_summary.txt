@@ -1,0 +1,11 @@
+[CHANNEL 1 | data400.txt]
+Email from Morgan, an IT Administrator, requesting confirmation of Aiden Kapoor's current job title and reporting manager for a directory refresh.
+
+[CHANNEL 2 | data400.txt]
+Email from Morgan, an IT Administrator, requesting verification of the annual policy course listed for Aiden Kapoor's training plan for a department page update.
+
+[CHANNEL 3 | data400.txt]
+Email from Morgan, an IT Administrator, requesting confirmation of the building and floor listed for Aiden Kapoor's regular workspace for a department page update.
+
+[CHANNEL 4 | data400.txt]
+Email from Morgan, an IT Administrator, requesting verification of Aiden Kapoor's cost center and assigned office location for a quarterly roster check.

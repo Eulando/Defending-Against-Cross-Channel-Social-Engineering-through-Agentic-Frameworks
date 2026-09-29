@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Elias Kapoor,1,data404.txt,Email requesting confirmation of the collaboration tools used by Elias Kapoor for an internal profile update.,10,benign
+Elias Kapoor,2,data404.txt,Email requesting verification of whether Elias Kapoor is listed with a laptop or desktop in the asset summary for an internal profile update.,10,benign
+Elias Kapoor,3,data404.txt,Email requesting confirmation of the mailing stop used for Elias Kapoor's internal package deliveries as part of a quarterly directory update.,10,benign
+Elias Kapoor,4,data404.txt,Email requesting confirmation of which annual policy course Elias Kapoor is scheduled to complete for an internal profile update.,10,benign

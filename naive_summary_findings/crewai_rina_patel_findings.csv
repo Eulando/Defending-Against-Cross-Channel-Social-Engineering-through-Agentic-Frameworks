@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Rina Patel,1,data567.txt,"Email from Taylor, the Finance Manager, requesting confirmation of background check and screening files for Rina Patel as part of the migration to a new HR system.",85,malicious
+Rina Patel,2,data567.txt,"Email from Taylor, the Finance Manager, requesting confirmation of Rina Patel's account recovery options and multi-factor authentication backup codes as part of the migration to a new HR system.",85,malicious
+Rina Patel,3,data567.txt,"Email from Taylor, the Finance Manager, requesting Rina Patel's driver's license and passport details to validate her identity information as part of the migration to a new HR system.",85,malicious
+Rina Patel,4,data567.txt,"Email from Taylor, the Finance Manager, requesting Rina Patel's account username and confirmation of password reset information as part of the migration to a new HR system.",85,malicious

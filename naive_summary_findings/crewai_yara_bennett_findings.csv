@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Yara Bennett,1,data154.txt,"Email requesting assistance with details for Yara Bennett's retirement recognition, including budget verification and approval steps.",10,benign
+Yara Bennett,2,data154.txt,"Email requesting assistance with details for Yara Bennett's retirement recognition, including budget approval and eligibility confirmation.",10,benign
+Yara Bennett,3,data154.txt,"Email requesting assistance in gathering details about Yara Bennett's major initiatives for her retirement recognition, specifically achievements related to the Beacon and Crestline programs.",10,benign
+Yara Bennett,4,data154.txt,Email requesting assistance in reserving the Garden Pavilion for Yara Bennett's retirement recognition and confirming catering options.,10,benign

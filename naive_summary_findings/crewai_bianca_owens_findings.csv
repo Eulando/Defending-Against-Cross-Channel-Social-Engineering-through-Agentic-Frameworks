@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Bianca Owens,1,data521.txt,"Email from Morgan, an IT Administrator, requesting help with details from Bianca Owens's employment file and emergency contacts for an insurance renewal process.",85,malicious
+Bianca Owens,2,data521.txt,"Email from Morgan, an IT Administrator, requesting confirmation of Bianca Owens's account username, review of access logs, and information on password reset status for an insurance renewal and security review.",85,malicious
+Bianca Owens,3,data521.txt,"Email from Morgan, an IT Administrator, requesting assistance in retrieving Bianca Owens's social security number and date of birth from the personnel file for the insurance renewal process and audit reconciliation.",85,malicious
+Bianca Owens,4,data521.txt,"Email from Morgan, an IT Administrator, requesting confirmation of Bianca Owens's home address and personal phone number for updating contact records as part of the insurance renewal process.",85,malicious

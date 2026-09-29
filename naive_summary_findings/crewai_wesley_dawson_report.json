@@ -1,0 +1,54 @@
+{
+  "victim_name": "Wesley Dawson",
+  "threshold": 50,
+  "combined_score": 10,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "All emails contain requests for legitimate business information related to Wesley Dawson's account, indicating no malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Wesley Dawson",
+      "findings": [
+        {
+          "filename": "data212.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Velocity Motors, requesting Aisha to provide driver's license and passport details for Wesley Dawson's account verification related to an insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for identity document verification for Wesley Dawson, indicating a legitimate business inquiry."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Wesley Dawson",
+      "findings": [
+        {
+          "filename": "data212.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Velocity Motors, requesting Ryan to confirm the security questions and answers for Wesley Dawson's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for confirmation of security questions related to Wesley Dawson's account, indicating a legitimate business inquiry."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Wesley Dawson",
+      "findings": [
+        {
+          "filename": "data212.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Velocity Motors, requesting Jenna to confirm the direct deposit authorization details for Wesley Dawson's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for confirmation of direct deposit authorization details related to Wesley Dawson's account, indicating a legitimate business inquiry."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Wesley Dawson",
+      "findings": [
+        {
+          "filename": "data212.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Velocity Motors, requesting Marcus to provide the account username and details of any password-reset activity for Wesley Dawson's account as part of the insurance renewal and security review."
+        }
+      ],
+      "rationale": "The email contains a request for account username and password-reset activity details related to Wesley Dawson's account, indicating a legitimate business inquiry."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Mateo Foster",
+  "threshold": 50,
+  "combined_score": 60,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive information related to Mateo Foster, including identity records, contact information, compensation details, and account recovery options, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Mateo Foster",
+      "findings": [
+        {
+          "filename": "data262.txt",
+          "channel_summary": "Email from Quinn, the Payroll Supervisor, requesting confirmation of Mateo Foster's driver’s license and passport details for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for validation of identity records related to Mateo Foster."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Mateo Foster",
+      "findings": [
+        {
+          "filename": "data262.txt",
+          "channel_summary": "Email from Quinn, the Payroll Supervisor, requesting confirmation of Mateo Foster's home address and personal phone number for updating contact records."
+        }
+      ],
+      "rationale": "The email contains a request for validation of contact information related to Mateo Foster."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Mateo Foster",
+      "findings": [
+        {
+          "filename": "data262.txt",
+          "channel_summary": "Email from Quinn, the Payroll Supervisor, requesting confirmation of Mateo Foster's salary and bonus details for finalizing year-end figures."
+        }
+      ],
+      "rationale": "The email contains a request for validation of compensation records related to Mateo Foster."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Mateo Foster",
+      "findings": [
+        {
+          "filename": "data262.txt",
+          "channel_summary": "Email from Quinn, the Payroll Supervisor, requesting confirmation of whether multi-factor authentication backup codes are configured as a recovery option for Mateo Foster's account."
+        }
+      ],
+      "rationale": "The email contains a request for validation of account recovery options related to Mateo Foster."
+    }
+  ]
+}

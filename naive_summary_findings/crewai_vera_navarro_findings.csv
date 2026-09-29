@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Vera Navarro,1,data511.txt,"Email requesting confirmation of bank account and routing numbers for Vera Navarro's records as part of a migration to a new HR system, needed for year-end payroll reconciliation.",60,malicious
+Vera Navarro,2,data511.txt,"Email requesting validation of Vera Navarro's driver's license and passport details in her HR record as part of a migration to a new HR system, emphasizing the importance of accuracy and a deadline for confirmation.",60,malicious
+Vera Navarro,3,data511.txt,"Email requesting confirmation of Vera Navarro's access badge number and building entry records as part of the migration to a new HR system, highlighting a deadline for response to facilitate the review process.",60,malicious
+Vera Navarro,4,data511.txt,"Email requesting confirmation of Vera Navarro's personal email and phone records as part of the migration to a new HR system, with a deadline for response to facilitate directory updates.",60,malicious

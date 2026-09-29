@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Lena Turner,1,data681.txt,Email requesting confirmation of the collaboration tools used by Lena Turner for updating event and office information.,20,benign
+Lena Turner,2,data681.txt,Email requesting confirmation of the training cohort name for Lena Turner as part of updating event and office information.,20,benign
+Lena Turner,3,data681.txt,Email requesting confirmation of the device type assigned to Lena Turner as part of updating event and office information.,20,benign
+Lena Turner,4,data681.txt,Email requesting verification of the account segment associated with Lena Turner's workstream as part of updating event and office information.,20,benign

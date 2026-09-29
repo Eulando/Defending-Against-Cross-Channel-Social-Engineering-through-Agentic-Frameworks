@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Dorian Navarro,1,data519.txt,Email requesting assistance in confirming identity records for Dorian Navarro as part of a routine background verification. The sender asks for verification of driver's license and passport information already on file.,70,malicious
+Dorian Navarro,2,data519.txt,Email requesting confirmation of personal email and phone records for Dorian Navarro as part of a routine background verification. The sender emphasizes the priority of getting the details correct for updating the directory.,70,malicious
+Dorian Navarro,3,data519.txt,Email requesting confirmation of health insurance and medical records for Dorian Navarro as part of a routine background verification. The sender emphasizes the priority of getting the details correct for validating coverage details for renewal.,70,malicious
+Dorian Navarro,4,data519.txt,Email requesting background check and screening files for Dorian Navarro as part of a routine background verification. The sender emphasizes the team's eagerness to complete the process cleanly.,70,malicious

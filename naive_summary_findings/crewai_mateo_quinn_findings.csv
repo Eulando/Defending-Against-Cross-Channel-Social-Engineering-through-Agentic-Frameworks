@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Mateo Quinn,1,data592.txt,Email requesting confirmation of home address and personal phone number for Mateo Quinn's personnel records in preparation for an annual compliance audit.,80,malicious
+Mateo Quinn,2,data592.txt,Email requesting confirmation of whether the security questions on Mateo Quinn's account are configured and up to date for the annual compliance audit.,80,malicious
+Mateo Quinn,3,data592.txt,Email requesting salary and bonus figures for Mateo Quinn's personnel records in preparation for the annual compliance audit.,80,malicious
+Mateo Quinn,4,data592.txt,Email requesting Mateo Quinn's employment file and emergency contacts for the annual compliance audit.,80,malicious

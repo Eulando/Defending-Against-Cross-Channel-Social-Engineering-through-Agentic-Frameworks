@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Bennett Morris,1,data487.txt,Request for confirmation of the mailing stop used for Bennett Morris's internal package deliveries as part of a quarterly directory update.,10,benign
+Bennett Morris,2,data487.txt,Request for confirmation of Bennett Morris's title and manager name for an internal profile update as part of a quarterly directory refresh.,10,benign
+Bennett Morris,3,data487.txt,Request for confirmation of the cost center and office location for Bennett Morris as part of an internal roster cleanup for a quarterly directory update.,10,benign
+Bennett Morris,4,data487.txt,"Request for confirmation of whether Bennett Morris is marked remote, hybrid, or onsite for the wellness event count as part of an internal profile update for a quarterly directory.",10,benign

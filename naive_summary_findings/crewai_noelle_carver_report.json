@@ -1,0 +1,54 @@
+{
+  "victim_name": "Noelle Carver",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates a focus on organizing an innovation award ceremony for Noelle Carver, with requests for assistance and information, which does not suggest malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Noelle Carver",
+      "findings": [
+        {
+          "filename": "data173.txt",
+          "channel_summary": "Email from Jordan, a Program Manager at Orbit Analytics, requesting help with details for Noelle Carver's innovation award ceremony. The email asks for a short note about Noelle's impact on the team to be quoted during the ceremony."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Noelle Carver and meets the search criteria."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Noelle Carver",
+      "findings": [
+        {
+          "filename": "data173.txt",
+          "channel_summary": "Email from Jordan, a Program Manager at Orbit Analytics, requesting assistance with details for Noelle Carver's innovation award ceremony. The email inquires about preferred vendors for the achievement gift and asks for a shortlist with lead times."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Noelle Carver and meets the search criteria."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Noelle Carver",
+      "findings": [
+        {
+          "filename": "data173.txt",
+          "channel_summary": "Email from Jordan, a Program Manager at Orbit Analytics, requesting assistance with details for Noelle Carver's innovation award ceremony. The email asks if the ceremony warrants a public mention and requests a draft for a two-paragraph announcement to be routed for approval."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Noelle Carver and meets the search criteria."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Noelle Carver",
+      "findings": [
+        {
+          "filename": "data173.txt",
+          "channel_summary": "Email from Jordan, a Program Manager at Orbit Analytics, requesting assistance with details for Noelle Carver's innovation award ceremony. The email asks for recommendations on which vendor handles achievement gift-type orders best, along with typical lead times."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Noelle Carver and meets the search criteria."
+    }
+  ]
+}

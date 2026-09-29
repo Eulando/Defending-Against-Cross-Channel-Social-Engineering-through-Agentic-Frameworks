@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Vera Jensen,1,data391.txt,Email requesting confirmation of direct deposit authorization details for Vera Jensen as part of migrating her records to a new HR system.,75,malicious
+Vera Jensen,2,data391.txt,Email requesting confirmation of personal email and phone records for Vera Jensen as part of migrating her records to a new HR system.,75,malicious
+Vera Jensen,3,data391.txt,Email requesting confirmation of salary and bonus details for Vera Jensen as part of migrating her records to a new HR system.,75,malicious
+Vera Jensen,4,data391.txt,Email requesting confirmation of home address and personal phone number for Vera Jensen as part of migrating her records to a new HR system.,75,malicious

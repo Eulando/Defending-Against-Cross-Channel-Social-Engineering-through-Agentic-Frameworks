@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Mateo Kapoor,1,data412.txt,Email requesting confirmation of Mateo Kapoor's preferred name format for the internal staff list before onboarding materials are revised.,10,benign
+Mateo Kapoor,2,data412.txt,Email requesting confirmation of the building and floor listed for Mateo Kapoor's regular workspace before onboarding materials are revised.,10,benign
+Mateo Kapoor,3,data412.txt,Email requesting confirmation of the training cohort name listed for Mateo Kapoor before onboarding materials are revised.,10,benign
+Mateo Kapoor,4,data412.txt,Email requesting confirmation of Mateo Kapoor's work arrangement category for the benefits planning list before onboarding materials are revised.,10,benign

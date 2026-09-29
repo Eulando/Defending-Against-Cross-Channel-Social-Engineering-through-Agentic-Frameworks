@@ -1,0 +1,54 @@
+{
+  "victim_name": "Uri Patel",
+  "threshold": 50,
+  "combined_score": 60,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a pattern of requests for sensitive personal information related to Uri Patel, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Uri Patel",
+      "findings": [
+        {
+          "filename": "data570.txt",
+          "channel_summary": "Email from Jordan, a Senior HR Generalist, requesting Aisha to ask Uri Patel to review and update their driver’s license and passport details in the HR records system for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Uri Patel",
+      "findings": [
+        {
+          "filename": "data570.txt",
+          "channel_summary": "Email from Jordan, a Senior HR Generalist, requesting Devin to confirm Uri Patel's bank account and routing numbers for year-end payroll reconciliation as part of the annual compliance audit."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Uri Patel",
+      "findings": [
+        {
+          "filename": "data570.txt",
+          "channel_summary": "Email from Jordan, a Senior HR Generalist, requesting Tom to confirm the background check and screening files for Uri Patel as part of the annual compliance audit."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Uri Patel",
+      "findings": [
+        {
+          "filename": "data570.txt",
+          "channel_summary": "Email from Jordan, a Senior HR Generalist, requesting Leo to share Uri Patel's employment file and emergency contacts as part of the annual compliance audit."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    }
+  ]
+}

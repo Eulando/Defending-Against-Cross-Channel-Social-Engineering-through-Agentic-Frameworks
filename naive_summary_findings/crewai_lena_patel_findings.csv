@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Lena Patel,1,data561.txt,Email requesting confirmation of direct deposit authorization details for Lena Patel as part of migrating her records to a new HR system.,80,malicious
+Lena Patel,2,data561.txt,Email requesting confirmation of Social Security number and date of birth for Lena Patel as part of reviewing her profile during the migration to a new HR system.,80,malicious
+Lena Patel,3,data561.txt,Email requesting confirmation of health insurance and medical records for Lena Patel as part of validating coverage details during the migration to a new HR system.,80,malicious
+Lena Patel,4,data561.txt,Email requesting confirmation of background check and screening files for Lena Patel as part of reviewing them for an audit during the migration to a new HR system.,80,malicious

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Rina Garcia",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a pattern of requests for sensitive personal information related to Rina Garcia, including home address, identity documents, salary figures, and multi-factor authentication details, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Rina Garcia",
+      "findings": [
+        {
+          "filename": "data297.txt",
+          "channel_summary": "Email requesting confirmation of home address and personal phone number for Rina Garcia as part of a records migration to a new HR system."
+        }
+      ],
+      "rationale": ""
+    },
+    {
+      "channel": 2,
+      "victim_name": "Rina Garcia",
+      "findings": [
+        {
+          "filename": "data297.txt",
+          "channel_summary": "Email requesting confirmation of identity documents for Rina Garcia as part of a records migration to a new HR system, specifically asking for verification of driver's license and passport details."
+        }
+      ],
+      "rationale": ""
+    },
+    {
+      "channel": 3,
+      "victim_name": "Rina Garcia",
+      "findings": [
+        {
+          "filename": "data297.txt",
+          "channel_summary": "Email requesting Rina Garcia's salary and bonus figures as part of a records migration to a new HR system, indicating a need to reconcile compensation data."
+        }
+      ],
+      "rationale": ""
+    },
+    {
+      "channel": 4,
+      "victim_name": "Rina Garcia",
+      "findings": [
+        {
+          "filename": "data297.txt",
+          "channel_summary": "Email requesting confirmation of Rina Garcia's multi-factor authentication backup codes and recovery configuration as part of a records migration to a new HR system."
+        }
+      ],
+      "rationale": ""
+    }
+  ]
+}

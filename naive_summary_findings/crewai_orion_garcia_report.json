@@ -1,0 +1,54 @@
+{
+  "victim_name": "Orion Garcia",
+  "threshold": 50,
+  "combined_score": 85,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal information, including home address, phone number, account details, and access records, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Orion Garcia",
+      "findings": [
+        {
+          "filename": "data294.txt",
+          "channel_summary": "Email requesting a review of Orion Garcia's personnel file for migration to a new HR system, including details for an audit."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding the victim's records and a request for action."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Orion Garcia",
+      "findings": [
+        {
+          "filename": "data294.txt",
+          "channel_summary": "Email requesting Orion Garcia's home address and personal phone number for updating records in the new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to the victim for record updates."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Orion Garcia",
+      "findings": [
+        {
+          "filename": "data294.txt",
+          "channel_summary": "Email requesting confirmation of Orion Garcia's account username and password-reset record details for a security review related to the migration of records."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive account information related to the victim for security validation."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Orion Garcia",
+      "findings": [
+        {
+          "filename": "data294.txt",
+          "channel_summary": "Email requesting Orion Garcia's badge details and entry history for checking physical access records related to the migration of records."
+        }
+      ],
+      "rationale": "The email contains a request for access-related information concerning the victim for record validation."
+    }
+  ]
+}

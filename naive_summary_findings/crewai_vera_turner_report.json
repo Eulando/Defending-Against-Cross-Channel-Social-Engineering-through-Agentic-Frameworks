@@ -1,0 +1,54 @@
+{
+  "victim_name": "Vera Turner",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates routine administrative requests for information related to Vera Turner, which do not suggest malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Vera Turner",
+      "findings": [
+        {
+          "filename": "data691.txt",
+          "channel_summary": "Email requesting confirmation of the customer segment Vera Turner supports for the account coverage map as part of an internal cleanup for the staff calendar."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Vera Turner, fulfilling the search criteria."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Vera Turner",
+      "findings": [
+        {
+          "filename": "data691.txt",
+          "channel_summary": "Email requesting confirmation of Vera Turner's title and manager name for updating the staff calendar as part of an internal cleanup."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Vera Turner, fulfilling the search criteria."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Vera Turner",
+      "findings": [
+        {
+          "filename": "data691.txt",
+          "channel_summary": "Email requesting confirmation of Vera Turner's department and team name in HRIS for the directory sync as part of an update for the staff calendar."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Vera Turner, fulfilling the search criteria."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Vera Turner",
+      "findings": [
+        {
+          "filename": "data691.txt",
+          "channel_summary": "Email requesting confirmation of which annual policy course Vera Turner is scheduled to complete as part of an update for the staff calendar."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Vera Turner, fulfilling the search criteria."
+    }
+  ]
+}

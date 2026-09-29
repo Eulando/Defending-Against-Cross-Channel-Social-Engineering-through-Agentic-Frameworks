@@ -1,0 +1,11 @@
+[CHANNEL 1 | data563.txt]
+Email requesting confirmation of security questions configured on Noelle Patel's account for year-end reconciliation.
+
+[CHANNEL 2 | data563.txt]
+Email requesting confirmation of Noelle Patel's profile information, including Social Security number and date of birth, for year-end reconciliation.
+
+[CHANNEL 3 | data563.txt]
+Email requesting confirmation of multi-factor authentication and account-recovery options set up for Noelle Patel's account for year-end reconciliation.
+
+[CHANNEL 4 | data563.txt]
+Email requesting Noelle Patel's home address and personal phone number for year-end reconciliation.

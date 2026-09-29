@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Freya Hughes,1,data315.txt,Email requesting confirmation of multi-factor authentication backup codes for Freya Hughes as part of migrating her records to a new HR system.,75,malicious
+Freya Hughes,2,data315.txt,Email requesting confirmation of direct deposit authorization details for Freya Hughes as part of reconciling payroll accounts during the migration of her records to a new HR system.,75,malicious
+Freya Hughes,3,data315.txt,Email requesting confirmation of Freya Hughes's account username and password-reset details as part of reviewing access logs during the migration of her records to a new HR system.,75,malicious
+Freya Hughes,4,data315.txt,Email requesting confirmation of Freya Hughes's home address and personal phone number as part of updating contact records during the migration of her records to a new HR system.,75,malicious

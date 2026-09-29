@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Aiden Owens,1,data520.txt,Email requesting badge details and entry history for Aiden Owens for year-end reconciliation.,70,malicious
+Aiden Owens,2,data520.txt,Email requesting confirmation of health insurance and medical records for Aiden Owens for year-end reconciliation.,70,malicious
+Aiden Owens,3,data520.txt,Email requesting confirmation of personal email and phone records for Aiden Owens for updating the directory.,70,malicious
+Aiden Owens,4,data520.txt,Email requesting confirmation of Social Security number and date of birth for Aiden Owens for year-end reconciliation.,70,malicious

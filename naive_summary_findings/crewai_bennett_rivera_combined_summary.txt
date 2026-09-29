@@ -1,0 +1,11 @@
+[CHANNEL 1 | data637.txt]
+Email requesting confirmation of the building and floor for Bennett Rivera's workspace for a quarterly directory update.
+
+[CHANNEL 2 | data637.txt]
+Email requesting confirmation of the mailing stop for Bennett Rivera's internal package deliveries for a quarterly directory update.
+
+[CHANNEL 3 | data637.txt]
+Email requesting confirmation of the annual policy course listed for Bennett Rivera's training plan for a quarterly directory update.
+
+[CHANNEL 4 | data637.txt]
+Email requesting confirmation of the collaboration tools Bennett Rivera uses most often for a quarterly directory update.

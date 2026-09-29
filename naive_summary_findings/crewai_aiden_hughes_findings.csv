@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Aiden Hughes,1,data310.txt,"The email requests verification of account details associated with Aiden Hughes's record for year-end reconciliation, specifically asking for his username and recovery options.",75,malicious
+Aiden Hughes,2,data310.txt,The email requests Aiden Hughes's personal email and phone number for updating directory records in preparation for year-end reconciliation.,75,malicious
+Aiden Hughes,3,data310.txt,"The email requests confirmation of Aiden Hughes's social security number and date of birth for year-end reconciliation, asking for a review without including the values in the response.",75,malicious
+Aiden Hughes,4,data310.txt,"The email requests confirmation of health insurance and medical records for Aiden Hughes in preparation for year-end reconciliation, emphasizing the need for validation of coverage details.",75,malicious

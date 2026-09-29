@@ -1,0 +1,54 @@
+{
+  "victim_name": "Keon Lawson",
+  "threshold": 50,
+  "combined_score": 10,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "All emails contain requests for information related to the victim's professional context, indicating benign intentions.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Keon Lawson",
+      "findings": [
+        {
+          "filename": "data440.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting verification of the non-sensitive budget project code tied to Keon Lawson's team before onboarding materials are revised."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's team, indicating a professional context."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Keon Lawson",
+      "findings": [
+        {
+          "filename": "data440.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting confirmation of Keon Lawson's work status (remote, hybrid, or onsite) for the wellness event count before onboarding materials are revised."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's work status, indicating a professional context."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Keon Lawson",
+      "findings": [
+        {
+          "filename": "data440.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting a check on the annual policy course listed for Keon Lawson's training plan as part of an internal cleanup before onboarding materials are revised."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's training plan, indicating a professional context."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Keon Lawson",
+      "findings": [
+        {
+          "filename": "data440.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting verification of the account segment associated with Keon Lawson's workstream before onboarding materials are revised."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's workstream, indicating a professional context."
+    }
+  ]
+}

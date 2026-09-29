@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Zane Rivera,1,data635.txt,Email requesting verification of a non-sensitive budget project code related to Zane Rivera's team for internal reference accuracy.,10,benign
+Zane Rivera,2,data635.txt,Email requesting confirmation of Zane Rivera's preferred name format for the internal staff list as part of an internal cleanup process.,10,benign
+Zane Rivera,3,data635.txt,Email requesting confirmation of Zane Rivera's title and manager name from HR for an update as part of an internal cleanup process.,10,benign
+Zane Rivera,4,data635.txt,Email requesting confirmation of the mailing stop used for Zane Rivera's internal package deliveries as part of an internal cleanup process.,10,benign

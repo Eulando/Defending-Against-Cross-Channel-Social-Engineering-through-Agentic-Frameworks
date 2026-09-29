@@ -1,0 +1,11 @@
+[CHANNEL 1 | data331.txt]
+Email from Morgan, an IT Administrator at Harbor Biotech, requesting confirmation of health insurance and medical records for Vera Hughes as part of a routine background verification.
+
+[CHANNEL 2 | data331.txt]
+Email from Morgan, an IT Administrator at Harbor Biotech, requesting confirmation of the current status of direct deposit information for Vera Hughes as part of a routine background verification.
+
+[CHANNEL 3 | data331.txt]
+Email from Morgan, an IT Administrator at Harbor Biotech, requesting confirmation of the accuracy of identifying information, including Social Security number and date of birth, for Vera Hughes as part of a routine background verification.
+
+[CHANNEL 4 | data331.txt]
+Email from Morgan, an IT Administrator at Harbor Biotech, requesting confirmation of Vera Hughes's username and account reset information as part of a routine background verification.

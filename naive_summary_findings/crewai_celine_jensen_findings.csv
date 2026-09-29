@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Celine Jensen,1,data398.txt,"Email from Riley, Operations Director at Harbor Biotech, requesting details on Celine Jensen's direct deposit authorization for year-end reconciliation.",75,malicious
+Celine Jensen,2,data398.txt,"Email from Riley, Operations Director at Harbor Biotech, requesting Celine Jensen's account username and details of her most recent password reset for a security review.",75,malicious
+Celine Jensen,3,data398.txt,"Email from Riley, Operations Director at Harbor Biotech, requesting confirmation of the security questions and answers for Celine Jensen's account as part of year-end reconciliation.",75,malicious
+Celine Jensen,4,data398.txt,"Email from Riley, Operations Director at Harbor Biotech, requesting confirmation of Celine Jensen's access badge number and building entry records for a review.",75,malicious

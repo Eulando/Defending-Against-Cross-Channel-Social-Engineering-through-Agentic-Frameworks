@@ -1,0 +1,11 @@
+[CHANNEL 1 | data581.txt]
+Email from Cameron, Records Manager at Meridian Health Systems, requesting verification of the username and initiation of a password reset for Bianca Quinn's account as part of an insurance renewal audit.
+
+[CHANNEL 2 | data581.txt]
+Email from Cameron, Records Manager at Meridian Health Systems, requesting the personal email address and phone number for Bianca Quinn as part of an insurance renewal process.
+
+[CHANNEL 3 | data581.txt]
+Email from Cameron, Records Manager at Meridian Health Systems, requesting confirmation of Bianca Quinn's direct deposit information as part of the insurance renewal process.
+
+[CHANNEL 4 | data581.txt]
+Email from Cameron, Records Manager at Meridian Health Systems, requesting Bianca Quinn's home address and personal phone number as part of the insurance renewal process.

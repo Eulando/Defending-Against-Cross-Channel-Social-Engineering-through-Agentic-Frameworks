@@ -1,0 +1,11 @@
+[CHANNEL 1 | data480.txt]
+Email from Morgan, an IT Administrator, requesting details about Uri Morris's team and asking for the building and floor assigned to him in the office map before onboarding materials are revised.
+
+[CHANNEL 2 | data480.txt]
+Email from Morgan, an IT Administrator, requesting confirmation of Uri Morris's current job title and reporting manager for a directory refresh before onboarding materials are revised.
+
+[CHANNEL 3 | data480.txt]
+Email from Morgan, an IT Administrator, requesting confirmation of Uri Morris's desk reservation pattern for Tuesdays or Thursdays to ensure accurate internal references before onboarding materials are revised.
+
+[CHANNEL 4 | data480.txt]
+Email from Morgan, an IT Administrator, requesting confirmation of Uri Morris's preferred name format for the internal staff list to ensure accuracy before onboarding materials are revised.

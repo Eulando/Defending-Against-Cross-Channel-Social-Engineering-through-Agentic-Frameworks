@@ -1,0 +1,11 @@
+[CHANNEL 1 | data437.txt]
+Request for confirmation of cost center and office location for Hana Lawson as part of onboarding materials revision.
+
+[CHANNEL 2 | data437.txt]
+Request for confirmation of desk booking days for Hana Lawson as part of onboarding materials revision.
+
+[CHANNEL 3 | data437.txt]
+Request for confirmation of whether Hana Lawson is listed with a laptop or desktop in the asset summary as part of onboarding materials revision.
+
+[CHANNEL 4 | data437.txt]
+Request for confirmation of Hana Lawson's preferred name format for the internal staff list as part of onboarding materials revision.

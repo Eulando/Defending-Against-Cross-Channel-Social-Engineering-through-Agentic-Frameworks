@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Dorian Sato,1,data669.txt,"Email from Quinn, the Payroll Supervisor at Stellar Aerospace, requesting confirmation of Dorian Sato's title and manager name for updating the department's public-facing biography.",20,benign
+Dorian Sato,2,data669.txt,"Email from Quinn, the Payroll Supervisor at Stellar Aerospace, requesting confirmation of which annual policy course Dorian Sato is scheduled to complete for the department's public-facing biography.",20,benign
+Dorian Sato,3,data669.txt,"Email from Quinn, the Payroll Supervisor at Stellar Aerospace, requesting confirmation of Dorian Sato's department and team name in HRIS for the directory sync.",20,benign
+Dorian Sato,4,data669.txt,"Email from Quinn, the Payroll Supervisor at Stellar Aerospace, requesting confirmation of which standard chat and ticketing tools are assigned to Dorian Sato for the support matrix.",20,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Isaac Navarro,1,data498.txt,"Email from Casey, Compliance Lead at Harbor Biotech, requesting confirmation of the annual policy course that Isaac Navarro is scheduled to complete for updating event and office information.",20,benign
+Isaac Navarro,2,data498.txt,"Email from Casey, Compliance Lead at Harbor Biotech, requesting assistance in checking which learning cohort is associated with Isaac Navarro's employee profile for updating event and office information.",20,benign
+Isaac Navarro,3,data498.txt,"Email from Casey, Compliance Lead at Harbor Biotech, requesting verification of Isaac Navarro's cost center and assigned office location for the quarterly roster check as part of updating event and office information.",20,benign
+Isaac Navarro,4,data498.txt,"Email from Casey, Compliance Lead at Harbor Biotech, requesting confirmation of the collaboration tools that Isaac Navarro uses most often for updating event and office information.",20,benign

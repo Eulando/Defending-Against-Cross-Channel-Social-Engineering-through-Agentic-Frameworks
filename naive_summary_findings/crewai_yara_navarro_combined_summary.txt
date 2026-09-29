@@ -1,0 +1,11 @@
+[CHANNEL 1 | data514.txt]
+Email requesting confirmation of Yara Navarro's bank account and routing numbers for year-end payroll reconciliation related to insurance renewal.
+
+[CHANNEL 2 | data514.txt]
+Email requesting Yara Navarro to confirm or update her home address and personal phone number for insurance renewal.
+
+[CHANNEL 3 | data514.txt]
+Email requesting confirmation of Yara Navarro's Social Security number and date of birth for the insurance renewal process.
+
+[CHANNEL 4 | data514.txt]
+Email requesting Yara Navarro's employment file and emergency contacts for the insurance renewal process.

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Paula Turner",
+  "threshold": 50,
+  "combined_score": 10,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "All emails contain requests for benign administrative information related to Paula Turner's profile, indicating no malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Paula Turner",
+      "findings": [
+        {
+          "filename": "data685.txt",
+          "channel_summary": "Email requesting confirmation of Paula Turner's workspace details for an internal directory update."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's workspace, indicating a benign administrative purpose."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Paula Turner",
+      "findings": [
+        {
+          "filename": "data685.txt",
+          "channel_summary": "Email requesting confirmation of the chat and ticketing tools assigned to Paula Turner for an internal support matrix update."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's assigned tools, indicating a benign administrative purpose."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Paula Turner",
+      "findings": [
+        {
+          "filename": "data685.txt",
+          "channel_summary": "Email requesting verification of Paula Turner's cost center and office location for a quarterly roster check."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's cost center and office location, indicating a benign administrative purpose."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Paula Turner",
+      "findings": [
+        {
+          "filename": "data685.txt",
+          "channel_summary": "Email requesting confirmation of Paula Turner's preferred name format for the internal staff list for a directory update."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's preferred name format, indicating a benign administrative purpose."
+    }
+  ]
+}

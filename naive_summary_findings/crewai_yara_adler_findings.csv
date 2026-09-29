@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Yara Adler,1,data124.txt,"Email requesting assistance with details for Yara Adler's work anniversary celebration, including confirmation of the agenda and attendee list.",20,benign
+Yara Adler,2,data124.txt,"Email requesting confirmation of Yara Adler's hire date, final working day, and years of service for her work anniversary celebration.",20,benign
+Yara Adler,3,data124.txt,Email requesting impact metrics for projects led by Yara Adler to enhance the narrative for her work anniversary celebration.,20,benign
+Yara Adler,4,data124.txt,"Email requesting assistance with processing a recognition form for Yara Adler's work anniversary celebration, including budget code and purchasing window details.",20,benign

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Daria Foster",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context includes multiple requests for sensitive personal and financial information, indicating a high level of malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Daria Foster",
+      "findings": [
+        {
+          "filename": "data253.txt",
+          "channel_summary": "Email requesting Daria Foster's salary and bonus figures for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for specific financial information related to the victim, indicating its purpose."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Daria Foster",
+      "findings": [
+        {
+          "filename": "data253.txt",
+          "channel_summary": "Email requesting Daria Foster's badge details and entry history for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for specific access information related to the victim, indicating its purpose."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Daria Foster",
+      "findings": [
+        {
+          "filename": "data253.txt",
+          "channel_summary": "Email requesting confirmation of Daria Foster's home address and personal phone number for updating contact records."
+        }
+      ],
+      "rationale": "The email contains a request for specific personal information related to the victim, indicating its purpose."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Daria Foster",
+      "findings": [
+        {
+          "filename": "data253.txt",
+          "channel_summary": "Email requesting confirmation of Daria Foster's Social Security number and date of birth for updating her profile in the records system."
+        }
+      ],
+      "rationale": "The email contains a request for specific sensitive personal information related to the victim, indicating its purpose."
+    }
+  ]
+}

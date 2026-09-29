@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Isaac Dawson,1,data198.txt,"Email requesting assistance with details for Isaac Dawson's employee appreciation award, including a potential public announcement.",20,benign
+Isaac Dawson,2,data198.txt,Email requesting assistance in gathering impact metrics for projects led by Isaac Dawson to support his employee appreciation award.,20,benign
+Isaac Dawson,3,data198.txt,"Email requesting assistance in identifying preferred vendors for the appreciation gift for Isaac Dawson's employee award, including a request for a shortlist with lead times.",20,benign
+Isaac Dawson,4,data198.txt,"Email requesting approval for the budget line for Isaac Dawson's employee appreciation gift, with a follow-up on vendor order after HR signs off on eligibility.",20,benign

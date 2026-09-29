@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Jana Ellis,1,data229.txt,"Email requesting confirmation of direct deposit information for routine background verification of Jana Ellis, emphasizing the need for accuracy and coordination through authorized contacts.",70,malicious
+Jana Ellis,2,data229.txt,"Email requesting verification of payroll setup and direct deposit authorization for Jana Ellis, indicating urgency and the need for accurate details.",70,malicious
+Jana Ellis,3,data229.txt,"Email requesting confirmation of background check and screening files for Jana Ellis as part of a routine background verification, with a deadline for response by the end of the week.",70,malicious
+Jana Ellis,4,data229.txt,"Email requesting confirmation of salary and bonus details for Jana Ellis as part of a routine background verification, with a request to finalize by Friday.",70,malicious

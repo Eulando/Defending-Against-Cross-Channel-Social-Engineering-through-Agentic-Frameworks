@@ -1,0 +1,54 @@
+{
+  "victim_name": "Caleb Turner",
+  "threshold": 50,
+  "combined_score": 10,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates routine internal updates and requests for information related to the victim's workspace, training, and internal mail stop, which are typical administrative tasks and do not suggest malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Caleb Turner",
+      "findings": [
+        {
+          "filename": "data672.txt",
+          "channel_summary": "Email requesting confirmation of the building and floor for Caleb Turner's workspace for an internal directory update."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's workspace as part of an internal profile update."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Caleb Turner",
+      "findings": [
+        {
+          "filename": "data672.txt",
+          "channel_summary": "Email requesting confirmation of which annual policy course Caleb Turner is scheduled to complete for an internal directory update."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's scheduled training as part of an internal profile update."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Caleb Turner",
+      "findings": [
+        {
+          "filename": "data672.txt",
+          "channel_summary": "Email requesting verification of Caleb Turner's internal mail stop for the office services list as part of an internal directory update."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's internal mail stop for an office services list update."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Caleb Turner",
+      "findings": [
+        {
+          "filename": "data672.txt",
+          "channel_summary": "Email requesting confirmation of the training cohort name listed for Caleb Turner as part of an internal directory update."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's training cohort for an internal profile update."
+    }
+  ]
+}

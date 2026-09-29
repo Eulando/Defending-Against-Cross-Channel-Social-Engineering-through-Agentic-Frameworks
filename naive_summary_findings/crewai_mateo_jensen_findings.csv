@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Mateo Jensen,1,data382.txt,Email requesting confirmation of Mateo Jensen's username and account recovery details for year-end reconciliation audit.,70,malicious
+Mateo Jensen,2,data382.txt,Email requesting verification of Mateo Jensen's bank account and routing numbers for year-end reconciliation.,70,malicious
+Mateo Jensen,3,data382.txt,Email requesting Mateo Jensen's salary and bonus figures for year-end reconciliation.,70,malicious
+Mateo Jensen,4,data382.txt,Email requesting Mateo Jensen's background check and screening files for year-end reconciliation.,70,malicious

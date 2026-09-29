@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Zane Carver,1,data185.txt,"Email requesting assistance with details for Zane Carver's retirement recognition, specifically training and certifications completed over the years.",10,benign
+Zane Carver,2,data185.txt,"Email requesting assistance to book a room for Zane Carver's retirement recognition event, including details about the date, time, and catering.",10,benign
+Zane Carver,3,data185.txt,"Email requesting assistance to review and draft a note for the external announcement of Zane Carver's retirement recognition, emphasizing the need for internal visibility.",10,benign
+Zane Carver,4,data185.txt,"Email requesting assistance to review the invite list and agenda for Zane Carver's retirement recognition, including considerations for adding his family.",10,benign

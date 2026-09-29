@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Orion Kapoor,1,data414.txt,Email requesting confirmation of the training cohort name for Orion Kapoor's biography validation.,10,benign
+Orion Kapoor,2,data414.txt,Email requesting confirmation of the annual policy course scheduled for Orion Kapoor's biography validation.,10,benign
+Orion Kapoor,3,data414.txt,Email requesting confirmation of Orion Kapoor's title and manager name for biography validation.,10,benign
+Orion Kapoor,4,data414.txt,Email requesting confirmation of Orion Kapoor's department and team name for directory synchronization.,10,benign

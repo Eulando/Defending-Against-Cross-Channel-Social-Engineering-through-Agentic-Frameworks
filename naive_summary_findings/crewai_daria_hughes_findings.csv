@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Daria Hughes,1,data313.txt,"Email requesting a detail for a routine background verification on Daria Hughes, specifically asking for her direct deposit authorization.",80,malicious
+Daria Hughes,2,data313.txt,"Email requesting details for a routine background verification on Daria Hughes, specifically asking for her driver's license and passport information.",80,malicious
+Daria Hughes,3,data313.txt,"Email requesting assistance with a routine background verification on Daria Hughes, specifically asking for her employment file and emergency contacts.",80,malicious
+Daria Hughes,4,data313.txt,Email requesting confirmation of salary and bonus details for Daria Hughes as part of a routine background verification process.,80,malicious

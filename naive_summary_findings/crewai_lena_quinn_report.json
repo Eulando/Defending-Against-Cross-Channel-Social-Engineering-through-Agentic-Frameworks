@@ -1,0 +1,54 @@
+{
+  "victim_name": "Lena Quinn",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Lena Quinn's identity and access, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Lena Quinn",
+      "findings": [
+        {
+          "filename": "data591.txt",
+          "channel_summary": "Email requesting assistance with Lena Quinn's account for the insurance renewal process, specifically asking for her full employment file and emergency contact details from HRIS."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Lena Quinn, indicating a review of her account."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Lena Quinn",
+      "findings": [
+        {
+          "filename": "data591.txt",
+          "channel_summary": "Email requesting confirmation of Lena Quinn's access badge number and building entry records for the insurance renewal process, indicating a validation of access."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Lena Quinn, indicating a review of her account."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Lena Quinn",
+      "findings": [
+        {
+          "filename": "data591.txt",
+          "channel_summary": "Email requesting Lena Quinn's background check and screening files for the insurance renewal process, indicating a review of her account."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Lena Quinn, indicating a review of her account."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Lena Quinn",
+      "findings": [
+        {
+          "filename": "data591.txt",
+          "channel_summary": "Email requesting Lena Quinn's driver's license and passport details for the insurance renewal process, indicating a verification of identity documents."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Lena Quinn, indicating a review of her account."
+    }
+  ]
+}

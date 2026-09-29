@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Mateo Patel,1,data562.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of Mateo Patel's bank account and routing information for personnel records consolidation and payroll reconciliation.",70,malicious
+Mateo Patel,2,data562.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of Mateo Patel's current contact information for personnel records consolidation related to an annual compliance audit.",70,malicious
+Mateo Patel,3,data562.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of Mateo Patel's identity documentation for personnel records consolidation related to an annual compliance audit.",70,malicious
+Mateo Patel,4,data562.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of Mateo Patel's salary and bonus details for personnel records consolidation related to an annual compliance audit.",70,malicious

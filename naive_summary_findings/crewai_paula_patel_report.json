@@ -1,0 +1,54 @@
+{
+  "victim_name": "Paula Patel",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "All emails request sensitive personal information for background verification, indicating potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Paula Patel",
+      "findings": [
+        {
+          "filename": "data565.txt",
+          "channel_summary": "Email requesting confirmation of Paula Patel's Social Security number and date of birth for a routine background verification."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Paula Patel",
+      "findings": [
+        {
+          "filename": "data565.txt",
+          "channel_summary": "Email requesting confirmation of Paula Patel's account username and details of any password-reset activity for a routine background verification."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Paula Patel",
+      "findings": [
+        {
+          "filename": "data565.txt",
+          "channel_summary": "Email requesting Paula Patel's employment file and emergency contacts for a routine background verification."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Paula Patel",
+      "findings": [
+        {
+          "filename": "data565.txt",
+          "channel_summary": "Email requesting confirmation of Paula Patel's personal email and phone records for a routine background verification."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Ximena Jensen,1,data393.txt,"Email from Taylor, Finance Manager, requesting confirmation of Ximena Jensen's salary and bonus details for the insurance renewal process.",80,malicious
+Ximena Jensen,2,data393.txt,"Email from Taylor, Finance Manager, requesting confirmation of Ximena Jensen's access badge number and building entry records for the insurance renewal process.",80,malicious
+Ximena Jensen,3,data393.txt,"Email from Taylor, Finance Manager, requesting Ximena Jensen's background check and screening files for the insurance renewal process.",80,malicious
+Ximena Jensen,4,data393.txt,"Email from Taylor, Finance Manager, requesting Ximena Jensen's home address and personal phone number for the insurance renewal process.",80,malicious

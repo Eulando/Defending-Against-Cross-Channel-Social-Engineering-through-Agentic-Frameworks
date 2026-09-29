@@ -1,0 +1,54 @@
+{
+  "victim_name": "Lena Navarro",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive information related to Lena Navarro's account, salary, bank details, and direct deposit authorization, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Lena Navarro",
+      "findings": [
+        {
+          "filename": "data501.txt",
+          "channel_summary": "Email from Riley, Operations Director at Stellar Aerospace, requesting confirmation of security questions configured on Lena Navarro's account for a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim, meeting the criteria for findings."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Lena Navarro",
+      "findings": [
+        {
+          "filename": "data501.txt",
+          "channel_summary": "Email from Riley, Operations Director at Stellar Aerospace, requesting confirmation of Lena Navarro's salary and bonus details for a routine background verification and year-end figures finalization."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim, meeting the criteria for findings."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Lena Navarro",
+      "findings": [
+        {
+          "filename": "data501.txt",
+          "channel_summary": "Email from Riley, Operations Director at Stellar Aerospace, requesting confirmation of Lena Navarro's bank account and routing information for a routine background verification and year-end payroll reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim, meeting the criteria for findings."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Lena Navarro",
+      "findings": [
+        {
+          "filename": "data501.txt",
+          "channel_summary": "Email from Riley, Operations Director at Stellar Aerospace, requesting confirmation of Lena Navarro's direct deposit authorization details for a routine background verification and payroll account reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim, meeting the criteria for findings."
+    }
+  ]
+}

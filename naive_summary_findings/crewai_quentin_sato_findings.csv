@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Quentin Sato,1,data656.txt,Email requesting confirmation of department and internal team name for Quentin Sato before onboarding materials are revised.,20,benign
+Quentin Sato,2,data656.txt,"Email requesting confirmation of Quentin Sato's work status (remote, hybrid, or onsite) for wellness event count before onboarding materials are revised.",20,benign
+Quentin Sato,3,data656.txt,Email requesting confirmation of the project code associated with Quentin Sato's department budget before onboarding materials are revised.,20,benign
+Quentin Sato,4,data656.txt,Email requesting confirmation of the training cohort name listed for Quentin Sato before onboarding materials are revised.,20,benign

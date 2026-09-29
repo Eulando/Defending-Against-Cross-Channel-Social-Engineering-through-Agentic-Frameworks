@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Freya Morris,1,data465.txt,"Email from Casey, Compliance Lead at Helios Manufacturing, requesting confirmation of the project code associated with Freya Morris's department budget before revising onboarding materials.",20,benign
+Freya Morris,2,data465.txt,"Email from Casey, Compliance Lead at Helios Manufacturing, requesting a check on the annual policy course listed for Freya Morris's training plan as part of an internal cleanup before revising onboarding materials.",20,benign
+Freya Morris,3,data465.txt,"Email from Casey, Compliance Lead at Helios Manufacturing, requesting confirmation of Freya Morris's current job title and reporting manager for a directory refresh as part of an internal cleanup before revising onboarding materials.",20,benign
+Freya Morris,4,data465.txt,"Email from Casey, Compliance Lead at Helios Manufacturing, requesting confirmation of the building and floor assigned to Freya Morris in the office map as part of the internal cleanup before revising onboarding materials.",20,benign

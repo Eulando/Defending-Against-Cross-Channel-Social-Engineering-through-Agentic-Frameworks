@@ -1,0 +1,54 @@
+{
+  "victim_name": "Zane Dawson",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal information related to Zane Dawson, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Zane Dawson",
+      "findings": [
+        {
+          "filename": "data215.txt",
+          "channel_summary": "Email from Taylor, Finance Manager at Brightline Media, requesting confirmation of health insurance and medical records for Zane Dawson for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's health insurance and medical records."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Zane Dawson",
+      "findings": [
+        {
+          "filename": "data215.txt",
+          "channel_summary": "Email from Taylor, Finance Manager at Brightline Media, requesting Zane Dawson's badge details and entry history for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's badge details and entry history."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Zane Dawson",
+      "findings": [
+        {
+          "filename": "data215.txt",
+          "channel_summary": "Email from Taylor, Finance Manager at Brightline Media, requesting Zane Dawson's account username and non-sensitive password-reset details for year-end reconciliation and security review."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's account username and password-reset details."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Zane Dawson",
+      "findings": [
+        {
+          "filename": "data215.txt",
+          "channel_summary": "Email from Taylor, Finance Manager at Brightline Media, requesting Zane Dawson's personal email and phone number for updating directory records as part of year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's personal email and phone number."
+    }
+  ]
+}

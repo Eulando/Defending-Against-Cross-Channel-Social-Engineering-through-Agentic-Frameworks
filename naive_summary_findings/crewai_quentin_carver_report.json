@@ -1,0 +1,54 @@
+{
+  "victim_name": "Quentin Carver",
+  "threshold": 50,
+  "combined_score": 10,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates a focus on onboarding and administrative details, which are typical and benign in nature.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Quentin Carver",
+      "findings": [
+        {
+          "filename": "data176.txt",
+          "channel_summary": "Email requesting details for Quentin Carver's onboarding welcome, specifically a summary of his biggest projects and concrete wins."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Quentin Carver",
+      "findings": [
+        {
+          "filename": "data176.txt",
+          "channel_summary": "Email requesting confirmation of Quentin Carver's start date and areas managed for onboarding materials."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Quentin Carver",
+      "findings": [
+        {
+          "filename": "data176.txt",
+          "channel_summary": "Email requesting a brief testimonial about Quentin Carver for the onboarding welcome program."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Quentin Carver",
+      "findings": [
+        {
+          "filename": "data176.txt",
+          "channel_summary": "Email requesting approval for the budget line for Quentin Carver's onboarding welcome gift after HR signs off on eligibility."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    }
+  ]
+}

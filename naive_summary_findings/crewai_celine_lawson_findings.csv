@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Celine Lawson,1,data458.txt,"Email from Jordan, a Senior HR Generalist, requesting verification of Celine Lawson's cost center and office location for the quarterly roster check.",10,benign
+Celine Lawson,2,data458.txt,"Email from Jordan, a Senior HR Generalist, requesting verification of how Celine Lawson's name should appear in the employee directory for the department page.",10,benign
+Celine Lawson,3,data458.txt,"Email from Jordan, a Senior HR Generalist, requesting verification of the non-sensitive budget project code tied to Celine Lawson's team for the department page.",10,benign
+Celine Lawson,4,data458.txt,"Email from Jordan, a Senior HR Generalist, requesting verification of the annual policy course listed for Celine Lawson's training plan for the department page.",10,benign

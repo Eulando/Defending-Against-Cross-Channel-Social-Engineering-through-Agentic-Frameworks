@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Freya Quinn,1,data585.txt,"Email from Taylor, Finance Manager at Northgate Financial Group, requesting confirmation of multi-factor authentication backup codes for Freya Quinn's account as part of the insurance renewal process.",80,malicious
+Freya Quinn,2,data585.txt,"Email from Taylor, Finance Manager at Northgate Financial Group, requesting Freya Quinn's salary and bonus figures for the insurance renewal process.",80,malicious
+Freya Quinn,3,data585.txt,"Email from Taylor, Finance Manager at Northgate Financial Group, requesting driver's license and passport details for Freya Quinn's account as part of the insurance renewal process.",80,malicious
+Freya Quinn,4,data585.txt,"Email from Taylor, Finance Manager at Northgate Financial Group, requesting Freya Quinn's bank account and routing numbers for the insurance renewal process.",80,malicious

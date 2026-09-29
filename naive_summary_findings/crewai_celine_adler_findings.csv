@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Celine Adler,1,data128.txt,Email requesting confirmation on expense code for Celine Adler's retirement gift and whether a purchase order is needed.,10,benign
+Celine Adler,2,data128.txt,Email requesting approval for budget line for Celine Adler's retirement gift and asking for the approval number after HR signs off.,10,benign
+Celine Adler,3,data128.txt,"Email requesting confirmation of the final agenda and attendee list for Celine Adler's retirement recognition, ensuring family and close colleagues are invited.",10,benign
+Celine Adler,4,data128.txt,"Email requesting assistance in gathering Celine Adler's training and certifications for her retirement recognition materials, emphasizing the importance of highlighting her growth.",10,benign

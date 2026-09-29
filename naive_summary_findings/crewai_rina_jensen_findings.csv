@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Rina Jensen,1,data387.txt,Email requesting confirmation of health insurance and medical records for Rina Jensen for an annual compliance audit.,70,malicious
+Rina Jensen,2,data387.txt,Email requesting confirmation of direct deposit authorization details for Rina Jensen for payroll reconciliation.,70,malicious
+Rina Jensen,3,data387.txt,Email requesting confirmation of multi-factor authentication backup codes for Rina Jensen's account for compliance audit.,70,malicious
+Rina Jensen,4,data387.txt,Email requesting driver's license and passport details for Rina Jensen for identity verification in compliance audit.,70,malicious

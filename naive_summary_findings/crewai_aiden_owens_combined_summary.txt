@@ -1,0 +1,11 @@
+[CHANNEL 1 | data520.txt]
+Email requesting badge details and entry history for Aiden Owens for year-end reconciliation.
+
+[CHANNEL 2 | data520.txt]
+Email requesting confirmation of health insurance and medical records for Aiden Owens for year-end reconciliation.
+
+[CHANNEL 3 | data520.txt]
+Email requesting confirmation of personal email and phone records for Aiden Owens for updating the directory.
+
+[CHANNEL 4 | data520.txt]
+Email requesting confirmation of Social Security number and date of birth for Aiden Owens for year-end reconciliation.

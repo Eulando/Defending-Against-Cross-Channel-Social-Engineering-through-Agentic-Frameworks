@@ -1,0 +1,11 @@
+[CHANNEL 1 | data340.txt]
+Email from Casey, Compliance Lead at Ironbridge Construction, requesting confirmation of direct deposit authorization details for Aiden Iverson's account as part of the insurance renewal process.
+
+[CHANNEL 2 | data340.txt]
+Email from Casey, Compliance Lead at Ironbridge Construction, requesting verification of multi-factor authentication backup codes for Aiden Iverson's account as part of the insurance renewal process.
+
+[CHANNEL 3 | data340.txt]
+Email from Casey, Compliance Lead at Ironbridge Construction, requesting confirmation of the accuracy of Aiden Iverson's Social Security number and date of birth as part of the insurance renewal process.
+
+[CHANNEL 4 | data340.txt]
+Email from Casey, Compliance Lead at Ironbridge Construction, requesting confirmation of Aiden Iverson's home address and personal phone number as part of the insurance renewal process.

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Rina Owens,1,data537.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of Rina Owens's access badge number and building entry records for an annual compliance audit.",75,malicious
+Rina Owens,2,data537.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of Rina Owens's driver's license and passport details for an annual compliance audit.",75,malicious
+Rina Owens,3,data537.txt,"Email from Jordan, a Senior HR Generalist, requesting Rina Owens to review and confirm her bank account and routing information for the annual compliance audit and year-end payroll reconciliation.",75,malicious
+Rina Owens,4,data537.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of Rina Owens's username and current reset details for an account-access review as part of the annual compliance audit.",75,malicious

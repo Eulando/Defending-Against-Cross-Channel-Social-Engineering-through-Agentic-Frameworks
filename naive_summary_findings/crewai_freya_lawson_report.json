@@ -1,0 +1,54 @@
+{
+  "victim_name": "Freya Lawson",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates routine administrative tasks related to updating an internal profile, which does not suggest malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Freya Lawson",
+      "findings": [
+        {
+          "filename": "data435.txt",
+          "channel_summary": "Email from Drew, the Internal Audit Lead, requesting assistance in updating Freya Lawson's internal profile for a quarterly directory. The email asks for confirmation on whether Freya is listed with a laptop or desktop in the asset summary."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding the victim and meets the criteria for reporting."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Freya Lawson",
+      "findings": [
+        {
+          "filename": "data435.txt",
+          "channel_summary": "Email from Drew, the Internal Audit Lead, requesting assistance in updating Freya Lawson's internal profile for a quarterly directory. The email asks for confirmation on which standard chat and ticketing tools are assigned to Freya for the support matrix."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding the victim and meets the criteria for reporting."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Freya Lawson",
+      "findings": [
+        {
+          "filename": "data435.txt",
+          "channel_summary": "Email from Drew, the Internal Audit Lead, requesting assistance in updating Freya Lawson's internal profile for a quarterly directory. The email asks for verification on how Freya's name should appear in the employee directory."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding the victim and meets the criteria for reporting."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Freya Lawson",
+      "findings": [
+        {
+          "filename": "data435.txt",
+          "channel_summary": "Email from Drew, the Internal Audit Lead, requesting assistance in updating Freya Lawson's internal profile for a quarterly directory. The email asks for confirmation on which cost center and office location are listed for Freya as part of cleaning up the internal roster."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding the victim and meets the criteria for reporting."
+    }
+  ]
+}

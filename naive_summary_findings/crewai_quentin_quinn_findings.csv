@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Quentin Quinn,1,data596.txt,"Email from Casey, Compliance Lead at Nova Telecom, requesting confirmation of Quentin Quinn's home address and personal phone number for updating records in the new HR system.",85,malicious
+Quentin Quinn,2,data596.txt,"Email from Casey, Compliance Lead at Nova Telecom, requesting verification of recovery settings for Quentin Quinn's account as part of the migration to the new HR system.",85,malicious
+Quentin Quinn,3,data596.txt,"Email from Casey, Compliance Lead at Nova Telecom, requesting Quentin Quinn's bank account and routing numbers for verifying direct deposit details as part of the record migration to the new HR system.",85,malicious
+Quentin Quinn,4,data596.txt,"Email from Casey, Compliance Lead at Nova Telecom, requesting confirmation of Quentin Quinn's access badge number and building entry records as part of the migration to the new HR system.",85,malicious

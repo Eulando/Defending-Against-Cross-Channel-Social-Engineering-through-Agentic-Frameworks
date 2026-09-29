@@ -1,0 +1,11 @@
+[CHANNEL 1 | data422.txt]
+Email requesting assistance in validating Wesley Kapoor's public-facing biography and checking the annual policy course listed for his training plan.
+
+[CHANNEL 2 | data422.txt]
+Email requesting verification of how Wesley Kapoor's name should appear in the employee directory as part of validating his public-facing biography.
+
+[CHANNEL 3 | data422.txt]
+Email requesting assistance in checking which building and floor are assigned to Wesley Kapoor in the office map as part of validating his public-facing biography.
+
+[CHANNEL 4 | data422.txt]
+Email requesting confirmation of the training cohort name listed for Wesley Kapoor as part of validating his public-facing biography.

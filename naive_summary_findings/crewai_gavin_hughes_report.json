@@ -1,0 +1,54 @@
+{
+  "victim_name": "Gavin Hughes",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal information related to the victim, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Gavin Hughes",
+      "findings": [
+        {
+          "filename": "data316.txt",
+          "channel_summary": "Email from Avery, a Security Coordinator at Meridian Health Systems, requesting confirmation of personal email and phone records for Gavin Hughes for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to the victim, indicating a potential concern for data management."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Gavin Hughes",
+      "findings": [
+        {
+          "filename": "data316.txt",
+          "channel_summary": "Email from Avery, a Security Coordinator at Meridian Health Systems, requesting confirmation of health insurance and medical records for Gavin Hughes for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive personal information related to the victim, indicating a potential concern for data management."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Gavin Hughes",
+      "findings": [
+        {
+          "filename": "data316.txt",
+          "channel_summary": "Email from Avery, a Security Coordinator at Meridian Health Systems, requesting confirmation of background check and screening files for Gavin Hughes for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive personal information related to the victim, indicating a potential concern for data management."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Gavin Hughes",
+      "findings": [
+        {
+          "filename": "data316.txt",
+          "channel_summary": "Email from Avery, a Security Coordinator at Meridian Health Systems, requesting confirmation of direct deposit authorization for Gavin Hughes for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive personal information related to the victim, indicating a potential concern for data management."
+    }
+  ]
+}

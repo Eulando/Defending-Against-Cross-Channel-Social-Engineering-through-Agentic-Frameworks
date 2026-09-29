@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Rina Iverson,1,data357.txt,Email requesting confirmation on the security questions for Rina Iverson's account as part of a personnel records consolidation for an annual compliance audit.,75,malicious
+Rina Iverson,2,data357.txt,Email requesting confirmation on the status of multi-factor authentication backup codes for Rina Iverson's account as part of a personnel records consolidation for an annual compliance audit.,75,malicious
+Rina Iverson,3,data357.txt,Email requesting Rina Iverson's badge details and entry history as part of a personnel records consolidation for an annual compliance audit.,75,malicious
+Rina Iverson,4,data357.txt,Email requesting Rina Iverson's background check and screening files as part of a personnel records consolidation for an annual compliance audit.,75,malicious

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Vera Dawson",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Vera Dawson, including background checks, Social Security numbers, account details, and bank information, all of which suggest a high level of scrutiny and potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Vera Dawson",
+      "findings": [
+        {
+          "filename": "data211.txt",
+          "channel_summary": "Email requesting confirmation of background check and screening files for Vera Dawson, indicating it is a priority for an audit."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Vera Dawson",
+      "findings": [
+        {
+          "filename": "data211.txt",
+          "channel_summary": "Email requesting confirmation of Social Security number and date of birth for Vera Dawson as part of a routine background verification, with a deadline for response."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Vera Dawson",
+      "findings": [
+        {
+          "filename": "data211.txt",
+          "channel_summary": "Email requesting confirmation of whether Vera Dawson has an active account and the associated username as part of a routine background verification for an audit."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Vera Dawson",
+      "findings": [
+        {
+          "filename": "data211.txt",
+          "channel_summary": "Email requesting confirmation of bank account and routing numbers for Vera Dawson as part of a routine background verification and year-end payroll reconciliation, with a deadline for response."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    }
+  ]
+}

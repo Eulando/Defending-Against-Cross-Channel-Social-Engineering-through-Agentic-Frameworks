@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Yara Jensen,1,data394.txt,"Email requesting assistance with a routine background verification on Yara Jensen, specifically asking for driver's license and passport details for identity document verification.",80,malicious
+Yara Jensen,2,data394.txt,Email requesting confirmation of Yara Jensen's Social Security number and date of birth against personnel records as part of a routine background verification for an audit.,80,malicious
+Yara Jensen,3,data394.txt,Email requesting Yara Jensen's home address and personal phone number as part of a routine background verification and update of contact information.,80,malicious
+Yara Jensen,4,data394.txt,Email requesting Yara Jensen to confirm or update her personal email address and phone number as part of a routine background verification and directory record update.,80,malicious

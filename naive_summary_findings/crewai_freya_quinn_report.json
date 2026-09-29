@@ -1,0 +1,54 @@
+{
+  "victim_name": "Freya Quinn",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Freya Quinn's account, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Freya Quinn",
+      "findings": [
+        {
+          "filename": "data585.txt",
+          "channel_summary": "Email from Taylor, Finance Manager at Northgate Financial Group, requesting confirmation of multi-factor authentication backup codes for Freya Quinn's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Freya Quinn",
+      "findings": [
+        {
+          "filename": "data585.txt",
+          "channel_summary": "Email from Taylor, Finance Manager at Northgate Financial Group, requesting Freya Quinn's salary and bonus figures for the insurance renewal process."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Freya Quinn",
+      "findings": [
+        {
+          "filename": "data585.txt",
+          "channel_summary": "Email from Taylor, Finance Manager at Northgate Financial Group, requesting driver's license and passport details for Freya Quinn's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Freya Quinn",
+      "findings": [
+        {
+          "filename": "data585.txt",
+          "channel_summary": "Email from Taylor, Finance Manager at Northgate Financial Group, requesting Freya Quinn's bank account and routing numbers for the insurance renewal process."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    }
+  ]
+}

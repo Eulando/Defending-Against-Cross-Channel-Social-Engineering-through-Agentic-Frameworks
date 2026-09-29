@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Dorian Patel,1,data579.txt,"Email from Riley, Operations Director at Meridian Health Systems, requesting confirmation of background check and screening files for Dorian Patel as part of the personnel records consolidation for an annual compliance audit.",10,benign
+Dorian Patel,2,data579.txt,"Email from Riley, Operations Director at Meridian Health Systems, requesting confirmation of health insurance and medical records for Dorian Patel as part of the personnel records consolidation for an annual compliance audit.",10,benign
+Dorian Patel,3,data579.txt,"Email from Riley, Operations Director at Meridian Health Systems, requesting Dorian Patel's employment file and emergency contacts as part of the personnel records consolidation for an annual compliance audit.",10,benign
+Dorian Patel,4,data579.txt,"Email from Riley, Operations Director at Meridian Health Systems, requesting confirmation of Dorian Patel's current home address and personal phone number for the personnel records consolidation as part of the annual compliance audit.",10,benign

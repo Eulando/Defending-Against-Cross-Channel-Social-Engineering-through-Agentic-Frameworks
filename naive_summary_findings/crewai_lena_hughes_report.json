@@ -1,0 +1,54 @@
+{
+  "victim_name": "Lena Hughes",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal information related to Lena Hughes, including verification of identification, financial details, personal contact information, and health documentation, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Lena Hughes",
+      "findings": [
+        {
+          "filename": "data321.txt",
+          "channel_summary": "Email requesting confirmation of Lena Hughes' driver's license and passport details for a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for verification of personal details related to Lena Hughes."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Lena Hughes",
+      "findings": [
+        {
+          "filename": "data321.txt",
+          "channel_summary": "Email requesting Lena Hughes's salary and bonus figures for a routine background verification and reconciliation of compensation data."
+        }
+      ],
+      "rationale": "The email contains a request for financial details related to Lena Hughes."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Lena Hughes",
+      "findings": [
+        {
+          "filename": "data321.txt",
+          "channel_summary": "Email requesting confirmation of Lena Hughes' personal email and phone records for a routine background verification and directory update."
+        }
+      ],
+      "rationale": "The email contains a request for personal contact details related to Lena Hughes."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Lena Hughes",
+      "findings": [
+        {
+          "filename": "data321.txt",
+          "channel_summary": "Email requesting Lena Hughes's health insurance and medical documentation for a routine background verification and double-checking of benefit records."
+        }
+      ],
+      "rationale": "The email contains a request for health-related documentation related to Lena Hughes."
+    }
+  ]
+}

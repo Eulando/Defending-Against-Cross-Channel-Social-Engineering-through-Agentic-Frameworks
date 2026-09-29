@@ -1,0 +1,11 @@
+[CHANNEL 1 | data380.txt]
+Email requesting verification of Keon Jensen's Social Security number and date of birth for an insurance renewal process, with a deadline for response.
+
+[CHANNEL 2 | data380.txt]
+Email requesting confirmation of direct deposit authorization details for Keon Jensen's account as part of the insurance renewal process, with a deadline for response.
+
+[CHANNEL 3 | data380.txt]
+Email requesting confirmation of current direct deposit details for Keon Jensen's account as part of the insurance renewal process, with a request for prompt response.
+
+[CHANNEL 4 | data380.txt]
+Email requesting confirmation of health insurance and medical records for Keon Jensen's account as part of the insurance renewal process, with a request for timely response.

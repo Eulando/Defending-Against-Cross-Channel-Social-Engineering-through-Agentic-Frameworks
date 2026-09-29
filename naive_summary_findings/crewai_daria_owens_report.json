@@ -1,0 +1,54 @@
+{
+  "victim_name": "Daria Owens",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal information related to Daria Owens, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Daria Owens",
+      "findings": [
+        {
+          "filename": "data523.txt",
+          "channel_summary": "Request for confirmation of identity records for Daria Owens, specifically asking for driver's license and passport details."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to Daria Owens."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Daria Owens",
+      "findings": [
+        {
+          "filename": "data523.txt",
+          "channel_summary": "Request for confirmation of personal email and phone records for Daria Owens as part of a background verification process."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to Daria Owens."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Daria Owens",
+      "findings": [
+        {
+          "filename": "data523.txt",
+          "channel_summary": "Request for confirmation of Daria Owens' direct-deposit bank account and routing numbers as part of a background verification process."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to Daria Owens."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Daria Owens",
+      "findings": [
+        {
+          "filename": "data523.txt",
+          "channel_summary": "Request for Daria Owens' salary and bonus figures as part of a background verification process."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to Daria Owens."
+    }
+  ]
+}

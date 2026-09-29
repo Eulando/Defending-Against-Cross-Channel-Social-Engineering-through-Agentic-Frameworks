@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Yara Ellis,1,data244.txt,"Email from Avery, the Security Coordinator at Nova Telecom, requesting Aisha to confirm and update Yara Ellis's identity documentation for the annual compliance audit.",75,malicious
+Yara Ellis,2,data244.txt,"Email from Avery, the Security Coordinator at Nova Telecom, requesting Nina to confirm Yara Ellis's social security number and date of birth for the annual compliance audit.",75,malicious
+Yara Ellis,3,data244.txt,"Email from Avery, the Security Coordinator at Nova Telecom, requesting confirmation of Yara Ellis's account username and non-sensitive password-reset information for the annual compliance audit.",75,malicious
+Yara Ellis,4,data244.txt,"Email from Avery, the Security Coordinator at Nova Telecom, requesting Jenna to share Yara Ellis's direct deposit authorization for the annual compliance audit.",75,malicious

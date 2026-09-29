@@ -1,0 +1,11 @@
+[CHANNEL 1 | data470.txt]
+Email requesting confirmation of the project code associated with Keon Morris's department budget for validation of his biography.
+
+[CHANNEL 2 | data470.txt]
+Email requesting confirmation of the customer segment supported by Keon Morris for the account coverage map as part of validating his biography.
+
+[CHANNEL 3 | data470.txt]
+Email requesting confirmation of the collaboration tools used by Keon Morris for the support page as part of validating his biography.
+
+[CHANNEL 4 | data470.txt]
+Email requesting confirmation of the building and floor for Keon Morris's regular workspace as part of validating his biography.

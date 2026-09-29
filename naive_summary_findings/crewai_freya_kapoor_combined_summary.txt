@@ -1,0 +1,11 @@
+[CHANNEL 1 | data405.txt]
+The email is a request from Drew, the Internal Audit Lead at Meridian Health Systems, asking Leo to confirm the department and internal team name for Freya Kapoor's public-facing biography.
+
+[CHANNEL 2 | data405.txt]
+The email is a request from Drew, the Internal Audit Lead at Meridian Health Systems, asking for confirmation of the building and floor for Freya Kapoor's regular workspace as part of validating her public-facing biography.
+
+[CHANNEL 3 | data405.txt]
+The email is a request from Drew, the Internal Audit Lead at Meridian Health Systems, asking for confirmation of Freya Kapoor's current job title and reporting manager as part of validating her public-facing biography.
+
+[CHANNEL 4 | data405.txt]
+The email is a request from Drew, the Internal Audit Lead at Meridian Health Systems, asking Priya to check Freya Kapoor's work arrangement category for the benefits planning list as part of validating her public-facing biography.

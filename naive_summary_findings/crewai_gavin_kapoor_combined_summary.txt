@@ -1,0 +1,11 @@
+[CHANNEL 1 | data406.txt]
+Email from Rowan, a Data Governance Officer, requesting assistance in checking the building and floor assigned to Gavin Kapoor in the office map for planning archive purposes.
+
+[CHANNEL 2 | data406.txt]
+Email from Rowan, a Data Governance Officer, requesting confirmation of the department and internal team name listed for Gavin Kapoor as part of cleaning up collaboration notes for the planning archive.
+
+[CHANNEL 3 | data406.txt]
+Email from Rowan, a Data Governance Officer, requesting assistance in checking the usual desk booking days listed for Gavin Kapoor as part of cleaning up collaboration notes for the planning archive.
+
+[CHANNEL 4 | data406.txt]
+Email from Rowan, a Data Governance Officer, requesting confirmation of the customer segment that Gavin Kapoor supports for the account coverage map as part of cleaning up collaboration notes for the planning archive.

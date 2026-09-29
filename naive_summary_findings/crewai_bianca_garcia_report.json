@@ -1,0 +1,54 @@
+{
+  "victim_name": "Bianca Garcia",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates legitimate inquiries related to the victim's account for an insurance renewal process, with no signs of malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Bianca Garcia",
+      "findings": [
+        {
+          "filename": "data281.txt",
+          "channel_summary": "Email from Cameron, a Records Manager at Meridian Health Systems, requesting confirmation of Bianca Garcia's access badge number and building entry records for an insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's account, indicating a legitimate inquiry."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Bianca Garcia",
+      "findings": [
+        {
+          "filename": "data281.txt",
+          "channel_summary": "Email from Cameron, a Records Manager at Meridian Health Systems, requesting Bianca Garcia's personal email and phone number for updating directory records related to an insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to the victim's account, indicating a legitimate inquiry."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Bianca Garcia",
+      "findings": [
+        {
+          "filename": "data281.txt",
+          "channel_summary": "Email from Cameron, a Records Manager at Meridian Health Systems, requesting confirmation of the security questions and answers associated with Bianca Garcia's account for the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for validation of account security details related to the victim's account, indicating a legitimate inquiry."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Bianca Garcia",
+      "findings": [
+        {
+          "filename": "data281.txt",
+          "channel_summary": "Email from Cameron, a Records Manager at Meridian Health Systems, requesting confirmation of Bianca Garcia's direct deposit details for the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for verification of banking information related to the victim's account, indicating a legitimate inquiry."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Mateo Carver,1,data172.txt,Email requesting confirmation on expense code for Mateo Carver's employee appreciation award and whether a purchase order is needed.,10,benign
+Mateo Carver,2,data172.txt,"Email requesting assistance in booking a room for Mateo Carver's employee appreciation award event, including details about the setup and catering.",10,benign
+Mateo Carver,3,data172.txt,"Email requesting a recommendation for a reliable vendor for Mateo Carver's employee appreciation award gift, emphasizing the need for timely delivery.",10,benign
+Mateo Carver,4,data172.txt,"Email requesting assistance in drafting a public announcement for Mateo Carver's employee appreciation award, inquiring if it warrants public mention.",10,benign

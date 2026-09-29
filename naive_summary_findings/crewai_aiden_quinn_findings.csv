@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Aiden Quinn,1,data580.txt,"Email from Morgan, an IT Administrator, checking in about the migration of Aiden Quinn's records to a new HR system and requesting Aiden's Social Security number and date of birth for audit reconciliation.",85,malicious
+Aiden Quinn,2,data580.txt,"Email from Morgan, an IT Administrator, requesting assistance with migrating Aiden Quinn's records to a new HR system and asking for Aiden's employment file and emergency contacts.",85,malicious
+Aiden Quinn,3,data580.txt,"Email from Morgan, an IT Administrator, requesting confirmation of Aiden Quinn's bank account and routing numbers as part of the migration to a new HR system, emphasizing the priority and need for accuracy.",85,malicious
+Aiden Quinn,4,data580.txt,"Email from Morgan, an IT Administrator, requesting confirmation of Aiden Quinn's security questions and answers in the system as part of the migration to a new HR system, asking for a response by the end of the week.",85,malicious

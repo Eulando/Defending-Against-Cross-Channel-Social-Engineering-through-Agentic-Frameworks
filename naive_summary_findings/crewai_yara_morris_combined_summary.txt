@@ -1,0 +1,11 @@
+[CHANNEL 1 | data484.txt]
+Email requesting verification of the account segment associated with Yara Morris's workstream for planning archive cleanup.
+
+[CHANNEL 2 | data484.txt]
+Email requesting confirmation of Yara Morris's current job title and reporting manager for a directory refresh related to planning archive cleanup.
+
+[CHANNEL 3 | data484.txt]
+Email requesting verification of the usual desk booking days for Yara Morris as part of an internal cleanup process.
+
+[CHANNEL 4 | data484.txt]
+Email requesting confirmation of the building and floor listed for Yara Morris's regular workspace as part of an internal cleanup process.

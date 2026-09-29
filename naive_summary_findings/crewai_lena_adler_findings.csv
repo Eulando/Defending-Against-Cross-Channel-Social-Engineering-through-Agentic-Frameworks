@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Lena Adler,1,data111.txt,"Email from Noah, a Business Operations Manager, requesting details for Lena Adler's employee appreciation award, including hire date, final working day, and years of service.",10,benign
+Lena Adler,2,data111.txt,"Email from Noah, a Business Operations Manager, requesting assistance in shortlisting gift vendors for Lena Adler's employee appreciation award, including lead times for ordering.",10,benign
+Lena Adler,3,data111.txt,"Email from Noah, a Business Operations Manager, requesting to hold the Lakeside Terrace for Lena Adler's employee appreciation award and inquiring about catering options for up to 20 guests.",10,benign
+Lena Adler,4,data111.txt,"Email from Noah, a Business Operations Manager, requesting confirmation of Lena Adler's start date and areas managed for inclusion in the employee appreciation award materials.",10,benign

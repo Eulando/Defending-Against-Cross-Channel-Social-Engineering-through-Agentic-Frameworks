@@ -1,0 +1,11 @@
+[CHANNEL 1 | data517.txt]
+Email requesting confirmation of Bennett Navarro's account username and password-reset information for migration to a new HR system.
+
+[CHANNEL 2 | data517.txt]
+Email requesting review and confirmation of identity-document records (driver's license and passport) for Bennett Navarro as part of the migration to a new HR system.
+
+[CHANNEL 3 | data517.txt]
+Email requesting Bennett Navarro's badge details and entry history as part of the migration to a new HR system.
+
+[CHANNEL 4 | data517.txt]
+Email requesting confirmation of personal email and phone records for Bennett Navarro as part of the migration to a new HR system.

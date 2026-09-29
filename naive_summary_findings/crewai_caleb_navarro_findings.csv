@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Caleb Navarro,1,data492.txt,Email requesting verification of how Caleb Navarro's name should appear in the employee directory before onboarding materials are revised.,10,benign
+Caleb Navarro,2,data492.txt,Email requesting confirmation of the department and internal team name for Caleb Navarro as part of an internal cleanup before onboarding materials are revised.,10,benign
+Caleb Navarro,3,data492.txt,Email requesting confirmation of the usual desk booking days for Caleb Navarro as part of the onboarding process.,10,benign
+Caleb Navarro,4,data492.txt,Email requesting verification of the account segment associated with Caleb Navarro's workstream as part of an internal cleanup before onboarding materials are revised.,10,benign

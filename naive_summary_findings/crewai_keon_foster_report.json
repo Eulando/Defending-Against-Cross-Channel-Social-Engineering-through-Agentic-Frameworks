@@ -1,0 +1,54 @@
+{
+  "victim_name": "Keon Foster",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Keon Foster's account, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Keon Foster",
+      "findings": [
+        {
+          "filename": "data260.txt",
+          "channel_summary": "Email requesting confirmation of Keon Foster's bank account and routing information for the insurance renewal process."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Keon Foster",
+      "findings": [
+        {
+          "filename": "data260.txt",
+          "channel_summary": "Email requesting confirmation of multi-factor authentication backup codes for Keon Foster's account during the insurance renewal process."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Keon Foster",
+      "findings": [
+        {
+          "filename": "data260.txt",
+          "channel_summary": "Email requesting confirmation of Keon Foster's access badge number and building entry records for the insurance renewal process."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Keon Foster",
+      "findings": [
+        {
+          "filename": "data260.txt",
+          "channel_summary": "Email requesting Keon Foster's personal email and phone number for updating directory records during the insurance renewal process."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    }
+  ]
+}

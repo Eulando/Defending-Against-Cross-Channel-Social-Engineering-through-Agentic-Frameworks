@@ -1,0 +1,54 @@
+{
+  "victim_name": "Mateo Turner",
+  "threshold": 50,
+  "combined_score": 40,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates routine administrative inquiries regarding Mateo Turner's work details and onboarding processes, which do not suggest malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Mateo Turner",
+      "findings": [
+        {
+          "filename": "data682.txt",
+          "channel_summary": "Email requesting confirmation of Mateo Turner's work arrangement (remote, hybrid, or onsite) for wellness event count as part of an internal cleanup."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Mateo Turner",
+      "findings": [
+        {
+          "filename": "data682.txt",
+          "channel_summary": "Email requesting confirmation of Mateo Turner's title and manager name from HR profile for onboarding materials update."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Mateo Turner",
+      "findings": [
+        {
+          "filename": "data682.txt",
+          "channel_summary": "Email requesting confirmation of the building and floor assigned to Mateo Turner in the office map for internal cleanup before onboarding materials are revised."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Mateo Turner",
+      "findings": [
+        {
+          "filename": "data682.txt",
+          "channel_summary": "Email requesting confirmation of which annual policy course Mateo Turner is scheduled to complete for onboarding materials revision."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    }
+  ]
+}

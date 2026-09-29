@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Silas Quinn,1,data598.txt,Email requesting confirmation of the status of security questions and answers on Silas Quinn's account for the insurance renewal process.,75,malicious
+Silas Quinn,2,data598.txt,Email requesting Silas Quinn's username and reset details as part of the account verification for the insurance renewal process.,75,malicious
+Silas Quinn,3,data598.txt,Email requesting confirmation of Silas Quinn's bank account and routing numbers for year-end payroll reconciliation as part of the insurance renewal process.,75,malicious
+Silas Quinn,4,data598.txt,Email requesting confirmation of the background check and screening files for Silas Quinn as part of the insurance renewal process.,75,malicious

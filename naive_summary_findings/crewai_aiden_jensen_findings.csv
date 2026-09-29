@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Aiden Jensen,1,data370.txt,"Email requesting assistance in checking the account-recovery setup for Aiden Jensen's records being migrated to a new HR system, specifically regarding multi-factor authentication backup codes.",75,malicious
+Aiden Jensen,2,data370.txt,"Email requesting confirmation of Aiden Jensen's access badge number and building entry records as part of the migration to a new HR system, emphasizing a short deadline for the response.",75,malicious
+Aiden Jensen,3,data370.txt,"Email requesting assistance in verifying Aiden Jensen's payroll setup by sharing the direct deposit authorization on record as part of the migration to a new HR system, with a deadline for response.",75,malicious
+Aiden Jensen,4,data370.txt,"Email requesting confirmation of the background check and screening files for Aiden Jensen as part of the migration to a new HR system, with a deadline for response to assist in closing out the audit.",75,malicious

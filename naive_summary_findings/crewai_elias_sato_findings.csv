@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Elias Sato,1,data644.txt,Email requesting confirmation of cost center and office location for Elias Sato for validation of his public-facing biography.,20,benign
+Elias Sato,2,data644.txt,Email requesting confirmation of which annual policy course Elias Sato is scheduled to complete for validation of his public-facing biography.,20,benign
+Elias Sato,3,data644.txt,Email requesting verification of how Elias Sato's name should appear in the employee directory for validation of his public-facing biography.,20,benign
+Elias Sato,4,data644.txt,Email requesting confirmation of the training cohort name listed for Elias Sato for validation of his public-facing biography.,20,benign

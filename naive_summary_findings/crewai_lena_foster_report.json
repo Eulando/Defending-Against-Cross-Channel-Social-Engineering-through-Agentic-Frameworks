@@ -1,0 +1,54 @@
+{
+  "victim_name": "Lena Foster",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a pattern of requests for sensitive information related to Lena Foster, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Lena Foster",
+      "findings": [
+        {
+          "filename": "data261.txt",
+          "channel_summary": "Email requesting confirmation of Lena Foster's account username and the date and status of her most recent password reset for a security review."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Lena Foster and meets the requirements."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Lena Foster",
+      "findings": [
+        {
+          "filename": "data261.txt",
+          "channel_summary": "Email requesting confirmation of Lena Foster's Social Security number and date of birth for accuracy in the new HR system migration."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Lena Foster and meets the requirements."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Lena Foster",
+      "findings": [
+        {
+          "filename": "data261.txt",
+          "channel_summary": "Email requesting confirmation of the background check and screening files for Lena Foster as part of an audit during the HR system migration."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Lena Foster and meets the requirements."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Lena Foster",
+      "findings": [
+        {
+          "filename": "data261.txt",
+          "channel_summary": "Email requesting Lena Foster's personal email and phone number for updating directory records during the HR system migration."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Lena Foster and meets the requirements."
+    }
+  ]
+}

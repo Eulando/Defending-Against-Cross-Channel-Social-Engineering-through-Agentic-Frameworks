@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Yara Hughes,1,data334.txt,"Email from Drew, Internal Audit Lead, requesting Yara Hughes's health insurance and medical documentation for year-end reconciliation.",80,malicious
+Yara Hughes,2,data334.txt,"Email from Drew, Internal Audit Lead, requesting Yara Hughes's driver's license and passport details for identity verification related to year-end reconciliation.",80,malicious
+Yara Hughes,3,data334.txt,"Email from Drew, Internal Audit Lead, requesting Yara Hughes's full employment file and emergency contact details from HRIS for year-end reconciliation.",80,malicious
+Yara Hughes,4,data334.txt,"Email from Drew, Internal Audit Lead, requesting Yara Hughes's bank account and routing numbers for year-end payroll reconciliation.",80,malicious

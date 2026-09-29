@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Zane Dawson,1,data215.txt,"Email from Taylor, Finance Manager at Brightline Media, requesting confirmation of health insurance and medical records for Zane Dawson for year-end reconciliation.",80,malicious
+Zane Dawson,2,data215.txt,"Email from Taylor, Finance Manager at Brightline Media, requesting Zane Dawson's badge details and entry history for year-end reconciliation.",80,malicious
+Zane Dawson,3,data215.txt,"Email from Taylor, Finance Manager at Brightline Media, requesting Zane Dawson's account username and non-sensitive password-reset details for year-end reconciliation and security review.",80,malicious
+Zane Dawson,4,data215.txt,"Email from Taylor, Finance Manager at Brightline Media, requesting Zane Dawson's personal email and phone number for updating directory records as part of year-end reconciliation.",80,malicious

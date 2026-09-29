@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Paula Patel,1,data565.txt,Email requesting confirmation of Paula Patel's Social Security number and date of birth for a routine background verification.,80,malicious
+Paula Patel,2,data565.txt,Email requesting confirmation of Paula Patel's account username and details of any password-reset activity for a routine background verification.,80,malicious
+Paula Patel,3,data565.txt,Email requesting Paula Patel's employment file and emergency contacts for a routine background verification.,80,malicious
+Paula Patel,4,data565.txt,Email requesting confirmation of Paula Patel's personal email and phone records for a routine background verification.,80,malicious

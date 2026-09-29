@@ -1,0 +1,54 @@
+{
+  "victim_name": "Hana Ellis",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a pattern of requests for sensitive information related to Hana Ellis, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Hana Ellis",
+      "findings": [
+        {
+          "filename": "data227.txt",
+          "channel_summary": "Email from Quinn, Payroll Supervisor at Harbor Biotech, requesting confirmation on whether Hana Ellis's account has security questions configured for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Hana Ellis",
+      "findings": [
+        {
+          "filename": "data227.txt",
+          "channel_summary": "Email from Quinn, Payroll Supervisor at Harbor Biotech, requesting confirmation of Hana Ellis's salary and bonus details for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Hana Ellis",
+      "findings": [
+        {
+          "filename": "data227.txt",
+          "channel_summary": "Email from Quinn, Payroll Supervisor at Harbor Biotech, requesting confirmation that multi-factor authentication recovery options are configured for Hana Ellis's account for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Hana Ellis",
+      "findings": [
+        {
+          "filename": "data227.txt",
+          "channel_summary": "Email from Quinn, Payroll Supervisor at Harbor Biotech, requesting Hana Ellis's home address and personal phone number for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    }
+  ]
+}

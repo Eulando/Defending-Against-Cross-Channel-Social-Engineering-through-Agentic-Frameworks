@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Paula Garcia,1,data295.txt,Request for Paula Garcia's employment file and emergency contacts for the annual compliance audit.,70,malicious
+Paula Garcia,2,data295.txt,Request for confirmation of Paula Garcia's direct deposit authorization details for payroll reconciliation.,70,malicious
+Paula Garcia,3,data295.txt,Request for Paula Garcia's badge details and entry history for the annual compliance audit.,70,malicious
+Paula Garcia,4,data295.txt,Request for confirmation of Paula Garcia's direct deposit details in the authorized payroll system for the annual compliance audit.,70,malicious

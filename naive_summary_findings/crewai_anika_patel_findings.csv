@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Anika Patel,1,data576.txt,"Email from Casey, Compliance Lead at Crestline Hotels, requesting confirmation of multi-factor authentication recovery options for Anika Patel's account as part of the insurance renewal process.",60,malicious
+Anika Patel,2,data576.txt,"Email from Casey, Compliance Lead at Crestline Hotels, requesting confirmation of Anika Patel's access badge number and building entry records as part of the insurance renewal process.",60,malicious
+Anika Patel,3,data576.txt,"Email from Casey, Compliance Lead at Crestline Hotels, requesting Anika Patel's background check and screening files as part of the insurance renewal process.",60,malicious
+Anika Patel,4,data576.txt,"Email from Casey, Compliance Lead at Crestline Hotels, requesting Anika Patel to confirm or update her personal email address and phone number as part of the insurance renewal process.",60,malicious

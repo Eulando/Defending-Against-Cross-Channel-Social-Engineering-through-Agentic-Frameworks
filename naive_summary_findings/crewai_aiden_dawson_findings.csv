@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Aiden Dawson,1,data190.txt,"Email from Sofia, a People Operations Specialist, requesting help to organize a thank-you event for Aiden Dawson, including reserving a venue and confirming catering details.",10,benign
+Aiden Dawson,2,data190.txt,"Email from Sofia, a People Operations Specialist, requesting a brief testimonial about Aiden Dawson for the team thank-you event program, emphasizing the importance of making the event memorable.",10,benign
+Aiden Dawson,3,data190.txt,"Email from Sofia, a People Operations Specialist, requesting assistance in compiling a list of major initiatives led by Aiden Dawson for a team thank-you event, specifically focusing on achievements related to the Beacon and Crestline programs.",10,benign
+Aiden Dawson,4,data190.txt,"Email from Sofia, a People Operations Specialist, requesting a recommendation for a reliable vendor for a recognition gift for Aiden Dawson's team thank-you event, emphasizing the importance of staying within budget and considering delivery lead time.",10,benign

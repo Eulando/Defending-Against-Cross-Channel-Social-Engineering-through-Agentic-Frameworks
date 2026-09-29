@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Silas Patel,1,data568.txt,"Email from Drew, Internal Audit Lead at Brightline Media, requesting confirmation on Silas Patel's multi-factor authentication recovery setup and backup codes for year-end reconciliation.",75,malicious
+Silas Patel,2,data568.txt,"Email from Drew, Internal Audit Lead at Brightline Media, requesting Silas Patel's driver's license and passport details for validating identity records as part of year-end reconciliation.",75,malicious
+Silas Patel,3,data568.txt,"Email from Drew, Internal Audit Lead at Brightline Media, requesting confirmation of Silas Patel's salary and bonus details from compensation records for year-end reconciliation.",75,malicious
+Silas Patel,4,data568.txt,"Email from Drew, Internal Audit Lead at Brightline Media, requesting confirmation of Silas Patel's personal email and phone records for updating the directory as part of year-end reconciliation.",75,malicious

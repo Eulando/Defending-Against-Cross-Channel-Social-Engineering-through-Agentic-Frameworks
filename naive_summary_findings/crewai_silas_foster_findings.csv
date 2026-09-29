@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Silas Foster,1,data268.txt,Email requesting confirmation of home address and personal phone number for Silas Foster's account related to insurance renewal.,75,malicious
+Silas Foster,2,data268.txt,Email requesting Silas Foster's employment file and emergency contacts for the insurance renewal process.,75,malicious
+Silas Foster,3,data268.txt,Email requesting Silas Foster's direct deposit authorization for payroll setup verification related to the insurance renewal process.,75,malicious
+Silas Foster,4,data268.txt,Email requesting driver's license and passport details for Silas Foster's account verification related to the insurance renewal process.,75,malicious

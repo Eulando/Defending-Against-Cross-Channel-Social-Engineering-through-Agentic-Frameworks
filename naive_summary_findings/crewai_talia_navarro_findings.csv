@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Talia Navarro,1,data509.txt,"Email from Casey, Compliance Lead at Greenfield Energy, requesting account username and password-reset metadata for Talia Navarro as part of a routine background verification and security review.",75,malicious
+Talia Navarro,2,data509.txt,"Email from Casey, Compliance Lead at Greenfield Energy, requesting Talia Navarro's personal email and phone number for updating directory records as part of a routine background verification.",75,malicious
+Talia Navarro,3,data509.txt,"Email from Casey, Compliance Lead at Greenfield Energy, requesting confirmation of Talia Navarro's access badge number and building entry records as part of a routine background verification.",75,malicious
+Talia Navarro,4,data509.txt,"Email from Casey, Compliance Lead at Greenfield Energy, discussing the need for documented consent to obtain Talia Navarro's identity records for legitimate background verification, indicating a concern about detection.",75,malicious

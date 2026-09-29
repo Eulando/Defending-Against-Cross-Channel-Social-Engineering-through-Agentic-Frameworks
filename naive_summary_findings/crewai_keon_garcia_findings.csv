@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Keon Garcia,1,data290.txt,Email requesting confirmation of direct deposit authorization details for Keon Garcia as part of personnel records consolidation for an annual compliance audit.,75,malicious
+Keon Garcia,2,data290.txt,Email requesting confirmation of personal email and phone records for Keon Garcia as part of personnel records consolidation for an annual compliance audit.,75,malicious
+Keon Garcia,3,data290.txt,Email requesting confirmation of Keon Garcia's current home address and personal phone number as part of personnel records consolidation for an annual compliance audit.,75,malicious
+Keon Garcia,4,data290.txt,Email requesting confirmation of the status of multi-factor authentication backup codes for Keon Garcia as part of personnel records consolidation for an annual compliance audit.,75,malicious

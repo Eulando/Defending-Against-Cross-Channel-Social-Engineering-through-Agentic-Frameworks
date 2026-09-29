@@ -1,0 +1,11 @@
+[CHANNEL 1 | data408.txt]
+Email requesting confirmation of the customer segment that Isaac Kapoor supports for the quarterly directory update.
+
+[CHANNEL 2 | data408.txt]
+Email requesting confirmation of Isaac Kapoor's title and manager name for the quarterly directory update.
+
+[CHANNEL 3 | data408.txt]
+Email requesting confirmation of the collaboration tools that Isaac Kapoor uses for the quarterly directory update.
+
+[CHANNEL 4 | data408.txt]
+Email requesting confirmation of the annual policy course that Isaac Kapoor is scheduled to complete for the quarterly directory update.

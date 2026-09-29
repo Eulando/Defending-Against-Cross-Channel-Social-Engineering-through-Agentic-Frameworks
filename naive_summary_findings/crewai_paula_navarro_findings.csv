@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Paula Navarro,1,data505.txt,Email requesting confirmation of security questions and answers for Paula Navarro's account as part of a migration to a new HR system.,75,malicious
+Paula Navarro,2,data505.txt,Email requesting confirmation of Paula Navarro's direct deposit information as part of the migration to a new HR system.,75,malicious
+Paula Navarro,3,data505.txt,Email requesting confirmation of health insurance and medical records for Paula Navarro as part of the migration to a new HR system.,75,malicious
+Paula Navarro,4,data505.txt,Email requesting verification of multi-factor authentication recovery options for Paula Navarro's account as part of the migration to a new HR system.,75,malicious

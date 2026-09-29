@@ -1,0 +1,11 @@
+[CHANNEL 1 | data173.txt]
+Email from Jordan, a Program Manager at Orbit Analytics, requesting help with details for Noelle Carver's innovation award ceremony. The email asks for a short note about Noelle's impact on the team to be quoted during the ceremony.
+
+[CHANNEL 2 | data173.txt]
+Email from Jordan, a Program Manager at Orbit Analytics, requesting assistance with details for Noelle Carver's innovation award ceremony. The email inquires about preferred vendors for the achievement gift and asks for a shortlist with lead times.
+
+[CHANNEL 3 | data173.txt]
+Email from Jordan, a Program Manager at Orbit Analytics, requesting assistance with details for Noelle Carver's innovation award ceremony. The email asks if the ceremony warrants a public mention and requests a draft for a two-paragraph announcement to be routed for approval.
+
+[CHANNEL 4 | data173.txt]
+Email from Jordan, a Program Manager at Orbit Analytics, requesting assistance with details for Noelle Carver's innovation award ceremony. The email asks for recommendations on which vendor handles achievement gift-type orders best, along with typical lead times.

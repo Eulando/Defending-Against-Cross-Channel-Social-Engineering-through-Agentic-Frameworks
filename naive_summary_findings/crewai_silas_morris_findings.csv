@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Silas Morris,1,data478.txt,Email requesting confirmation of the collaboration tools used by Silas Morris for an internal profile update.,20,benign
+Silas Morris,2,data478.txt,Email requesting verification of Silas Morris's department and team name for an internal profile update.,20,benign
+Silas Morris,3,data478.txt,Email requesting information about the learning cohort associated with Silas Morris's employee profile for an internal profile update.,20,benign
+Silas Morris,4,data478.txt,Email requesting confirmation of Silas Morris's current job title and reporting manager for an internal profile update.,20,benign

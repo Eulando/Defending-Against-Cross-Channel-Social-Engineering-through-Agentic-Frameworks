@@ -1,0 +1,11 @@
+[CHANNEL 1 | data558.txt]
+Email from Drew, Internal Audit Lead, requesting confirmation of personal email and phone records for Isaac Patel for year-end reconciliation.
+
+[CHANNEL 2 | data558.txt]
+Email from Drew, Internal Audit Lead, requesting driver's license and passport details for Isaac Patel for year-end reconciliation.
+
+[CHANNEL 3 | data558.txt]
+Email from Drew, Internal Audit Lead, requesting confirmation of home address and personal phone number for Isaac Patel for year-end reconciliation.
+
+[CHANNEL 4 | data558.txt]
+Email from Drew, Internal Audit Lead, requesting salary and bonus figures for Isaac Patel for year-end reconciliation.

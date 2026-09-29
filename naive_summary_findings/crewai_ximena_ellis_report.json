@@ -1,0 +1,54 @@
+{
+  "victim_name": "Ximena Ellis",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive information related to Ximena Ellis, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Ximena Ellis",
+      "findings": [
+        {
+          "filename": "data243.txt",
+          "channel_summary": "Email requesting confirmation of Ximena Ellis's access badge number and building entry records for a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim, fulfilling the search criteria."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Ximena Ellis",
+      "findings": [
+        {
+          "filename": "data243.txt",
+          "channel_summary": "Email requesting confirmation of Ximena Ellis's home address and personal phone number for updating contact records during a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim, fulfilling the search criteria."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Ximena Ellis",
+      "findings": [
+        {
+          "filename": "data243.txt",
+          "channel_summary": "Email requesting confirmation of Ximena Ellis's account username and password reset status for a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim, fulfilling the search criteria."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Ximena Ellis",
+      "findings": [
+        {
+          "filename": "data243.txt",
+          "channel_summary": "Email requesting Ximena Ellis's full employment file and emergency contact details from HRIS for a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim, fulfilling the search criteria."
+    }
+  ]
+}

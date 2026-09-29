@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Ximena Dawson,1,data213.txt,"Email requesting confirmation of Ximena Dawson's profile information for year-end reconciliation, specifically the social security number and date of birth.",60,malicious
+Ximena Dawson,2,data213.txt,"Email requesting Ximena Dawson's employment file and emergency contacts for year-end reconciliation, emphasizing a short response window.",60,malicious
+Ximena Dawson,3,data213.txt,"Email requesting confirmation of multi-factor authentication and account-recovery method for Ximena Dawson's account, indicating urgency for year-end reconciliation.",60,malicious
+Ximena Dawson,4,data213.txt,"Email requesting validation of Ximena Dawson's identity records, specifically her driver's license and passport details, for year-end reconciliation.",60,malicious

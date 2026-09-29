@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Celine Rivera,1,data638.txt,"Email from Cameron, a Records Manager, requesting verification of the account segment associated with Celine Rivera's workstream before onboarding materials are revised.",10,benign
+Celine Rivera,2,data638.txt,"Email from Cameron, a Records Manager, requesting confirmation of whether Celine Rivera is listed with a laptop or desktop in the asset summary for internal cleanup before onboarding materials are revised.",10,benign
+Celine Rivera,3,data638.txt,"Email from Cameron, a Records Manager, requesting confirmation of the training cohort name listed for Celine Rivera as part of a tidy-up before onboarding materials are revised.",10,benign
+Celine Rivera,4,data638.txt,"Email from Cameron, a Records Manager, requesting confirmation of which standard chat and ticketing tools are assigned to Celine Rivera for the support matrix as part of a tidy-up before onboarding materials are revised.",10,benign

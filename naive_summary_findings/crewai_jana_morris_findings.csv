@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Jana Morris,1,data469.txt,Email requesting verification of Jana Morris's internal mail stop for the office services list.,20,benign
+Jana Morris,2,data469.txt,Email requesting verification of Jana Morris's work arrangement category for the benefits planning list.,20,benign
+Jana Morris,3,data469.txt,Email requesting confirmation of the department and internal team name listed for Jana Morris as part of an internal cleanup.,20,benign
+Jana Morris,4,data469.txt,Email requesting verification of the annual policy course listed for Jana Morris's training plan as part of an internal validation.,20,benign

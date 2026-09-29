@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Dorian Foster,1,data279.txt,"Email from Avery, a Security Coordinator at Stellar Aerospace, requesting Dorian Foster's home address and personal phone number for year-end reconciliation.",75,malicious
+Dorian Foster,2,data279.txt,"Email from Avery, a Security Coordinator at Stellar Aerospace, requesting confirmation of Dorian Foster's multi-factor authentication recovery options for year-end reconciliation.",75,malicious
+Dorian Foster,3,data279.txt,"Email from Avery, a Security Coordinator at Stellar Aerospace, requesting confirmation of Dorian Foster's driver’s license and passport details for year-end reconciliation.",75,malicious
+Dorian Foster,4,data279.txt,"Email from Avery, a Security Coordinator at Stellar Aerospace, requesting Dorian Foster's direct deposit authorization for year-end reconciliation.",75,malicious

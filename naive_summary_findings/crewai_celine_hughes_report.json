@@ -1,0 +1,54 @@
+{
+  "victim_name": "Celine Hughes",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal information related to the victim's identity and records migration, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Celine Hughes",
+      "findings": [
+        {
+          "filename": "data338.txt",
+          "channel_summary": "Email from Cameron, a Records Manager, requesting confirmation of multi-factor authentication backup codes for Celine Hughes as part of migrating her records to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's records migration."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Celine Hughes",
+      "findings": [
+        {
+          "filename": "data338.txt",
+          "channel_summary": "Email from Cameron, a Records Manager, requesting Celine Hughes's personal email and phone number as part of updating directory records during the migration to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for specific personal information related to the victim's records migration."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Celine Hughes",
+      "findings": [
+        {
+          "filename": "data338.txt",
+          "channel_summary": "Email from Cameron, a Records Manager, requesting confirmation of Celine Hughes's home address and personal phone number as part of updating contact records during the migration to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for specific personal information related to the victim's records migration."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Celine Hughes",
+      "findings": [
+        {
+          "filename": "data338.txt",
+          "channel_summary": "Email from Cameron, a Records Manager, requesting confirmation of Celine Hughes's driver’s license and passport details as part of validating her identity records during the migration to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for specific identity verification information related to the victim's records migration."
+    }
+  ]
+}

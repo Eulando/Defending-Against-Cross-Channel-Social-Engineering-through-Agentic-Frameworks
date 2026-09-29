@@ -1,0 +1,54 @@
+{
+  "victim_name": "Yara Owens",
+  "threshold": 50,
+  "combined_score": 65,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context includes multiple requests for sensitive information related to Yara Owens's financial and personal details, which raises significant security concerns.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Yara Owens",
+      "findings": [
+        {
+          "filename": "data544.txt",
+          "channel_summary": "Email from Riley, Operations Director at Stellar Aerospace, requesting salary and bonus figures for Yara Owens's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for specific financial information related to Yara Owens, indicating a legitimate business inquiry."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Yara Owens",
+      "findings": [
+        {
+          "filename": "data544.txt",
+          "channel_summary": "Email from Riley, Operations Director at Stellar Aerospace, requesting security questions and answers for Yara Owens's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive information related to Yara Owens's account, indicating a potential security concern."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Yara Owens",
+      "findings": [
+        {
+          "filename": "data544.txt",
+          "channel_summary": "Email from Riley, Operations Director at Stellar Aerospace, requesting Yara Owens's badge details and entry history as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for access records related to Yara Owens, indicating a legitimate inquiry for security purposes."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Yara Owens",
+      "findings": [
+        {
+          "filename": "data544.txt",
+          "channel_summary": "Email from Riley, Operations Director at Stellar Aerospace, requesting confirmation of Yara Owens's home address and personal phone number as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for personal contact information related to Yara Owens, indicating a legitimate inquiry for record updating."
+    }
+  ]
+}

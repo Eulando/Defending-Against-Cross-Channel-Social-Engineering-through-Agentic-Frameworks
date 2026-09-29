@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Jana Foster,1,data259.txt,"Email from Casey, Compliance Lead at Pearl Foods Inc., requesting assistance with Jana Foster's employment file and emergency contacts for year-end reconciliation.",80,malicious
+Jana Foster,2,data259.txt,"Email from Casey, Compliance Lead at Pearl Foods Inc., requesting security questions and answers for Jana Foster's account as part of the year-end reconciliation process.",80,malicious
+Jana Foster,3,data259.txt,"Email from Casey, Compliance Lead at Pearl Foods Inc., requesting Jana Foster's background check and screening files for year-end reconciliation.",80,malicious
+Jana Foster,4,data259.txt,"Email from Casey, Compliance Lead at Pearl Foods Inc., requesting confirmation of direct deposit authorization details for Jana Foster as part of the year-end reconciliation process.",80,malicious

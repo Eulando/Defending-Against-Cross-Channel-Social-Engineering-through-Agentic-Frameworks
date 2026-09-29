@@ -1,0 +1,54 @@
+{
+  "victim_name": "Bennett Dawson",
+  "threshold": 50,
+  "combined_score": 85,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal information related to the victim's account, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Bennett Dawson",
+      "findings": [
+        {
+          "filename": "data217.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Harbor Biotech, requesting Bennett Dawson's personal email and phone number for the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to the victim's account."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Bennett Dawson",
+      "findings": [
+        {
+          "filename": "data217.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Harbor Biotech, requesting confirmation of Bennett Dawson's driver’s license and passport information for the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for validation of personal identity records related to the victim's account."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Bennett Dawson",
+      "findings": [
+        {
+          "filename": "data217.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Harbor Biotech, requesting verification of Bennett Dawson's Social Security number and date of birth for the insurance renewal audit."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive personal information related to the victim's account."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Bennett Dawson",
+      "findings": [
+        {
+          "filename": "data217.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Harbor Biotech, requesting confirmation of the multi-factor authentication backup codes for Bennett Dawson's account for the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive information related to the victim's account recovery."
+    }
+  ]
+}

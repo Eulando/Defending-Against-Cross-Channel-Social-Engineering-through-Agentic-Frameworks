@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Silas Adler,1,data118.txt,"Email requesting assistance in gathering training and certifications for Silas Adler's innovation award ceremony, emphasizing the importance of details for the event.",10,benign
+Silas Adler,2,data118.txt,"Email requesting assistance in shortlisting gift vendors for Silas Adler's innovation award ceremony, emphasizing the need for organization and budget compliance.",10,benign
+Silas Adler,3,data118.txt,"Email requesting assistance in reviewing the invite list and agenda for Silas Adler's innovation award ceremony, highlighting the need to include his family if necessary.",10,benign
+Silas Adler,4,data118.txt,"Email requesting assistance in setting up a dedicated email alias and calendar for Silas Adler's innovation award ceremony, emphasizing the need for coordination among contributors.",10,benign

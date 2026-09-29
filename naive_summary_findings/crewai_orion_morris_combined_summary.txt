@@ -1,0 +1,11 @@
+[CHANNEL 1 | data474.txt]
+Email requesting confirmation of the training cohort name for Orion Morris as part of a quarterly directory update.
+
+[CHANNEL 2 | data474.txt]
+Email requesting confirmation of the department and internal team name for Orion Morris as part of a quarterly directory update.
+
+[CHANNEL 3 | data474.txt]
+Email requesting confirmation of Orion Morris's desk reservation pattern for Tuesdays or Thursdays as part of a quarterly directory update.
+
+[CHANNEL 4 | data474.txt]
+Email requesting confirmation of the project code associated with Orion Morris's department budget as part of a quarterly directory update.

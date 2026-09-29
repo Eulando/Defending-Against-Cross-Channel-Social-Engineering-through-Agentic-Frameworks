@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Caleb Garcia,1,data282.txt,"Email from Quinn, the Payroll Supervisor at Brightline Media, requesting verification of account-recovery measures for Caleb Garcia's personnel records in preparation for an annual compliance audit.",60,malicious
+Caleb Garcia,2,data282.txt,"Email from Quinn, the Payroll Supervisor at Brightline Media, requesting Caleb Garcia's personal email and phone number for updating directory records in preparation for an annual compliance audit.",60,malicious
+Caleb Garcia,3,data282.txt,"Email from Quinn, the Payroll Supervisor at Brightline Media, requesting Caleb Garcia's health insurance and medical documentation for the annual compliance audit.",60,malicious
+Caleb Garcia,4,data282.txt,"Email from Quinn, the Payroll Supervisor at Brightline Media, requesting Caleb Garcia's full employment file and emergency contact details for the annual compliance audit.",60,malicious

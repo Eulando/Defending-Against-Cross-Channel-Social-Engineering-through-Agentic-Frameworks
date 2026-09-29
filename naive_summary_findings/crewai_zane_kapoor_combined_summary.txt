@@ -1,0 +1,11 @@
+[CHANNEL 1 | data425.txt]
+Email from Riley, Operations Director at Apex Insurance Co., requesting assistance in refreshing Zane Kapoor's internal profile for a quarterly directory update, specifically asking for the work arrangement category for benefits planning.
+
+[CHANNEL 2 | data425.txt]
+Email from Riley, Operations Director at Apex Insurance Co., requesting confirmation of Zane Kapoor's cost center and office location for an internal profile update as part of a quarterly directory refresh.
+
+[CHANNEL 3 | data425.txt]
+Email from Riley, Operations Director at Apex Insurance Co., requesting verification of how Zane Kapoor's name should appear in the employee directory as part of a quarterly profile update.
+
+[CHANNEL 4 | data425.txt]
+Email from Riley, Operations Director at Apex Insurance Co., requesting confirmation of Zane Kapoor's title and manager name from the HR profile for a quarterly directory update.

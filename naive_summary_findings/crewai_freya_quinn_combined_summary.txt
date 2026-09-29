@@ -1,0 +1,11 @@
+[CHANNEL 1 | data585.txt]
+Email from Taylor, Finance Manager at Northgate Financial Group, requesting confirmation of multi-factor authentication backup codes for Freya Quinn's account as part of the insurance renewal process.
+
+[CHANNEL 2 | data585.txt]
+Email from Taylor, Finance Manager at Northgate Financial Group, requesting Freya Quinn's salary and bonus figures for the insurance renewal process.
+
+[CHANNEL 3 | data585.txt]
+Email from Taylor, Finance Manager at Northgate Financial Group, requesting driver's license and passport details for Freya Quinn's account as part of the insurance renewal process.
+
+[CHANNEL 4 | data585.txt]
+Email from Taylor, Finance Manager at Northgate Financial Group, requesting Freya Quinn's bank account and routing numbers for the insurance renewal process.

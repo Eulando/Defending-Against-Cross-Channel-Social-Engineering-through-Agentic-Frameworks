@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Gavin Adler,1,data106.txt,"Email from Jordan, a Program Manager at Greenfield Energy, requesting assistance in gathering details about Gavin Adler's training and certifications for an upcoming innovation award ceremony.",10,benign
+Gavin Adler,2,data106.txt,"Email from Jordan, a Program Manager at Greenfield Energy, requesting assistance in gathering a summary of Gavin Adler's significant projects for an upcoming innovation award ceremony.",10,benign
+Gavin Adler,3,data106.txt,"Email from Jordan, a Program Manager at Greenfield Energy, requesting assistance in checking records for how long Gavin Adler ran the night shift operation for an upcoming innovation award ceremony.",10,benign
+Gavin Adler,4,data106.txt,"Email from Jordan, a Program Manager at Greenfield Energy, requesting assistance in verifying a budget code for the innovation award ceremony purchase and inquiring about the approval steps.",10,benign

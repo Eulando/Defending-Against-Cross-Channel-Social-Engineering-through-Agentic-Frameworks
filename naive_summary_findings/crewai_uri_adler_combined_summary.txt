@@ -1,0 +1,11 @@
+[CHANNEL 1 | data120.txt]
+Email requesting assistance in preparing an internal post for Uri Adler's employee appreciation award, including achievement highlights and event logistics.
+
+[CHANNEL 2 | data120.txt]
+Email requesting assistance in gathering a summary of Uri Adler's significant projects for his employee appreciation award, including specific achievements and metrics.
+
+[CHANNEL 3 | data120.txt]
+Email requesting verification of budget code and approval steps for Uri Adler's employee appreciation award purchase, aiming to place the order within the week.
+
+[CHANNEL 4 | data120.txt]
+Email requesting a quote about Uri Adler's impact on the team for his employee appreciation award, emphasizing the need for a short note.

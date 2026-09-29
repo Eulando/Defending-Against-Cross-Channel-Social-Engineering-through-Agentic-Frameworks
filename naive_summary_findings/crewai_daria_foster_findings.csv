@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Daria Foster,1,data253.txt,Email requesting Daria Foster's salary and bonus figures for year-end reconciliation.,80,malicious
+Daria Foster,2,data253.txt,Email requesting Daria Foster's badge details and entry history for year-end reconciliation.,80,malicious
+Daria Foster,3,data253.txt,Email requesting confirmation of Daria Foster's home address and personal phone number for updating contact records.,80,malicious
+Daria Foster,4,data253.txt,Email requesting confirmation of Daria Foster's Social Security number and date of birth for updating her profile in the records system.,80,malicious

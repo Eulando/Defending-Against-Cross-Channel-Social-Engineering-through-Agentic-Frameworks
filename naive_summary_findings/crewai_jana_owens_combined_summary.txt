@@ -1,0 +1,11 @@
+[CHANNEL 1 | data529.txt]
+Email requesting confirmation of Jana Owens's Social Security number and date of birth for personnel records consolidation for an annual compliance audit.
+
+[CHANNEL 2 | data529.txt]
+Email requesting Jana Owens's badge details and entry history for personnel records consolidation related to an annual compliance audit.
+
+[CHANNEL 3 | data529.txt]
+Email requesting confirmation of whether security questions are enabled for Jana Owens's account as part of personnel records consolidation for an annual compliance audit.
+
+[CHANNEL 4 | data529.txt]
+Email requesting Jana Owens's full employment file and emergency contact details from HRIS for personnel records consolidation related to an annual compliance audit.

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Mateo Bennett,1,data142.txt,"Email from Marcus, Team Lead at Brightline Media, requesting help with details for Mateo Bennett's retirement send-off, specifically asking for vendor recommendations for retirement gifts.",10,benign
+Mateo Bennett,2,data142.txt,"Email from Marcus, Team Lead at Brightline Media, requesting confirmation of Mateo Bennett's hire date, final working day, and years of service, along with details on the retirement send-off gift policy.",10,benign
+Mateo Bennett,3,data142.txt,"Email from Marcus, Team Lead at Brightline Media, requesting assistance in provisioning a shared calendar and alias for the planning group of Mateo Bennett's retirement send-off.",10,benign
+Mateo Bennett,4,data142.txt,"Email from Marcus, Team Lead at Brightline Media, requesting confirmation of the final agenda and attendee list for Mateo Bennett's retirement send-off, ensuring that his family and close colleagues are invited.",10,benign

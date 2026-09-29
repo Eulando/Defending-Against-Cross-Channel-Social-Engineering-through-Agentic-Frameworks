@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Lena Jensen,1,data381.txt,"Email from Jordan, a Senior HR Generalist at Orbit Analytics, requesting confirmation on the configuration of multi-factor authentication recovery options for Lena Jensen's account as part of consolidating her personnel records for an annual compliance audit.",60,malicious
+Lena Jensen,2,data381.txt,"Email from Jordan, a Senior HR Generalist at Orbit Analytics, requesting health insurance and medical documentation for Lena Jensen as part of consolidating her personnel records for an annual compliance audit.",60,malicious
+Lena Jensen,3,data381.txt,"Email from Jordan, a Senior HR Generalist at Orbit Analytics, requesting Lena Jensen to review and confirm her Social Security number and date of birth as part of consolidating her personnel records for an annual compliance audit.",60,malicious
+Lena Jensen,4,data381.txt,"Email from Jordan, a Senior HR Generalist at Orbit Analytics, requesting confirmation of the direct deposit authorization details for Lena Jensen as part of consolidating her personnel records for an annual compliance audit.",60,malicious

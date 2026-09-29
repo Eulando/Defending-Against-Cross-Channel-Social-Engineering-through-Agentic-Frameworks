@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Bennett Quinn,1,data607.txt,"Email from Jordan, a Senior HR Generalist at Velocity Motors, requesting confirmation of the project code associated with Bennett Quinn's department budget before onboarding materials are revised.",10,benign
+Bennett Quinn,2,data607.txt,"Email from Jordan, a Senior HR Generalist at Velocity Motors, requesting confirmation of the department and internal team name associated with Bennett Quinn for internal cleanup purposes.",10,benign
+Bennett Quinn,3,data607.txt,"Email from Jordan, a Senior HR Generalist at Velocity Motors, requesting verification of Bennett Quinn's cost center and assigned office location for a quarterly roster check.",10,benign
+Bennett Quinn,4,data607.txt,"Email from Jordan, a Senior HR Generalist at Velocity Motors, requesting confirmation of the building and floor listed for Bennett Quinn's regular workspace to ensure accurate internal references.",10,benign

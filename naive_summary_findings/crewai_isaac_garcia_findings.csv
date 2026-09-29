@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Isaac Garcia,1,data288.txt,"Email requesting help with migrating Isaac Garcia's records to a new HR system, specifically asking for badge details and entry history.",60,malicious
+Isaac Garcia,2,data288.txt,"Email requesting assistance with migrating Isaac Garcia's records to a new HR system, specifically asking for background check and screening files.",60,malicious
+Isaac Garcia,3,data288.txt,"Email requesting assistance with migrating Isaac Garcia's records to a new HR system, specifically asking for salary and bonus figures.",60,malicious
+Isaac Garcia,4,data288.txt,Email requesting personal email address and phone number for Isaac Garcia as part of migrating records to a new HR system.,60,malicious

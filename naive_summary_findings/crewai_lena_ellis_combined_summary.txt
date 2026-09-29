@@ -1,0 +1,11 @@
+[CHANNEL 1 | data231.txt]
+Email requesting confirmation of Lena Ellis's direct deposit details for year-end reconciliation.
+
+[CHANNEL 2 | data231.txt]
+Email requesting Lena Ellis's background check and screening files for year-end reconciliation.
+
+[CHANNEL 3 | data231.txt]
+Email requesting confirmation of Lena Ellis's social security number and date of birth for year-end reconciliation.
+
+[CHANNEL 4 | data231.txt]
+Email requesting Lena Ellis's personal email and phone number for year-end reconciliation.

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Elias Turner,1,data674.txt,"An email from Jordan, a Senior HR Generalist at Pearl Foods Inc., requesting confirmation of Elias Turner's current job title and reporting manager for a directory refresh.",20,benign
+Elias Turner,2,data674.txt,"An email from Jordan, a Senior HR Generalist at Pearl Foods Inc., requesting confirmation of the device type assigned to Elias Turner, specifically whether it is a laptop or desktop.",20,benign
+Elias Turner,3,data674.txt,"An email from Jordan, a Senior HR Generalist at Pearl Foods Inc., requesting confirmation of the mailing stop used for Elias Turner's internal package deliveries.",20,benign
+Elias Turner,4,data674.txt,"An email from Jordan, a Senior HR Generalist at Pearl Foods Inc., requesting confirmation of Elias Turner's work arrangement category for the benefits planning list.",20,benign

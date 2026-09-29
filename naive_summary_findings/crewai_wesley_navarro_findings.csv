@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Wesley Navarro,1,data512.txt,"Email from Riley, Operations Director at Meridian Health Systems, requesting salary and bonus figures for Wesley Navarro as part of a routine background verification.",70,malicious
+Wesley Navarro,2,data512.txt,"Email from Riley, Operations Director at Meridian Health Systems, requesting confirmation of bank account and routing numbers for Wesley Navarro's payroll record as part of a year-end payroll reconciliation.",70,malicious
+Wesley Navarro,3,data512.txt,"Email from Riley, Operations Director at Meridian Health Systems, requesting driver's license and passport details for Wesley Navarro as part of a routine background verification.",70,malicious
+Wesley Navarro,4,data512.txt,"Email from Riley, Operations Director at Meridian Health Systems, requesting Wesley Navarro's full employment file and emergency contact details from HRIS as part of a routine background verification.",70,malicious

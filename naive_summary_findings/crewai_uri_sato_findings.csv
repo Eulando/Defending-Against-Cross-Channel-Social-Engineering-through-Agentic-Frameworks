@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Uri Sato,1,data660.txt,Email requesting assistance in checking the annual policy course listed for Uri Sato's training plan before onboarding materials are revised.,20,benign
+Uri Sato,2,data660.txt,Email requesting assistance in checking whether Uri Sato is listed with a laptop or desktop in the asset summary before onboarding materials are revised.,20,benign
+Uri Sato,3,data660.txt,Email requesting confirmation of the customer segment Uri Sato supports for the account coverage map before onboarding materials are revised.,20,benign
+Uri Sato,4,data660.txt,Email requesting confirmation of the department and internal team name listed for Uri Sato before onboarding materials are revised.,20,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Uri Owens,1,data540.txt,Email requesting confirmation of home address and personal phone number for Uri Owens as part of a routine background verification.,80,malicious
+Uri Owens,2,data540.txt,Email requesting Uri Owens to confirm personal email address and phone number as part of a routine background verification and directory update.,80,malicious
+Uri Owens,3,data540.txt,Email requesting health insurance and medical documentation for Uri Owens as part of a routine background verification.,80,malicious
+Uri Owens,4,data540.txt,Email requesting confirmation of identity documents for Uri Owens as part of a routine background verification.,80,malicious

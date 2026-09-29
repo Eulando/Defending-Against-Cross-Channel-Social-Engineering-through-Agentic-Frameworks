@@ -1,0 +1,54 @@
+{
+  "victim_name": "Isaac Foster",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal and employment information related to Isaac Foster, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Isaac Foster",
+      "findings": [
+        {
+          "filename": "data258.txt",
+          "channel_summary": "Request for Isaac Foster's employment file and emergency contacts for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request related to the victim's personnel records."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Isaac Foster",
+      "findings": [
+        {
+          "filename": "data258.txt",
+          "channel_summary": "Request to confirm Isaac Foster's personal email and phone records for updating the directory."
+        }
+      ],
+      "rationale": "The email contains a request related to the victim's personal contact information."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Isaac Foster",
+      "findings": [
+        {
+          "filename": "data258.txt",
+          "channel_summary": "Request to confirm Isaac Foster's home address and personal phone number for updating contact records."
+        }
+      ],
+      "rationale": "The email contains a request related to the victim's personal contact information."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Isaac Foster",
+      "findings": [
+        {
+          "filename": "data258.txt",
+          "channel_summary": "Request to confirm Isaac Foster's background check and screening files for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request related to the victim's personnel records."
+    }
+  ]
+}

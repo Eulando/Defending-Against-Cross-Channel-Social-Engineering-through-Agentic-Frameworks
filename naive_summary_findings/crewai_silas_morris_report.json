@@ -1,0 +1,54 @@
+{
+  "victim_name": "Silas Morris",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates requests for routine information updates related to Silas Morris, which do not suggest malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Silas Morris",
+      "findings": [
+        {
+          "filename": "data478.txt",
+          "channel_summary": "Email requesting confirmation of the collaboration tools used by Silas Morris for an internal profile update."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim, Silas Morris."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Silas Morris",
+      "findings": [
+        {
+          "filename": "data478.txt",
+          "channel_summary": "Email requesting verification of Silas Morris's department and team name for an internal profile update."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim, Silas Morris."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Silas Morris",
+      "findings": [
+        {
+          "filename": "data478.txt",
+          "channel_summary": "Email requesting information about the learning cohort associated with Silas Morris's employee profile for an internal profile update."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim, Silas Morris."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Silas Morris",
+      "findings": [
+        {
+          "filename": "data478.txt",
+          "channel_summary": "Email requesting confirmation of Silas Morris's current job title and reporting manager for an internal profile update."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim, Silas Morris."
+    }
+  ]
+}

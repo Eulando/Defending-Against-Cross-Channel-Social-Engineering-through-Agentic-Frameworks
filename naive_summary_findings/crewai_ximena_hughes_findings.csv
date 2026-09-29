@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Ximena Hughes,1,data333.txt,Email requesting confirmation of account recovery information for Ximena Hughes as part of a migration to a new HR system.,75,malicious
+Ximena Hughes,2,data333.txt,Email requesting confirmation of social security number and date of birth for Ximena Hughes as part of a records update for a new HR system.,75,malicious
+Ximena Hughes,3,data333.txt,Email requesting confirmation of account username and initiation of a password reset for Ximena Hughes as part of a migration to a new HR system.,75,malicious
+Ximena Hughes,4,data333.txt,Email requesting Ximena Hughes to enter or update her driver's license and passport details in the HR system as part of a records migration.,75,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Bianca Hughes,1,data311.txt,Email requesting confirmation of Bianca Hughes's direct deposit information for the insurance renewal process.,80,malicious
+Bianca Hughes,2,data311.txt,Email requesting Bianca Hughes's employment file and emergency contacts for the insurance renewal process.,80,malicious
+Bianca Hughes,3,data311.txt,Email requesting confirmation of multi-factor authentication backup codes and recovery options for Bianca Hughes's account as part of the insurance renewal process.,80,malicious
+Bianca Hughes,4,data311.txt,Email requesting driver's license and passport details for Bianca Hughes as part of the identity verification process for the insurance renewal.,80,malicious

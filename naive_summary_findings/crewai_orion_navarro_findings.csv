@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Orion Navarro,1,data504.txt,"Email from Jordan, a Senior HR Generalist, requesting assistance in pulling Orion Navarro's full employment file and emergency contact details from HRIS for year-end reconciliation.",40,benign
+Orion Navarro,2,data504.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation on whether Orion Navarro's current driver's license and passport documentation are on file for year-end reconciliation.",40,benign
+Orion Navarro,3,data504.txt,"Email from Jordan, a Senior HR Generalist, requesting assistance in verifying Orion Navarro's account access by sharing his username and reset details for year-end reconciliation.",40,benign
+Orion Navarro,4,data504.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of Orion Navarro's direct deposit information, including bank account and routing numbers, for year-end reconciliation.",40,benign

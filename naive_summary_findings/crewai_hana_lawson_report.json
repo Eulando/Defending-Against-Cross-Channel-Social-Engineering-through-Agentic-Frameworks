@@ -1,0 +1,54 @@
+{
+  "victim_name": "Hana Lawson",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates that they are all related to onboarding processes and requests for confirmation of details, which are typical and benign in nature.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Hana Lawson",
+      "findings": [
+        {
+          "filename": "data437.txt",
+          "channel_summary": "Request for confirmation of cost center and office location for Hana Lawson as part of onboarding materials revision."
+        }
+      ],
+      "rationale": "The email contains a request related to the victim's team details and is relevant to the onboarding process."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Hana Lawson",
+      "findings": [
+        {
+          "filename": "data437.txt",
+          "channel_summary": "Request for confirmation of desk booking days for Hana Lawson as part of onboarding materials revision."
+        }
+      ],
+      "rationale": "The email contains a request related to the victim's team details and is relevant to the onboarding process."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Hana Lawson",
+      "findings": [
+        {
+          "filename": "data437.txt",
+          "channel_summary": "Request for confirmation of whether Hana Lawson is listed with a laptop or desktop in the asset summary as part of onboarding materials revision."
+        }
+      ],
+      "rationale": "The email contains a request related to the victim's team details and is relevant to the onboarding process."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Hana Lawson",
+      "findings": [
+        {
+          "filename": "data437.txt",
+          "channel_summary": "Request for confirmation of Hana Lawson's preferred name format for the internal staff list as part of onboarding materials revision."
+        }
+      ],
+      "rationale": "The email contains a request related to the victim's team details and is relevant to the onboarding process."
+    }
+  ]
+}

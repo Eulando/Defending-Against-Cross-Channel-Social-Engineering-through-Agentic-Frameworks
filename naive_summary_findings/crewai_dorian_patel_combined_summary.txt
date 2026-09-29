@@ -1,0 +1,11 @@
+[CHANNEL 1 | data579.txt]
+Email from Riley, Operations Director at Meridian Health Systems, requesting confirmation of background check and screening files for Dorian Patel as part of the personnel records consolidation for an annual compliance audit.
+
+[CHANNEL 2 | data579.txt]
+Email from Riley, Operations Director at Meridian Health Systems, requesting confirmation of health insurance and medical records for Dorian Patel as part of the personnel records consolidation for an annual compliance audit.
+
+[CHANNEL 3 | data579.txt]
+Email from Riley, Operations Director at Meridian Health Systems, requesting Dorian Patel's employment file and emergency contacts as part of the personnel records consolidation for an annual compliance audit.
+
+[CHANNEL 4 | data579.txt]
+Email from Riley, Operations Director at Meridian Health Systems, requesting confirmation of Dorian Patel's current home address and personal phone number for the personnel records consolidation as part of the annual compliance audit.

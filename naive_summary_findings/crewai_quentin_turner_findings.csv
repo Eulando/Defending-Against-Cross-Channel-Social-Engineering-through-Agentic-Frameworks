@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Quentin Turner,1,data686.txt,Email requesting details about Quentin Turner's team and the tools assigned for support matrix before onboarding materials are revised.,10,benign
+Quentin Turner,2,data686.txt,Email requesting confirmation of whether Quentin Turner is listed with a laptop or desktop in the asset summary before onboarding materials are revised.,10,benign
+Quentin Turner,3,data686.txt,Email requesting confirmation of the building and floor listed for Quentin Turner's regular workspace before onboarding materials are revised.,10,benign
+Quentin Turner,4,data686.txt,Email requesting confirmation of the customer segment that Quentin Turner supports for the account coverage map before onboarding materials are revised.,10,benign

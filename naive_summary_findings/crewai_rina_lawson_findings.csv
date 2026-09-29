@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Rina Lawson,1,data447.txt,Email requesting confirmation of Rina Lawson's workspace details for validation of her public-facing biography.,20,benign
+Rina Lawson,2,data447.txt,Email requesting verification of the budget project code associated with Rina Lawson's team for internal cleanup purposes.,20,benign
+Rina Lawson,3,data447.txt,Email requesting verification of Rina Lawson's department and team name in HRIS for directory synchronization.,20,benign
+Rina Lawson,4,data447.txt,Email requesting confirmation of the collaboration tools Rina Lawson uses for accuracy in the support page.,20,benign

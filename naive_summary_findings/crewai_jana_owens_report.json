@@ -1,0 +1,54 @@
+{
+  "victim_name": "Jana Owens",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal information related to Jana Owens, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Jana Owens",
+      "findings": [
+        {
+          "filename": "data529.txt",
+          "channel_summary": "Email requesting confirmation of Jana Owens's Social Security number and date of birth for personnel records consolidation for an annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for verification of personal information related to the victim, indicating its relevance."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Jana Owens",
+      "findings": [
+        {
+          "filename": "data529.txt",
+          "channel_summary": "Email requesting Jana Owens's badge details and entry history for personnel records consolidation related to an annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for specific access information related to the victim, indicating its relevance."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Jana Owens",
+      "findings": [
+        {
+          "filename": "data529.txt",
+          "channel_summary": "Email requesting confirmation of whether security questions are enabled for Jana Owens's account as part of personnel records consolidation for an annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for verification of account recovery settings related to the victim, indicating its relevance."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Jana Owens",
+      "findings": [
+        {
+          "filename": "data529.txt",
+          "channel_summary": "Email requesting Jana Owens's full employment file and emergency contact details from HRIS for personnel records consolidation related to an annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for specific employment information related to the victim, indicating its relevance."
+    }
+  ]
+}

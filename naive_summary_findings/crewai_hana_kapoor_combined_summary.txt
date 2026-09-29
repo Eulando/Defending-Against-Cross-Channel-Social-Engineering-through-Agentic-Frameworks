@@ -1,0 +1,11 @@
+[CHANNEL 1 | data407.txt]
+Email from Riley, Operations Director, requesting verification of Hana Kapoor's cost center and assigned office location for a quarterly roster check before onboarding materials are revised.
+
+[CHANNEL 2 | data407.txt]
+Email from Riley, Operations Director, requesting verification of Hana Kapoor's work arrangement category for the benefits planning list before onboarding materials are revised.
+
+[CHANNEL 3 | data407.txt]
+Email from Riley, Operations Director, requesting confirmation of the training cohort name listed for Hana Kapoor before onboarding materials are revised.
+
+[CHANNEL 4 | data407.txt]
+Email from Riley, Operations Director, requesting confirmation of the mailing stop used for Hana Kapoor's internal package deliveries before onboarding materials are revised.

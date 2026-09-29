@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Noelle Rivera,1,data623.txt,Email from Casey at Northgate Financial Group requesting confirmation of the collaboration tools used by Noelle Rivera for internal cleanup of planning archive.,10,benign
+Noelle Rivera,2,data623.txt,Email from Casey at Northgate Financial Group requesting information about the building and floor assigned to Noelle Rivera in the office map for internal cleanup.,10,benign
+Noelle Rivera,3,data623.txt,Email from Casey at Northgate Financial Group requesting confirmation of Noelle Rivera's desk reservation pattern for internal cleanup of collaboration notes.,10,benign
+Noelle Rivera,4,data623.txt,Email from Casey at Northgate Financial Group requesting confirmation of the annual policy course listed for Noelle Rivera's training plan for internal cleanup.,10,benign

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Quentin Turner",
+  "threshold": 50,
+  "combined_score": 10,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "All emails contain requests for legitimate information related to Quentin Turner's work and assets, indicating no malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Quentin Turner",
+      "findings": [
+        {
+          "filename": "data686.txt",
+          "channel_summary": "Email requesting details about Quentin Turner's team and the tools assigned for support matrix before onboarding materials are revised."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's team and tools, indicating a legitimate inquiry."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Quentin Turner",
+      "findings": [
+        {
+          "filename": "data686.txt",
+          "channel_summary": "Email requesting confirmation of whether Quentin Turner is listed with a laptop or desktop in the asset summary before onboarding materials are revised."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's assets, indicating a legitimate inquiry."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Quentin Turner",
+      "findings": [
+        {
+          "filename": "data686.txt",
+          "channel_summary": "Email requesting confirmation of the building and floor listed for Quentin Turner's regular workspace before onboarding materials are revised."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's workspace, indicating a legitimate inquiry."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Quentin Turner",
+      "findings": [
+        {
+          "filename": "data686.txt",
+          "channel_summary": "Email requesting confirmation of the customer segment that Quentin Turner supports for the account coverage map before onboarding materials are revised."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's customer segment, indicating a legitimate inquiry."
+    }
+  ]
+}

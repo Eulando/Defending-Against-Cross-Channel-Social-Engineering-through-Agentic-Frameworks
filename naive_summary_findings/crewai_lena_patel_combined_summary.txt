@@ -1,0 +1,11 @@
+[CHANNEL 1 | data561.txt]
+Email requesting confirmation of direct deposit authorization details for Lena Patel as part of migrating her records to a new HR system.
+
+[CHANNEL 2 | data561.txt]
+Email requesting confirmation of Social Security number and date of birth for Lena Patel as part of reviewing her profile during the migration to a new HR system.
+
+[CHANNEL 3 | data561.txt]
+Email requesting confirmation of health insurance and medical records for Lena Patel as part of validating coverage details during the migration to a new HR system.
+
+[CHANNEL 4 | data561.txt]
+Email requesting confirmation of background check and screening files for Lena Patel as part of reviewing them for an audit during the migration to a new HR system.

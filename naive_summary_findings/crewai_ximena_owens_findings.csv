@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Ximena Owens,1,data543.txt,"Email requesting validation of Ximena Owens's identity records for migration to a new HR system, specifically asking to ensure her driver's license and passport details are up to date.",40,benign
+Ximena Owens,2,data543.txt,Email requesting confirmation of Ximena Owens's account username and details regarding a password reset as part of the migration to a new HR system.,40,benign
+Ximena Owens,3,data543.txt,Email requesting Ximena Owens to confirm or update her Social Security number and date of birth as part of the profile review for migration to a new HR system.,40,benign
+Ximena Owens,4,data543.txt,Email requesting confirmation of Ximena Owens's personal email and phone records as part of the migration to a new HR system and updating the directory.,40,benign

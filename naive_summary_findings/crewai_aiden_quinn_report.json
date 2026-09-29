@@ -1,0 +1,54 @@
+{
+  "victim_name": "Aiden Quinn",
+  "threshold": 50,
+  "combined_score": 85,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a pattern of requests for sensitive information related to Aiden Quinn, including Social Security number, employment file, bank account details, and security questions, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Aiden Quinn",
+      "findings": [
+        {
+          "filename": "data580.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, checking in about the migration of Aiden Quinn's records to a new HR system and requesting Aiden's Social Security number and date of birth for audit reconciliation."
+        }
+      ],
+      "rationale": "The email containing the victim's name was found and meets the requirements."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Aiden Quinn",
+      "findings": [
+        {
+          "filename": "data580.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting assistance with migrating Aiden Quinn's records to a new HR system and asking for Aiden's employment file and emergency contacts."
+        }
+      ],
+      "rationale": "The email containing the victim's name was found and meets the requirements."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Aiden Quinn",
+      "findings": [
+        {
+          "filename": "data580.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting confirmation of Aiden Quinn's bank account and routing numbers as part of the migration to a new HR system, emphasizing the priority and need for accuracy."
+        }
+      ],
+      "rationale": "The email containing the victim's name was found and meets the requirements."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Aiden Quinn",
+      "findings": [
+        {
+          "filename": "data580.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting confirmation of Aiden Quinn's security questions and answers in the system as part of the migration to a new HR system, asking for a response by the end of the week."
+        }
+      ],
+      "rationale": "The email containing the victim's name was found and meets the requirements."
+    }
+  ]
+}

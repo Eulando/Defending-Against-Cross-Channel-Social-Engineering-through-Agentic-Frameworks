@@ -1,0 +1,11 @@
+[CHANNEL 1 | data219.txt]
+Email requesting confirmation of personal email and phone records for Dorian Dawson as part of a migration to a new HR system.
+
+[CHANNEL 2 | data219.txt]
+Email requesting Dorian Dawson's background check and screening files as part of a migration to a new HR system.
+
+[CHANNEL 3 | data219.txt]
+Email requesting confirmation of Dorian Dawson's driver’s license and passport records as part of a migration to a new HR system.
+
+[CHANNEL 4 | data219.txt]
+Email requesting coordination to ensure Dorian Dawson's bank account and routing numbers are current for year-end payroll reconciliation.

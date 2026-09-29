@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Zane Iverson,1,data365.txt,"Email from Casey, Compliance Lead at Nova Telecom, requesting Zane Iverson's employment file and emergency contacts for the insurance renewal process.",10,benign
+Zane Iverson,2,data365.txt,"Email from Casey, Compliance Lead at Nova Telecom, requesting Zane Iverson's badge details and entry history for the insurance renewal process.",10,benign
+Zane Iverson,3,data365.txt,"Email from Casey, Compliance Lead at Nova Telecom, requesting confirmation of Zane Iverson's personal email and phone records for updating the directory related to the insurance renewal process.",10,benign
+Zane Iverson,4,data365.txt,"Email from Casey, Compliance Lead at Nova Telecom, requesting confirmation of Zane Iverson's salary and bonus details from the compensation records for finalizing year-end figures related to the insurance renewal process.",10,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Anika Adler,1,data126.txt,Email requesting confirmation of Anika Adler's start date and management areas for onboarding materials.,10,benign
+Anika Adler,2,data126.txt,Email requesting a quote about Anika Adler's impact on the team for her onboarding welcome.,10,benign
+Anika Adler,3,data126.txt,"Email requesting assistance with processing a recognition form for Anika Adler's onboarding, including budget code and purchasing window.",10,benign
+Anika Adler,4,data126.txt,"Email requesting a short internal post about Anika Adler's onboarding welcome, including achievement highlights and event logistics.",10,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Orion Quinn,1,data594.txt,Email requesting confirmation of health insurance and medical records for Orion Quinn as part of a migration to a new HR system.,70,malicious
+Orion Quinn,2,data594.txt,Email requesting badge details and entry history for Orion Quinn as part of a migration to a new HR system.,70,malicious
+Orion Quinn,3,data594.txt,Email requesting confirmation of home address and personal phone number for Orion Quinn as part of a migration to a new HR system.,70,malicious
+Orion Quinn,4,data594.txt,Email requesting confirmation of bank account and routing numbers for Orion Quinn as part of a migration to a new HR system.,70,malicious

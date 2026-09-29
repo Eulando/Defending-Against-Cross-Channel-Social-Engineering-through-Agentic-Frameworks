@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Silas Navarro,1,data508.txt,Email requesting Silas Navarro's direct deposit authorization for personnel records consolidation related to an annual compliance audit.,70,malicious
+Silas Navarro,2,data508.txt,Email requesting confirmation of security questions for Silas Navarro's account as part of personnel records consolidation for an annual compliance audit.,70,malicious
+Silas Navarro,3,data508.txt,Email requesting confirmation of Silas Navarro's social security number and date of birth for personnel records consolidation related to an annual compliance audit.,70,malicious
+Silas Navarro,4,data508.txt,Email requesting confirmation of health insurance and medical records for Silas Navarro as part of personnel records consolidation for an annual compliance audit.,70,malicious

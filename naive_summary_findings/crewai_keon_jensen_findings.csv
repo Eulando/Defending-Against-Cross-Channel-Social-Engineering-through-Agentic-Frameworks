@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Keon Jensen,1,data380.txt,"Email requesting verification of Keon Jensen's Social Security number and date of birth for an insurance renewal process, with a deadline for response.",60,malicious
+Keon Jensen,2,data380.txt,"Email requesting confirmation of direct deposit authorization details for Keon Jensen's account as part of the insurance renewal process, with a deadline for response.",60,malicious
+Keon Jensen,3,data380.txt,"Email requesting confirmation of current direct deposit details for Keon Jensen's account as part of the insurance renewal process, with a request for prompt response.",60,malicious
+Keon Jensen,4,data380.txt,"Email requesting confirmation of health insurance and medical records for Keon Jensen's account as part of the insurance renewal process, with a request for timely response.",60,malicious

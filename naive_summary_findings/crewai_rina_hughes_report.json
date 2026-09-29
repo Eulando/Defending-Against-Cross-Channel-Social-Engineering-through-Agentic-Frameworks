@@ -1,0 +1,54 @@
+{
+  "victim_name": "Rina Hughes",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal and financial information related to Rina Hughes, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Rina Hughes",
+      "findings": [
+        {
+          "filename": "data327.txt",
+          "channel_summary": "Email from Drew, Internal Audit Lead at Meridian Health Systems, requesting salary and bonus figures for Rina Hughes as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for specific financial information related to the victim, indicating a verification process."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Rina Hughes",
+      "findings": [
+        {
+          "filename": "data327.txt",
+          "channel_summary": "Email from Drew, Internal Audit Lead at Meridian Health Systems, requesting confirmation of Rina Hughes's driver’s license and passport details for a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for identity verification details related to the victim, indicating a verification process."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Rina Hughes",
+      "findings": [
+        {
+          "filename": "data327.txt",
+          "channel_summary": "Email from Drew, Internal Audit Lead at Meridian Health Systems, requesting confirmation of Rina Hughes's home address and personal phone number for a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for personal contact information related to the victim, indicating a verification process."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Rina Hughes",
+      "findings": [
+        {
+          "filename": "data327.txt",
+          "channel_summary": "Email from Drew, Internal Audit Lead at Meridian Health Systems, requesting confirmation of Rina Hughes's direct deposit authorization details for a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for financial authorization details related to the victim, indicating a verification process."
+    }
+  ]
+}

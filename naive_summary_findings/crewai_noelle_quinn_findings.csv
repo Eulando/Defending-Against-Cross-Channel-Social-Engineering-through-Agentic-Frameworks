@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Noelle Quinn,1,data593.txt,Email requesting confirmation of the security questions associated with Noelle Quinn's account for year-end reconciliation.,70,malicious
+Noelle Quinn,2,data593.txt,Email requesting confirmation of Noelle Quinn's salary and bonus details for year-end reconciliation.,70,malicious
+Noelle Quinn,3,data593.txt,Email requesting confirmation of Noelle Quinn's access badge number and building entry records for year-end reconciliation.,70,malicious
+Noelle Quinn,4,data593.txt,Email requesting confirmation of Noelle Quinn's home address and personal phone number for updating contact records.,70,malicious

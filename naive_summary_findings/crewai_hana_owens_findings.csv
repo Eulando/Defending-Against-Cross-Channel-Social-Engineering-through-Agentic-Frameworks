@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Hana Owens,1,data527.txt,Email requesting assistance with details from Hana Owens's employment file and emergency contacts for an insurance renewal process.,80,malicious
+Hana Owens,2,data527.txt,Email requesting confirmation of direct deposit authorization details for Hana Owens as part of reconciling payroll accounts.,80,malicious
+Hana Owens,3,data527.txt,Email requesting assistance in pulling driver's license and passport details for Hana Owens as part of verifying identity documents for an insurance renewal process.,80,malicious
+Hana Owens,4,data527.txt,Email requesting assistance in sharing Hana Owens's background check and screening files as part of the insurance renewal process.,80,malicious

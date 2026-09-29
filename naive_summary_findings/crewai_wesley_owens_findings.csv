@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Wesley Owens,1,data542.txt,"Email from Taylor, Finance Manager at Orbit Analytics, requesting Wesley Owens's home address and personal phone number for personnel records consolidation for an annual compliance audit.",80,malicious
+Wesley Owens,2,data542.txt,"Email from Taylor, Finance Manager at Orbit Analytics, requesting confirmation of background check and screening files for Wesley Owens as part of personnel records consolidation for an annual compliance audit.",80,malicious
+Wesley Owens,3,data542.txt,"Email from Taylor, Finance Manager at Orbit Analytics, requesting confirmation of multi-factor authentication backup codes and account recovery options for Wesley Owens as part of personnel records consolidation for an annual compliance audit.",80,malicious
+Wesley Owens,4,data542.txt,"Email from Taylor, Finance Manager at Orbit Analytics, requesting confirmation of the completeness and currency of Wesley Owens's identity documentation, including driver's license and passport records, for personnel records consolidation for an annual compliance audit.",80,malicious

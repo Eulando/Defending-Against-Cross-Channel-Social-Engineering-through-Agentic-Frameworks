@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Orion Owens,1,data534.txt,"Email requesting confirmation of Orion Owens's direct deposit information for year-end reconciliation, asking for a review and update through the payroll system.",85,malicious
+Orion Owens,2,data534.txt,"Email requesting multi-factor authentication backup codes for Orion Owens as part of the year-end reconciliation process, emphasizing the need for verification of recovery options.",85,malicious
+Orion Owens,3,data534.txt,"Email requesting Orion Owens's home address and personal phone number for year-end reconciliation, indicating a need for updated contact information.",85,malicious
+Orion Owens,4,data534.txt,Email requesting Orion Owens's username and reset details for account access verification as part of the year-end reconciliation audit.,85,malicious

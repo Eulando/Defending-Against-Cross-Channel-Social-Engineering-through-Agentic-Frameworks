@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Noelle Navarro,1,data503.txt,"Email requesting Noelle Navarro's account username and password-reset information for a compliance audit, excluding sensitive authentication details.",75,malicious
+Noelle Navarro,2,data503.txt,Email requesting confirmation of Noelle Navarro's bank account and routing numbers for payroll reconciliation as part of a compliance audit.,75,malicious
+Noelle Navarro,3,data503.txt,"Email requesting Noelle Navarro's background check and screening files for a compliance audit, with no immediate deadline.",75,malicious
+Noelle Navarro,4,data503.txt,Email requesting confirmation of the availability of multi-factor authentication backup codes for Noelle Navarro as part of a compliance audit.,75,malicious

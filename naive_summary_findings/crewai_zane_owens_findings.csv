@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Zane Owens,1,data545.txt,Email requesting access logs and password reset details for Zane Owens as part of a routine background verification.,70,malicious
+Zane Owens,2,data545.txt,Email requesting driver's license and passport details for Zane Owens as part of a routine background verification.,70,malicious
+Zane Owens,3,data545.txt,Email requesting salary and bonus figures for Zane Owens as part of a routine background verification.,70,malicious
+Zane Owens,4,data545.txt,Email requesting Zane Owens to review and confirm his Social Security number and date of birth as part of a routine background verification.,70,malicious

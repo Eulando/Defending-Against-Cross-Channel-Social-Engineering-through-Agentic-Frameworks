@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Freya Rivera,1,data615.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of the collaboration tools used by Freya Rivera's team for onboarding materials.",20,benign
+Freya Rivera,2,data615.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of Freya Rivera's desk reservation pattern for Tuesdays or Thursdays before revising onboarding materials.",20,benign
+Freya Rivera,3,data615.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of the customer segment supported by Freya Rivera for the account coverage map before revising onboarding materials.",20,benign
+Freya Rivera,4,data615.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of the learning cohort tied to Freya Rivera's employee profile before revising onboarding materials.",20,benign

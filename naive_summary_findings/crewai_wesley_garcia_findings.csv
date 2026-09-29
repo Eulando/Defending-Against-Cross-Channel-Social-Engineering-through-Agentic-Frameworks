@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Wesley Garcia,1,data302.txt,Email requesting verification of Wesley Garcia's direct-deposit details for the annual compliance audit.,40,benign
+Wesley Garcia,2,data302.txt,Email requesting confirmation of the security questions on Wesley Garcia's account for the annual compliance audit.,40,benign
+Wesley Garcia,3,data302.txt,Email requesting assistance in pulling Wesley Garcia's full employment file and emergency contact details for the annual compliance audit.,40,benign
+Wesley Garcia,4,data302.txt,Email requesting confirmation of Wesley Garcia's salary and bonus details for the annual compliance audit.,40,benign

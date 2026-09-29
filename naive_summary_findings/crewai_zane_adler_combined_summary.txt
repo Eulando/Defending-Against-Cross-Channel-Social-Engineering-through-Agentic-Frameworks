@@ -1,0 +1,11 @@
+[CHANNEL 1 | data125.txt]
+Email regarding the organization of Zane Adler's farewell celebration, requesting assistance with reserving a venue and confirming catering options.
+
+[CHANNEL 2 | data125.txt]
+Email discussing the planning of Zane Adler's farewell celebration, requesting assistance in determining if the event should be announced externally and drafting a note for it.
+
+[CHANNEL 3 | data125.txt]
+Email requesting assistance with processing a recognition form for Zane Adler's farewell celebration, including details about budget codes and vendor confirmation.
+
+[CHANNEL 4 | data125.txt]
+Email requesting confirmation on expense code for Zane Adler's farewell gift and whether a purchase order is needed, emphasizing the importance of having paperwork ready.

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Zane Ellis,1,data245.txt,"Email from Cameron, a Records Manager at Brightline Media, requesting confirmation of Zane Ellis's home address and personal phone number for routine background verification.",80,malicious
+Zane Ellis,2,data245.txt,"Email from Cameron, a Records Manager at Brightline Media, requesting confirmation of Zane Ellis's salary and bonus details for routine background verification and year-end figures finalization.",80,malicious
+Zane Ellis,3,data245.txt,"Email from Cameron, a Records Manager at Brightline Media, requesting Zane Ellis's personal email and phone number for routine background verification and directory record updates.",80,malicious
+Zane Ellis,4,data245.txt,"Email from Cameron, a Records Manager at Brightline Media, requesting confirmation of the verification status of Zane Ellis's driver's license and passport details for routine background verification.",80,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Gavin Bennett,1,data136.txt,"Email requesting confirmation on expense code for Gavin Bennett's 25-year service award and whether a purchase order is needed, aiming to finalize details before the event.",10,benign
+Gavin Bennett,2,data136.txt,"Email requesting the setup of a dedicated email alias and calendar for Gavin Bennett's 25-year service award to coordinate contributions, with a request for confirmation on the alias name and participants.",10,benign
+Gavin Bennett,3,data136.txt,"Email requesting assistance in finding measurable outcomes from Gavin Bennett's initiatives for his 25-year service award speech, emphasizing the importance of accurate details.",10,benign
+Gavin Bennett,4,data136.txt,"Email requesting assistance in pulling a list of major initiatives led or contributed to by Gavin Bennett, specifically for the Horizon and Zenith programs, to highlight achievements in the 25-year service award speech.",10,benign

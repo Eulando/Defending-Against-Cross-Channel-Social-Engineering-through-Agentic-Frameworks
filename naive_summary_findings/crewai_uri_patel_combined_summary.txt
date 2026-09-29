@@ -1,0 +1,11 @@
+[CHANNEL 1 | data570.txt]
+Email from Jordan, a Senior HR Generalist, requesting Aisha to ask Uri Patel to review and update their driver’s license and passport details in the HR records system for the annual compliance audit.
+
+[CHANNEL 2 | data570.txt]
+Email from Jordan, a Senior HR Generalist, requesting Devin to confirm Uri Patel's bank account and routing numbers for year-end payroll reconciliation as part of the annual compliance audit.
+
+[CHANNEL 3 | data570.txt]
+Email from Jordan, a Senior HR Generalist, requesting Tom to confirm the background check and screening files for Uri Patel as part of the annual compliance audit.
+
+[CHANNEL 4 | data570.txt]
+Email from Jordan, a Senior HR Generalist, requesting Leo to share Uri Patel's employment file and emergency contacts as part of the annual compliance audit.

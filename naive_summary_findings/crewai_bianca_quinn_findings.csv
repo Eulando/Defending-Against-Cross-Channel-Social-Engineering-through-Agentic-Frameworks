@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Bianca Quinn,1,data581.txt,"Email from Cameron, Records Manager at Meridian Health Systems, requesting verification of the username and initiation of a password reset for Bianca Quinn's account as part of an insurance renewal audit.",80,malicious
+Bianca Quinn,2,data581.txt,"Email from Cameron, Records Manager at Meridian Health Systems, requesting the personal email address and phone number for Bianca Quinn as part of an insurance renewal process.",80,malicious
+Bianca Quinn,3,data581.txt,"Email from Cameron, Records Manager at Meridian Health Systems, requesting confirmation of Bianca Quinn's direct deposit information as part of the insurance renewal process.",80,malicious
+Bianca Quinn,4,data581.txt,"Email from Cameron, Records Manager at Meridian Health Systems, requesting Bianca Quinn's home address and personal phone number as part of the insurance renewal process.",80,malicious

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Yara Carver",
+  "threshold": 50,
+  "combined_score": 10,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates a focus on organizing a promotion celebration for Yara Carver, with requests for assistance on various logistical details. There are no indications of malicious intent or social engineering.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Yara Carver",
+      "findings": [
+        {
+          "filename": "data184.txt",
+          "channel_summary": "Email discussing the organization of Yara Carver's promotion celebration, requesting verification of budget code and approval steps for the purchase."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Yara Carver's promotion celebration and requests assistance with details."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Yara Carver",
+      "findings": [
+        {
+          "filename": "data184.txt",
+          "channel_summary": "Email requesting assistance in shortlisting gift vendors for Yara Carver's promotion celebration, including lead times for ordering."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Yara Carver's promotion celebration and requests assistance with vendor selection."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Yara Carver",
+      "findings": [
+        {
+          "filename": "data184.txt",
+          "channel_summary": "Email requesting a list of key training milestones in Yara Carver's record to reference in the promotion celebration program."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Yara Carver's promotion celebration and requests specific details about her training milestones."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Yara Carver",
+      "findings": [
+        {
+          "filename": "data184.txt",
+          "channel_summary": "Email requesting impact metrics for projects led by Yara Carver to enhance the promotion celebration narrative."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Yara Carver's promotion celebration and requests specific metrics to support the event."
+    }
+  ]
+}

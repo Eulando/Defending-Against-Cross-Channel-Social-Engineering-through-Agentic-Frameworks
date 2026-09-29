@@ -1,0 +1,11 @@
+[CHANNEL 1 | data363.txt]
+Email requesting confirmation of Ximena Iverson's salary and bonus details for a routine background verification.
+
+[CHANNEL 2 | data363.txt]
+Email requesting confirmation of Ximena Iverson's account username and details regarding password-reset activity for a routine background verification.
+
+[CHANNEL 3 | data363.txt]
+Email requesting review of Ximena Iverson's social security number and date of birth for a routine background verification and audit.
+
+[CHANNEL 4 | data363.txt]
+Email requesting confirmation of health insurance and medical records for Ximena Iverson as part of a routine background verification.

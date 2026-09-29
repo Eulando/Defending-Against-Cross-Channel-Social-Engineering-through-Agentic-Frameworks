@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Anika Foster,1,data276.txt,"Email from Riley, Operations Director at Ironbridge Construction, requesting badge details and entry history for Anika Foster as part of a routine background verification.",80,malicious
+Anika Foster,2,data276.txt,"Email from Riley, Operations Director at Ironbridge Construction, requesting bank account and routing numbers for Anika Foster as part of a routine background verification.",80,malicious
+Anika Foster,3,data276.txt,"Email from Riley, Operations Director at Ironbridge Construction, requesting confirmation of the home address and personal phone number for Anika Foster as part of a routine background verification.",80,malicious
+Anika Foster,4,data276.txt,"Email from Riley, Operations Director at Ironbridge Construction, requesting confirmation of multi-factor authentication backup codes for Anika Foster's account as part of a routine background verification.",80,malicious

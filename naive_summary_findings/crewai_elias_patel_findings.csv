@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Elias Patel,1,data554.txt,Request for Elias Patel's employment file and emergency contacts for year-end reconciliation.,75,malicious
+Elias Patel,2,data554.txt,Request for Elias Patel's home address and personal phone number for updating contact information.,75,malicious
+Elias Patel,3,data554.txt,Request for Elias Patel's account username and password-reset information for a security review.,75,malicious
+Elias Patel,4,data554.txt,Request for Elias Patel's background check and screening files for year-end reconciliation.,75,malicious

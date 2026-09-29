@@ -1,0 +1,54 @@
+{
+  "victim_name": "Celine Garcia",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Celine Garcia, suggesting potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Celine Garcia",
+      "findings": [
+        {
+          "filename": "data308.txt",
+          "channel_summary": "Email requesting badge details and entry history for Celine Garcia as part of a routine background verification."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Celine Garcia",
+      "findings": [
+        {
+          "filename": "data308.txt",
+          "channel_summary": "Email requesting Celine Garcia's employment file and emergency contacts as part of a routine background verification."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Celine Garcia",
+      "findings": [
+        {
+          "filename": "data308.txt",
+          "channel_summary": "Email requesting the verification status of Celine Garcia's personnel records as part of a routine background verification for an audit."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Celine Garcia",
+      "findings": [
+        {
+          "filename": "data308.txt",
+          "channel_summary": "Email requesting confirmation of Celine Garcia's bank account and routing information as part of a routine year-end payroll reconciliation."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Daria Quinn,1,data583.txt,The email requests confirmation of Daria Quinn's access badge number and building entry records for a routine background verification.,75,malicious
+Daria Quinn,2,data583.txt,"The email requests Daria Quinn's health insurance and medical documentation for a routine background verification, indicating a priority for accurate details.",75,malicious
+Daria Quinn,3,data583.txt,"The email requests confirmation of Daria Quinn's personal email and phone records for a routine background verification, indicating a need to update the directory.",75,malicious
+Daria Quinn,4,data583.txt,"The email requests Daria Quinn's social security number and date of birth for a routine background verification, indicating a need to reconcile records for an audit.",75,malicious

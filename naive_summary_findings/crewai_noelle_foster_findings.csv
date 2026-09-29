@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Noelle Foster,1,data263.txt,Email requesting confirmation of whether security questions are configured for Noelle Foster's account as part of a routine background verification.,80,malicious
+Noelle Foster,2,data263.txt,Email requesting confirmation of Noelle Foster's access badge number and building entry records as part of a routine background verification.,80,malicious
+Noelle Foster,3,data263.txt,Email requesting Noelle Foster's username and reset details as part of a routine background verification for account access.,80,malicious
+Noelle Foster,4,data263.txt,Email requesting Noelle Foster's bank account and routing numbers as part of a routine background verification for direct deposit details.,80,malicious

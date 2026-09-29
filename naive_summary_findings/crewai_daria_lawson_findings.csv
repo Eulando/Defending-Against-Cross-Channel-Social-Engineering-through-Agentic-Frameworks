@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Daria Lawson,1,data433.txt,"Email requesting confirmation of Daria Lawson's work status (remote, hybrid, or onsite) for a wellness event count as part of a quarterly directory update.",10,benign
+Daria Lawson,2,data433.txt,Email requesting confirmation of Daria Lawson's current job title and reporting manager for a quarterly directory update.,10,benign
+Daria Lawson,3,data433.txt,Email requesting confirmation of Daria Lawson's preferred name format for the internal staff list as part of a quarterly directory update.,10,benign
+Daria Lawson,4,data433.txt,Email requesting confirmation of which annual policy course Daria Lawson is scheduled to complete as part of a quarterly directory update.,10,benign

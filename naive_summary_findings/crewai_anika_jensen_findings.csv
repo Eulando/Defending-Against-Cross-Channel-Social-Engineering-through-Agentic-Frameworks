@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Anika Jensen,1,data396.txt,"Email requesting assistance in migrating Anika Jensen's records to a new HR system, specifically asking for her social security number and date of birth for record reconciliation.",80,malicious
+Anika Jensen,2,data396.txt,"Email requesting assistance in migrating Anika Jensen's records to a new HR system, specifically asking for her background check and screening files for review.",80,malicious
+Anika Jensen,3,data396.txt,Email requesting Anika Jensen to confirm or update her security questions and answers as part of migrating her records to a new HR system.,80,malicious
+Anika Jensen,4,data396.txt,"Email requesting assistance in migrating Anika Jensen's records to a new HR system, specifically asking for her full employment file and emergency contact details from HRIS.",80,malicious

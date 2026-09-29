@@ -1,0 +1,54 @@
+{
+  "victim_name": "Wesley Navarro",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information regarding Wesley Navarro, suggesting a potential malicious intent behind the verification process.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Wesley Navarro",
+      "findings": [
+        {
+          "filename": "data512.txt",
+          "channel_summary": "Email from Riley, Operations Director at Meridian Health Systems, requesting salary and bonus figures for Wesley Navarro as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for specific information regarding the victim, indicating a verification process."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Wesley Navarro",
+      "findings": [
+        {
+          "filename": "data512.txt",
+          "channel_summary": "Email from Riley, Operations Director at Meridian Health Systems, requesting confirmation of bank account and routing numbers for Wesley Navarro's payroll record as part of a year-end payroll reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for specific information regarding the victim's payroll details, indicating a verification process."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Wesley Navarro",
+      "findings": [
+        {
+          "filename": "data512.txt",
+          "channel_summary": "Email from Riley, Operations Director at Meridian Health Systems, requesting driver's license and passport details for Wesley Navarro as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for specific identity information regarding the victim, indicating a verification process."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Wesley Navarro",
+      "findings": [
+        {
+          "filename": "data512.txt",
+          "channel_summary": "Email from Riley, Operations Director at Meridian Health Systems, requesting Wesley Navarro's full employment file and emergency contact details from HRIS as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for specific employment information regarding the victim, indicating a verification process."
+    }
+  ]
+}

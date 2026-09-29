@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Elias Hughes,1,data314.txt,"Email from Taylor, Finance Manager, requesting confirmation of Elias Hughes's access badge number and building entry records for migration to a new HR system.",75,malicious
+Elias Hughes,2,data314.txt,"Email from Taylor, Finance Manager, requesting health insurance and medical documentation for Elias Hughes as part of the migration to a new HR system.",75,malicious
+Elias Hughes,3,data314.txt,"Email from Taylor, Finance Manager, requesting Elias Hughes's full employment file and emergency contact details as part of the migration to a new HR system.",75,malicious
+Elias Hughes,4,data314.txt,"Email from Taylor, Finance Manager, requesting verification of Elias Hughes's direct deposit details and asking him to confirm or update bank account and routing numbers in the HR system.",75,malicious

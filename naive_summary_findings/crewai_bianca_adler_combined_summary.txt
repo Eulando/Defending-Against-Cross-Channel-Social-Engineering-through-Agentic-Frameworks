@@ -1,0 +1,11 @@
+[CHANNEL 1 | data101.txt]
+Email requesting assistance with details for Bianca Adler's retirement send-off, including HR details like hire date and years of service.
+
+[CHANNEL 2 | data101.txt]
+Email requesting a short note about Bianca Adler for her retirement send-off, highlighting her impact on the team.
+
+[CHANNEL 3 | data101.txt]
+Email requesting assistance in checking the availability of Cedar Studio for Bianca Adler's retirement send-off, including details about the expected number of guests and setup requirements.
+
+[CHANNEL 4 | data101.txt]
+Email requesting assistance in obtaining a shortlist of preferred vendors for the retirement gift for Bianca Adler, including lead times for ordering.

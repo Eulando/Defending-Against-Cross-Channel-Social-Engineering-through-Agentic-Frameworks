@@ -1,0 +1,54 @@
+{
+  "victim_name": "Quentin Dawson",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context reveals multiple requests for sensitive personal information related to Quentin Dawson, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Quentin Dawson",
+      "findings": [
+        {
+          "filename": "data206.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting Aisha to provide driver's license and passport details for Quentin Dawson for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for identity verification details related to the victim."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Quentin Dawson",
+      "findings": [
+        {
+          "filename": "data206.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting Ryan to confirm security questions and answers for Quentin Dawson's account for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for account recovery details related to the victim."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Quentin Dawson",
+      "findings": [
+        {
+          "filename": "data206.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting Nina to verify Quentin Dawson's Social Security number and date of birth for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for verification of personal information related to the victim."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Quentin Dawson",
+      "findings": [
+        {
+          "filename": "data206.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting Maya to provide Quentin Dawson's home address and personal phone number for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for personal contact information related to the victim."
+    }
+  ]
+}

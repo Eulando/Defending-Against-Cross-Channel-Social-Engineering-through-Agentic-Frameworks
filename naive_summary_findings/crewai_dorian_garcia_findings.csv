@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Dorian Garcia,1,data309.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of direct deposit authorization details for Dorian Garcia as part of personnel records consolidation for an annual compliance audit.",10,benign
+Dorian Garcia,2,data309.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of home address and personal phone number for Dorian Garcia as part of personnel records consolidation for an annual compliance audit.",10,benign
+Dorian Garcia,3,data309.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of access badge number and building entry records for Dorian Garcia as part of personnel records consolidation for an annual compliance audit.",10,benign
+Dorian Garcia,4,data309.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of bank account and routing numbers for Dorian Garcia as part of personnel records consolidation for an annual compliance audit and year-end payroll reconciliation.",10,benign

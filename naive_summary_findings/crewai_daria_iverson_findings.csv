@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Daria Iverson,1,data343.txt,Email requesting confirmation of Daria Iverson's personal email address and phone number for a routine background verification.,75,malicious
+Daria Iverson,2,data343.txt,Email requesting confirmation of Daria Iverson's account username and current password reset information for a routine background verification.,75,malicious
+Daria Iverson,3,data343.txt,Email requesting confirmation of background check and screening files for Daria Iverson as part of a routine background verification.,75,malicious
+Daria Iverson,4,data343.txt,Email requesting Daria Iverson's employment file and emergency contacts as part of a routine background verification.,75,malicious

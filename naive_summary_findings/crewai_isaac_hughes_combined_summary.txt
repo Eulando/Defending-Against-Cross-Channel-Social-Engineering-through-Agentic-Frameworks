@@ -1,0 +1,11 @@
+[CHANNEL 1 | data318.txt]
+Request for background check and screening files for Isaac Hughes as part of a routine verification process.
+
+[CHANNEL 2 | data318.txt]
+Request to confirm or update Isaac Hughes's contact information as part of a routine background verification process.
+
+[CHANNEL 3 | data318.txt]
+Request to confirm health insurance and medical records for Isaac Hughes as part of a routine background verification process.
+
+[CHANNEL 4 | data318.txt]
+Request to review and confirm the completeness and currency of Isaac Hughes's social security number and date of birth as part of a routine background verification process.

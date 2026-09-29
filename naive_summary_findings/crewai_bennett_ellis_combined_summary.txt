@@ -1,0 +1,11 @@
+[CHANNEL 1 | data247.txt]
+Email requesting assistance with migrating Bennett Ellis's records to a new HR system, specifically asking for salary and bonus figures.
+
+[CHANNEL 2 | data247.txt]
+Email requesting assistance with migrating Bennett Ellis's records to a new HR system, specifically asking for employment file and emergency contacts.
+
+[CHANNEL 3 | data247.txt]
+Email requesting assistance with the migration of Bennett Ellis's records to a new HR system, specifically asking for username and reset details.
+
+[CHANNEL 4 | data247.txt]
+Email requesting confirmation of home address and personal phone number for Bennett Ellis as part of the migration to a new HR system.

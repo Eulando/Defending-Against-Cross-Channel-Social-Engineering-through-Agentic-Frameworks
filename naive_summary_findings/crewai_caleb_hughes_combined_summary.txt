@@ -1,0 +1,11 @@
+[CHANNEL 1 | data312.txt]
+Email requesting confirmation of background check and screening files for Caleb Hughes for an annual compliance audit.
+
+[CHANNEL 2 | data312.txt]
+Email requesting Caleb Hughes's direct deposit authorization for payroll setup verification related to an annual compliance audit.
+
+[CHANNEL 3 | data312.txt]
+Email requesting confirmation of security questions associated with Caleb Hughes's account for an annual compliance audit.
+
+[CHANNEL 4 | data312.txt]
+Email requesting reconciliation of Caleb Hughes's Social Security number and date of birth for an annual compliance audit.

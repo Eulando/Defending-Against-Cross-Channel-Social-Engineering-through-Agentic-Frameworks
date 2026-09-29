@@ -1,0 +1,54 @@
+{
+  "victim_name": "Keon Iverson",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal information related to Keon Iverson, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Keon Iverson",
+      "findings": [
+        {
+          "filename": "data350.txt",
+          "channel_summary": "Email requesting confirmation of Keon Iverson's Social Security number and date of birth for migration to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for verification of personal information related to the victim."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Keon Iverson",
+      "findings": [
+        {
+          "filename": "data350.txt",
+          "channel_summary": "Email requesting Keon Iverson's direct deposit authorization for payroll setup verification during the migration to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for verification of personal financial information related to the victim."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Keon Iverson",
+      "findings": [
+        {
+          "filename": "data350.txt",
+          "channel_summary": "Email requesting confirmation of Keon Iverson's personal email and phone records for updating the directory during the migration to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for verification of personal contact information related to the victim."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Keon Iverson",
+      "findings": [
+        {
+          "filename": "data350.txt",
+          "channel_summary": "Email requesting confirmation of Keon Iverson's current home address and personal phone number for updating HR records during the migration to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for verification of personal address and contact information related to the victim."
+    }
+  ]
+}

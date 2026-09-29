@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Noelle Garcia,1,data293.txt,"Email from Jordan, a Senior HR Generalist at Ventureline Consulting, requesting confirmation of Noelle Garcia's home address and personal phone number for routine background verification and updating contact records.",75,malicious
+Noelle Garcia,2,data293.txt,"Email from Jordan, a Senior HR Generalist at Ventureline Consulting, requesting Noelle Garcia's background check and screening files for routine background verification.",75,malicious
+Noelle Garcia,3,data293.txt,"Email from Jordan, a Senior HR Generalist at Ventureline Consulting, requesting Noelle Garcia's health insurance and medical documentation for routine background verification and double-checking benefit records.",75,malicious
+Noelle Garcia,4,data293.txt,"Email from Jordan, a Senior HR Generalist at Ventureline Consulting, requesting confirmation of Noelle Garcia's salary and bonus details for routine background verification and finalizing year-end figures.",75,malicious

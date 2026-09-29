@@ -1,0 +1,54 @@
+{
+  "victim_name": "Bennett Foster",
+  "threshold": 50,
+  "combined_score": 85,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal and financial information related to Bennett Foster, which raises significant concerns regarding potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Bennett Foster",
+      "findings": [
+        {
+          "filename": "data277.txt",
+          "channel_summary": "Email requesting verification of Bennett Foster's account username and recent password reset details for a compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for specific account-related information regarding Bennett Foster, indicating its purpose related to compliance and security review."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Bennett Foster",
+      "findings": [
+        {
+          "filename": "data277.txt",
+          "channel_summary": "Email requesting confirmation of Bennett Foster's current driver’s license and passport details for a compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for verification of Bennett Foster's identification documents, indicating its purpose related to compliance and security review."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Bennett Foster",
+      "findings": [
+        {
+          "filename": "data277.txt",
+          "channel_summary": "Email requesting Bennett Foster's social security number and date of birth for a compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive personal information regarding Bennett Foster, indicating its purpose related to compliance and security review."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Bennett Foster",
+      "findings": [
+        {
+          "filename": "data277.txt",
+          "channel_summary": "Email requesting confirmation of Bennett Foster's bank account and routing numbers for year-end payroll reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive financial information regarding Bennett Foster, indicating its purpose related to compliance and security review."
+    }
+  ]
+}

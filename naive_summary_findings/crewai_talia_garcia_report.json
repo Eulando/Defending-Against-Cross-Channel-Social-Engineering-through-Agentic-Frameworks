@@ -1,0 +1,54 @@
+{
+  "victim_name": "Talia Garcia",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal information related to Talia Garcia, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Talia Garcia",
+      "findings": [
+        {
+          "filename": "data299.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Orbit Analytics, requesting Aisha to provide driver's license and passport details for Talia Garcia as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for identity verification details related to Talia Garcia."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Talia Garcia",
+      "findings": [
+        {
+          "filename": "data299.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Orbit Analytics, requesting Jenna to provide Talia Garcia's direct deposit authorization as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for payroll setup details related to Talia Garcia."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Talia Garcia",
+      "findings": [
+        {
+          "filename": "data299.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Orbit Analytics, requesting assistance in pulling Talia Garcia's full employment file and emergency contact details from HRIS as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for employment and emergency contact details related to Talia Garcia."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Talia Garcia",
+      "findings": [
+        {
+          "filename": "data299.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Orbit Analytics, requesting Elena to provide Talia Garcia's salary and bonus figures as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for compensation data related to Talia Garcia."
+    }
+  ]
+}

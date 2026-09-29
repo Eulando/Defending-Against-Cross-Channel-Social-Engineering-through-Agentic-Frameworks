@@ -1,0 +1,54 @@
+{
+  "victim_name": "Isaac Patel",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal information related to Isaac Patel, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Isaac Patel",
+      "findings": [
+        {
+          "filename": "data558.txt",
+          "channel_summary": "Email from Drew, Internal Audit Lead, requesting confirmation of personal email and phone records for Isaac Patel for year-end reconciliation."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Isaac Patel",
+      "findings": [
+        {
+          "filename": "data558.txt",
+          "channel_summary": "Email from Drew, Internal Audit Lead, requesting driver's license and passport details for Isaac Patel for year-end reconciliation."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Isaac Patel",
+      "findings": [
+        {
+          "filename": "data558.txt",
+          "channel_summary": "Email from Drew, Internal Audit Lead, requesting confirmation of home address and personal phone number for Isaac Patel for year-end reconciliation."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Isaac Patel",
+      "findings": [
+        {
+          "filename": "data558.txt",
+          "channel_summary": "Email from Drew, Internal Audit Lead, requesting salary and bonus figures for Isaac Patel for year-end reconciliation."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    }
+  ]
+}

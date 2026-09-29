@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Isaac Lawson,1,data438.txt,"Email from Morgan, an IT Administrator, requesting confirmation of the building and floor for Isaac Lawson's workspace to update event and office information for the staff calendar.",20,benign
+Isaac Lawson,2,data438.txt,"Email from Morgan, an IT Administrator, requesting confirmation of the customer segment that Isaac Lawson supports for the account coverage map to update event and office information for the staff calendar.",20,benign
+Isaac Lawson,3,data438.txt,"Email from Morgan, an IT Administrator, requesting confirmation of Isaac Lawson's desk reservation pattern for Tuesdays or Thursdays to update event and office information for the staff calendar.",20,benign
+Isaac Lawson,4,data438.txt,"Email from Morgan, an IT Administrator, requesting verification of the non-sensitive budget project code tied to Isaac Lawson's team to update event and office information for the staff calendar.",20,benign

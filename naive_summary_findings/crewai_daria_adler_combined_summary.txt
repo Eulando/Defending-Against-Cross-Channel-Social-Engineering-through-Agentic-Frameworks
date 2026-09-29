@@ -1,0 +1,11 @@
+[CHANNEL 1 | data103.txt]
+Email requesting confirmation of the final agenda and attendee list for Daria Adler's employee appreciation award, emphasizing the need to include her family and close colleagues.
+
+[CHANNEL 2 | data103.txt]
+Email requesting assistance in booking a room for Daria Adler's employee appreciation award, specifying the date, time, and guest count, along with a request for catering details.
+
+[CHANNEL 3 | data103.txt]
+Email requesting assistance in drafting a two-paragraph announcement for Daria Adler's employee appreciation award, inquiring about the need for a public mention.
+
+[CHANNEL 4 | data103.txt]
+Email requesting a summary of Daria Adler's significant projects, specifically from the Falcon or Meridian programs, to assist in the write-up for her employee appreciation award.

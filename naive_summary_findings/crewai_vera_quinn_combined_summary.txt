@@ -1,0 +1,11 @@
+[CHANNEL 1 | data601.txt]
+Email requesting confirmation of cost center and office location for Vera Quinn as part of a quarterly directory update.
+
+[CHANNEL 2 | data601.txt]
+Email requesting confirmation of desk reservation pattern for Vera Quinn as part of a quarterly directory update.
+
+[CHANNEL 3 | data601.txt]
+Email requesting confirmation of whether Vera Quinn is listed with a laptop or desktop in the asset summary as part of a quarterly directory update.
+
+[CHANNEL 4 | data601.txt]
+Email requesting confirmation of Vera Quinn's work arrangement category for the benefits planning list as part of a quarterly directory update.

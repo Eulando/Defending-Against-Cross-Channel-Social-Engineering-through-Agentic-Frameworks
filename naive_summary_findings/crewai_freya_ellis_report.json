@@ -1,0 +1,54 @@
+{
+  "victim_name": "Freya Ellis",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a pattern of requests for sensitive personal and financial information related to Freya Ellis, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Freya Ellis",
+      "findings": [
+        {
+          "filename": "data225.txt",
+          "channel_summary": "Email from Taylor, Finance Manager at Orbit Analytics, requesting confirmation of Freya Ellis's bank account and routing numbers for insurance renewal and payroll reconciliation, emphasizing the urgency for a response by the end of the week."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding the victim's account and requests confirmation of sensitive financial details."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Freya Ellis",
+      "findings": [
+        {
+          "filename": "data225.txt",
+          "channel_summary": "Email from Taylor, Finance Manager at Orbit Analytics, requesting Aisha to pull driver's license and passport details for Freya Ellis as part of the insurance renewal process, indicating a need to verify identity documents with a deadline by Friday."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding the victim's identity verification for insurance purposes."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Freya Ellis",
+      "findings": [
+        {
+          "filename": "data225.txt",
+          "channel_summary": "Email from Taylor, Finance Manager at Orbit Analytics, requesting Diego to confirm the personal email and phone records for Freya Ellis as part of the insurance renewal process, indicating a need to update the directory with a response requested by the end of the week."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding the victim's personal contact details for directory updates related to insurance."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Freya Ellis",
+      "findings": [
+        {
+          "filename": "data225.txt",
+          "channel_summary": "Email from Taylor, Finance Manager at Orbit Analytics, requesting Leo to share Freya Ellis's employment file and emergency contacts as part of the insurance renewal process, indicating a consolidation of personnel data with no strict deadline."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding the victim's employment details and emergency contacts for insurance purposes."
+    }
+  ]
+}

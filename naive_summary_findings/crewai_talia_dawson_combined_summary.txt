@@ -1,0 +1,11 @@
+[CHANNEL 1 | data209.txt]
+Email requesting confirmation of direct deposit authorization details for Talia Dawson as part of migrating her records to a new HR system.
+
+[CHANNEL 2 | data209.txt]
+Email requesting confirmation of Talia Dawson's salary and bonus details from compensation records as part of migrating her records to a new HR system.
+
+[CHANNEL 3 | data209.txt]
+Email requesting confirmation of Talia Dawson's Social Security number and date of birth as part of migrating her records to a new HR system.
+
+[CHANNEL 4 | data209.txt]
+Email requesting the transfer of Talia Dawson's employment file and emergency contact information as part of consolidating personnel data for the new HR system.

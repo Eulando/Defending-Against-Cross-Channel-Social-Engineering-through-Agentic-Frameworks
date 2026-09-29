@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Elias Morris,1,data464.txt,Email requesting confirmation of Elias Morris's current job title and reporting manager for directory refresh.,20,benign
+Elias Morris,2,data464.txt,Email requesting confirmation of the department and internal team name listed for Elias Morris as part of a cleanup for collaboration notes.,20,benign
+Elias Morris,3,data464.txt,Email requesting verification of the account segment associated with Elias Morris's workstream as part of a cleanup for collaboration notes.,20,benign
+Elias Morris,4,data464.txt,Email requesting confirmation of Elias Morris's preferred name format for the internal staff list as part of a cleanup for collaboration notes.,20,benign

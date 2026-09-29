@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Bianca Ellis,1,data221.txt,Email discussing the migration of Bianca Ellis's records to a new HR system and requesting confirmation on the configuration of her security questions and answers.,75,malicious
+Bianca Ellis,2,data221.txt,"Email requesting assistance in reconciling compensation data for Bianca Ellis during the migration of her records to a new HR system, specifically asking for her salary and bonus figures.",75,malicious
+Bianca Ellis,3,data221.txt,"Email requesting assistance in reviewing screening records for Bianca Ellis during the migration of her records to a new HR system, specifically asking for her background check and screening files.",75,malicious
+Bianca Ellis,4,data221.txt,"Email requesting assistance in validating identity records for Bianca Ellis during the migration of her records to a new HR system, specifically asking for her driver's license and passport details.",75,malicious

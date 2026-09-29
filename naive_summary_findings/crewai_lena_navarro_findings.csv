@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Lena Navarro,1,data501.txt,"Email from Riley, Operations Director at Stellar Aerospace, requesting confirmation of security questions configured on Lena Navarro's account for a routine background verification.",80,malicious
+Lena Navarro,2,data501.txt,"Email from Riley, Operations Director at Stellar Aerospace, requesting confirmation of Lena Navarro's salary and bonus details for a routine background verification and year-end figures finalization.",80,malicious
+Lena Navarro,3,data501.txt,"Email from Riley, Operations Director at Stellar Aerospace, requesting confirmation of Lena Navarro's bank account and routing information for a routine background verification and year-end payroll reconciliation.",80,malicious
+Lena Navarro,4,data501.txt,"Email from Riley, Operations Director at Stellar Aerospace, requesting confirmation of Lena Navarro's direct deposit authorization details for a routine background verification and payroll account reconciliation.",80,malicious

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Aiden Ellis",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal and financial information related to Aiden Ellis, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Aiden Ellis",
+      "findings": [
+        {
+          "filename": "data220.txt",
+          "channel_summary": "Email requesting salary and bonus figures for Aiden Ellis as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for specific financial information related to the victim, indicating a verification process."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Aiden Ellis",
+      "findings": [
+        {
+          "filename": "data220.txt",
+          "channel_summary": "Email requesting confirmation of identity documents for Aiden Ellis as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request to verify identity documents related to the victim, indicating a verification process."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Aiden Ellis",
+      "findings": [
+        {
+          "filename": "data220.txt",
+          "channel_summary": "Email requesting verification of Social Security number and date of birth for Aiden Ellis as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request to verify sensitive personal information related to the victim, indicating a verification process."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Aiden Ellis",
+      "findings": [
+        {
+          "filename": "data220.txt",
+          "channel_summary": "Email requesting confirmation of bank account and routing information for Aiden Ellis as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request to verify financial information related to the victim, indicating a verification process."
+    }
+  ]
+}

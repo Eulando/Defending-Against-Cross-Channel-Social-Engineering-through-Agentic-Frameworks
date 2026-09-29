@@ -1,0 +1,54 @@
+{
+  "victim_name": "Paula Foster",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Paula Foster, suggesting potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Paula Foster",
+      "findings": [
+        {
+          "filename": "data265.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting access to Paula Foster's employment file and emergency contact information for a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim, Paula Foster."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Paula Foster",
+      "findings": [
+        {
+          "filename": "data265.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting confirmation of Paula Foster's banking details for year-end payroll reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim, Paula Foster."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Paula Foster",
+      "findings": [
+        {
+          "filename": "data265.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting confirmation of multi-factor authentication backup codes for Paula Foster's account and possibly initiating a reset."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim, Paula Foster."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Paula Foster",
+      "findings": [
+        {
+          "filename": "data265.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting confirmation of Paula Foster's benefits records, including health insurance and medical documentation, for a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim, Paula Foster."
+    }
+  ]
+}

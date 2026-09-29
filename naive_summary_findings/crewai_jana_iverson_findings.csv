@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Jana Iverson,1,data349.txt,"Email requesting validation of Jana Iverson's personnel records for an annual compliance audit, specifically asking for the upload of her driver's license and passport details to a secure system.",70,malicious
+Jana Iverson,2,data349.txt,"Email requesting assistance with consolidating Jana Iverson's personnel records for an annual compliance audit, specifically asking for her background check and screening files to be shared before Friday.",70,malicious
+Jana Iverson,3,data349.txt,"Email requesting assistance with consolidating Jana Iverson's personnel records for an annual compliance audit, specifically asking for her direct deposit authorization to be shared by Friday.",70,malicious
+Jana Iverson,4,data349.txt,"Email requesting confirmation of the completeness and currency of Jana Iverson's direct-deposit information for an annual compliance audit, asking for a response by the end of the week without including specific account details.",70,malicious

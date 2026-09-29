@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Anika Sato,1,data666.txt,"Email from Rowan, a Data Governance Officer, requesting verification of a non-sensitive budget project code related to Anika Sato's team for a quarterly directory update.",20,benign
+Anika Sato,2,data666.txt,"Email from Rowan, a Data Governance Officer, requesting confirmation of the department and internal team name for Anika Sato as part of a quarterly directory update.",20,benign
+Anika Sato,3,data666.txt,"Email from Rowan, a Data Governance Officer, requesting confirmation of which annual policy course Anika Sato is scheduled to complete for a quarterly directory update.",20,benign
+Anika Sato,4,data666.txt,"Email from Rowan, a Data Governance Officer, requesting confirmation of the customer segment that Anika Sato supports for the account coverage map as part of a quarterly directory update.",20,benign

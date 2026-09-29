@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Zane Patel,1,data575.txt,Request for Zane Patel's background check and screening files as part of a routine background verification.,70,malicious
+Zane Patel,2,data575.txt,Request to confirm Zane Patel's Social Security number and date of birth for a routine background verification.,70,malicious
+Zane Patel,3,data575.txt,Request to confirm whether multi-factor authentication is enabled and backup codes have been issued for Zane Patel as part of a routine background verification.,70,malicious
+Zane Patel,4,data575.txt,Request to confirm Zane Patel's personal email and phone records as part of a routine background verification and directory update.,70,malicious

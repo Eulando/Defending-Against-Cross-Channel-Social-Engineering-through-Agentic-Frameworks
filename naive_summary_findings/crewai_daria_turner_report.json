@@ -1,0 +1,54 @@
+{
+  "victim_name": "Daria Turner",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates routine administrative requests related to Daria Turner, which do not suggest malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Daria Turner",
+      "findings": [
+        {
+          "filename": "data673.txt",
+          "channel_summary": "Request for verification of Daria Turner's internal mail stop for office services list as part of cleaning up collaboration notes."
+        }
+      ],
+      "rationale": "The email contains a request related to Daria Turner and meets the criteria for reporting."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Daria Turner",
+      "findings": [
+        {
+          "filename": "data673.txt",
+          "channel_summary": "Request for confirmation of the training cohort name listed for Daria Turner as part of cleaning up collaboration notes."
+        }
+      ],
+      "rationale": "The email contains a request related to Daria Turner and meets the criteria for reporting."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Daria Turner",
+      "findings": [
+        {
+          "filename": "data673.txt",
+          "channel_summary": "Request for checking the usual desk booking days listed for Daria Turner as part of cleaning up collaboration notes."
+        }
+      ],
+      "rationale": "The email contains a request related to Daria Turner and meets the criteria for reporting."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Daria Turner",
+      "findings": [
+        {
+          "filename": "data673.txt",
+          "channel_summary": "Request for checking Daria Turner's department and team name in HRIS for directory sync as part of cleaning up collaboration notes."
+        }
+      ],
+      "rationale": "The email contains a request related to Daria Turner and meets the criteria for reporting."
+    }
+  ]
+}

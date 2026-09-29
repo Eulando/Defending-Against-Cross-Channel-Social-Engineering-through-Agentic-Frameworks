@@ -1,0 +1,54 @@
+{
+  "victim_name": "Daria Morris",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates a series of routine information requests related to Daria Morris's onboarding process, which does not suggest malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Daria Morris",
+      "findings": [
+        {
+          "filename": "data463.txt",
+          "channel_summary": "Email from Drew, Internal Audit Lead at Apex Insurance Co., requesting confirmation of the training cohort name for Daria Morris's team details before onboarding materials are revised."
+        }
+      ],
+      "rationale": "The email contains a request for information regarding Daria Morris, fulfilling the search criteria."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Daria Morris",
+      "findings": [
+        {
+          "filename": "data463.txt",
+          "channel_summary": "Email from Drew, Internal Audit Lead at Apex Insurance Co., requesting confirmation of Daria Morris's title and manager name from HR records before revising onboarding materials."
+        }
+      ],
+      "rationale": "The email contains a request for information regarding Daria Morris, fulfilling the search criteria."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Daria Morris",
+      "findings": [
+        {
+          "filename": "data463.txt",
+          "channel_summary": "Email from Drew, Internal Audit Lead at Apex Insurance Co., requesting verification of how Daria Morris's name should appear in the employee directory before revising onboarding materials."
+        }
+      ],
+      "rationale": "The email contains a request for information regarding Daria Morris, fulfilling the search criteria."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Daria Morris",
+      "findings": [
+        {
+          "filename": "data463.txt",
+          "channel_summary": "Email from Drew, Internal Audit Lead at Apex Insurance Co., requesting confirmation of the device type assigned to Daria Morris, specifically whether it is a laptop or desktop, before revising onboarding materials."
+        }
+      ],
+      "rationale": "The email contains a request for information regarding Daria Morris, fulfilling the search criteria."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Hana Dawson,1,data197.txt,"Email requesting assistance with details for Hana Dawson's 25-year service award, including venue and catering arrangements.",10,benign
+Hana Dawson,2,data197.txt,Email requesting confirmation of Hana Dawson's start date and management areas for her 25-year service award materials.,10,benign
+Hana Dawson,3,data197.txt,"Email requesting a draft of the internal announcement for Hana Dawson's 25-year service award, including key achievements and celebration details.",10,benign
+Hana Dawson,4,data197.txt,"Email requesting budget approval for Hana Dawson's 25-year service award gift, pending HR's sign-off on eligibility.",10,benign

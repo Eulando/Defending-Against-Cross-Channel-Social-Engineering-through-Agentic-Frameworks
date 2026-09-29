@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Freya Dawson,1,data195.txt,"Email from Hannah, a Project Manager at Juniper Bank, requesting assistance in organizing Freya Dawson's innovation award ceremony, including reserving a venue and confirming catering details.",10,benign
+Freya Dawson,2,data195.txt,"Email from Hannah, a Project Manager at Juniper Bank, requesting assistance in drafting a public announcement for Freya Dawson's innovation award ceremony, emphasizing the need for a quick turnaround.",10,benign
+Freya Dawson,3,data195.txt,"Email from Hannah, a Project Manager at Juniper Bank, requesting a quote about Freya Dawson's impact on the team for the innovation award ceremony, emphasizing the importance of the details.",10,benign
+Freya Dawson,4,data195.txt,"Email from Hannah, a Project Manager at Juniper Bank, requesting assistance in setting up a shared calendar and alias for the planning group of Freya Dawson's innovation award ceremony, indicating no immediate deadline.",10,benign

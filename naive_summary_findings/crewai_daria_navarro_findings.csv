@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Daria Navarro,1,data493.txt,Email requesting assistance in validating Daria Navarro's public-facing biography and checking assigned chat and ticketing tools for the support matrix.,10,benign
+Daria Navarro,2,data493.txt,Email requesting assistance in validating Daria Navarro's public-facing biography and checking whether she is listed with a laptop or desktop in the asset summary.,10,benign
+Daria Navarro,3,data493.txt,Email requesting assistance in validating Daria Navarro's public-facing biography and verifying the non-sensitive budget project code tied to her team.,10,benign
+Daria Navarro,4,data493.txt,Email requesting assistance in validating Daria Navarro's public-facing biography and verifying how her name should appear in the employee directory.,10,benign

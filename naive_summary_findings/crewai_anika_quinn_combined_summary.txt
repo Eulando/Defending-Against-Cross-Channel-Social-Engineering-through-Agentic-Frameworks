@@ -1,0 +1,11 @@
+[CHANNEL 1 | data606.txt]
+Email from Taylor, the Finance Manager at Crestline Hotels, requesting assistance from Marcus to update Anika Quinn's event and office information for the staff calendar, specifically asking for details on the standard chat and ticketing tools assigned to her.
+
+[CHANNEL 2 | data606.txt]
+Email from Taylor, the Finance Manager at Crestline Hotels, requesting assistance from Elena to verify the non-sensitive budget project code tied to Anika Quinn's team as part of updating her event and office information for the staff calendar.
+
+[CHANNEL 3 | data606.txt]
+Email from Taylor, the Finance Manager at Crestline Hotels, requesting assistance from Jenna to confirm Anika Quinn's preferred name format for the internal staff list as part of updating her event and office information for the staff calendar.
+
+[CHANNEL 4 | data606.txt]
+Email from Taylor, the Finance Manager at Crestline Hotels, requesting assistance from Nina to confirm Anika Quinn's current job title and reporting manager for the directory refresh as part of updating her event and office information for the staff calendar.

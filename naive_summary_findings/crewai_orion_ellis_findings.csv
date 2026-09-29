@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Orion Ellis,1,data234.txt,"Email from Jordan, a Senior HR Generalist at Cortex Software, requesting assistance with verifying payroll setup for Orion Ellis's account related to the insurance renewal process.",20,benign
+Orion Ellis,2,data234.txt,"Email from Jordan, a Senior HR Generalist at Cortex Software, requesting Maya to confirm and update Orion Ellis's contact details in the HR system for the upcoming insurance renewal.",20,benign
+Orion Ellis,3,data234.txt,"Email from Jordan, a Senior HR Generalist at Cortex Software, requesting confirmation of Orion Ellis's direct deposit details for the insurance renewal process, asking for review and confirmation through the authorized payroll system.",20,benign
+Orion Ellis,4,data234.txt,"Email from Jordan, a Senior HR Generalist at Cortex Software, requesting Tom to share Orion Ellis's background check and screening files as part of the review for the insurance renewal process.",20,benign

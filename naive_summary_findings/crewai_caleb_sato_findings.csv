@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Caleb Sato,1,data642.txt,"Email from Rowan, a Data Governance Officer, requesting assistance from Aisha to check which learning cohort is tied to Caleb Sato's employee profile for a quarterly directory update.",10,benign
+Caleb Sato,2,data642.txt,"Email from Rowan, a Data Governance Officer, requesting Devin to verify Caleb Sato's cost center and assigned office location for a quarterly roster check.",10,benign
+Caleb Sato,3,data642.txt,"Email from Rowan, a Data Governance Officer, requesting assistance to check Caleb Sato's department and team name in HRIS for a directory sync.",10,benign
+Caleb Sato,4,data642.txt,"Email from Rowan, a Data Governance Officer, requesting Nina to check the HR profile and confirm Caleb Sato's title and manager name for a quarterly directory update.",10,benign

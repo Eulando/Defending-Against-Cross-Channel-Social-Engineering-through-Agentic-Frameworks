@@ -1,0 +1,11 @@
+[CHANNEL 1 | data274.txt]
+Email from Morgan, an IT Administrator at Apex Insurance Co., requesting badge details and entry history for Yara Foster's account as part of the insurance renewal process.
+
+[CHANNEL 2 | data274.txt]
+Email from Morgan, an IT Administrator at Apex Insurance Co., requesting confirmation of direct deposit authorization details for Yara Foster's account as part of the insurance renewal process.
+
+[CHANNEL 3 | data274.txt]
+Email from Morgan, an IT Administrator at Apex Insurance Co., requesting confirmation of Yara Foster's current direct deposit details for the upcoming insurance renewal.
+
+[CHANNEL 4 | data274.txt]
+Email from Morgan, an IT Administrator at Apex Insurance Co., requesting verification of the status of account recovery questions for Yara Foster's account as part of the insurance renewal process.

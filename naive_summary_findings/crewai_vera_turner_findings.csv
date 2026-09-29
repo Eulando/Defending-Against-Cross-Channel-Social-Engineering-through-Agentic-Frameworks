@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Vera Turner,1,data691.txt,Email requesting confirmation of the customer segment Vera Turner supports for the account coverage map as part of an internal cleanup for the staff calendar.,20,benign
+Vera Turner,2,data691.txt,Email requesting confirmation of Vera Turner's title and manager name for updating the staff calendar as part of an internal cleanup.,20,benign
+Vera Turner,3,data691.txt,Email requesting confirmation of Vera Turner's department and team name in HRIS for the directory sync as part of an update for the staff calendar.,20,benign
+Vera Turner,4,data691.txt,Email requesting confirmation of which annual policy course Vera Turner is scheduled to complete as part of an update for the staff calendar.,20,benign

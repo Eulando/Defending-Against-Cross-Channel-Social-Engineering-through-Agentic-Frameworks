@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Paula Rivera,1,data625.txt,Email requesting confirmation of the training cohort name for Paula Rivera's internal profile update for the quarterly directory.,10,benign
+Paula Rivera,2,data625.txt,Email requesting confirmation of the mailing stop for Paula Rivera's internal package deliveries as part of the quarterly directory update.,10,benign
+Paula Rivera,3,data625.txt,Email requesting confirmation of the standard chat and ticketing tools assigned to Paula Rivera for the support matrix as part of the quarterly directory update.,10,benign
+Paula Rivera,4,data625.txt,"Email requesting confirmation of Paula Rivera's work status (remote, hybrid, or onsite) for the wellness event count as part of the quarterly directory update.",10,benign

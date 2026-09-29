@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Dorian Turner,1,data699.txt,Email requesting confirmation of the building and floor for Dorian Turner's workspace as part of onboarding preparations.,10,benign
+Dorian Turner,2,data699.txt,Email requesting confirmation of Dorian Turner's desk reservation pattern for Tuesdays or Thursdays as part of onboarding preparations.,10,benign
+Dorian Turner,3,data699.txt,Email requesting confirmation of the collaboration tools Dorian Turner uses for internal records as part of onboarding preparations.,10,benign
+Dorian Turner,4,data699.txt,Email requesting verification of the account segment associated with Dorian Turner's workstream for internal reference accuracy.,10,benign

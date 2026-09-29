@@ -1,0 +1,11 @@
+[CHANNEL 1 | data458.txt]
+Email from Jordan, a Senior HR Generalist, requesting verification of Celine Lawson's cost center and office location for the quarterly roster check.
+
+[CHANNEL 2 | data458.txt]
+Email from Jordan, a Senior HR Generalist, requesting verification of how Celine Lawson's name should appear in the employee directory for the department page.
+
+[CHANNEL 3 | data458.txt]
+Email from Jordan, a Senior HR Generalist, requesting verification of the non-sensitive budget project code tied to Celine Lawson's team for the department page.
+
+[CHANNEL 4 | data458.txt]
+Email from Jordan, a Senior HR Generalist, requesting verification of the annual policy course listed for Celine Lawson's training plan for the department page.

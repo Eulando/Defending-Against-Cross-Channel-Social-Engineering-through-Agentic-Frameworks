@@ -1,0 +1,54 @@
+{
+  "victim_name": "Paula Dawson",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "All channel reports contain requests for sensitive personal information related to a background verification process, indicating a high level of malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Paula Dawson",
+      "findings": [
+        {
+          "filename": "data205.txt",
+          "channel_summary": "Email requesting confirmation of Paula Dawson's Social Security number and date of birth for a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive personal information related to a background verification process."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Paula Dawson",
+      "findings": [
+        {
+          "filename": "data205.txt",
+          "channel_summary": "Email requesting Paula Dawson's full employment file and emergency contact details for a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive personal information related to a background verification process."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Paula Dawson",
+      "findings": [
+        {
+          "filename": "data205.txt",
+          "channel_summary": "Email requesting confirmation of Paula Dawson's account recovery settings and security questions for a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive personal information related to a background verification process."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Paula Dawson",
+      "findings": [
+        {
+          "filename": "data205.txt",
+          "channel_summary": "Email requesting Paula Dawson's salary and bonus figures for a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive personal information related to a background verification process."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Jana Iverson",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a pattern of requests for sensitive personal information related to Jana Iverson's personnel records, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Jana Iverson",
+      "findings": [
+        {
+          "filename": "data349.txt",
+          "channel_summary": "Email requesting validation of Jana Iverson's personnel records for an annual compliance audit, specifically asking for the upload of her driver's license and passport details to a secure system."
+        }
+      ],
+      "rationale": "The email containing the victim's name has been found and meets the requirements."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Jana Iverson",
+      "findings": [
+        {
+          "filename": "data349.txt",
+          "channel_summary": "Email requesting assistance with consolidating Jana Iverson's personnel records for an annual compliance audit, specifically asking for her background check and screening files to be shared before Friday."
+        }
+      ],
+      "rationale": "The email containing the victim's name has been found and meets the requirements."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Jana Iverson",
+      "findings": [
+        {
+          "filename": "data349.txt",
+          "channel_summary": "Email requesting assistance with consolidating Jana Iverson's personnel records for an annual compliance audit, specifically asking for her direct deposit authorization to be shared by Friday."
+        }
+      ],
+      "rationale": "The email containing the victim's name has been found and meets the requirements."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Jana Iverson",
+      "findings": [
+        {
+          "filename": "data349.txt",
+          "channel_summary": "Email requesting confirmation of the completeness and currency of Jana Iverson's direct-deposit information for an annual compliance audit, asking for a response by the end of the week without including specific account details."
+        }
+      ],
+      "rationale": "The email containing the victim's name has been found and meets the requirements."
+    }
+  ]
+}

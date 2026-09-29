@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Dorian Owens,1,data549.txt,Request for Dorian Owens's account username and password-reset activity details for year-end reconciliation.,70,malicious
+Dorian Owens,2,data549.txt,Request for Dorian Owens's background check and screening files for year-end reconciliation.,70,malicious
+Dorian Owens,3,data549.txt,Request for confirmation of Dorian Owens's personal email and phone records for directory update.,70,malicious
+Dorian Owens,4,data549.txt,Request to verify multi-factor authentication recovery options for Dorian Owens's account for year-end reconciliation.,70,malicious

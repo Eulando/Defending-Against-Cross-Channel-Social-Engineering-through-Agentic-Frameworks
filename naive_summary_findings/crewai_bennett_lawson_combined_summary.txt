@@ -1,0 +1,11 @@
+[CHANNEL 1 | data457.txt]
+Email requesting confirmation of whether Bennett Lawson is listed with a laptop or desktop in the asset summary for updating event and office information.
+
+[CHANNEL 2 | data457.txt]
+Email requesting confirmation of Bennett Lawson's preferred name format for the internal staff list as part of updating event and office information.
+
+[CHANNEL 3 | data457.txt]
+Email requesting confirmation of whether Bennett Lawson has a desk reservation pattern for Tuesdays or Thursdays as part of updating event and office information.
+
+[CHANNEL 4 | data457.txt]
+Email requesting confirmation of Bennett Lawson's department and team name in HRIS for directory synchronization as part of updating event and office information.

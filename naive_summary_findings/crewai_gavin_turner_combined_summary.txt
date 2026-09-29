@@ -1,0 +1,11 @@
+[CHANNEL 1 | data676.txt]
+An email requesting verification of Gavin Turner's internal mail stop for the office services list to ensure accuracy in the department's public-facing biography.
+
+[CHANNEL 2 | data676.txt]
+An email requesting verification of Gavin Turner's usual desk booking days to ensure accuracy in the department's public-facing biography before it circulates.
+
+[CHANNEL 3 | data676.txt]
+An email requesting verification of Gavin Turner's cost center and assigned office location for the quarterly roster check to ensure accuracy in the department's public-facing biography.
+
+[CHANNEL 4 | data676.txt]
+An email requesting verification of Gavin Turner's work arrangement category for the benefits planning list to ensure accuracy in the department's public-facing biography.

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Daria Patel",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal information related to Daria Patel, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Daria Patel",
+      "findings": [
+        {
+          "filename": "data553.txt",
+          "channel_summary": "Email from Cameron, a Records Manager at Harbor Biotech, requesting Aisha to provide driver's license and passport details for Daria Patel as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for identity document verification related to Daria Patel."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Daria Patel",
+      "findings": [
+        {
+          "filename": "data553.txt",
+          "channel_summary": "Email from Cameron, a Records Manager at Harbor Biotech, requesting Omar to provide badge details and entry history for Daria Patel as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for physical access records related to Daria Patel."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Daria Patel",
+      "findings": [
+        {
+          "filename": "data553.txt",
+          "channel_summary": "Email from Cameron, a Records Manager at Harbor Biotech, requesting Tom to confirm the background check and screening files for Daria Patel as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for background check and screening files related to Daria Patel."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Daria Patel",
+      "findings": [
+        {
+          "filename": "data553.txt",
+          "channel_summary": "Email from Cameron, a Records Manager at Harbor Biotech, requesting assistance in updating directory records by sharing Daria Patel's personal email and phone number as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for personal contact information related to Daria Patel."
+    }
+  ]
+}

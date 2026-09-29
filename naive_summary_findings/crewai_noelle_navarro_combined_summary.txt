@@ -1,0 +1,11 @@
+[CHANNEL 1 | data503.txt]
+Email requesting Noelle Navarro's account username and password-reset information for a compliance audit, excluding sensitive authentication details.
+
+[CHANNEL 2 | data503.txt]
+Email requesting confirmation of Noelle Navarro's bank account and routing numbers for payroll reconciliation as part of a compliance audit.
+
+[CHANNEL 3 | data503.txt]
+Email requesting Noelle Navarro's background check and screening files for a compliance audit, with no immediate deadline.
+
+[CHANNEL 4 | data503.txt]
+Email requesting confirmation of the availability of multi-factor authentication backup codes for Noelle Navarro as part of a compliance audit.

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Anika Owens",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal information related to Anika Owens, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Anika Owens",
+      "findings": [
+        {
+          "filename": "data546.txt",
+          "channel_summary": "Email requesting confirmation of Anika Owens's direct deposit information for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for verification of personal information related to the victim."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Anika Owens",
+      "findings": [
+        {
+          "filename": "data546.txt",
+          "channel_summary": "Email requesting confirmation of the security questions and answers associated with Anika Owens's account for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for verification of personal information related to the victim."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Anika Owens",
+      "findings": [
+        {
+          "filename": "data546.txt",
+          "channel_summary": "Email requesting Anika Owens's full employment file and emergency contact details for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for verification of personal information related to the victim."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Anika Owens",
+      "findings": [
+        {
+          "filename": "data546.txt",
+          "channel_summary": "Email requesting confirmation of Anika Owens's Social Security number and date of birth for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for verification of personal information related to the victim."
+    }
+  ]
+}

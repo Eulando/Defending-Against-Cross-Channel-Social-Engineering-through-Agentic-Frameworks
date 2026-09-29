@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Gavin Jensen,1,data376.txt,"Email from Morgan, an IT Administrator at Juniper Bank, requesting Gavin Jensen's home address and personal phone number for the annual compliance audit.",75,malicious
+Gavin Jensen,2,data376.txt,"Email from Morgan, an IT Administrator at Juniper Bank, requesting confirmation on the status of multi-factor authentication backup codes for Gavin Jensen's account as part of the annual compliance audit.",75,malicious
+Gavin Jensen,3,data376.txt,"Email from Morgan, an IT Administrator at Juniper Bank, requesting confirmation of Gavin Jensen's username and the current status of password-reset contact details for the annual compliance audit.",75,malicious
+Gavin Jensen,4,data376.txt,"Email from Morgan, an IT Administrator at Juniper Bank, requesting driver's license and passport details for Gavin Jensen as part of the annual compliance audit to verify identity documents.",75,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Vera Patel,1,data571.txt,"Email from Taylor, Finance Manager, requesting confirmation of Vera Patel's username and reset details for year-end reconciliation and audit preparation.",75,malicious
+Vera Patel,2,data571.txt,"Email from Taylor, Finance Manager, requesting confirmation of Vera Patel's access badge number and building entry records for year-end reconciliation.",75,malicious
+Vera Patel,3,data571.txt,"Email from Taylor, Finance Manager, requesting confirmation of Vera Patel's direct deposit authorization details for year-end reconciliation of payroll accounts.",75,malicious
+Vera Patel,4,data571.txt,"Email from Taylor, Finance Manager, requesting confirmation of Vera Patel's background check and screening files for year-end audit review.",75,malicious

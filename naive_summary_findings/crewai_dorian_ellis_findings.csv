@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Dorian Ellis,1,data249.txt,"Email regarding Dorian Ellis's account review for insurance renewal, requesting confirmation of direct deposit information and asking Dorian to update bank account details in the payroll system.",70,malicious
+Dorian Ellis,2,data249.txt,"Email requesting account username, access-log entries, and password-reset event details for Dorian Ellis's account as part of an insurance renewal and security review, with a deadline for submission.",70,malicious
+Dorian Ellis,3,data249.txt,"Email requesting salary and bonus figures for Dorian Ellis's account as part of the insurance renewal process, with a deadline for response.",70,malicious
+Dorian Ellis,4,data249.txt,"Email requesting Dorian Ellis's badge details and entry history as part of the insurance renewal process, with a priority for accurate details and a deadline for response.",70,malicious

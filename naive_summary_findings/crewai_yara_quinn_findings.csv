@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Yara Quinn,1,data604.txt,Email requesting confirmation of Yara Quinn's title and manager name for updating event and office information in the staff calendar.,10,benign
+Yara Quinn,2,data604.txt,Email requesting confirmation of whether Yara Quinn is listed with a laptop or desktop in the asset summary for updating event and office information in the staff calendar.,10,benign
+Yara Quinn,3,data604.txt,Email requesting verification of Yara Quinn's internal mail stop for the office services list as part of updating event and office information in the staff calendar.,10,benign
+Yara Quinn,4,data604.txt,Email requesting confirmation of which building and floor are assigned to Yara Quinn in the office map as part of updating event and office information in the staff calendar.,10,benign

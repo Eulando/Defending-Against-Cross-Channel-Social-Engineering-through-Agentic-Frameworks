@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Talia Owens,1,data539.txt,Email requesting confirmation of health insurance and medical records for Talia Owens as part of a routine background verification.,80,malicious
+Talia Owens,2,data539.txt,Email requesting confirmation of direct deposit authorization details for Talia Owens as part of a routine background verification.,80,malicious
+Talia Owens,3,data539.txt,Email requesting Talia Owens's full employment file and emergency contact details from HRIS as part of a routine background verification.,80,malicious
+Talia Owens,4,data539.txt,Email requesting confirmation of Talia Owens's access badge number and building entry records as part of a routine background verification.,80,malicious

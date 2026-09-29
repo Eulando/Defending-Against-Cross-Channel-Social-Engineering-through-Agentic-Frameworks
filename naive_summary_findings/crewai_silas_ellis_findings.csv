@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Silas Ellis,1,data238.txt,Request for Silas Ellis's account username and recent password reset details for year-end reconciliation and security review.,75,malicious
+Silas Ellis,2,data238.txt,Request for confirmation of direct deposit authorization details for Silas Ellis for year-end reconciliation of payroll accounts.,75,malicious
+Silas Ellis,3,data238.txt,Request for confirmation of Silas Ellis's access badge number and building entry records for year-end reconciliation and validation of access.,75,malicious
+Silas Ellis,4,data238.txt,Request for confirmation of Silas Ellis's salary and bonus details from compensation records for year-end reconciliation.,75,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Wesley Morris,1,data482.txt,Email requesting verification of Wesley Morris's asset details for a public-facing biography.,20,benign
+Wesley Morris,2,data482.txt,Email requesting verification of Wesley Morris's internal mail stop for the office services list.,20,benign
+Wesley Morris,3,data482.txt,Email requesting confirmation of the department and internal team name listed for Wesley Morris as part of an internal cleanup.,20,benign
+Wesley Morris,4,data482.txt,Email requesting verification of the learning cohort tied to Wesley Morris's employee profile for internal reference accuracy.,20,benign

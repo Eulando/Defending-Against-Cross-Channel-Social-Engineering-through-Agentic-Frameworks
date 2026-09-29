@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Gavin Lawson,1,data436.txt,Email requesting confirmation of department and internal team name for Gavin Lawson's collaboration notes for planning archive.,20,benign
+Gavin Lawson,2,data436.txt,Email requesting assistance in checking Gavin Lawson's work arrangement category for the benefits planning list.,20,benign
+Gavin Lawson,3,data436.txt,Email requesting confirmation of the project code associated with Gavin Lawson's department budget for planning archive cleanup.,20,benign
+Gavin Lawson,4,data436.txt,Email requesting assistance in checking which learning cohort is tied to Gavin Lawson's employee profile for planning archive cleanup.,20,benign

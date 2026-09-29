@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Isaac Rivera,1,data618.txt,"Email from Quinn, a Payroll Supervisor, requesting verification of a non-sensitive budget project code related to Isaac Rivera's team for internal cleanup purposes.",20,benign
+Isaac Rivera,2,data618.txt,"Email from Quinn, a Payroll Supervisor, requesting confirmation of Isaac Rivera's preferred name format for the internal staff list as part of validating his public-facing biography.",20,benign
+Isaac Rivera,3,data618.txt,"Email from Quinn, a Payroll Supervisor, requesting verification of the standard chat and ticketing tools assigned to Isaac Rivera for the support matrix as part of validating his public-facing biography.",20,benign
+Isaac Rivera,4,data618.txt,"Email from Quinn, a Payroll Supervisor, requesting confirmation of the customer segment that Isaac Rivera supports for the account coverage map as part of validating his public-facing biography.",20,benign

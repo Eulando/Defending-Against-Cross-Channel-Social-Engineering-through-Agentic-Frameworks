@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Keon Dawson,1,data200.txt,Email requesting confirmation of bank account and routing numbers for Keon Dawson's account as part of insurance renewal and payroll reconciliation.,75,malicious
+Keon Dawson,2,data200.txt,Email requesting confirmation of Keon Dawson's access badge number and building entry records for the insurance renewal process.,75,malicious
+Keon Dawson,3,data200.txt,Email requesting confirmation of security questions and answers for Keon Dawson's account as part of the insurance renewal process.,75,malicious
+Keon Dawson,4,data200.txt,Email requesting Keon Dawson's background check and screening files as part of the insurance renewal process.,75,malicious

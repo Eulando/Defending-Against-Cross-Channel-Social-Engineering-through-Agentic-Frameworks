@@ -1,0 +1,54 @@
+{
+  "victim_name": "Vera Rivera",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates routine internal inquiries regarding Vera Rivera's details without any malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Vera Rivera",
+      "findings": [
+        {
+          "filename": "data631.txt",
+          "channel_summary": "Email requesting confirmation of the device type assigned to Vera Rivera for internal records cleanup."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Vera Rivera",
+      "findings": [
+        {
+          "filename": "data631.txt",
+          "channel_summary": "Email requesting verification of the annual policy course listed for Vera Rivera's training plan for internal reference accuracy."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Vera Rivera",
+      "findings": [
+        {
+          "filename": "data631.txt",
+          "channel_summary": "Email requesting confirmation of Vera Rivera's preferred name format for the internal staff list as part of an internal records cleanup."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Vera Rivera",
+      "findings": [
+        {
+          "filename": "data631.txt",
+          "channel_summary": "Email requesting confirmation of Vera Rivera's title and manager name from the HR profile for an update."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    }
+  ]
+}

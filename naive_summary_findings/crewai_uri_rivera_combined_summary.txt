@@ -1,0 +1,11 @@
+[CHANNEL 1 | data630.txt]
+Email requesting confirmation of Uri Rivera's current job title and reporting manager for a directory refresh.
+
+[CHANNEL 2 | data630.txt]
+Email requesting verification of Uri Rivera's internal mail stop for the office services list as part of a biography validation.
+
+[CHANNEL 3 | data630.txt]
+Email requesting confirmation of the training cohort name listed for Uri Rivera as part of a biography validation.
+
+[CHANNEL 4 | data630.txt]
+Email requesting confirmation of which annual policy course Uri Rivera is scheduled to complete as part of a biography validation.

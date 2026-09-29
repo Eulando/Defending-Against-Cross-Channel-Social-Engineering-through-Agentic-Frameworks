@@ -1,0 +1,54 @@
+{
+  "victim_name": "Dorian Morris",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates routine administrative requests for information related to Dorian Morris, with no signs of malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Dorian Morris",
+      "findings": [
+        {
+          "filename": "data489.txt",
+          "channel_summary": "Email from Jordan, a Senior HR Generalist, requesting confirmation of the collaboration tools used by Dorian Morris for updating event and office information in the staff calendar."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Dorian Morris and meets the criteria for reporting."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Dorian Morris",
+      "findings": [
+        {
+          "filename": "data489.txt",
+          "channel_summary": "Email from Jordan, a Senior HR Generalist, requesting assistance in checking which learning cohort is associated with Dorian Morris's employee profile for updating event and office information in the staff calendar."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Dorian Morris and meets the criteria for reporting."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Dorian Morris",
+      "findings": [
+        {
+          "filename": "data489.txt",
+          "channel_summary": "Email from Jordan, a Senior HR Generalist, requesting confirmation of the customer segment supported by Dorian Morris for the account coverage map as part of an internal cleanup for updating event and office information."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Dorian Morris and meets the criteria for reporting."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Dorian Morris",
+      "findings": [
+        {
+          "filename": "data489.txt",
+          "channel_summary": "Email from Jordan, a Senior HR Generalist, requesting verification of the non-sensitive budget project code associated with Dorian Morris's team for updating event and office information in the staff calendar."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Dorian Morris and meets the criteria for reporting."
+    }
+  ]
+}

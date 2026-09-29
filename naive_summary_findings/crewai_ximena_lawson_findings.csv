@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Ximena Lawson,1,data453.txt,"An email from Drew, the Internal Audit Lead at Greenfield Energy, requesting verification of Ximena Lawson's internal mail stop for the office services list to ensure accuracy in the department's public-facing biography.",10,benign
+Ximena Lawson,2,data453.txt,"An email from Drew, the Internal Audit Lead at Greenfield Energy, requesting confirmation of the project code associated with Ximena Lawson's department budget as part of validating her public-facing biography.",10,benign
+Ximena Lawson,3,data453.txt,"An email from Drew, the Internal Audit Lead at Greenfield Energy, requesting verification of Ximena Lawson's cost center and assigned office location for a quarterly roster check as part of validating her public-facing biography.",10,benign
+Ximena Lawson,4,data453.txt,"An email from Drew, the Internal Audit Lead at Greenfield Energy, requesting confirmation of the customer segment that Ximena Lawson supports for the account coverage map as part of validating her public-facing biography.",10,benign

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Elias Garcia",
+  "threshold": 50,
+  "combined_score": 85,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal information, including email records, account usernames, access badge numbers, and Social Security details, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Elias Garcia",
+      "findings": [
+        {
+          "filename": "data284.txt",
+          "channel_summary": "Email from Riley, Operations Director at Helios Manufacturing, requesting confirmation of personal email and phone records for Elias Garcia for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to the victim, indicating a potential concern for data handling."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Elias Garcia",
+      "findings": [
+        {
+          "filename": "data284.txt",
+          "channel_summary": "Email from Riley, Operations Director at Helios Manufacturing, requesting confirmation of Elias Garcia's account username and details regarding the most recent password reset for year-end reconciliation and security review."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive account information related to the victim, indicating a potential concern for data handling."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Elias Garcia",
+      "findings": [
+        {
+          "filename": "data284.txt",
+          "channel_summary": "Email from Riley, Operations Director at Helios Manufacturing, requesting confirmation of Elias Garcia's access badge number and building entry records for year-end reconciliation and access validation."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive access information related to the victim, indicating a potential concern for data handling."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Elias Garcia",
+      "findings": [
+        {
+          "filename": "data284.txt",
+          "channel_summary": "Email from Riley, Operations Director at Helios Manufacturing, requesting confirmation of Elias Garcia's Social Security number and date of birth for year-end reconciliation and records review."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive personal information related to the victim, indicating a potential concern for data handling."
+    }
+  ]
+}

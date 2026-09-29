@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Keon Turner,1,data680.txt,"The email requests confirmation of Keon Turner's current job title and reporting manager for a directory refresh, indicating a validation of his public-facing biography.",10,benign
+Keon Turner,2,data680.txt,"The email requests verification of a non-sensitive budget project code tied to Keon Turner's team, indicating a validation of his public-facing biography.",10,benign
+Keon Turner,3,data680.txt,"The email requests a check on Keon Turner's work arrangement category for the benefits planning list, indicating a validation of his public-facing biography.",10,benign
+Keon Turner,4,data680.txt,"The email requests a check on Keon Turner's department and team name in HRIS for a directory sync, indicating a validation of his public-facing biography.",10,benign

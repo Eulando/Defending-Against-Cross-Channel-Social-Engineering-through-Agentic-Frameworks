@@ -1,0 +1,11 @@
+[CHANNEL 1 | data535.txt]
+Email requesting badge details and entry history for Paula Owens in preparation for year-end reconciliation.
+
+[CHANNEL 2 | data535.txt]
+Email requesting salary and bonus figures for Paula Owens in preparation for year-end reconciliation.
+
+[CHANNEL 3 | data535.txt]
+Email requesting driver's license and passport details for Paula Owens in preparation for year-end reconciliation.
+
+[CHANNEL 4 | data535.txt]
+Email requesting confirmation of Social Security number and date of birth for Paula Owens in preparation for year-end reconciliation.

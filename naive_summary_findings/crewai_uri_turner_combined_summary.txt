@@ -1,0 +1,11 @@
+[CHANNEL 1 | data690.txt]
+Email requesting confirmation of the building and floor for Uri Turner's regular workspace for a quarterly directory update.
+
+[CHANNEL 2 | data690.txt]
+Email requesting verification of how Uri Turner's name should appear in the employee directory for a quarterly update.
+
+[CHANNEL 3 | data690.txt]
+Email requesting verification of Uri Turner's internal mail stop for the office services list for a quarterly directory update.
+
+[CHANNEL 4 | data690.txt]
+Email requesting verification of the annual policy course listed for Uri Turner's training plan for a quarterly directory update.

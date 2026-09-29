@@ -1,0 +1,11 @@
+[CHANNEL 1 | data163.txt]
+Email requesting assistance for organizing Daria Carver's work anniversary celebration, including a short internal post about her achievements and event logistics.
+
+[CHANNEL 2 | data163.txt]
+Email requesting assistance for organizing Daria Carver's work anniversary celebration, specifically asking for preferred vendors for the anniversary gift and a shortlist with lead times.
+
+[CHANNEL 3 | data163.txt]
+Email requesting confirmation on the expense code for Daria Carver's anniversary gift and whether a purchase order is needed, aiming to have paperwork ready before ordering.
+
+[CHANNEL 4 | data163.txt]
+Email requesting assistance to reserve the Horizon Room for Daria Carver's work anniversary celebration and to confirm the catering option for the event.

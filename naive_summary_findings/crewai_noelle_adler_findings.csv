@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Noelle Adler,1,data113.txt,"Email regarding organizing a team thank-you event for Noelle Adler, requesting budget approval for a recognition gift.",10,benign
+Noelle Adler,2,data113.txt,"Email regarding organizing a team thank-you event for Noelle Adler, requesting confirmation on expense code for a recognition gift.",10,benign
+Noelle Adler,3,data113.txt,"Email regarding organizing a team thank-you event for Noelle Adler, requesting a recommendation for a reliable vendor for the recognition gift.",10,benign
+Noelle Adler,4,data113.txt,"Email regarding organizing a team thank-you event for Noelle Adler, requesting setup of a dedicated email alias and calendar for coordination.",10,benign

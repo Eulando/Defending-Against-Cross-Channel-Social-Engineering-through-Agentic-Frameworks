@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Wesley Turner,1,data692.txt,Email requesting assistance in identifying the learning cohort associated with Wesley Turner's employee profile for internal cleanup purposes.,10,benign
+Wesley Turner,2,data692.txt,Email requesting confirmation of the building and floor for Wesley Turner's regular workspace as part of an internal cleanup process.,10,benign
+Wesley Turner,3,data692.txt,Email requesting verification of how Wesley Turner's name should appear in the employee directory for internal reference accuracy.,10,benign
+Wesley Turner,4,data692.txt,Email requesting verification of Wesley Turner's department and team name in HRIS for directory synchronization as part of an internal cleanup process.,10,benign

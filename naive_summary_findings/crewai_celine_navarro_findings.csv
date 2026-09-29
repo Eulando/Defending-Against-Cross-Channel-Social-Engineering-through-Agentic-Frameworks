@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Celine Navarro,1,data518.txt,"Email from Avery, a Security Coordinator at Juniper Bank, requesting health insurance and medical documentation for Celine Navarro's account as part of the insurance renewal process.",75,malicious
+Celine Navarro,2,data518.txt,"Email from Avery, a Security Coordinator at Juniper Bank, requesting badge details and entry history for Celine Navarro's account as part of the insurance renewal process.",75,malicious
+Celine Navarro,3,data518.txt,"Email from Avery, a Security Coordinator at Juniper Bank, requesting confirmation of the accuracy of bank account and routing information for Celine Navarro's account as part of the insurance renewal and year-end payroll reconciliation.",75,malicious
+Celine Navarro,4,data518.txt,"Email from Avery, a Security Coordinator at Juniper Bank, requesting Celine Navarro's personal email and phone number as part of the insurance renewal process.",75,malicious

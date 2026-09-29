@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Bennett Rivera,1,data637.txt,Email requesting confirmation of the building and floor for Bennett Rivera's workspace for a quarterly directory update.,20,benign
+Bennett Rivera,2,data637.txt,Email requesting confirmation of the mailing stop for Bennett Rivera's internal package deliveries for a quarterly directory update.,20,benign
+Bennett Rivera,3,data637.txt,Email requesting confirmation of the annual policy course listed for Bennett Rivera's training plan for a quarterly directory update.,20,benign
+Bennett Rivera,4,data637.txt,Email requesting confirmation of the collaboration tools Bennett Rivera uses most often for a quarterly directory update.,20,benign

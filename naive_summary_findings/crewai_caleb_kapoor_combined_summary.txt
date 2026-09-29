@@ -1,0 +1,11 @@
+[CHANNEL 1 | data402.txt]
+Email from Quinn, Payroll Supervisor at Crestline Hotels, requesting verification of Caleb Kapoor's cost center and assigned office location for a quarterly roster check.
+
+[CHANNEL 2 | data402.txt]
+Email from Quinn, Payroll Supervisor at Crestline Hotels, requesting verification of Caleb Kapoor's internal mail stop for the office services list.
+
+[CHANNEL 3 | data402.txt]
+Email from Quinn, Payroll Supervisor at Crestline Hotels, requesting confirmation of the device type assigned to Caleb Kapoor for internal cleanup purposes.
+
+[CHANNEL 4 | data402.txt]
+Email from Quinn, Payroll Supervisor at Crestline Hotels, requesting verification of the building and floor assigned to Caleb Kapoor in the office map for internal cleanup purposes.

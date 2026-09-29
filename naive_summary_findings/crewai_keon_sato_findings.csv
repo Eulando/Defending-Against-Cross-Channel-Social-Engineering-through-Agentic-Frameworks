@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Keon Sato,1,data650.txt,An email requesting verification of Keon Sato's cost center and assigned office location for an internal staff calendar update.,20,benign
+Keon Sato,2,data650.txt,An email requesting confirmation of the customer segment that Keon Sato supports for the account coverage map as part of an internal update.,20,benign
+Keon Sato,3,data650.txt,An email requesting confirmation of the building and floor for Keon Sato's regular workspace as part of an internal update for the staff calendar.,20,benign
+Keon Sato,4,data650.txt,An email requesting confirmation of Keon Sato's current job title and reporting manager for a directory refresh as part of an internal update.,20,benign

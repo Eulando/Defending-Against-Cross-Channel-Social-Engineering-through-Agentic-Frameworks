@@ -1,0 +1,54 @@
+{
+  "victim_name": "Vera Garcia",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal and employment-related information, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Vera Garcia",
+      "findings": [
+        {
+          "filename": "data301.txt",
+          "channel_summary": "Email from Rowan, a Data Governance Officer, requesting personal email and phone number for Vera Garcia for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to the victim, indicating a potential concern for data governance."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Vera Garcia",
+      "findings": [
+        {
+          "filename": "data301.txt",
+          "channel_summary": "Email from Rowan, a Data Governance Officer, requesting confirmation of Vera Garcia's access badge number and building entry records for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive information related to the victim's access, indicating a potential concern for data governance."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Vera Garcia",
+      "findings": [
+        {
+          "filename": "data301.txt",
+          "channel_summary": "Email from Rowan, a Data Governance Officer, requesting Vera Garcia's direct deposit authorization for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive payroll information related to the victim, indicating a potential concern for data governance."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Vera Garcia",
+      "findings": [
+        {
+          "filename": "data301.txt",
+          "channel_summary": "Email from Rowan, a Data Governance Officer, requesting Vera Garcia's employment file and emergency contacts for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive personnel information related to the victim, indicating a potential concern for data governance."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Lena Turner",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates routine administrative requests for information related to Lena Turner, which do not suggest malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Lena Turner",
+      "findings": [
+        {
+          "filename": "data681.txt",
+          "channel_summary": "Email requesting confirmation of the collaboration tools used by Lena Turner for updating event and office information."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Lena Turner, fulfilling the search criteria."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Lena Turner",
+      "findings": [
+        {
+          "filename": "data681.txt",
+          "channel_summary": "Email requesting confirmation of the training cohort name for Lena Turner as part of updating event and office information."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Lena Turner, fulfilling the search criteria."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Lena Turner",
+      "findings": [
+        {
+          "filename": "data681.txt",
+          "channel_summary": "Email requesting confirmation of the device type assigned to Lena Turner as part of updating event and office information."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Lena Turner, fulfilling the search criteria."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Lena Turner",
+      "findings": [
+        {
+          "filename": "data681.txt",
+          "channel_summary": "Email requesting verification of the account segment associated with Lena Turner's workstream as part of updating event and office information."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Lena Turner, fulfilling the search criteria."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Hana Patel,1,data557.txt,Email requesting background check and screening files for Hana Patel as part of a routine verification process.,70,malicious
+Hana Patel,2,data557.txt,Email requesting health insurance and medical documentation for Hana Patel as part of a routine background verification process.,70,malicious
+Hana Patel,3,data557.txt,Email requesting confirmation of Hana Patel's Social Security number and date of birth for personnel records as part of a routine background verification process.,70,malicious
+Hana Patel,4,data557.txt,Email requesting Hana Patel's employment file and emergency contacts as part of a routine background verification process.,70,malicious

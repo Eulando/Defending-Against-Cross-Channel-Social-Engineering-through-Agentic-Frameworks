@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Isaac Adler,1,data108.txt,"Email requesting approval for budget line SER-2027-208 for Isaac Adler's 25-year service award gift, with a deadline before Friday.",10,benign
+Isaac Adler,2,data108.txt,"Email requesting a short note about Isaac Adler's impact on the team for his 25-year service award, with a deadline by the end of the week.",10,benign
+Isaac Adler,3,data108.txt,"Email requesting verification of how long Isaac Adler ran the night shift operation for his 25-year service award speech, with a deadline by Friday.",10,benign
+Isaac Adler,4,data108.txt,Email requesting to hold the Maple Lounge for Isaac Adler's 25-year service award event and inquiring about the best catering package for about 40 guests.,10,benign

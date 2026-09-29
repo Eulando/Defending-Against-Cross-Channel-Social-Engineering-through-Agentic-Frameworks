@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Freya Navarro,1,data495.txt,Email requesting confirmation of the mailing stop used for Freya Navarro's internal package deliveries for validation of her public-facing biography.,20,benign
+Freya Navarro,2,data495.txt,Email requesting confirmation of Freya Navarro's title and manager name from HR for updating her public-facing biography.,20,benign
+Freya Navarro,3,data495.txt,Email requesting confirmation of the department and internal team name listed for Freya Navarro as part of the validation process for her public-facing biography.,20,benign
+Freya Navarro,4,data495.txt,Email requesting confirmation of the project code currently associated with Freya Navarro's department budget as part of the validation process for her public-facing biography.,20,benign

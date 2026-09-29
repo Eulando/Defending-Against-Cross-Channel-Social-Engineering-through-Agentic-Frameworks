@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Dorian Rivera,1,data639.txt,"Email from Casey at Juniper Bank requesting confirmation of the customer segment Dorian Rivera supports for the account coverage map, related to updating event and office information.",20,benign
+Dorian Rivera,2,data639.txt,Email from Casey at Juniper Bank requesting confirmation of the department and internal team name for Dorian Rivera as part of an internal cleanup for the staff calendar.,20,benign
+Dorian Rivera,3,data639.txt,Email from Casey at Juniper Bank requesting confirmation of the building and floor for Dorian Rivera's regular workspace as part of updating event and office information for the staff calendar.,20,benign
+Dorian Rivera,4,data639.txt,Email from Casey at Juniper Bank requesting verification of the non-sensitive budget project code tied to Dorian Rivera's team as part of updating event and office information for the staff calendar.,20,benign

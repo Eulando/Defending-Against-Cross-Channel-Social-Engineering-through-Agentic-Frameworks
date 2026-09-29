@@ -1,0 +1,54 @@
+{
+  "victim_name": "Jana Morris",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates routine administrative requests for verification of information related to the victim's work and training, which does not suggest malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Jana Morris",
+      "findings": [
+        {
+          "filename": "data469.txt",
+          "channel_summary": "Email requesting verification of Jana Morris's internal mail stop for the office services list."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's internal mail stop."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Jana Morris",
+      "findings": [
+        {
+          "filename": "data469.txt",
+          "channel_summary": "Email requesting verification of Jana Morris's work arrangement category for the benefits planning list."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's work arrangement category."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Jana Morris",
+      "findings": [
+        {
+          "filename": "data469.txt",
+          "channel_summary": "Email requesting confirmation of the department and internal team name listed for Jana Morris as part of an internal cleanup."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's department and internal team name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Jana Morris",
+      "findings": [
+        {
+          "filename": "data469.txt",
+          "channel_summary": "Email requesting verification of the annual policy course listed for Jana Morris's training plan as part of an internal validation."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's training plan."
+    }
+  ]
+}

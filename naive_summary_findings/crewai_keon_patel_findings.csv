@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Keon Patel,1,data560.txt,"Email from Avery, a Security Coordinator at Northgate Financial Group, requesting health insurance and medical documentation for Keon Patel's account as part of the insurance renewal process.",70,malicious
+Keon Patel,2,data560.txt,"Email from Avery, a Security Coordinator at Northgate Financial Group, requesting Keon Patel's full employment file and emergency contact details from HRIS as part of the insurance renewal process.",70,malicious
+Keon Patel,3,data560.txt,"Email from Avery, a Security Coordinator at Northgate Financial Group, requesting confirmation of the background check and screening files for Keon Patel's account as part of the insurance renewal process.",70,malicious
+Keon Patel,4,data560.txt,"Email from Avery, a Security Coordinator at Northgate Financial Group, requesting Keon Patel's salary and bonus figures as part of the insurance renewal process.",70,malicious

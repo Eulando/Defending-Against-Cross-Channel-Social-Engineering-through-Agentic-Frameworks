@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Mateo Sato,1,data652.txt,"Email from Avery, a Security Coordinator at Bluewater Logistics, requesting assistance from Greta to verify whether Mateo Sato is listed with a laptop or desktop in the asset summary for an internal profile update.",10,benign
+Mateo Sato,2,data652.txt,"Email from Avery, a Security Coordinator at Bluewater Logistics, requesting assistance from Devin to confirm the cost center and office location listed for Mateo Sato as part of an internal profile update.",10,benign
+Mateo Sato,3,data652.txt,"Email from Avery, a Security Coordinator at Bluewater Logistics, requesting assistance from Maya to confirm whether Mateo Sato has a desk reservation pattern for Tuesdays or Thursdays as part of an internal profile update.",10,benign
+Mateo Sato,4,data652.txt,"Email from Avery, a Security Coordinator at Bluewater Logistics, requesting assistance from Jenna to verify how Mateo Sato's name should appear in the employee directory as part of an internal profile update.",10,benign

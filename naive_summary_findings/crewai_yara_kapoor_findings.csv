@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Yara Kapoor,1,data424.txt,Email requesting confirmation of the customer segment Yara Kapoor supports for the account coverage map as part of an internal cleanup process.,20,benign
+Yara Kapoor,2,data424.txt,Email requesting confirmation of the building and floor listed for Yara Kapoor's regular workspace as part of an internal cleanup process.,20,benign
+Yara Kapoor,3,data424.txt,Email requesting confirmation of the project code currently associated with Yara Kapoor's department budget as part of an internal cleanup process.,20,benign
+Yara Kapoor,4,data424.txt,Email requesting confirmation of Yara Kapoor's department and team name in HRIS for directory synchronization as part of an internal cleanup process.,20,benign

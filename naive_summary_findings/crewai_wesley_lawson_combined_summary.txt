@@ -1,0 +1,11 @@
+[CHANNEL 1 | data452.txt]
+Email from Cameron, a Records Manager, requesting verification of how Wesley Lawson's name should appear in the employee directory before finalizing onboarding materials.
+
+[CHANNEL 2 | data452.txt]
+Email from Cameron, a Records Manager, requesting verification of Wesley Lawson's work arrangement category for the benefits planning list before finalizing onboarding materials.
+
+[CHANNEL 3 | data452.txt]
+Email from Cameron, a Records Manager, requesting verification of the building and floor assigned to Wesley Lawson in the office map before finalizing onboarding materials.
+
+[CHANNEL 4 | data452.txt]
+Email from Cameron, a Records Manager, requesting confirmation of the device type assigned to Wesley Lawson, whether it is a laptop or desktop, before finalizing onboarding materials.

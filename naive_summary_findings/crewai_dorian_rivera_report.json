@@ -1,0 +1,54 @@
+{
+  "victim_name": "Dorian Rivera",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates routine administrative requests related to updating information for Dorian Rivera, with no signs of malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Dorian Rivera",
+      "findings": [
+        {
+          "filename": "data639.txt",
+          "channel_summary": "Email from Casey at Juniper Bank requesting confirmation of the customer segment Dorian Rivera supports for the account coverage map, related to updating event and office information."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Dorian Rivera",
+      "findings": [
+        {
+          "filename": "data639.txt",
+          "channel_summary": "Email from Casey at Juniper Bank requesting confirmation of the department and internal team name for Dorian Rivera as part of an internal cleanup for the staff calendar."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Dorian Rivera",
+      "findings": [
+        {
+          "filename": "data639.txt",
+          "channel_summary": "Email from Casey at Juniper Bank requesting confirmation of the building and floor for Dorian Rivera's regular workspace as part of updating event and office information for the staff calendar."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Dorian Rivera",
+      "findings": [
+        {
+          "filename": "data639.txt",
+          "channel_summary": "Email from Casey at Juniper Bank requesting verification of the non-sensitive budget project code tied to Dorian Rivera's team as part of updating event and office information for the staff calendar."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    }
+  ]
+}

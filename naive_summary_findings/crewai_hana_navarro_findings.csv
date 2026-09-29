@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Hana Navarro,1,data497.txt,"Email from Riley, Operations Director at Stellar Aerospace, requesting assistance in checking the annual policy course listed for Hana Navarro's training plan as part of an internal cleanup of collaboration notes.",20,benign
+Hana Navarro,2,data497.txt,"Email from Riley, Operations Director at Stellar Aerospace, requesting confirmation of the department and internal team name listed for Hana Navarro as part of an internal cleanup of collaboration notes.",20,benign
+Hana Navarro,3,data497.txt,"Email from Riley, Operations Director at Stellar Aerospace, requesting confirmation of Hana Navarro's current job title and reporting manager for a directory refresh as part of an internal cleanup of collaboration notes.",20,benign
+Hana Navarro,4,data497.txt,"Email from Riley, Operations Director at Stellar Aerospace, requesting confirmation of the building and floor listed for Hana Navarro's regular workspace as part of an internal cleanup of collaboration notes.",20,benign

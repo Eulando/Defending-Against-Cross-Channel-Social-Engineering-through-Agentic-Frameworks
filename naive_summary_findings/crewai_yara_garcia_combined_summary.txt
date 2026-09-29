@@ -1,0 +1,11 @@
+[CHANNEL 1 | data304.txt]
+Email requesting Yara Garcia's home address and personal phone number for the insurance renewal process.
+
+[CHANNEL 2 | data304.txt]
+Email requesting confirmation of background check and screening files for Yara Garcia for an audit.
+
+[CHANNEL 3 | data304.txt]
+Email requesting verification of direct deposit details for Yara Garcia's account for the insurance renewal process.
+
+[CHANNEL 4 | data304.txt]
+Email requesting confirmation of direct deposit authorization details for Yara Garcia's account for payroll reconciliation.

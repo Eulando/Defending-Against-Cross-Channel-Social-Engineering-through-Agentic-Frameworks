@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Quentin Rivera,1,data626.txt,"Email from Jordan, a Senior HR Generalist at Cortex Software, requesting confirmation of the customer segment that Quentin Rivera supports for the account coverage map as part of an internal cleanup process.",10,benign
+Quentin Rivera,2,data626.txt,"Email from Jordan, a Senior HR Generalist at Cortex Software, requesting verification of the non-sensitive budget project code tied to Quentin Rivera's team as part of an internal reference accuracy check before revising onboarding materials.",10,benign
+Quentin Rivera,3,data626.txt,"Email from Jordan, a Senior HR Generalist at Cortex Software, requesting confirmation on whether Quentin Rivera is listed with a laptop or desktop in the asset summary as part of an internal cleanup process before revising onboarding materials.",10,benign
+Quentin Rivera,4,data626.txt,"Email from Jordan, a Senior HR Generalist at Cortex Software, requesting confirmation of the cost center and office location listed for Quentin Rivera as part of an internal roster cleanup before revising onboarding materials.",10,benign

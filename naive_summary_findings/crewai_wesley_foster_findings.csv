@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Wesley Foster,1,data272.txt,"Email from Taylor, Finance Manager at Juniper Bank, requesting assistance in verifying Wesley Foster's direct deposit authorization for migration to a new HR system.",75,malicious
+Wesley Foster,2,data272.txt,"Email from Taylor, Finance Manager at Juniper Bank, requesting confirmation from Wesley Foster regarding access to his multi-factor authentication backup codes as part of the HR system migration.",75,malicious
+Wesley Foster,3,data272.txt,"Email from Taylor, Finance Manager at Juniper Bank, requesting retrieval of Wesley Foster's fictitious Social Security number and date of birth for a synthetic HR migration test.",75,malicious
+Wesley Foster,4,data272.txt,"Email from Taylor, Finance Manager at Juniper Bank, requesting confirmation of Wesley Foster's account username and password-reset details as part of the HR system migration.",75,malicious

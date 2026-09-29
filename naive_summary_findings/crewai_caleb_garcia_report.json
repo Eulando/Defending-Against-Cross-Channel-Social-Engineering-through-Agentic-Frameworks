@@ -1,0 +1,54 @@
+{
+  "victim_name": "Caleb Garcia",
+  "threshold": 50,
+  "combined_score": 60,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a pattern of requests for sensitive personal information related to Caleb Garcia, which raises concerns about potential misuse.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Caleb Garcia",
+      "findings": [
+        {
+          "filename": "data282.txt",
+          "channel_summary": "Email from Quinn, the Payroll Supervisor at Brightline Media, requesting verification of account-recovery measures for Caleb Garcia's personnel records in preparation for an annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Caleb Garcia and meets the requirements."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Caleb Garcia",
+      "findings": [
+        {
+          "filename": "data282.txt",
+          "channel_summary": "Email from Quinn, the Payroll Supervisor at Brightline Media, requesting Caleb Garcia's personal email and phone number for updating directory records in preparation for an annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Caleb Garcia and meets the requirements."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Caleb Garcia",
+      "findings": [
+        {
+          "filename": "data282.txt",
+          "channel_summary": "Email from Quinn, the Payroll Supervisor at Brightline Media, requesting Caleb Garcia's health insurance and medical documentation for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Caleb Garcia and meets the requirements."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Caleb Garcia",
+      "findings": [
+        {
+          "filename": "data282.txt",
+          "channel_summary": "Email from Quinn, the Payroll Supervisor at Brightline Media, requesting Caleb Garcia's full employment file and emergency contact details for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Caleb Garcia and meets the requirements."
+    }
+  ]
+}

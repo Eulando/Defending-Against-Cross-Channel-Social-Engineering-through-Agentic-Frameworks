@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Caleb Hughes,1,data312.txt,Email requesting confirmation of background check and screening files for Caleb Hughes for an annual compliance audit.,70,malicious
+Caleb Hughes,2,data312.txt,Email requesting Caleb Hughes's direct deposit authorization for payroll setup verification related to an annual compliance audit.,70,malicious
+Caleb Hughes,3,data312.txt,Email requesting confirmation of security questions associated with Caleb Hughes's account for an annual compliance audit.,70,malicious
+Caleb Hughes,4,data312.txt,Email requesting reconciliation of Caleb Hughes's Social Security number and date of birth for an annual compliance audit.,70,malicious

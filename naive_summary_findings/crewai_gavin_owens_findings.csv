@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Gavin Owens,1,data526.txt,Email requesting confirmation of background check and screening files for Gavin Owens for an audit.,75,malicious
+Gavin Owens,2,data526.txt,Email requesting confirmation of salary and bonus details for Gavin Owens from compensation records for year-end figures.,75,malicious
+Gavin Owens,3,data526.txt,Email requesting confirmation of security questions and answers for Gavin Owens's account as part of a background verification.,75,malicious
+Gavin Owens,4,data526.txt,Email requesting driver's license and passport details for Gavin Owens as part of a background verification.,75,malicious

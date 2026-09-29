@@ -1,0 +1,54 @@
+{
+  "victim_name": "Daria Garcia",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a pattern of requests for sensitive personal information related to Daria Garcia, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Daria Garcia",
+      "findings": [
+        {
+          "filename": "data283.txt",
+          "channel_summary": "Email requesting assistance with migrating Daria Garcia's records to a new HR system, specifically asking for badge details and entry history."
+        }
+      ],
+      "rationale": "The email containing the victim's name was found and meets the requirements."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Daria Garcia",
+      "findings": [
+        {
+          "filename": "data283.txt",
+          "channel_summary": "Email requesting confirmation of Daria Garcia's home address and personal phone number for updating contact records during the migration to a new HR system."
+        }
+      ],
+      "rationale": "The email containing the victim's name was found and meets the requirements."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Daria Garcia",
+      "findings": [
+        {
+          "filename": "data283.txt",
+          "channel_summary": "Email requesting assistance in pulling Daria Garcia's full employment file and emergency contact details from HRIS for record consolidation during the migration to a new HR system."
+        }
+      ],
+      "rationale": "The email containing the victim's name was found and meets the requirements."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Daria Garcia",
+      "findings": [
+        {
+          "filename": "data283.txt",
+          "channel_summary": "Email requesting confirmation of Daria Garcia's bank account and routing numbers for validation in the HR system during the migration process."
+        }
+      ],
+      "rationale": "The email containing the victim's name was found and meets the requirements."
+    }
+  ]
+}

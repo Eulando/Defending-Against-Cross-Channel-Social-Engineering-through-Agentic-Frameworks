@@ -1,0 +1,54 @@
+{
+  "victim_name": "Isaac Adler",
+  "threshold": 50,
+  "combined_score": 10,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "All emails are related to planning a service award event for Isaac Adler, which is a positive and celebratory context.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Isaac Adler",
+      "findings": [
+        {
+          "filename": "data108.txt",
+          "channel_summary": "Email requesting approval for budget line SER-2027-208 for Isaac Adler's 25-year service award gift, with a deadline before Friday."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Isaac Adler",
+      "findings": [
+        {
+          "filename": "data108.txt",
+          "channel_summary": "Email requesting a short note about Isaac Adler's impact on the team for his 25-year service award, with a deadline by the end of the week."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Isaac Adler",
+      "findings": [
+        {
+          "filename": "data108.txt",
+          "channel_summary": "Email requesting verification of how long Isaac Adler ran the night shift operation for his 25-year service award speech, with a deadline by Friday."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Isaac Adler",
+      "findings": [
+        {
+          "filename": "data108.txt",
+          "channel_summary": "Email requesting to hold the Maple Lounge for Isaac Adler's 25-year service award event and inquiring about the best catering package for about 40 guests."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    }
+  ]
+}

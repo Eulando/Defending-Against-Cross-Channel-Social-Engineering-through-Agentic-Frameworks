@@ -1,0 +1,54 @@
+{
+  "victim_name": "Jana Ellis",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive information related to background verification, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Jana Ellis",
+      "findings": [
+        {
+          "filename": "data229.txt",
+          "channel_summary": "Email requesting confirmation of direct deposit information for routine background verification of Jana Ellis, emphasizing the need for accuracy and coordination through authorized contacts."
+        }
+      ],
+      "rationale": "The email contains a request related to background verification for the victim, meeting the criteria for findings."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Jana Ellis",
+      "findings": [
+        {
+          "filename": "data229.txt",
+          "channel_summary": "Email requesting verification of payroll setup and direct deposit authorization for Jana Ellis, indicating urgency and the need for accurate details."
+        }
+      ],
+      "rationale": "The email contains a request related to background verification for the victim, meeting the criteria for findings."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Jana Ellis",
+      "findings": [
+        {
+          "filename": "data229.txt",
+          "channel_summary": "Email requesting confirmation of background check and screening files for Jana Ellis as part of a routine background verification, with a deadline for response by the end of the week."
+        }
+      ],
+      "rationale": "The email contains a request related to background verification for the victim, meeting the criteria for findings."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Jana Ellis",
+      "findings": [
+        {
+          "filename": "data229.txt",
+          "channel_summary": "Email requesting confirmation of salary and bonus details for Jana Ellis as part of a routine background verification, with a request to finalize by Friday."
+        }
+      ],
+      "rationale": "The email contains a request related to background verification for the victim, meeting the criteria for findings."
+    }
+  ]
+}

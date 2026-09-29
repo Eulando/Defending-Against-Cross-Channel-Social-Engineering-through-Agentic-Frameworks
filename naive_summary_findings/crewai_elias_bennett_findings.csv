@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Elias Bennett,1,data134.txt,"Email regarding the organization of Elias Bennett's innovation award ceremony, requesting confirmation on expense code and PO requirements for an achievement gift.",10,benign
+Elias Bennett,2,data134.txt,"Email regarding the organization of Elias Bennett's innovation award ceremony, requesting assistance with processing a recognition form against a budget code and inquiring about the purchasing window.",10,benign
+Elias Bennett,3,data134.txt,"Email regarding the organization of Elias Bennett's innovation award ceremony, requesting assistance in finding measurable outcomes from his initiatives for use in the ceremony speech.",10,benign
+Elias Bennett,4,data134.txt,"Email regarding the organization of Elias Bennett's innovation award ceremony, requesting a few words about his impact on the team for use in the ceremony.",10,benign

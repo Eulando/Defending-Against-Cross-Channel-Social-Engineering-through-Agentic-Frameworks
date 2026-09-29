@@ -1,0 +1,11 @@
+[CHANNEL 1 | data678.txt]
+Email requesting confirmation of whether Isaac Turner is listed with a laptop or desktop in the asset summary for a quarterly directory update.
+
+[CHANNEL 2 | data678.txt]
+Email requesting confirmation of the building and floor listed for Isaac Turner's regular workspace for a quarterly directory update.
+
+[CHANNEL 3 | data678.txt]
+Email requesting confirmation of the usual desk booking days listed for Isaac Turner for a quarterly directory update.
+
+[CHANNEL 4 | data678.txt]
+Email requesting verification of how Isaac Turner's name should appear in the employee directory for a quarterly directory update.

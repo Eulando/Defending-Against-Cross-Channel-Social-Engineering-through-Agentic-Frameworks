@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Aiden Lawson,1,data430.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of the mailing stop used for Aiden Lawson's internal package deliveries as part of an internal cleanup process.",10,benign
+Aiden Lawson,2,data430.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of which annual policy course Aiden Lawson is scheduled to complete as part of the onboarding process.",10,benign
+Aiden Lawson,3,data430.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of whether Aiden Lawson is marked as remote, hybrid, or onsite for the wellness event count as part of the onboarding process.",10,benign
+Aiden Lawson,4,data430.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of Aiden Lawson's title and manager name from the HR profile as part of an internal cleanup process.",10,benign

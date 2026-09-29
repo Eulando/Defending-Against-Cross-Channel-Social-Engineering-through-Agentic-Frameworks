@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Keon Iverson,1,data350.txt,Email requesting confirmation of Keon Iverson's Social Security number and date of birth for migration to a new HR system.,80,malicious
+Keon Iverson,2,data350.txt,Email requesting Keon Iverson's direct deposit authorization for payroll setup verification during the migration to a new HR system.,80,malicious
+Keon Iverson,3,data350.txt,Email requesting confirmation of Keon Iverson's personal email and phone records for updating the directory during the migration to a new HR system.,80,malicious
+Keon Iverson,4,data350.txt,Email requesting confirmation of Keon Iverson's current home address and personal phone number for updating HR records during the migration to a new HR system.,80,malicious

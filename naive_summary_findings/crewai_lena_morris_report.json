@@ -1,0 +1,54 @@
+{
+  "victim_name": "Lena Morris",
+  "threshold": 50,
+  "combined_score": 40,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates that they are requests for information related to Lena Morris's work and do not exhibit malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Lena Morris",
+      "findings": [
+        {
+          "filename": "data471.txt",
+          "channel_summary": "Email from Quinn, a Payroll Supervisor at Bluewater Logistics, requesting verification of the account segment associated with Lena Morris's workstream for planning archive cleanup."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Lena Morris, fulfilling the search criteria."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Lena Morris",
+      "findings": [
+        {
+          "filename": "data471.txt",
+          "channel_summary": "Email from Quinn, a Payroll Supervisor at Bluewater Logistics, requesting confirmation of the training cohort name associated with Lena Morris for planning archive cleanup."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Lena Morris, fulfilling the search criteria."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Lena Morris",
+      "findings": [
+        {
+          "filename": "data471.txt",
+          "channel_summary": "Email from Quinn, a Payroll Supervisor at Bluewater Logistics, requesting verification of Lena Morris's internal mail stop for the office services list as part of the planning archive cleanup."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Lena Morris, fulfilling the search criteria."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Lena Morris",
+      "findings": [
+        {
+          "filename": "data471.txt",
+          "channel_summary": "Email from Quinn, a Payroll Supervisor at Bluewater Logistics, requesting verification of Lena Morris's work arrangement category for the benefits planning list as part of the planning archive cleanup."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Lena Morris, fulfilling the search criteria."
+    }
+  ]
+}

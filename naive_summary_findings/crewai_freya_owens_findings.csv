@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Freya Owens,1,data525.txt,Email requesting confirmation of background check and screening files for Freya Owens for year-end reconciliation audit.,70,malicious
+Freya Owens,2,data525.txt,Email requesting confirmation of username and account access details for Freya Owens as part of year-end reconciliation audit.,70,malicious
+Freya Owens,3,data525.txt,Email requesting confirmation of access badge number and building entry records for Freya Owens as part of year-end reconciliation.,70,malicious
+Freya Owens,4,data525.txt,Email requesting Freya Owens's personal email and phone number for updating directory records as part of year-end reconciliation.,70,malicious

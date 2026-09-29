@@ -1,0 +1,54 @@
+{
+  "victim_name": "Uri Kapoor",
+  "threshold": 50,
+  "combined_score": 10,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates routine administrative requests related to a quarterly directory update, which do not suggest malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Uri Kapoor",
+      "findings": [
+        {
+          "filename": "data420.txt",
+          "channel_summary": "Email requesting verification of a non-sensitive budget project code related to Uri Kapoor's team for a quarterly directory update."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Uri Kapoor",
+      "findings": [
+        {
+          "filename": "data420.txt",
+          "channel_summary": "Email requesting confirmation of Uri Kapoor's preferred name format for the internal staff list as part of a quarterly directory update."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Uri Kapoor",
+      "findings": [
+        {
+          "filename": "data420.txt",
+          "channel_summary": "Email requesting confirmation of Uri Kapoor's work status (remote, hybrid, or onsite) for the wellness event count as part of a quarterly directory update."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Uri Kapoor",
+      "findings": [
+        {
+          "filename": "data420.txt",
+          "channel_summary": "Email requesting verification of the account segment associated with Uri Kapoor's workstream for a quarterly directory update."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    }
+  ]
+}

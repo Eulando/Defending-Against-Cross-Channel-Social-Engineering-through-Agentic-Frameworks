@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Paula Dawson,1,data205.txt,Email requesting confirmation of Paula Dawson's Social Security number and date of birth for a routine background verification.,80,malicious
+Paula Dawson,2,data205.txt,Email requesting Paula Dawson's full employment file and emergency contact details for a routine background verification.,80,malicious
+Paula Dawson,3,data205.txt,Email requesting confirmation of Paula Dawson's account recovery settings and security questions for a routine background verification.,80,malicious
+Paula Dawson,4,data205.txt,Email requesting Paula Dawson's salary and bonus figures for a routine background verification.,80,malicious

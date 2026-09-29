@@ -1,0 +1,11 @@
+[CHANNEL 1 | data526.txt]
+Email requesting confirmation of background check and screening files for Gavin Owens for an audit.
+
+[CHANNEL 2 | data526.txt]
+Email requesting confirmation of salary and bonus details for Gavin Owens from compensation records for year-end figures.
+
+[CHANNEL 3 | data526.txt]
+Email requesting confirmation of security questions and answers for Gavin Owens's account as part of a background verification.
+
+[CHANNEL 4 | data526.txt]
+Email requesting driver's license and passport details for Gavin Owens as part of a background verification.

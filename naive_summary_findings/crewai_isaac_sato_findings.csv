@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Isaac Sato,1,data648.txt,"Email from Quinn, a Payroll Supervisor at Crestline Hotels, requesting assistance in checking the learning cohort associated with Isaac Sato's employee profile for onboarding materials.",20,benign
+Isaac Sato,2,data648.txt,"Email from Quinn, a Payroll Supervisor at Crestline Hotels, requesting assistance in checking the standard chat and ticketing tools assigned to Isaac Sato for the support matrix before revising onboarding materials.",20,benign
+Isaac Sato,3,data648.txt,"Email from Quinn, a Payroll Supervisor at Crestline Hotels, requesting assistance in verifying the non-sensitive budget project code tied to Isaac Sato's team for onboarding materials.",20,benign
+Isaac Sato,4,data648.txt,"Email from Quinn, a Payroll Supervisor at Crestline Hotels, requesting assistance in checking the usual desk booking days listed for Isaac Sato to ensure accurate internal references before revising onboarding materials.",20,benign

@@ -1,0 +1,11 @@
+[CHANNEL 1 | data368.txt]
+Email from Taylor, Finance Manager at Pearl Foods Inc., requesting confirmation of direct deposit authorization details for Celine Iverson as part of year-end reconciliation.
+
+[CHANNEL 2 | data368.txt]
+Email from Taylor, Finance Manager at Pearl Foods Inc., requesting Celine Iverson's badge details and entry history for year-end reconciliation.
+
+[CHANNEL 3 | data368.txt]
+Email from Taylor, Finance Manager at Pearl Foods Inc., requesting confirmation that Celine Iverson's Social Security number and date of birth in the personnel file match the records used for the audit.
+
+[CHANNEL 4 | data368.txt]
+Email from Taylor, Finance Manager at Pearl Foods Inc., requesting Celine Iverson's background check and screening files for year-end reconciliation.

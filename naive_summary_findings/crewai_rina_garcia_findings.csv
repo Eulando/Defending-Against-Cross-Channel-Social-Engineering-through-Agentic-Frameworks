@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Rina Garcia,1,data297.txt,Email requesting confirmation of home address and personal phone number for Rina Garcia as part of a records migration to a new HR system.,75,malicious
+Rina Garcia,2,data297.txt,"Email requesting confirmation of identity documents for Rina Garcia as part of a records migration to a new HR system, specifically asking for verification of driver's license and passport details.",75,malicious
+Rina Garcia,3,data297.txt,"Email requesting Rina Garcia's salary and bonus figures as part of a records migration to a new HR system, indicating a need to reconcile compensation data.",75,malicious
+Rina Garcia,4,data297.txt,Email requesting confirmation of Rina Garcia's multi-factor authentication backup codes and recovery configuration as part of a records migration to a new HR system.,75,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Anika Owens,1,data546.txt,Email requesting confirmation of Anika Owens's direct deposit information for the annual compliance audit.,80,malicious
+Anika Owens,2,data546.txt,Email requesting confirmation of the security questions and answers associated with Anika Owens's account for the annual compliance audit.,80,malicious
+Anika Owens,3,data546.txt,Email requesting Anika Owens's full employment file and emergency contact details for the annual compliance audit.,80,malicious
+Anika Owens,4,data546.txt,Email requesting confirmation of Anika Owens's Social Security number and date of birth for the annual compliance audit.,80,malicious

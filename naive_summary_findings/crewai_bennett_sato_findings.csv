@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Bennett Sato,1,data667.txt,"Email from Drew, Internal Audit Lead at Brightline Media, requesting confirmation of Bennett Sato's title and manager name for updating event and office information in the staff calendar.",30,benign
+Bennett Sato,2,data667.txt,"Email from Drew, Internal Audit Lead at Brightline Media, requesting information on the usual desk booking days for Bennett Sato as part of updating event and office information in the staff calendar.",30,benign
+Bennett Sato,3,data667.txt,"Email from Drew, Internal Audit Lead at Brightline Media, requesting information on the annual policy course listed for Bennett Sato's training plan as part of updating event and office information in the staff calendar.",30,benign
+Bennett Sato,4,data667.txt,"Email from Drew, Internal Audit Lead at Brightline Media, requesting confirmation of the collaboration tools that Bennett Sato uses most often for updating event and office information in the staff calendar.",30,benign

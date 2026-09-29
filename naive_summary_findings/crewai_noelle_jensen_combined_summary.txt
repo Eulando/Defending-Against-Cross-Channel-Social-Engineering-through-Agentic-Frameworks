@@ -1,0 +1,11 @@
+[CHANNEL 1 | data383.txt]
+Email requesting confirmation of direct deposit authorization details for Noelle Jensen as part of migrating her records to a new HR system.
+
+[CHANNEL 2 | data383.txt]
+Email requesting Noelle Jensen to review and update her home address and personal phone number in the HR system as part of the migration of her records.
+
+[CHANNEL 3 | data383.txt]
+Email requesting Noelle Jensen to review and update her security questions and answers in the new HR system as part of the migration of her records.
+
+[CHANNEL 4 | data383.txt]
+Email requesting assistance in retrieving Noelle Jensen's social security number and date of birth from the personnel file as part of the migration of her records to the new HR system.

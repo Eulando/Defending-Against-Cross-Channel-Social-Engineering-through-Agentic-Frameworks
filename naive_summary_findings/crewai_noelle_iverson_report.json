@@ -1,0 +1,54 @@
+{
+  "victim_name": "Noelle Iverson",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal information, including health records, Social Security number, identity documents, and account access details, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Noelle Iverson",
+      "findings": [
+        {
+          "filename": "data353.txt",
+          "channel_summary": "Email from Cameron, a Records Manager at Meridian Health Systems, requesting confirmation of health insurance and medical records for Noelle Iverson as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for specific information regarding the victim's insurance and medical records."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Noelle Iverson",
+      "findings": [
+        {
+          "filename": "data353.txt",
+          "channel_summary": "Email from Cameron, a Records Manager at Meridian Health Systems, requesting confirmation of the Social Security number and date of birth for Noelle Iverson as part of the insurance renewal process, indicating no immediate deadline for the response."
+        }
+      ],
+      "rationale": "The email contains a request for specific personal information regarding the victim's Social Security number and date of birth."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Noelle Iverson",
+      "findings": [
+        {
+          "filename": "data353.txt",
+          "channel_summary": "Email from Cameron, a Records Manager at Meridian Health Systems, requesting the driver's license and passport details for Noelle Iverson as part of the insurance renewal process, indicating no immediate deadline but a preference for earlier submission."
+        }
+      ],
+      "rationale": "The email contains a request for specific identity documents related to the victim's account."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Noelle Iverson",
+      "findings": [
+        {
+          "filename": "data353.txt",
+          "channel_summary": "Email from Cameron, a Records Manager at Meridian Health Systems, requesting verification of Noelle Iverson's username and confirmation of password-reset information as part of the insurance renewal audit."
+        }
+      ],
+      "rationale": "The email contains a request for specific account access information related to the victim's account."
+    }
+  ]
+}

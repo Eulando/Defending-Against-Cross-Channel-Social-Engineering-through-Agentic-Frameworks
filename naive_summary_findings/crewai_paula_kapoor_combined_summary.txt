@@ -1,0 +1,11 @@
+[CHANNEL 1 | data415.txt]
+Email from Morgan, an IT Administrator, requesting confirmation of the annual policy course that Paula Kapoor is scheduled to complete before onboarding materials are revised.
+
+[CHANNEL 2 | data415.txt]
+Email from Morgan, an IT Administrator, requesting confirmation of the collaboration tools that Paula Kapoor uses most often to ensure the accuracy of the support page.
+
+[CHANNEL 3 | data415.txt]
+Email from Morgan, an IT Administrator, requesting confirmation of the building and floor assigned to Paula Kapoor in the office map before onboarding materials are revised.
+
+[CHANNEL 4 | data415.txt]
+Email from Morgan, an IT Administrator, requesting verification of the non-sensitive budget project code tied to Paula Kapoor's team before onboarding materials are revised.

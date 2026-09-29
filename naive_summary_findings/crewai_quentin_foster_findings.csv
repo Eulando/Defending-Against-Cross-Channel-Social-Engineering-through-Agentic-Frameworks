@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Quentin Foster,1,data266.txt,"Email from Jordan, a Senior HR Generalist at Northgate Financial Group, requesting background check and screening files for Quentin Foster in preparation for year-end reconciliation.",75,malicious
+Quentin Foster,2,data266.txt,"Email from Jordan, a Senior HR Generalist at Northgate Financial Group, requesting Quentin Foster's account username and confirmation of the most recent password reset date and status for year-end reconciliation.",75,malicious
+Quentin Foster,3,data266.txt,"Email from Jordan, a Senior HR Generalist at Northgate Financial Group, requesting Quentin Foster's badge details and entry history for year-end reconciliation.",75,malicious
+Quentin Foster,4,data266.txt,"Email from Jordan, a Senior HR Generalist at Northgate Financial Group, requesting confirmation of health insurance and medical records for Quentin Foster for year-end reconciliation.",75,malicious

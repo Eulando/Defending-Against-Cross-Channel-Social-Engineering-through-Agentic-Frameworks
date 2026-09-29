@@ -1,0 +1,11 @@
+[CHANNEL 1 | data100.txt]
+Email regarding the organization of a thank-you event for Aiden Adler's team, requesting help with details and checking availability for a venue.
+
+[CHANNEL 2 | data100.txt]
+Email discussing the organization of Aiden Adler's team thank-you event, requesting assistance with details and whether the event should be announced externally.
+
+[CHANNEL 3 | data100.txt]
+Email requesting assistance with details for Aiden Adler's team thank-you event, specifically asking for recommendations on vendors for recognition gifts and their lead times.
+
+[CHANNEL 4 | data100.txt]
+Email requesting confirmation on the expense code for Aiden Adler's team thank-you event and whether a purchase order is needed for the recognition gift.

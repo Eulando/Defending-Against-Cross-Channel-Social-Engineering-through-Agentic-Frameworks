@@ -1,0 +1,54 @@
+{
+  "victim_name": "Uri Bennett",
+  "threshold": 50,
+  "combined_score": 10,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "All emails pertain to planning and organizing a work anniversary celebration for Uri Bennett, which is a benign context.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Uri Bennett",
+      "findings": [
+        {
+          "filename": "data150.txt",
+          "channel_summary": "Email requesting assistance with details for Uri Bennett's work anniversary celebration, including confirmation of the final agenda and attendee list."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Uri Bennett's work anniversary celebration."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Uri Bennett",
+      "findings": [
+        {
+          "filename": "data150.txt",
+          "channel_summary": "Email requesting a brief testimonial about Uri Bennett for the work anniversary celebration program, with a deadline for completion by Friday."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Uri Bennett's work anniversary celebration."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Uri Bennett",
+      "findings": [
+        {
+          "filename": "data150.txt",
+          "channel_summary": "Email requesting assistance in drafting the internal announcement for Uri Bennett's work anniversary celebration, including key achievements and celebration details."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Uri Bennett's work anniversary celebration."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Uri Bennett",
+      "findings": [
+        {
+          "filename": "data150.txt",
+          "channel_summary": "Email requesting confirmation of the expense code for Uri Bennett's anniversary gift and whether a purchase order is needed, with a deadline for response before Friday."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Uri Bennett's work anniversary celebration."
+    }
+  ]
+}

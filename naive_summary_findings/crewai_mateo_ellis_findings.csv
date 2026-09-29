@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Mateo Ellis,1,data232.txt,"Email requesting assistance in consolidating Mateo Ellis's personnel records for an annual compliance audit, specifically asking for full employment file and emergency contact details from HRIS.",75,malicious
+Mateo Ellis,2,data232.txt,"Email requesting verification of Mateo Ellis's Social Security number and date of birth for the annual compliance audit, asking for confirmation by Friday.",75,malicious
+Mateo Ellis,3,data232.txt,"Email requesting confirmation of Mateo Ellis's username and account recovery details for the annual compliance audit, asking for the information to be provided at the recipient's convenience.",75,malicious
+Mateo Ellis,4,data232.txt,"Email requesting Mateo Ellis's background check and screening files for the annual compliance audit, indicating a need for specific personnel records.",75,malicious

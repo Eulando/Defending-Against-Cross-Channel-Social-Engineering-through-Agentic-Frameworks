@@ -1,0 +1,54 @@
+{
+  "victim_name": "Anika Garcia",
+  "threshold": 50,
+  "combined_score": 60,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Anika Garcia, including salary, account details, direct deposit information, and badge access, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Anika Garcia",
+      "findings": [
+        {
+          "filename": "data306.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Stellar Aerospace, requesting salary and bonus figures for Anika Garcia for year-end reconciliation."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Anika Garcia",
+      "findings": [
+        {
+          "filename": "data306.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Stellar Aerospace, requesting confirmation of Anika Garcia's account username and details regarding the most recent password reset for year-end reconciliation."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Anika Garcia",
+      "findings": [
+        {
+          "filename": "data306.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Stellar Aerospace, requesting confirmation of Anika Garcia's direct deposit information for year-end reconciliation."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Anika Garcia",
+      "findings": [
+        {
+          "filename": "data306.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Stellar Aerospace, requesting Anika Garcia's badge details and entry history for year-end reconciliation."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    }
+  ]
+}

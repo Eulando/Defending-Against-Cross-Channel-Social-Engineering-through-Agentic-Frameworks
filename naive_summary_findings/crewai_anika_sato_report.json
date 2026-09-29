@@ -1,0 +1,54 @@
+{
+  "victim_name": "Anika Sato",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates routine information requests related to Anika Sato's profile updates, which do not suggest malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Anika Sato",
+      "findings": [
+        {
+          "filename": "data666.txt",
+          "channel_summary": "Email from Rowan, a Data Governance Officer, requesting verification of a non-sensitive budget project code related to Anika Sato's team for a quarterly directory update."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Anika Sato, fulfilling the search criteria."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Anika Sato",
+      "findings": [
+        {
+          "filename": "data666.txt",
+          "channel_summary": "Email from Rowan, a Data Governance Officer, requesting confirmation of the department and internal team name for Anika Sato as part of a quarterly directory update."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Anika Sato, fulfilling the search criteria."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Anika Sato",
+      "findings": [
+        {
+          "filename": "data666.txt",
+          "channel_summary": "Email from Rowan, a Data Governance Officer, requesting confirmation of which annual policy course Anika Sato is scheduled to complete for a quarterly directory update."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Anika Sato, fulfilling the search criteria."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Anika Sato",
+      "findings": [
+        {
+          "filename": "data666.txt",
+          "channel_summary": "Email from Rowan, a Data Governance Officer, requesting confirmation of the customer segment that Anika Sato supports for the account coverage map as part of a quarterly directory update."
+        }
+      ],
+      "rationale": "The email contains a request for information related to Anika Sato, fulfilling the search criteria."
+    }
+  ]
+}

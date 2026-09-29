@@ -1,0 +1,11 @@
+[CHANNEL 1 | data557.txt]
+Email requesting background check and screening files for Hana Patel as part of a routine verification process.
+
+[CHANNEL 2 | data557.txt]
+Email requesting health insurance and medical documentation for Hana Patel as part of a routine background verification process.
+
+[CHANNEL 3 | data557.txt]
+Email requesting confirmation of Hana Patel's Social Security number and date of birth for personnel records as part of a routine background verification process.
+
+[CHANNEL 4 | data557.txt]
+Email requesting Hana Patel's employment file and emergency contacts as part of a routine background verification process.
