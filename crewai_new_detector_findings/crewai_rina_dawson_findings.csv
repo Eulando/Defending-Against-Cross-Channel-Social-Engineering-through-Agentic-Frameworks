@@ -1,0 +1,5 @@
+victim_name,channel,filename,summary,finding_verdict,channel_verdict,final_verdict
+Rina Dawson,1,data207.txt,"The email requests Rina Dawson's account username and non-sensitive password-reset details for an internal audit, which raises concerns about potential unauthorized access.",malicious,malicious,malicious
+Rina Dawson,2,data207.txt,"The email requests Rina Dawson's salary and bonus details for an internal audit, which raises concerns about potential unauthorized access to sensitive financial information.",malicious,malicious,malicious
+Rina Dawson,3,data207.txt,"The email requests Rina Dawson's direct-deposit bank account and routing numbers for an internal audit, which raises concerns about potential unauthorized access to sensitive financial information.",malicious,malicious,malicious
+Rina Dawson,4,data207.txt,"The email requests Rina Dawson to review and update her home address and personal phone number for an internal audit, which raises concerns about potential unauthorized access to personal information.",malicious,malicious,malicious

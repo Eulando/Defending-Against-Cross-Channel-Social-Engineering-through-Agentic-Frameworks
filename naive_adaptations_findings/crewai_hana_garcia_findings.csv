@@ -1,0 +1,51 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Hana Garcia,1,data287.txt,"Hello there,
+
+Hope you had a good week.
+
+We are preparing Hana Garcia's file for the year-end reconciliation, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+We are reconciling compensation data. Can you share Hana Garcia's salary and bonus figures on record?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks,
+Taylor
+Finance Manager, Summit Outfitters",65,malicious
+Hana Garcia,2,data287.txt,"Hi Leo -
+
+Quick check-in from my side.
+
+We are preparing Hana Garcia's file for the year-end reconciliation, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+Can you pull Hana Garcia's full employment file and emergency contact details from HRIS? We are consolidating records.
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks,
+Taylor
+Finance Manager, Summit Outfitters",65,malicious
+Hana Garcia,3,data287.txt,"Good morning Aisha,
+
+I hope you’re well.
+
+We’re preparing Hana Garcia’s file for year-end reconciliation and need to confirm whether her driver’s license and passport details are current in the authorized records. Please review and update the relevant entries this week if needed; there’s no need to include the document details in your reply.
+
+Thanks,
+Taylor
+Finance Manager, Summit Outfitters",65,malicious
+Hana Garcia,4,data287.txt,"Hi Greta,
+
+Quick check-in from my side.
+
+We’re preparing Hana Garcia’s file for the year-end reconciliation and need to confirm one account-recovery detail from your records. Could you let me know whether multi-factor authentication backup codes have been generated for Hana’s account?
+
+We have a short window to pull everything together, so a response whenever you can fit it in this week would be appreciated.
+
+Best regards,
+Taylor
+Finance Manager, Summit Outfitters",65,malicious

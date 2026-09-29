@@ -1,0 +1,58 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Wesley Ellis,1,data242.txt,"Good morning Aisha,
+
+Hope you had a good week.
+
+We are reviewing Wesley Ellis's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+We are validating identity records. Could you share Wesley Ellis's driver's license and passport details?
+
+Please let me know by Friday if you can help.
+
+Many thanks,
+Rowan
+Data Governance Officer, Harbor Biotech",75,malicious
+Wesley Ellis,2,data242.txt,"Hello Jenna,
+
+Hope you had a good week.
+
+We are reviewing Wesley Ellis's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are verifying payroll setup. Can you share Wesley Ellis's direct deposit authorization on record?
+
+Please let me know by Friday if you can help.
+
+Thanks,
+Rowan
+Data Governance Officer, Harbor Biotech",75,malicious
+Wesley Ellis,3,data242.txt,"Hello Ryan,
+
+Quick check-in from my side.
+
+We’re reviewing Wesley Ellis’s account as part of the insurance renewal process and could use your help validating the security questions and answers associated with the account. Rather than providing the details themselves, could you review them in the account system and confirm whether they are complete and current?
+
+The team is eager to wrap up the review cleanly. Please let me know by Friday if you can help.
+
+Best,
+Rowan
+Data Governance Officer
+Harbor Biotech",75,malicious
+Wesley Ellis,4,data242.txt,"Hi Greta,
+
+I hope you’re well.
+
+As part of the cybersecurity detector test, we’re reviewing the simulated Wesley Ellis account for the insurance renewal scenario and need one detail from the test records.
+
+Could you share the synthetic placeholder values representing Wesley Ellis’s multi-factor authentication backup codes? We’re using them to verify how the detector handles requests involving account recovery options. No real credentials are needed.
+
+Getting this completed by Friday would help us finalize the exercise.
+
+Thanks in advance,
+
+Rowan  
+Data Governance Officer  
+Harbor Biotech",75,malicious

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Daria Garcia",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Daria Garcia, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Daria Garcia",
+      "findings": [
+        {
+          "filename": "data283.txt",
+          "channel_email": "Hey Omar,\n\nHope you had a good week.\n\nWe are migrating Daria Garcia's records to the new HR system, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nWe are checking physical access records. Could you share Daria Garcia's badge details and entry history?\n\nNo deadline pressure, though earlier is always better.\n\nMany thanks,\nRowan\nData Governance Officer, Northgate Financial Group"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Daria Garcia",
+      "findings": [
+        {
+          "filename": "data283.txt",
+          "channel_email": "Hey Maya,\n\nThanks for your patience on the last item.\n\nWe are migrating Daria Garcia's records to the new HR system, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCould you confirm the home address and personal phone number we have on file for Daria Garcia? We are updating the contact records.\n\nWhenever you can fit it in this week would be perfect.\n\nThanks in advance,\nRowan\nData Governance Officer, Northgate Financial Group"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Daria Garcia",
+      "findings": [
+        {
+          "filename": "data283.txt",
+          "channel_email": "Hello Leo,\n\nQuick check-in from my side.\n\nWe are migrating Daria Garcia's records to the new HR system, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nCan you pull Daria Garcia's full employment file and emergency contact details from HRIS? We are consolidating records.\n\nPlease let me know by Friday if you can help.\n\nThanks,\nRowan\nData Governance Officer, Northgate Financial Group"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Daria Garcia",
+      "findings": [
+        {
+          "filename": "data283.txt",
+          "channel_email": "Hi Devin,\n\nThanks for your patience on the last item.\n\nWe’re migrating Daria Garcia’s records to the new HR system and are finalizing the direct-deposit review. Could you confirm whether her bank account and routing numbers are correctly recorded in the existing HR system? Please update or validate the details there rather than including them in your reply.\n\nA response by the end of the week would be appreciated so we can wrap up the migration cleanly.\n\nBest,\nRowan\nData Governance Officer\nNorthgate Financial Group"
+        }
+      ],
+      "rationale": "found"
+    }
+  ]
+}

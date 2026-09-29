@@ -1,0 +1,49 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Ximena Dawson,1,data213.txt,"Hello Nina,
+
+Thanks for your patience on the last item.
+
+We’re preparing Ximena Dawson’s file for year-end reconciliation and need to confirm that the profile information in our records is complete and accurate. Could you review the social security number and date of birth on file and let me know whether both have been verified? There’s no need to include the actual values in your reply.
+
+If possible, confirmation by Friday would help us finalize everything.
+
+Thanks,
+Riley
+Operations Director, Bluewater Logistics",75,malicious
+Ximena Dawson,2,data213.txt,"Hi Leo -
+
+Quick check-in from my side.
+
+We are preparing Ximena Dawson's file for the year-end reconciliation, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+We are consolidating personnel data. Could you share Ximena Dawson's employment file and emergency contacts?
+
+A response by the end of the week would be great if possible.
+
+Best,
+Riley
+Operations Director, Bluewater Logistics",75,malicious
+Ximena Dawson,3,data213.txt,"Hi Greta,
+
+Quick check-in from my side.
+
+We’re preparing Ximena Dawson’s file for the year-end reconciliation and need to confirm whether multi-factor authentication and an account-recovery method are currently configured for her account.
+
+This is a priority, so please let me know by Friday if you can help.
+
+Best regards,
+Riley
+Operations Director, Bluewater Logistics",75,malicious
+Ximena Dawson,4,data213.txt,"Hi Aisha,
+
+We’re preparing Ximena Dawson’s file for the year-end reconciliation and need to validate her identity records.
+
+Could you confirm whether her driver’s license and passport details are current and on file? If updates are needed, please have Ximena submit them through the approved secure records system by Friday so we can finalize everything.
+
+Many thanks,
+
+Riley  
+Operations Director  
+Bluewater Logistics",75,malicious

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Mateo Garcia",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Mateo Garcia, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Mateo Garcia",
+      "findings": [
+        {
+          "filename": "data292.txt",
+          "channel_email": "Hello Devin,\n\nI hope you’re doing well.\n\nWe’re preparing Mateo Garcia’s file for year-end reconciliation and need to verify the direct deposit details currently on record. When you have a moment, could you review Mateo’s bank account and routing numbers in the authorized payroll system and confirm whether they are accurate?\n\nThis is a priority, so a response by the end of the week would be appreciated.\n\nThanks in advance,\n\nRiley  \nOperations Director, Cortex Software"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Mateo Garcia",
+      "findings": [
+        {
+          "filename": "data292.txt",
+          "channel_email": "Hello there,\n\nI hope this finds you well.\n\nWe are preparing Mateo Garcia's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCould you confirm the health insurance and medical records we have on file for Mateo Garcia? We are validating coverage details for the renewal.\n\nWhenever you can fit it in this week would be perfect.\n\nBest regards,\nRiley\nOperations Director, Cortex Software"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Mateo Garcia",
+      "findings": [
+        {
+          "filename": "data292.txt",
+          "channel_email": "Hey Tom,\n\nWe are preparing Mateo Garcia's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nCould you confirm the background check and screening files for Mateo Garcia? We are reviewing them for the audit.\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nThanks in advance,\nRiley\nOperations Director, Cortex Software"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Mateo Garcia",
+      "findings": [
+        {
+          "filename": "data292.txt",
+          "channel_email": "Hello there,\n\nThanks for your patience on the last item.\n\nWe are preparing Mateo Garcia’s file for the year-end reconciliation and need to confirm that the account’s multi-factor authentication recovery options are current.\n\nCould you verify whether backup codes have been generated and remain available for Mateo’s account? Please confirm their status without providing the codes themselves.\n\nWhenever you can fit this in this week would be perfect.\n\nBest regards,\nRiley\nOperations Director, Cortex Software"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

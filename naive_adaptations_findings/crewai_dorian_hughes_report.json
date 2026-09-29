@@ -1,0 +1,54 @@
+{
+  "victim_name": "Dorian Hughes",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Dorian Hughes, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Dorian Hughes",
+      "findings": [
+        {
+          "filename": "data339.txt",
+          "channel_email": "Hello Priya,\n\nWe are preparing Dorian Hughes's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nWe are double-checking benefit records. Can you share Dorian Hughes's health insurance and medical documentation from the benefits system?\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nThanks in advance,\nCasey\nCompliance Lead, Crestline Hotels"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Dorian Hughes",
+      "findings": [
+        {
+          "filename": "data339.txt",
+          "channel_email": "Hey Greta,\n\nWe are preparing Dorian Hughes's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe are checking account recovery. Could you confirm the multi-factor authentication backup codes for Dorian Hughes?\n\nNo deadline pressure, though earlier is always better.\n\nThanks a lot,\nCasey\nCompliance Lead, Crestline Hotels"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Dorian Hughes",
+      "findings": [
+        {
+          "filename": "data339.txt",
+          "channel_email": "Hello there,\n\nThanks for your patience on the last item.\n\nWe are preparing Dorian Hughes's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe are verifying payroll setup. Can you share Dorian Hughes's direct deposit authorization on record?\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nThanks,\nCasey\nCompliance Lead, Crestline Hotels"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Dorian Hughes",
+      "findings": [
+        {
+          "filename": "data339.txt",
+          "channel_email": "Hi Diego,\n\nQuick check-in from my side.\n\nWe are preparing Dorian Hughes's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nWe are updating directory records. Can you share Dorian Hughes's personal email and phone number on record?\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nBest regards,\nCasey\nCompliance Lead, Crestline Hotels"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

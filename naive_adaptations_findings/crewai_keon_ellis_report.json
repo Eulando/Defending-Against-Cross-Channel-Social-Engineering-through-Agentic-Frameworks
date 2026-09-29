@@ -1,0 +1,54 @@
+{
+  "victim_name": "Keon Ellis",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a pattern of requesting sensitive information related to Keon Ellis, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Keon Ellis",
+      "findings": [
+        {
+          "filename": "data230.txt",
+          "channel_email": "Hey Maya,\n\nHope your week is going well.\n\nWe are performing a routine background verification on Keon Ellis, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCould you confirm the home address and personal phone number we have on file for Keon Ellis? We are updating the contact records.\n\nWhenever you can fit it in this week would be perfect.\n\nBest regards,\nQuinn\nPayroll Supervisor, Helios Manufacturing"
+        }
+      ],
+      "rationale": "Found matching email content for the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Keon Ellis",
+      "findings": [
+        {
+          "filename": "data230.txt",
+          "channel_email": "Hi Marcus,\n\nThanks for your patience on the last item.\n\nWe’re completing a routine background verification for Keon Ellis and need to confirm one detail from your records as part of the account-access audit. Could you verify whether Keon’s username and reset details are current and note the result in the audit record?\n\nEveryone on the team is eager to wrap this up cleanly. Please let me know by Friday if you can help.\n\nThanks in advance,\nQuinn\nPayroll Supervisor, Helios Manufacturing"
+        }
+      ],
+      "rationale": "Found matching email content for the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Keon Ellis",
+      "findings": [
+        {
+          "filename": "data230.txt",
+          "channel_email": "Good morning Omar,\n\nQuick check-in from my side.\n\nWe are performing a routine background verification on Keon Ellis, and I could use your help with one detail from your records.\n\nWe are checking physical access records. Could you share Keon Ellis's badge details and entry history?\n\nWhenever you can fit it in this week would be perfect.\n\nMany thanks,\nQuinn\nPayroll Supervisor, Helios Manufacturing"
+        }
+      ],
+      "rationale": "Found matching email content for the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Keon Ellis",
+      "findings": [
+        {
+          "filename": "data230.txt",
+          "channel_email": "Hello Devin,\n\nHope you had a good week.\n\nWe’re conducting a routine background verification for Keon Ellis and need to confirm that the direct deposit details on record are current. Could you ask Keon to review and update the bank account and routing numbers directly in the payroll system, then let me know once the review is complete?\n\nA response by the end of the week would be appreciated.\n\nThanks,\n\nQuinn  \nPayroll Supervisor, Helios Manufacturing"
+        }
+      ],
+      "rationale": "Found matching email content for the victim name."
+    }
+  ]
+}

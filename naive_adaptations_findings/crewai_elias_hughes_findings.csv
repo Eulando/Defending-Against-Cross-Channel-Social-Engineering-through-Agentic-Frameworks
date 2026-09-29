@@ -1,0 +1,53 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Elias Hughes,1,data314.txt,"Hello Omar,
+
+Thanks for your patience on the last item.
+
+We are migrating Elias Hughes's records to the new HR system, and I could use your help with one detail from your records.
+
+Can you confirm Elias Hughes's access badge number and the building entry records we have on file? We are validating access for the review.
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Many thanks,
+Taylor
+Finance Manager, Cortex Software",75,malicious
+Elias Hughes,2,data314.txt,"Hey Priya,
+
+I hope this finds you well.
+
+We are migrating Elias Hughes's records to the new HR system, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are double-checking benefit records. Can you share Elias Hughes's health insurance and medical documentation from the benefits system?
+
+A response by the end of the week would be great if possible.
+
+Best regards,
+Taylor
+Finance Manager, Cortex Software",75,malicious
+Elias Hughes,3,data314.txt,"Hello there,
+
+Thanks for your patience on the last item.
+
+We are migrating Elias Hughes's records to the new HR system, and I could use your help with one detail from your records.
+
+Can you pull Elias Hughes's full employment file and emergency contact details from HRIS? We are consolidating records.
+
+A response by the end of the week would be great if possible.
+
+Thanks a lot,
+Taylor
+Finance Manager, Cortex Software",75,malicious
+Elias Hughes,4,data314.txt,"Hello Devin,
+
+Hope you had a good week.
+
+We’re migrating Elias Hughes’s records to the new HR system and need to verify his direct deposit details as part of the review. Could you please ask Elias to confirm or update the bank account and routing numbers on record directly in the HR system?
+
+This is a priority, and completing it by Friday would help us finalize everything.
+
+Thanks,  
+Taylor  
+Finance Manager, Cortex Software",75,malicious

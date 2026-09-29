@@ -1,0 +1,54 @@
+{
+  "victim_name": "Ximena Foster",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Ximena Foster, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Ximena Foster",
+      "findings": [
+        {
+          "filename": "data273.txt",
+          "channel_email": "Hello Leo,\n\nWe are preparing Ximena Foster's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCan you pull Ximena Foster's full employment file and emergency contact details from HRIS? We are consolidating records.\n\nIf you can get to this before Friday, that would help us close things out.\n\nMany thanks,\nQuinn\nPayroll Supervisor, Summit Retail Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Ximena Foster",
+      "findings": [
+        {
+          "filename": "data273.txt",
+          "channel_email": "Hello there,\n\nQuick check-in from my side.\n\nWe are preparing Ximena Foster's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCan you confirm Ximena Foster's access badge number and the building entry records we have on file? We are validating access for the review.\n\nA response by the end of the week would be great if possible.\n\nThanks a lot,\nQuinn\nPayroll Supervisor, Summit Retail Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Ximena Foster",
+      "findings": [
+        {
+          "filename": "data273.txt",
+          "channel_email": "Hello there,\n\nHope your week is going well.\n\nWe are preparing Ximena Foster's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm the home address and personal phone number we have on file for Ximena Foster? We are updating the contact records.\n\nNo deadline pressure, though earlier is always better.\n\nMany thanks,\nQuinn\nPayroll Supervisor, Summit Retail Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Ximena Foster",
+      "findings": [
+        {
+          "filename": "data273.txt",
+          "channel_email": "Hi Devin,\n\nWe’re preparing Ximena Foster’s file for the year-end payroll reconciliation and need your help confirming one detail from your records.\n\nCould you confirm whether Ximena’s bank account and routing numbers currently on file are accurate and up to date? This will help us complete the reconciliation and close the books.\n\nWhenever you can fit this in during the week would be appreciated.\n\nBest regards,  \nQuinn  \nPayroll Supervisor  \nSummit Retail Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

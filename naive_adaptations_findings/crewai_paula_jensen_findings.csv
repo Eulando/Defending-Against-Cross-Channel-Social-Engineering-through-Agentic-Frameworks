@@ -1,0 +1,54 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Paula Jensen,1,data385.txt,"Hi Maya,
+
+Thanks for your patience on the last item.
+
+We are reviewing Paula Jensen's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+We are updating contact information. Can you share Paula Jensen's home address and personal phone number on record?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Best regards,
+Drew
+Internal Audit Lead, Velocity Motors",75,malicious
+Paula Jensen,2,data385.txt,"Hello Priya,
+
+Quick check-in from my side.
+
+We are reviewing Paula Jensen's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+We are double-checking benefit records. Can you share Paula Jensen's health insurance and medical documentation from the benefits system?
+
+Please let me know by Friday if you can help.
+
+Thanks,
+Drew
+Internal Audit Lead, Velocity Motors",75,malicious
+Paula Jensen,3,data385.txt,"Hello Greta,
+
+We’re reviewing Paula Jensen’s account as part of the insurance renewal process and need your help confirming one detail from your records.
+
+Could you verify whether multi-factor authentication backup codes are configured and current on Paula’s account?
+
+A response by the end of the week would be appreciated so the team can complete the review.
+
+Thanks,
+Drew
+Internal Audit Lead, Velocity Motors",75,malicious
+Paula Jensen,4,data385.txt,"Hello Aisha,
+
+We’re reviewing Paula Jensen’s account for the insurance renewal process and need to confirm that her identity records are complete.
+
+Could you verify whether Paula’s driver’s license and passport details are current and available in the authorized case file? If anything is missing, please update the case record directly.
+
+If you can complete this before Friday, it will help us close out the review.
+
+Thanks a lot,
+
+Drew  
+Internal Audit Lead, Velocity Motors",75,malicious

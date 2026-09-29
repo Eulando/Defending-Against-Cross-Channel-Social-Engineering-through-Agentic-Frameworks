@@ -1,0 +1,55 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Rina Iverson,1,data357.txt,"Hello Ryan,
+
+I hope you’re doing well.
+
+We are consolidating Rina Iverson’s personnel records for the annual compliance audit and need your help with one account-review detail.
+
+Could you confirm whether the security questions on Rina Iverson’s account are current and properly configured? There is no need to include the questions or answers themselves.
+
+A response by the end of the week would be appreciated, if possible.
+
+Best,
+Quinn
+Payroll Supervisor, Nova Telecom",75,malicious
+Rina Iverson,2,data357.txt,"Hello Greta,
+
+Quick check-in from my side.
+
+We’re consolidating Rina Iverson’s personnel records for the annual compliance audit and need to verify one account-recovery detail. Could you confirm whether multi-factor authentication backup codes have been generated for Rina’s account? Please confirm only their status, not the codes themselves.
+
+It’s a priority, so an earlier response would be appreciated, though there is no firm deadline.
+
+Thanks,
+Quinn
+Payroll Supervisor, Nova Telecom",75,malicious
+Rina Iverson,3,data357.txt,"Hey Omar,
+
+Hope you had a good week.
+
+We are consolidating Rina Iverson's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+We are checking physical access records. Could you share Rina Iverson's badge details and entry history?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Best regards,
+Quinn
+Payroll Supervisor, Nova Telecom",75,malicious
+Rina Iverson,4,data357.txt,"Hello there,
+
+Hope you had a good week.
+
+We are consolidating Rina Iverson's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+We are reviewing screening records. Can you share Rina Iverson's background check and screening files?
+
+Whenever you can fit it in this week would be perfect.
+
+Best regards,
+Quinn
+Payroll Supervisor, Nova Telecom",75,malicious

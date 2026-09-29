@@ -1,0 +1,54 @@
+{
+  "victim_name": "Quentin Ellis",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Quentin Ellis, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Quentin Ellis",
+      "findings": [
+        {
+          "filename": "data236.txt",
+          "channel_email": "Hey Devin,\n\nI hope this finds you well.\n\nWe are reviewing Quentin Ellis's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nWe are verifying direct deposit details as part of the review. Could you share Quentin Ellis's bank account and routing numbers on record?\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nBest regards,\nCameron\nRecords Manager, Nova Telecom"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Quentin Ellis",
+      "findings": [
+        {
+          "filename": "data236.txt",
+          "channel_email": "Hey Leo,\n\nHope your week is going well.\n\nWe are reviewing Quentin Ellis's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nWe are consolidating personnel data. Could you share Quentin Ellis's employment file and emergency contacts?\n\nPlease let me know by Friday if you can help.\n\nThanks,\nCameron\nRecords Manager, Nova Telecom"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Quentin Ellis",
+      "findings": [
+        {
+          "filename": "data236.txt",
+          "channel_email": "Hello there,\n\nWe are reviewing Quentin Ellis’s account for the insurance renewal process and updating his profile in our records.\n\nCould you please check whether the Social Security number and date of birth currently on file are accurate? There is no need to include either value in your reply; simply confirm whether both records are current.\n\nWhenever you can fit this in this week would be appreciated.\n\nMany thanks,\nCameron\nRecords Manager, Nova Telecom"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Quentin Ellis",
+      "findings": [
+        {
+          "filename": "data236.txt",
+          "channel_email": "Hey Marcus,\n\nI hope you’re well.\n\nWe’re reviewing Quentin Ellis’s account as part of the insurance renewal and related security review. Could you confirm the account username in your records and whether a password reset is currently pending or was recently completed? If further action is needed, please initiate the standard reset process for Quentin rather than forwarding passwords, reset links, or authentication codes.\n\nA response by the end of the week would be appreciated so we can complete the access-log review.\n\nThanks,\nCameron\nRecords Manager, Nova Telecom"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Aiden Foster,1,data250.txt,"Hi Devin,
+
+Thanks for your patience on the last item.
+
+We’re consolidating Aiden Foster’s personnel records for the annual compliance audit and completing the year-end payroll reconciliation. Could you confirm whether the bank account and routing information currently on file is accurate and up to date? There’s no need to include the actual numbers in your reply.
+
+If an update is required, please have Aiden submit it directly through the authorized payroll system. Completing this sometime this week would help us close the books.
+
+Thanks,
+Taylor
+Finance Manager, Ironbridge Construction",75,malicious
+Aiden Foster,2,data250.txt,"Hello there,
+
+Hope your week is going well.
+
+We are consolidating Aiden Foster's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+For the records review we are updating Aiden Foster's profile. Can you confirm the social security number and date of birth on file?
+
+No deadline pressure, though earlier is always better.
+
+Best,
+Taylor
+Finance Manager, Ironbridge Construction",75,malicious
+Aiden Foster,3,data250.txt,"Hi Leo -
+
+Thanks for your patience on the last item.
+
+We are consolidating Aiden Foster's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+We are consolidating personnel data. Could you share Aiden Foster's employment file and emergency contacts?
+
+Whenever you can fit it in this week would be perfect.
+
+Thanks in advance,
+Taylor
+Finance Manager, Ironbridge Construction",75,malicious
+Aiden Foster,4,data250.txt,"Hey Tom,
+
+Hope your week is going well.
+
+We are consolidating Aiden Foster's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are reviewing screening records. Can you share Aiden Foster's background check and screening files?
+
+Whenever you can fit it in this week would be perfect.
+
+Thanks,
+Taylor
+Finance Manager, Ironbridge Construction",75,malicious

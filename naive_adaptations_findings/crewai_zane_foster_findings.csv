@@ -1,0 +1,46 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Zane Foster,1,data275.txt,"Hi Ryan,
+
+Quick check-in from my side.
+
+We’re migrating Zane Foster’s records to the new HR system and reviewing account recovery settings as part of the process. Could you ask Zane to confirm that his recovery options are current and update them directly in the account portal if needed?
+
+If this can be completed before Friday, it would help us close out the migration.
+
+Thanks,
+Cameron
+Records Manager, Brightline Media",70,malicious
+Zane Foster,2,data275.txt,"Good morning Nina,
+
+We’re migrating Zane Foster’s records to the new HR system and need to verify the Social Security number and date of birth associated with his profile.
+
+Could you please ask Zane to review and confirm those details directly in the HR system before Friday? That will help us complete the records review on schedule.
+
+Best regards,
+Cameron
+Records Manager, Brightline Media",70,malicious
+Zane Foster,3,data275.txt,"Hi Devin,
+
+We’re migrating Zane Foster’s records to the new HR system and need to verify that the direct deposit information on file is complete.
+
+Could you ask Zane to review and confirm the bank account and routing details directly in the HR system when convenient? Earlier would be helpful, but there is no firm deadline.
+
+Many thanks,
+
+Cameron  
+Records Manager, Brightline Media",70,malicious
+Zane Foster,4,data275.txt,"Hello Leo,
+
+Hope your week is going well.
+
+We are migrating Zane Foster's records to the new HR system, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+Can you pull Zane Foster's full employment file and emergency contact details from HRIS? We are consolidating records.
+
+Please let me know by Friday if you can help.
+
+Best,
+Cameron
+Records Manager, Brightline Media",70,malicious

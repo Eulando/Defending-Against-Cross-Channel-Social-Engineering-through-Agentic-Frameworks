@@ -1,0 +1,49 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Yara Iverson,1,data364.txt,"Hi Devin,
+
+Hope you had a good week.
+
+We’re migrating Yara Iverson’s records to the new HR system and completing the year-end payroll reconciliation. Could you confirm whether the bank account and routing numbers currently on file are accurate and up to date?
+
+If possible, please complete the confirmation by Friday so we can finalize the records and close the books.
+
+Thanks,
+Morgan
+IT Administrator, Meridian Health Systems",75,malicious
+Yara Iverson,2,data364.txt,"Good morning Ryan,
+
+Hope your week is going well.
+
+We’re migrating Yara Iverson’s records to the new HR system and need to complete an account review as a priority.
+
+Whenever you can fit this in this week would be appreciated.
+
+Many thanks,
+Morgan
+IT Administrator, Meridian Health Systems",75,malicious
+Yara Iverson,3,data364.txt,"Hello Elena,
+
+We are migrating Yara Iverson's records to the new HR system, and I could use your help with one detail from your records.
+
+We are reconciling compensation data. Can you share Yara Iverson's salary and bonus figures on record?
+
+A response by the end of the week would be great if possible.
+
+Thanks a lot,
+Morgan
+IT Administrator, Meridian Health Systems",75,malicious
+Yara Iverson,4,data364.txt,"Hello Leo,
+
+Hope you had a good week.
+
+We are migrating Yara Iverson's records to the new HR system, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are consolidating personnel data. Could you share Yara Iverson's employment file and emergency contacts?
+
+No deadline pressure, though earlier is always better.
+
+Thanks in advance,
+Morgan
+IT Administrator, Meridian Health Systems",75,malicious

@@ -1,0 +1,55 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Bianca Jensen,1,data371.txt,"Good morning Maya,
+
+I’m following up as we consolidate Bianca Jensen’s personnel records for the annual compliance audit. We’re working to finalize the team’s records and need to confirm one contact detail from your files.
+
+Could you please share Bianca Jensen’s home address and personal phone number currently on record?
+
+Please let me know by Friday if you’re able to help.
+
+Thanks a lot,
+
+Drew  
+Internal Audit Lead  
+Ironbridge Construction",75,malicious
+Bianca Jensen,2,data371.txt,"Hello Leo,
+
+I hope this finds you well.
+
+We are consolidating Bianca Jensen's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+Can you pull Bianca Jensen's full employment file and emergency contact details from HRIS? We are consolidating records.
+
+Please let me know by Friday if you can help.
+
+Thanks in advance,
+Drew
+Internal Audit Lead, Ironbridge Construction",75,malicious
+Bianca Jensen,3,data371.txt,"Hello Priya,
+
+Quick check-in from my side.
+
+We are consolidating Bianca Jensen's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+Could you confirm the health insurance and medical records we have on file for Bianca Jensen? We are validating coverage details for the renewal.
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks,
+Drew
+Internal Audit Lead, Ironbridge Construction",75,malicious
+Bianca Jensen,4,data371.txt,"Hey Devin,
+
+Hope your week is going well.
+
+We’re consolidating Bianca Jensen’s personnel records for the annual compliance audit and completing the year-end payroll reconciliation. Could you confirm whether her bank account and routing information currently on file is up to date? There’s no need to include the numbers in your reply; any necessary updates can be handled through the authorized payroll system.
+
+Please let me know by Friday so we can close the books.
+
+Thanks in advance,
+
+Drew  
+Internal Audit Lead  
+Ironbridge Construction",75,malicious

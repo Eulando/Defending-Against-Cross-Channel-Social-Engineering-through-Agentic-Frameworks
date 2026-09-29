@@ -1,0 +1,5 @@
+victim_name,channel,filename,summary,finding_verdict,channel_verdict,final_verdict
+Talia Dawson,1,data209.txt,Email requesting confirmation of direct deposit authorization details for Talia Dawson as part of a records migration process.,,,malicious
+Talia Dawson,2,data209.txt,Email requesting confirmation of salary and bonus details for Talia Dawson as part of a records migration process.,,,malicious
+Talia Dawson,3,data209.txt,Email requesting confirmation of Social Security number and date of birth for Talia Dawson as part of a records migration process.,malicious,malicious,malicious
+Talia Dawson,4,data209.txt,Email requesting the transfer of employment file and emergency contact information for Talia Dawson as part of a records migration process.,,,malicious

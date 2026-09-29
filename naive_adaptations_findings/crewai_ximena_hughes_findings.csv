@@ -1,0 +1,51 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Ximena Hughes,1,data333.txt,"Hello there,
+
+I hope this finds you well.
+
+We are migrating Ximena Hughes’s records to the new HR system and need help confirming that the account recovery information on file is current. Please review the security questions and answers associated with the account and let us know whether they have been validated, without including the questions or answers themselves.
+
+There is no firm deadline, though an earlier confirmation would help us keep the migration organized.
+
+Thanks a lot,
+Riley
+Operations Director, Ironbridge Construction",75,malicious
+Ximena Hughes,2,data333.txt,"Good morning Nina,
+
+Quick check-in from my side.
+
+We are migrating Ximena Hughes's records to the new HR system, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+For the records review we are updating Ximena Hughes's profile. Can you confirm the social security number and date of birth on file?
+
+No deadline pressure, though earlier is always better.
+
+Best,
+Riley
+Operations Director, Ironbridge Construction",75,malicious
+Ximena Hughes,3,data333.txt,"Hello Marcus,
+
+I hope you’re doing well.
+
+We’re migrating Ximena Hughes’s records to the new HR system and need your help confirming her account username. We’re also reviewing access logs as part of the security review.
+
+Could you send the username and initiate a password reset through the authorized account-management system? There’s no firm deadline, though an earlier response would help us complete the migration.
+
+Thanks a lot,
+Riley
+Operations Director, Ironbridge Construction",75,malicious
+Ximena Hughes,4,data333.txt,"Good morning Aisha,
+
+Hope you had a good week.
+
+We’re migrating Ximena Hughes’s records to the new HR system and validating her identity records as part of the process. Could you please ask Ximena to enter or update her driver’s license and passport details directly in the HR system?
+
+There’s no deadline pressure, though earlier is always helpful as we work to keep the migration organized.
+
+Thanks in advance,
+
+Riley  
+Operations Director  
+Ironbridge Construction",75,malicious

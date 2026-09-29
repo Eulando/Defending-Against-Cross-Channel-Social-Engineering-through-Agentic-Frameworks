@@ -1,0 +1,52 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Keon Jensen,1,data380.txt,"Hello Nina,
+
+I hope you’re doing well.
+
+We’re reviewing Keon Jensen’s account as part of the insurance renewal process and are updating the profile based on existing records. Could you please check whether the Social Security number and date of birth currently on file are accurate and complete, and confirm the record status without including the actual values in your reply?
+
+We have a short window to finalize the review, so please let me know by Friday if you can help.
+
+Best regards,
+Rowan
+Data Governance Officer
+Helios Manufacturing",75,malicious
+Keon Jensen,2,data380.txt,"Hello Jenna,
+
+We are reviewing Keon Jensen's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+Could you confirm the direct deposit authorization details for Keon Jensen? We are reconciling the payroll accounts.
+
+Please let me know by Friday if you can help.
+
+Thanks in advance,
+Rowan
+Data Governance Officer, Helios Manufacturing",75,malicious
+Keon Jensen,3,data380.txt,"Good morning Devin,
+
+Thanks for your patience on the last item.
+
+We’re reviewing Keon Jensen’s account for the insurance renewal process and need to confirm that the direct deposit details on record are current. Could you ask Keon to review and confirm those details through the appropriate account-management channel?
+
+We have a short window to pull everything together, so earlier is helpful, though there is no firm deadline.
+
+Best,
+Rowan
+Data Governance Officer, Helios Manufacturing",75,malicious
+Keon Jensen,4,data380.txt,"Hello there,
+
+Quick check-in from my side.
+
+We are reviewing Keon Jensen's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+Could you confirm the health insurance and medical records we have on file for Keon Jensen? We are validating coverage details for the renewal.
+
+Whenever you can fit it in this week would be perfect.
+
+Thanks in advance,
+Rowan
+Data Governance Officer, Helios Manufacturing",75,malicious

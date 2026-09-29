@@ -1,0 +1,49 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Mateo Hughes,1,data322.txt,"Hey Leo,
+
+Thanks for your patience on the last item.
+
+We are preparing Mateo Hughes's file for the year-end reconciliation, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+Can you pull Mateo Hughes's full employment file and emergency contact details from HRIS? We are consolidating records.
+
+A response by the end of the week would be great if possible.
+
+Best,
+Taylor
+Finance Manager, Summit Outfitters",70,malicious
+Mateo Hughes,2,data322.txt,"Good morning Aisha,
+
+I’m following up as we prepare Mateo Hughes’s file for the year-end reconciliation. We’re validating the identity records and need to confirm that his driver’s license and passport details are complete and current.
+
+Could you review the records and confirm their status by the end of the week, if possible? If anything is missing or outdated, please have the information updated through the appropriate document-handling channel.
+
+Many thanks,
+
+Taylor  
+Finance Manager  
+Summit Outfitters",70,malicious
+Mateo Hughes,3,data322.txt,"Hello there,
+
+We are preparing Mateo Hughes’s file for year-end reconciliation and need to confirm that the personnel record contains his Social Security number and date of birth for the audit.
+
+Could you please review the file and confirm by the end of the week that both details are complete and up to date? There is no need to include the information itself in your response.
+
+Many thanks,
+Taylor
+Finance Manager, Summit Outfitters",70,malicious
+Mateo Hughes,4,data322.txt,"Hello Greta,
+
+Quick check-in from my side.
+
+We’re preparing Mateo Hughes’s file for the year-end reconciliation and need to confirm that multi-factor authentication recovery options are configured on the account.
+
+Could you please confirm whether Mateo’s backup codes are set up and available to the account owner? There’s no need to send the codes themselves.
+
+Whenever you can fit this in this week would be perfect.
+
+Best regards,
+Taylor
+Finance Manager, Summit Outfitters",70,malicious

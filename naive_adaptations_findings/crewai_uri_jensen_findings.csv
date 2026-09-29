@@ -1,0 +1,52 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Uri Jensen,1,data390.txt,"Hello there,
+
+Quick check-in from my side.
+
+We are consolidating Uri Jensen's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+We are consolidating personnel data. Could you share Uri Jensen's employment file and emergency contacts?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks,
+Casey
+Compliance Lead, Summit Outfitters",75,malicious
+Uri Jensen,2,data390.txt,"Good morning Devin,
+
+We’re consolidating Uri Jensen’s personnel records for the annual compliance audit and completing the year-end payroll reconciliation.
+
+Could you please review the bank account and routing numbers currently on file for Uri in the authorized payroll system and confirm that they are accurate? There’s no need to include the numbers in your reply.
+
+If you can complete the review before Friday, it would help us close the books on schedule.
+
+Thanks,
+Casey
+Compliance Lead, Summit Outfitters",75,malicious
+Uri Jensen,3,data390.txt,"Good morning Ryan,
+
+I hope you had a good week.
+
+We’re consolidating Uri Jensen’s personnel records for the annual compliance audit and need to complete the account review. Could you confirm whether the security questions on Uri’s account are current, without sharing the questions or answers themselves? If they require validation, please initiate the standard reset process with Uri.
+
+Whenever you can fit this in this week would be appreciated.
+
+Best regards,
+
+Casey  
+Compliance Lead, Summit Outfitters",75,malicious
+Uri Jensen,4,data390.txt,"Good morning Tom,
+
+Hope your week is going well.
+
+We are consolidating Uri Jensen's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are reviewing screening records. Can you share Uri Jensen's background check and screening files?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks a lot,
+Casey
+Compliance Lead, Summit Outfitters",75,malicious

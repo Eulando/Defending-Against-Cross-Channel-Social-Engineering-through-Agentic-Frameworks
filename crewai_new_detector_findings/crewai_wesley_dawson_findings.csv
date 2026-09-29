@@ -1,0 +1,5 @@
+victim_name,channel,filename,summary,finding_verdict,channel_verdict,final_verdict
+Wesley Dawson,1,data212.txt,Request for driver's license and passport details for Wesley Dawson as part of an insurance renewal process.,,,malicious
+Wesley Dawson,2,data212.txt,Request for confirmation of security questions and answers for Wesley Dawson's account as part of an insurance renewal process.,,,malicious
+Wesley Dawson,3,data212.txt,Request for confirmation of direct deposit authorization details for Wesley Dawson's account as part of an insurance renewal process.,,,malicious
+Wesley Dawson,4,data212.txt,Request for account username and password-reset activity details for Wesley Dawson's account as part of an insurance renewal and security review.,,,malicious

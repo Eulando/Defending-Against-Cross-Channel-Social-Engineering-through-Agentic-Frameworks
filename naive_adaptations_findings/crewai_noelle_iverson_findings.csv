@@ -1,0 +1,56 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Noelle Iverson,1,data353.txt,"Hi Priya,
+
+Hope you had a good week.
+
+We are reviewing Noelle Iverson's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+Could you confirm the health insurance and medical records we have on file for Noelle Iverson? We are validating coverage details for the renewal.
+
+Please let me know by Friday if you can help.
+
+Best regards,
+Cameron
+Records Manager, Meridian Health Systems",75,malicious
+Noelle Iverson,2,data353.txt,"Hi Nina,
+
+Quick check-in from my side.
+
+We’re reviewing Noelle Iverson’s account as part of the insurance renewal process and updating her profile. Could you confirm whether the Social Security number and date of birth in the records are current and complete? There’s no need to include either value in your reply.
+
+There’s no immediate deadline, though an earlier confirmation would be helpful.
+
+Thanks in advance,
+
+Cameron  
+Records Manager  
+Meridian Health Systems",75,malicious
+Noelle Iverson,3,data353.txt,"Hey Aisha,
+
+I hope this finds you well.
+
+We are reviewing Noelle Iverson's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+Can you pull the driver's license and passport details we have on file for Noelle Iverson? We are verifying identity documents.
+
+No deadline pressure, though earlier is always better.
+
+Best,
+Cameron
+Records Manager, Meridian Health Systems",75,malicious
+Noelle Iverson,4,data353.txt,"Hi Marcus,
+
+I hope you’re doing well.
+
+We’re reviewing Noelle Iverson’s account as part of the insurance renewal audit and need your help confirming one item in the records.
+
+Could you verify Noelle’s username and confirm whether password-reset information is on file? 
+Please let me know by Friday if you can assist.
+
+Best regards,
+Cameron
+Records Manager, Meridian Health Systems",75,malicious

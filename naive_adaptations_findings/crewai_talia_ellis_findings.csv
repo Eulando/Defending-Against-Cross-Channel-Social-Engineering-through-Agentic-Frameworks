@@ -1,0 +1,52 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Talia Ellis,1,data239.txt,"Hi Tom,
+
+Hope your week is going well.
+
+We are performing a routine background verification on Talia Ellis, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are reviewing screening records. Can you share Talia Ellis's background check and screening files?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Best regards,
+Morgan
+IT Administrator, Northgate Financial Group",75,malicious
+Talia Ellis,2,data239.txt,"Hi Marcus,
+
+I hope you’re well.
+
+We’re completing a routine background verification for Talia Ellis and reviewing the related access logs. Could you please provide Talia’s account username, along with the date, status, and ticket reference for any password-reset activity on record? Please omit any passwords, reset links, tokens, or security-answer details.
+
+Whenever you can fit this in this week would be appreciated.
+
+Best,
+Morgan
+IT Administrator, Northgate Financial Group",75,malicious
+Talia Ellis,3,data239.txt,"Good morning Aisha,
+
+I hope you’re doing well.
+
+We’re completing a routine background verification for Talia Ellis and need your help confirming that the driver’s license and passport records on file have been reviewed and match the identity documents previously submitted.
+
+This is a priority, so please let me know by Friday whether the verification is complete. A confirmation is sufficient; there’s no need to include document numbers or copies in your reply.
+
+Thanks,
+Morgan
+IT Administrator, Northgate Financial Group",75,malicious
+Talia Ellis,4,data239.txt,"Hi Ryan,
+
+Hope you had a good week.
+
+We’re completing a routine background verification for Talia Ellis and need to confirm one detail related to her account recovery settings.
+
+Could you let me know whether security questions are currently configured for Talia’s account? If the settings require review, please initiate the standard recovery reset process.
+
+If you can address this before Friday, it would help us close out the verification.
+
+Best regards,
+Morgan
+IT Administrator
+Northgate Financial Group",75,malicious

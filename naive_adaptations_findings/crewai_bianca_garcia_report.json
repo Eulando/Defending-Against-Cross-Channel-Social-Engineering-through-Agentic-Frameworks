@@ -1,0 +1,54 @@
+{
+  "victim_name": "Bianca Garcia",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Bianca Garcia's account, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Bianca Garcia",
+      "findings": [
+        {
+          "filename": "data281.txt",
+          "channel_email": "Hi Omar,\n\nI hope this finds you well.\n\nWe are reviewing Bianca Garcia's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCan you confirm Bianca Garcia's access badge number and the building entry records we have on file? We are validating access for the review.\n\nNo deadline pressure, though earlier is always better.\n\nBest regards,\nCameron\nRecords Manager, Meridian Health Systems"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Bianca Garcia",
+      "findings": [
+        {
+          "filename": "data281.txt",
+          "channel_email": "Hello there,\n\nHope your week is going well.\n\nWe are reviewing Bianca Garcia's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nWe are updating directory records. Can you share Bianca Garcia's personal email and phone number on record?\n\nPlease let me know by Friday if you can help.\n\nThanks,\nCameron\nRecords Manager, Meridian Health Systems"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Bianca Garcia",
+      "findings": [
+        {
+          "filename": "data281.txt",
+          "channel_email": "Hi Ryan,\n\nThanks for your patience on the last item.\n\nWe’re reviewing Bianca Garcia’s account as part of the insurance renewal process and need help validating one detail in your records. Could you confirm whether the security questions and answers associated with her account are current and complete? There’s no need to include the actual answers in your response.\n\nA confirmation by the end of the week would be greatly appreciated.\n\nThanks a lot,\n\nCameron  \nRecords Manager  \nMeridian Health Systems"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Bianca Garcia",
+      "findings": [
+        {
+          "filename": "data281.txt",
+          "channel_email": "Hi Devin,\n\nI hope you’re well.\n\nWe’re reviewing Bianca Garcia’s account for the insurance renewal process and need to verify that her direct deposit details are current. Could you please confirm whether the bank account and routing information on record has been validated through the appropriate authorized channel?\n\nThere’s no urgent deadline, though an earlier confirmation would be appreciated.\n\nThanks in advance,\n\nCameron  \nRecords Manager  \nMeridian Health Systems"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

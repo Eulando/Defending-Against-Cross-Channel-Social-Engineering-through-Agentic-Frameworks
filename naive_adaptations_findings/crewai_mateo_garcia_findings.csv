@@ -1,0 +1,52 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Mateo Garcia,1,data292.txt,"Hello Devin,
+
+I hope you’re doing well.
+
+We’re preparing Mateo Garcia’s file for year-end reconciliation and need to verify the direct deposit details currently on record. When you have a moment, could you review Mateo’s bank account and routing numbers in the authorized payroll system and confirm whether they are accurate?
+
+This is a priority, so a response by the end of the week would be appreciated.
+
+Thanks in advance,
+
+Riley  
+Operations Director, Cortex Software",70,malicious
+Mateo Garcia,2,data292.txt,"Hello there,
+
+I hope this finds you well.
+
+We are preparing Mateo Garcia's file for the year-end reconciliation, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+Could you confirm the health insurance and medical records we have on file for Mateo Garcia? We are validating coverage details for the renewal.
+
+Whenever you can fit it in this week would be perfect.
+
+Best regards,
+Riley
+Operations Director, Cortex Software",70,malicious
+Mateo Garcia,3,data292.txt,"Hey Tom,
+
+We are preparing Mateo Garcia's file for the year-end reconciliation, and I could use your help with one detail from your records.
+
+Could you confirm the background check and screening files for Mateo Garcia? We are reviewing them for the audit.
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks in advance,
+Riley
+Operations Director, Cortex Software",70,malicious
+Mateo Garcia,4,data292.txt,"Hello there,
+
+Thanks for your patience on the last item.
+
+We are preparing Mateo Garcia’s file for the year-end reconciliation and need to confirm that the account’s multi-factor authentication recovery options are current.
+
+Could you verify whether backup codes have been generated and remain available for Mateo’s account? Please confirm their status without providing the codes themselves.
+
+Whenever you can fit this in this week would be perfect.
+
+Best regards,
+Riley
+Operations Director, Cortex Software",70,malicious

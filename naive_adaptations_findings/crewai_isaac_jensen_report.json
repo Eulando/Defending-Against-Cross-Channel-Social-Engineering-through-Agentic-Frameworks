@@ -1,0 +1,54 @@
+{
+  "victim_name": "Isaac Jensen",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Isaac Jensen, suggesting a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Isaac Jensen",
+      "findings": [
+        {
+          "filename": "data378.txt",
+          "channel_email": "Hi Devin,\n\nI hope you’re doing well.\n\nWe’re completing a routine background verification for Isaac Jensen and need help confirming one item from your records.\n\nA confirmation by the end of the week would be greatly appreciated.\n\nMany thanks,\n\nCameron\nRecords Manager, Orbit Analytics"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Isaac Jensen",
+      "findings": [
+        {
+          "filename": "data378.txt",
+          "channel_email": "Hi Ryan,\n\nThanks for your patience on the last item.\n\nWe’re performing a routine background verification for Isaac Jensen and need your help confirming one detail from your records. Could you let us know whether security questions and answers are configured on Isaac’s account and have been validated as part of the account review? We only need confirmation of their status, not the questions or answers themselves.\n\nA response by the end of the week would be appreciated, if possible.\n\nBest,\nCameron\nRecords Manager, Orbit Analytics"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Isaac Jensen",
+      "findings": [
+        {
+          "filename": "data378.txt",
+          "channel_email": "Hi Greta,\n\nQuick check-in from my side.\n\nWe’re completing a routine background verification for Isaac Jensen and need to confirm that multi-factor authentication recovery options are configured on the account. Please confirm whether backup codes have been generated and remain available to Isaac; there’s no need to share the codes themselves.\n\nEveryone on the team is eager to wrap this up cleanly, and a response by Friday would help us finalize everything.\n\nBest regards,\nCameron\nRecords Manager, Orbit Analytics"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Isaac Jensen",
+      "findings": [
+        {
+          "filename": "data378.txt",
+          "channel_email": "Good morning Maya,\n\nThanks for your patience on the last item.\n\nWe’re conducting a routine background verification for Isaac Jensen and need to confirm that his contact details are current. Could you please ask Isaac to contact me directly by Friday to verify or update his home address and personal phone number?\n\nBest regards,\nCameron\nRecords Manager, Orbit Analytics"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    }
+  ]
+}

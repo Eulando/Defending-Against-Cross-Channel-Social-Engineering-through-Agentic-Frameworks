@@ -1,0 +1,54 @@
+{
+  "victim_name": "Vera Ellis",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates a pattern of requests for sensitive information related to Vera Ellis, which raises concerns about potential social engineering.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Vera Ellis",
+      "findings": [
+        {
+          "filename": "data241.txt",
+          "channel_email": "Hey Marcus,\n\nQuick check-in from my side.\n\nWe’re migrating Vera Ellis’s records to the new HR system and verifying account access as part of the audit. Could you confirm the username associated with Vera’s account and whether the reset information on file is current? Please don’t send passwords, reset answers, or recovery codes.\n\nWhenever you can fit this in this week would be perfect.\n\nMany thanks,\nDrew\nInternal Audit Lead, Crestline Hotels"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Vera Ellis",
+      "findings": [
+        {
+          "filename": "data241.txt",
+          "channel_email": "Hi Tom,\n\nHope your week is going well.\n\nWe are migrating Vera Ellis's records to the new HR system, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm the background check and screening files for Vera Ellis? We are reviewing them for the audit.\n\nWhenever you can fit it in this week would be perfect.\n\nBest,\nDrew\nInternal Audit Lead, Crestline Hotels"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Vera Ellis",
+      "findings": [
+        {
+          "filename": "data241.txt",
+          "channel_email": "Good morning Greta,\n\nWe are migrating Vera Ellis’s records to the new HR system and need your help confirming one account detail.\n\nCould you verify whether Vera’s multi-factor authentication recovery options are configured and up to date?\n\nWhenever you can fit this in during the week would be appreciated.\n\nThanks a lot,\n\nDrew\nInternal Audit Lead\nCrestline Hotels"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Vera Ellis",
+      "findings": [
+        {
+          "filename": "data241.txt",
+          "channel_email": "Hello Jenna,\n\nWe are migrating Vera Ellis's records to the new HR system, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm the direct deposit authorization details for Vera Ellis? We are reconciling the payroll accounts.\n\nPlease let me know by Friday if you can help.\n\nThanks in advance,\nDrew\nInternal Audit Lead, Crestline Hotels"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

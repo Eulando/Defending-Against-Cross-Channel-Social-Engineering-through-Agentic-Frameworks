@@ -1,0 +1,2 @@
+detector,ground_truth_file,results_folder,data_range,threshold,evaluated,missing,true_positive,false_positive,true_negative,false_negative,ground_truth_malicious,ground_truth_benign,predicted_malicious,predicted_benign,precision,recall,probability_of_detection,accuracy
+naive_adaptations_detectpor.py,chatGPT_score.csv:combined,naive_adaptations_findings,200-399,50,200,0,191,1,0,8,199,1,192,8,0.994792,0.959799,0.959799,0.955000

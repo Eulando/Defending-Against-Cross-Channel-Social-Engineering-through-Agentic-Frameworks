@@ -1,0 +1,54 @@
+{
+  "victim_name": "Isaac Hughes",
+  "threshold": 50,
+  "combined_score": 60,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates a pattern of background verification requests that could be indicative of social engineering.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Isaac Hughes",
+      "findings": [
+        {
+          "filename": "data318.txt",
+          "channel_email": "Hey Tom,\n\nWe are performing a routine background verification on Isaac Hughes, and I could use your help with one detail from your records.\n\nWe are reviewing screening records. Can you share Isaac Hughes's background check and screening files?\n\nNo deadline pressure, though earlier is always better.\n\nBest regards,\nCameron\nRecords Manager, Greenfield Energy"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Isaac Hughes",
+      "findings": [
+        {
+          "filename": "data318.txt",
+          "channel_email": "Hello Maya,\n\nQuick check-in from my side.\n\nWe’re performing a routine background verification for Isaac Hughes and need to confirm that his contact information is current. Could you please ask Isaac to contact me directly this week to confirm or update the home address and personal phone number on record?\n\nMany thanks,\n\nCameron  \nRecords Manager, Greenfield Energy"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Isaac Hughes",
+      "findings": [
+        {
+          "filename": "data318.txt",
+          "channel_email": "Hey Priya,\n\nThanks for your patience on the last item.\n\nWe are performing a routine background verification on Isaac Hughes, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCould you confirm the health insurance and medical records we have on file for Isaac Hughes? We are validating coverage details for the renewal.\n\nNo deadline pressure, though earlier is always better.\n\nThanks,\nCameron\nRecords Manager, Greenfield Energy"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Isaac Hughes",
+      "findings": [
+        {
+          "filename": "data318.txt",
+          "channel_email": "Hi Nina,\n\nWe’re conducting a routine background verification for Isaac Hughes and updating his profile. Could you review the social security number and date of birth in his record and confirm whether both are complete and current? Please reply with the verification status only rather than the actual values.\n\nIf you can complete the review before Friday, that would help us close it out.\n\nMany thanks,\nCameron\nRecords Manager, Greenfield Energy"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

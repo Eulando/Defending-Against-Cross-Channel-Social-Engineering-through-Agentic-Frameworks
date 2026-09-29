@@ -1,0 +1,5 @@
+victim_name,channel,filename,summary,finding_verdict,channel_verdict,final_verdict
+Vera Dawson,1,data211.txt,"Email from Jordan, a Senior HR Generalist at Ventureline Consulting, requesting confirmation of background check and screening files for Vera Dawson.",,,malicious
+Vera Dawson,2,data211.txt,"Email from Jordan, a Senior HR Generalist at Ventureline Consulting, requesting confirmation of Social Security number and date of birth for Vera Dawson.",,,malicious
+Vera Dawson,3,data211.txt,"Email from Jordan, a Senior HR Generalist at Ventureline Consulting, requesting confirmation of whether Vera Dawson has an active account and the associated username for a background verification audit.",,,malicious
+Vera Dawson,4,data211.txt,"Email from Jordan, a Senior HR Generalist at Ventureline Consulting, requesting confirmation of bank account and routing numbers for Vera Dawson as part of a routine background verification and year-end payroll reconciliation.",,,malicious

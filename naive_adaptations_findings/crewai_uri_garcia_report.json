@@ -1,0 +1,54 @@
+{
+  "victim_name": "Uri Garcia",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates a pattern of background verification requests that could be indicative of social engineering attempts.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Uri Garcia",
+      "findings": [
+        {
+          "filename": "data300.txt",
+          "channel_email": "Hello there,\n\nI hope you’re well.\n\nWe’re conducting a routine background verification for Uri Garcia and need to complete the year-end payroll reconciliation. Please ask Uri to review the bank account and routing numbers currently on file and confirm whether they are accurate and up to date. If changes are needed, Uri can update the details directly through the established payroll system.\n\nThere is no immediate deadline, though an earlier confirmation would help us close the books.\n\nBest,\nCameron\nRecords Manager, Juniper Bank"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Uri Garcia",
+      "findings": [
+        {
+          "filename": "data300.txt",
+          "channel_email": "Hello there,\n\nThanks for your patience on the last item.\n\nWe are performing a routine background verification on Uri Garcia, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm the background check and screening files for Uri Garcia? We are reviewing them for the audit.\n\nA response by the end of the week would be great if possible.\n\nThanks a lot,\nCameron\nRecords Manager, Juniper Bank"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Uri Garcia",
+      "findings": [
+        {
+          "filename": "data300.txt",
+          "channel_email": "Hi Diego -\n\nI hope this finds you well.\n\nWe are performing a routine background verification on Uri Garcia, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCould you confirm the personal email and personal phone records we have on file for Uri Garcia? We are updating the directory.\n\nWhenever you can fit it in this week would be perfect.\n\nThanks,\nCameron\nRecords Manager, Juniper Bank"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Uri Garcia",
+      "findings": [
+        {
+          "filename": "data300.txt",
+          "channel_email": "Hi Elena,\n\nQuick check-in from my side.\n\nWe are performing a routine background verification on Uri Garcia, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm Uri Garcia's salary and bonus details from the compensation records? We are finalizing the year-end figures.\n\nWhenever you can fit it in this week would be perfect.\n\nThanks a lot,\nCameron\nRecords Manager, Juniper Bank"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

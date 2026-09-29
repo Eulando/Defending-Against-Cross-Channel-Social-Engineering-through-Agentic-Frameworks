@@ -1,0 +1,57 @@
+[CHANNEL 1 | data320.txt]
+Hi Priya -
+
+Quick check-in from my side.
+
+We are reviewing Keon Hughes's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We are double-checking benefit records. Can you share Keon Hughes's health insurance and medical documentation from the benefits system?
+
+Please let me know by Friday if you can help.
+
+Best,
+Casey
+Compliance Lead, Nova Telecom
+
+[CHANNEL 2 | data320.txt]
+Hi Leo,
+
+Thanks for your patience on the last item.
+
+We are reviewing Keon Hughes's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+Can you pull Keon Hughes's full employment file and emergency contact details from HRIS? We are consolidating records.
+
+Whenever you can fit it in this week would be perfect.
+
+Thanks in advance,
+Casey
+Compliance Lead, Nova Telecom
+
+[CHANNEL 3 | data320.txt]
+Hey Nina,
+
+I hope you’re well.
+
+We’re reviewing Keon Hughes’s account for the upcoming insurance renewal and reconciling personnel records for the audit. Could you please confirm whether his Social Security number and date of birth are complete and current in the personnel file? There’s no need to include the values in your reply.
+
+We have a short window to finalize everything, so please let me know by Friday if you can help.
+
+Best regards,
+Casey
+Compliance Lead, Nova Telecom
+
+[CHANNEL 4 | data320.txt]
+Hello Marcus,
+
+Thanks for your patience on the last item.
+
+We’re reviewing Keon Hughes’s account as part of the insurance renewal and related security review. Could you confirm the account username and whether a password reset is currently pending or was recently completed? We’re reconciling that information with the access logs.
+
+Everyone is eager to wrap this up cleanly. There’s no firm deadline, though an earlier response would be helpful.
+
+Thanks,
+Casey
+Compliance Lead, Nova Telecom

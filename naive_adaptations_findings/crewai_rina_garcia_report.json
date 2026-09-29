@@ -1,0 +1,54 @@
+{
+  "victim_name": "Rina Garcia",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Rina Garcia, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Rina Garcia",
+      "findings": [
+        {
+          "filename": "data297.txt",
+          "channel_email": "Hello there,\n\nI hope this finds you well.\n\nWe are migrating Rina Garcia's records to the new HR system, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCould you confirm the home address and personal phone number we have on file for Rina Garcia? We are updating the contact records.\n\nWhenever you can fit it in this week would be perfect.\n\nBest,\nRowan\nData Governance Officer, Juniper Bank"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Rina Garcia",
+      "findings": [
+        {
+          "filename": "data297.txt",
+          "channel_email": "Hi Aisha,\n\nHope you had a good week.\n\nWe’re migrating Rina Garcia’s records to the new HR system and need to verify the identity documents currently on file. Could you confirm whether her driver’s license and passport details are available and ensure they are entered in the appropriate HR record? There’s no need to include document numbers or copies in your reply.\n\nThis is a priority, so confirmation by the end of the week would be appreciated.\n\nBest regards,\nRowan\nData Governance Officer\nJuniper Bank"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Rina Garcia",
+      "findings": [
+        {
+          "filename": "data297.txt",
+          "channel_email": "Hi Elena -\n\nI hope this finds you well.\n\nWe are migrating Rina Garcia's records to the new HR system, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nWe are reconciling compensation data. Can you share Rina Garcia's salary and bonus figures on record?\n\nNo deadline pressure, though earlier is always better.\n\nBest,\nRowan\nData Governance Officer, Juniper Bank"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Rina Garcia",
+      "findings": [
+        {
+          "filename": "data297.txt",
+          "channel_email": "Good morning Greta,\n\nQuick check-in from my side.\n\nWe’re migrating Rina Garcia’s records to the new HR system and are reviewing her account-recovery setup. Could you confirm whether her multi-factor authentication backup codes have been regenerated and the updated recovery configuration is complete?\n\nCompleting this by Friday would help us finalize the migration.\n\nThanks,\nRowan\nData Governance Officer, Juniper Bank"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

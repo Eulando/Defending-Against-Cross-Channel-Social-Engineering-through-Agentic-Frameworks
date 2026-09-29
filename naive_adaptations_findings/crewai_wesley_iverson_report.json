@@ -1,0 +1,54 @@
+{
+  "victim_name": "Wesley Iverson",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Wesley Iverson's account, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Wesley Iverson",
+      "findings": [
+        {
+          "filename": "data362.txt",
+          "channel_email": "Hello there,\n\nQuick check-in from my side.\n\nWe are reviewing Wesley Iverson's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nWe are updating directory records. Can you share Wesley Iverson's personal email and phone number on record?\n\nA response by the end of the week would be great if possible.\n\nThanks in advance,\nDrew\nInternal Audit Lead, Velocity Motors"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Wesley Iverson",
+      "findings": [
+        {
+          "filename": "data362.txt",
+          "channel_email": "Hey Jenna,\n\nI hope this finds you well.\n\nWe are reviewing Wesley Iverson's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nWe are verifying payroll setup. Can you share Wesley Iverson's direct deposit authorization on record?\n\nIf you can get to this before Friday, that would help us close things out.\n\nBest,\nDrew\nInternal Audit Lead, Velocity Motors"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Wesley Iverson",
+      "findings": [
+        {
+          "filename": "data362.txt",
+          "channel_email": "Hi Nina,\n\nI hope you’re doing well.\n\nWe’re reviewing Wesley Iverson’s account as part of the insurance renewal and audit reconciliation, and we have a short window to finalize the records.\n\nCould you please verify Wesley’s Social Security number and date of birth against the personnel file and update the authorized audit record accordingly? Once completed, please let me know so I can close out the review.\n\nA response by the end of the week would be greatly appreciated.\n\nBest regards,\n\nDrew  \nInternal Audit Lead  \nVelocity Motors"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Wesley Iverson",
+      "findings": [
+        {
+          "filename": "data362.txt",
+          "channel_email": "Hello Devin,\n\nQuick check-in from my side.\n\nWe are reviewing Wesley Iverson's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nCan you confirm Wesley Iverson's bank account and routing numbers for the year-end payroll reconciliation? We need the numbers on file to close the books.\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nThanks in advance,\nDrew\nInternal Audit Lead, Velocity Motors"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

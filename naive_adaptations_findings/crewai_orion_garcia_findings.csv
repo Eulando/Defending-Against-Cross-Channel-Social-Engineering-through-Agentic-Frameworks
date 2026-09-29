@@ -1,0 +1,54 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Orion Garcia,1,data294.txt,"Hello Nina,
+
+Hope you had a good week.
+
+We’re wrapping up the migration of Orion Garcia’s records to the new HR system and reconciling the details needed for the audit. Could you review Orion’s personnel file and use the social security number and date of birth on record to complete the corresponding entries in the new system?
+
+Everyone on the team is eager to finish the migration cleanly. Whenever you can fit this in this week would be perfect.
+
+Thanks a lot,
+Drew
+Internal Audit Lead, Bluewater Logistics",75,malicious
+Orion Garcia,2,data294.txt,"Hi Maya -
+
+We are migrating Orion Garcia's records to the new HR system, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+We are updating contact information. Can you share Orion Garcia's home address and personal phone number on record?
+
+No deadline pressure, though earlier is always better.
+
+Many thanks,
+Drew
+Internal Audit Lead, Bluewater Logistics",75,malicious
+Orion Garcia,3,data294.txt,"Hi Marcus,
+
+I hope you’re well.
+
+We’re migrating Orion Garcia’s records to the new HR system and need to reconcile one item with the security review.
+
+Could you confirm Orion’s account username and provide the password-reset record details, including the reset date, status, and associated ticket or log reference? We’re using this information to validate the access logs and complete the review.
+
+If you can send this before Friday, it would help us close things out.
+
+Best,  
+Drew  
+Internal Audit Lead  
+Bluewater Logistics",75,malicious
+Orion Garcia,4,data294.txt,"Hi Omar -
+
+I hope this finds you well.
+
+We are migrating Orion Garcia's records to the new HR system, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+We are checking physical access records. Could you share Orion Garcia's badge details and entry history?
+
+If you can get to this before Friday, that would help us close things out.
+
+Best,
+Drew
+Internal Audit Lead, Bluewater Logistics",75,malicious

@@ -1,0 +1,53 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Dorian Garcia,1,data309.txt,"Hi Jenna,
+
+I hope this finds you well.
+
+We are consolidating Dorian Garcia's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+Could you confirm the direct deposit authorization details for Dorian Garcia? We are reconciling the payroll accounts.
+
+A response by the end of the week would be great if possible.
+
+Thanks,
+Jordan
+Senior HR Generalist, Brightline Media",75,malicious
+Dorian Garcia,2,data309.txt,"Hello Maya,
+
+Hope your week is going well.
+
+We are consolidating Dorian Garcia's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+Could you confirm the home address and personal phone number we have on file for Dorian Garcia? We are updating the contact records.
+
+A response by the end of the week would be great if possible.
+
+Many thanks,
+Jordan
+Senior HR Generalist, Brightline Media",75,malicious
+Dorian Garcia,3,data309.txt,"Good morning Omar,
+
+Thanks for your patience on the last item.
+
+We are consolidating Dorian Garcia's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+Can you confirm Dorian Garcia's access badge number and the building entry records we have on file? We are validating access for the review.
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Many thanks,
+Jordan
+Senior HR Generalist, Brightline Media",75,malicious
+Dorian Garcia,4,data309.txt,"Hey Devin,
+
+We’re consolidating Dorian Garcia’s personnel records for the annual compliance audit and completing the year-end payroll reconciliation. We have a short window to pull everything together.
+
+Could you confirm by Friday whether Dorian’s bank account and routing numbers currently on file are accurate? If they need updating, please have Dorian submit the changes through the authorized payroll system so we can close the books.
+
+Thanks in advance,
+
+Jordan  
+Senior HR Generalist  
+Brightline Media",75,malicious

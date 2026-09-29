@@ -1,0 +1,55 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Bennett Garcia,1,data307.txt,"Hey Tom,
+
+Quick check-in from my side.
+
+We are reviewing Bennett Garcia's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+We are reviewing screening records. Can you share Bennett Garcia's background check and screening files?
+
+Please let me know by Friday if you can help.
+
+Best regards,
+Taylor
+Finance Manager, Summit Outfitters",75,malicious
+Bennett Garcia,2,data307.txt,"Hi Ryan,
+
+I hope you’re doing well.
+
+We’re reviewing Bennett Garcia’s account as part of the insurance renewal process and need to confirm one detail from your records. Could you let me know whether the account recovery security questions are configured and current? There’s no need to include the questions or answers themselves.
+
+Whenever you can fit this in this week would be appreciated.
+
+Thanks,  
+Taylor  
+Finance Manager, Summit Outfitters",75,malicious
+Bennett Garcia,3,data307.txt,"Hello there,
+
+I hope this finds you well.
+
+We are reviewing Bennett Garcia's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Could you confirm the personal email and personal phone records we have on file for Bennett Garcia? We are updating the directory.
+
+Whenever you can fit it in this week would be perfect.
+
+Best regards,
+Taylor
+Finance Manager, Summit Outfitters",75,malicious
+Bennett Garcia,4,data307.txt,"Hey Bennett Garcia,
+
+I hope this finds you well.
+
+We are reviewing Bennett Garcia's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+Could you confirm the health insurance and medical records we have on file for Bennett Garcia? We are validating coverage details for the renewal.
+
+A response by the end of the week would be great if possible.
+
+Best,
+Taylor
+Finance Manager, Summit Outfitters",75,malicious

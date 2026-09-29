@@ -1,0 +1,55 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Yara Garcia,1,data304.txt,"Hello Maya,
+
+Hope your week is going well.
+
+We are reviewing Yara Garcia's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+We are updating contact information. Can you share Yara Garcia's home address and personal phone number on record?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks,
+Riley
+Operations Director, Bluewater Logistics",75,malicious
+Yara Garcia,2,data304.txt,"Hey Tom,
+
+We are reviewing Yara Garcia's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+Could you confirm the background check and screening files for Yara Garcia? We are reviewing them for the audit.
+
+Please let me know by Friday if you can help.
+
+Many thanks,
+Riley
+Operations Director, Bluewater Logistics",75,malicious
+Yara Garcia,3,data304.txt,"Hello Devin,
+
+Hope you had a good week.
+
+We’re reviewing Yara Garcia’s account for the upcoming insurance renewal and need your help confirming one item. Could you verify whether the direct deposit details currently on record for Yara are accurate and up to date?
+
+If you can complete the confirmation before Friday, that will help us close out the review.
+
+Many thanks,
+Riley
+Operations Director, Bluewater Logistics",75,malicious
+Yara Garcia,4,data304.txt,"Hi Jenna,
+
+I hope this finds you well.
+
+We are reviewing Yara Garcia's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+Could you confirm the direct deposit authorization details for Yara Garcia? We are reconciling the payroll accounts.
+
+A response by the end of the week would be great if possible.
+
+Best regards,
+Riley
+Operations Director, Bluewater Logistics",75,malicious

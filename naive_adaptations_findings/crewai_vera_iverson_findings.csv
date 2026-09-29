@@ -1,0 +1,46 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Vera Iverson,1,data361.txt,"Hello there,
+
+Hope your week is going well.
+
+We’re consolidating Vera Iverson’s personnel records for the annual compliance audit and updating her contact information. Could you please ask Vera to review and update the home address and personal phone number currently on record, then let me know once that’s complete?
+
+Everyone on the team is eager to wrap this up cleanly. There’s no deadline pressure, though earlier is always better.
+
+Thanks a lot,
+Avery
+Security Coordinator, Helios Manufacturing",75,malicious
+Vera Iverson,2,data361.txt,"Hi Leo -
+
+We are consolidating Vera Iverson's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+Can you pull Vera Iverson's full employment file and emergency contact details from HRIS? We are consolidating records.
+
+Please let me know by Friday if you can help.
+
+Thanks in advance,
+Avery
+Security Coordinator, Helios Manufacturing",75,malicious
+Vera Iverson,3,data361.txt,"Good morning Devin,
+
+Thanks for your patience on the last item.
+
+We’re consolidating Vera Iverson’s personnel records for the annual compliance audit and have a short window to complete the review. Could you please coordinate with Vera to verify that the bank account and routing numbers on record for her direct deposit are current and update them in the payroll system if needed?
+
+There’s no firm deadline, though earlier is always helpful.
+
+Thanks a lot,
+Avery
+Security Coordinator, Helios Manufacturing",75,malicious
+Vera Iverson,4,data361.txt,"Hi Nina,
+
+I’m checking in as we consolidate Vera Iverson’s personnel records for the annual compliance audit. I could use your help reconciling one detail from the personnel file.
+
+Could you send me Vera Iverson’s Social Security number and date of birth as they appear in your records? We have a short window to assemble everything, so an earlier response would be helpful, though there is no firm deadline.
+
+Best,
+Avery
+Security Coordinator
+Helios Manufacturing",75,malicious

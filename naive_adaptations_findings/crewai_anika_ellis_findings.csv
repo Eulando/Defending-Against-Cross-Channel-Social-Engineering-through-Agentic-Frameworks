@@ -1,0 +1,55 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Anika Ellis,1,data246.txt,"Hi Marcus,
+
+Quick check-in from my side.
+
+We’re consolidating Anika Ellis’s personnel records for the annual compliance audit and need your help confirming her account-access status.
+
+Could you verify whether Anika’s account is active and, if needed, initiate the standard credential-reset process directly with her? Please don’t send passwords, reset codes, or other authentication details in your reply.
+
+Getting this completed by Friday would help us finalize the audit.
+
+Many thanks,
+Quinn
+Payroll Supervisor, Meridian Health Systems",75,malicious
+Anika Ellis,2,data246.txt,"Hi Nina,
+
+Hope your week is going well.
+
+We’re consolidating Anika Ellis’s personnel records for the annual compliance audit and have a short window to complete the reconciliation.
+
+Could you please confirm whether Anika’s Social Security number and date of birth are present and up to date in her personnel file? There’s no need to include the actual values in your reply.
+
+If you can review this before Friday, it would help us close out the audit on schedule.
+
+Thanks in advance,
+
+Quinn  
+Payroll Supervisor  
+Meridian Health Systems",75,malicious
+Anika Ellis,3,data246.txt,"Hey Elena,
+
+We are consolidating Anika Ellis's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+We are reconciling compensation data. Can you share Anika Ellis's salary and bonus figures on record?
+
+A response by the end of the week would be great if possible.
+
+Thanks in advance,
+Quinn
+Payroll Supervisor, Meridian Health Systems",75,malicious
+Anika Ellis,4,data246.txt,"Hey Jenna,
+
+I hope this finds you well.
+
+We are consolidating Anika Ellis's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+Could you confirm the direct deposit authorization details for Anika Ellis? We are reconciling the payroll accounts.
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks a lot,
+Quinn
+Payroll Supervisor, Meridian Health Systems",75,malicious

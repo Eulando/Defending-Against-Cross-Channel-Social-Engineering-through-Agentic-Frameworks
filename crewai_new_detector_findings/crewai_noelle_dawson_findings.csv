@@ -1,0 +1,5 @@
+victim_name,channel,filename,summary,finding_verdict,channel_verdict,final_verdict
+Noelle Dawson,1,data203.txt,Email requesting confirmation of Noelle Dawson's access badge number and building entry records for year-end reconciliation.,,,malicious
+Noelle Dawson,2,data203.txt,Email requesting confirmation of Noelle Dawson's home address and personal phone number for updating contact records.,,,malicious
+Noelle Dawson,3,data203.txt,Email requesting driver's license and passport details for Noelle Dawson as part of verifying identity documents.,malicious,malicious,malicious
+Noelle Dawson,4,data203.txt,Email requesting Noelle Dawson's employment file and emergency contacts for year-end reconciliation.,malicious,malicious,malicious

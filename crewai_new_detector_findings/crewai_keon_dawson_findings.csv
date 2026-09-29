@@ -1,0 +1,5 @@
+victim_name,channel,filename,summary,finding_verdict,channel_verdict,final_verdict
+Keon Dawson,1,data200.txt,The email requests confirmation of bank account and routing numbers for Keon Dawson's account as part of an insurance renewal and payroll reconciliation process.,,,benign
+Keon Dawson,2,data200.txt,The email requests confirmation of Keon Dawson's access badge number and building entry records for the insurance renewal process.,,,benign
+Keon Dawson,3,data200.txt,The email requests confirmation of security questions and answers for Keon Dawson's account as part of the insurance renewal process.,,,benign
+Keon Dawson,4,data200.txt,The email requests Keon Dawson's background check and screening files as part of the insurance renewal process.,,,benign

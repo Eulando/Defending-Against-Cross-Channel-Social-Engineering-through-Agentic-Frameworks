@@ -1,0 +1,53 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Bianca Iverson,1,data341.txt,"Hello,
+
+I hope you’re doing well.
+
+We’re consolidating Bianca Iverson’s personnel records for the annual compliance audit and checking access logs as part of the security review. Could you provide Bianca’s account username and confirm the status and date of the most recent password reset?
+
+We have a short window to pull everything together, so receiving this by Friday would help us finalize the review.
+
+Thanks a lot,
+
+Riley  
+Operations Director  
+Juniper Bank",75,malicious
+Bianca Iverson,2,data341.txt,"Hello,
+
+I hope you’re well.
+
+We’re consolidating Bianca Iverson’s personnel records for the annual compliance audit and need to complete the account-recovery review. Could you confirm whether multi-factor authentication and backup recovery codes are configured for Bianca’s account? Please do not provide the codes themselves.
+
+A response whenever convenient this week would be appreciated.
+
+Best regards,
+Riley
+Operations Director, Juniper Bank",75,malicious
+Bianca Iverson,3,data341.txt,"Good morning Omar,
+
+Hope your week is going well.
+
+We are consolidating Bianca Iverson's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+We are checking physical access records. Could you share Bianca Iverson's badge details and entry history?
+
+No deadline pressure, though earlier is always better.
+
+Thanks a lot,
+Riley
+Operations Director, Juniper Bank",75,malicious
+Bianca Iverson,4,data341.txt,"Hello there,
+
+Quick check-in from my side.
+
+We are consolidating Bianca Iverson's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+Could you confirm the direct deposit authorization details for Bianca Iverson? We are reconciling the payroll accounts.
+
+If you can get to this before Friday, that would help us close things out.
+
+Thanks in advance,
+Riley
+Operations Director, Juniper Bank",75,malicious

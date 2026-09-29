@@ -1,0 +1,51 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Isaac Iverson,1,data348.txt,"Good morning Elena,
+
+Hope your week is going well.
+
+We are reviewing Isaac Iverson's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+Could you confirm Isaac Iverson's salary and bonus details from the compensation records? We are finalizing the year-end figures.
+
+No deadline pressure, though earlier is always better.
+
+Best,
+Drew
+Internal Audit Lead, Greenfield Energy",60,malicious
+Isaac Iverson,2,data348.txt,"Hi Aisha,
+
+Quick check-in from my side.
+
+We’re reviewing Isaac Iverson’s account for the insurance renewal and validating the associated identity records. Could you confirm whether his driver’s license and passport details are current and complete in your records?
+
+This is a priority, and confirmation by Friday would help us finalize everything.
+
+Best regards,
+Drew
+Internal Audit Lead, Greenfield Energy",60,malicious
+Isaac Iverson,3,data348.txt,"Good morning Leo,
+
+We are reviewing Isaac Iverson's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are consolidating personnel data. Could you share Isaac Iverson's employment file and emergency contacts?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks a lot,
+Drew
+Internal Audit Lead, Greenfield Energy",60,malicious
+Isaac Iverson,4,data348.txt,"Hello there,
+
+Quick check-in from my side.
+
+We are reviewing Isaac Iverson’s account as part of the insurance renewal process and need to verify its recovery options. Could you confirm whether multi-factor authentication backup codes are configured and current? Please do not share the codes themselves.
+
+Everyone on the team is eager to wrap this up cleanly. There is no firm deadline, though an earlier response would be helpful.
+
+Thanks,
+Drew
+Internal Audit Lead, Greenfield Energy",60,malicious

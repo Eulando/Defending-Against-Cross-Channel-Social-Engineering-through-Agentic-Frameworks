@@ -1,0 +1,47 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Wesley Foster,1,data272.txt,"Hi Jenna -
+
+I hope this finds you well.
+
+We are migrating Wesley Foster's records to the new HR system, and I could use your help with one detail from your records.
+
+We are verifying payroll setup. Can you share Wesley Foster's direct deposit authorization on record?
+
+If you can get to this before Friday, that would help us close things out.
+
+Best,
+Taylor
+Finance Manager, Juniper Bank",75,malicious
+Wesley Foster,2,data272.txt,"Hey Greta,
+
+Quick check-in from my side.
+
+We’re migrating Wesley Foster’s records to the new HR system and need to verify that his account recovery options are configured correctly. Could you ask Wesley to confirm that he still has access to his multi-factor authentication backup codes? The codes themselves should not be shared.
+
+Please let me know by Friday if you can help.
+
+Best,
+Taylor
+Finance Manager, Juniper Bank",75,malicious
+Wesley Foster,3,data272.txt,"Hello Nina,
+
+Thanks for your patience with the last item.
+
+As part of our synthetic HR migration test, we’re reconciling Wesley Foster’s mock record in the new system. Could you retrieve the fictitious Social Security number and date of birth from the test personnel file?
+
+A response by the end of the week would be appreciated.
+
+Best,
+Taylor
+Finance Manager, Juniper Bank",75,malicious
+Wesley Foster,4,data272.txt,"Hello Marcus,
+
+Hope your week is going well.
+
+We’re migrating Wesley Foster’s records to the new HR system and have a short window to pull everything together. Could you confirm Wesley’s account username and whether password-reset details are on record?
+
+We’re also checking the related access logs for the security review. Whenever you can fit this in this week would be appreciated.
+
+Thanks in advance,
+Taylor
+Finance Manager, Juniper Bank",75,malicious

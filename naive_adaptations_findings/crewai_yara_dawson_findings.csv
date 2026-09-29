@@ -1,0 +1,55 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Yara Dawson,1,data214.txt,"Hello there,
+
+We are migrating Yara Dawson's records to the new HR system, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+We are double-checking benefit records. Can you share Yara Dawson's health insurance and medical documentation from the benefits system?
+
+If you can get to this before Friday, that would help us close things out.
+
+Many thanks,
+Cameron
+Records Manager, Summit Outfitters",70,malicious
+Yara Dawson,2,data214.txt,"Hello there,
+
+Thanks for your patience on the last item.
+
+We are migrating Yara Dawson's records to the new HR system, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are reviewing screening records. Can you share Yara Dawson's background check and screening files?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Best,
+Cameron
+Records Manager, Summit Outfitters",70,malicious
+Yara Dawson,3,data214.txt,"Hello Diego,
+
+Hope your week is going well.
+
+We are migrating Yara Dawson's records to the new HR system, and I could use your help with one detail from your records.
+
+Could you confirm the personal email and personal phone records we have on file for Yara Dawson? We are updating the directory.
+
+If you can get to this before Friday, that would help us close things out.
+
+Many thanks,
+Cameron
+Records Manager, Summit Outfitters",70,malicious
+Yara Dawson,4,data214.txt,"Hello there,
+
+Quick check-in from my side.
+
+We are migrating Yara Dawson's records to the new HR system, and I could use your help with one detail from your records.
+
+Can you confirm Yara Dawson's access badge number and the building entry records we have on file? We are validating access for the review.
+
+Please let me know by Friday if you can help.
+
+Thanks in advance,
+Cameron
+Records Manager, Summit Outfitters",70,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,summary,finding_verdict,channel_verdict,final_verdict
+Ximena Dawson,1,data213.txt,Email from Riley requesting verification of profile information for Ximena Dawson for year-end reconciliation.,,,benign
+Ximena Dawson,2,data213.txt,Email from Riley requesting Ximena Dawson's employment file and emergency contacts for year-end reconciliation.,,,benign
+Ximena Dawson,3,data213.txt,Email from Riley requesting confirmation of multi-factor authentication and account-recovery method for Ximena Dawson's account for year-end reconciliation.,,,benign
+Ximena Dawson,4,data213.txt,"Email from Riley requesting validation of Ximena Dawson's identity records, specifically her driver's license and passport details for year-end reconciliation.",,,benign

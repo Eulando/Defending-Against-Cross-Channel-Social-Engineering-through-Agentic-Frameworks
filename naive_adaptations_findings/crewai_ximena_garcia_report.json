@@ -1,0 +1,54 @@
+{
+  "victim_name": "Ximena Garcia",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Ximena Garcia, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Ximena Garcia",
+      "findings": [
+        {
+          "filename": "data303.txt",
+          "channel_email": "Hi Leo,\n\nHope your week is going well.\n\nWe are migrating Ximena Garcia's records to the new HR system, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nCan you pull Ximena Garcia's full employment file and emergency contact details from HRIS? We are consolidating records.\n\nPlease let me know by Friday if you can help.\n\nThanks in advance,\nDrew\nInternal Audit Lead, Northgate Financial Group"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Ximena Garcia",
+      "findings": [
+        {
+          "filename": "data303.txt",
+          "channel_email": "Good morning Omar,\n\nQuick check-in from my side.\n\nWe are migrating Ximena Garcia's records to the new HR system, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nWe are checking physical access records. Could you share Ximena Garcia's badge details and entry history?\n\nA response by the end of the week would be great if possible.\n\nBest regards,\nDrew\nInternal Audit Lead, Northgate Financial Group"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Ximena Garcia",
+      "findings": [
+        {
+          "filename": "data303.txt",
+          "channel_email": "Hi Devin,\n\nQuick check-in from my side.\n\nWe’re migrating Ximena Garcia’s records to the new HR system and need to complete the direct deposit review. Could you confirm by Friday whether the bank account and routing numbers currently on record are up to date? There’s no need to include the numbers in your reply.\n\nThanks in advance,\n\nDrew  \nInternal Audit Lead  \nNorthgate Financial Group"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Ximena Garcia",
+      "findings": [
+        {
+          "filename": "data303.txt",
+          "channel_email": "Hey Nina,\n\nHope you had a good week.\n\nWe are migrating Ximena Garcia's records to the new HR system, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you pull Ximena Garcia's social security number and date of birth from the personnel file? We are reconciling the records for the audit.\n\nWhenever you can fit it in this week would be perfect.\n\nBest regards,\nDrew\nInternal Audit Lead, Northgate Financial Group"
+        }
+      ],
+      "rationale": "found"
+    }
+  ]
+}

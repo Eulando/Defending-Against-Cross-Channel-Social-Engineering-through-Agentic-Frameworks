@@ -1,0 +1,57 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Hana Jensen,1,data377.txt,"Hello Tom,
+
+Quick check-in from my side.
+
+We are migrating Hana Jensen's records to the new HR system, and I could use your help with one detail from your records.
+
+Could you confirm the background check and screening files for Hana Jensen? We are reviewing them for the audit.
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks a lot,
+Jordan
+Senior HR Generalist, Stellar Aerospace",70,malicious
+Hana Jensen,2,data377.txt,"Hi Elena -
+
+Hope your week is going well.
+
+We are migrating Hana Jensen's records to the new HR system, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+We are reconciling compensation data. Can you share Hana Jensen's salary and bonus figures on record?
+
+Whenever you can fit it in this week would be perfect.
+
+Thanks,
+Jordan
+Senior HR Generalist, Stellar Aerospace",70,malicious
+Hana Jensen,3,data377.txt,"Good morning Ryan,
+
+Quick check-in from my side.
+
+We are migrating Hana Jensen’s records to the new HR system and need your help confirming one detail from your records.
+
+Could you verify whether security questions are configured on Hana Jensen’s account and whether they are current?
+
+Please let me know by Friday if you can help.
+
+Best,
+Jordan
+Senior HR Generalist, Stellar Aerospace",70,malicious
+Hana Jensen,4,data377.txt,"Hi Priya,
+
+I hope this finds you well.
+
+We are migrating Hana Jensen's records to the new HR system, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+Could you confirm the health insurance and medical records we have on file for Hana Jensen? We are validating coverage details for the renewal.
+
+No deadline pressure, though earlier is always better.
+
+Many thanks,
+Jordan
+Senior HR Generalist, Stellar Aerospace",70,malicious

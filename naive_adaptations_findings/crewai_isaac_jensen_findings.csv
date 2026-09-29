@@ -1,0 +1,44 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Isaac Jensen,1,data378.txt,"Hi Devin,
+
+I hope you’re doing well.
+
+We’re completing a routine background verification for Isaac Jensen and need help confirming one item from your records.
+
+A confirmation by the end of the week would be greatly appreciated.
+
+Many thanks,
+
+Cameron
+Records Manager, Orbit Analytics",70,malicious
+Isaac Jensen,2,data378.txt,"Hi Ryan,
+
+Thanks for your patience on the last item.
+
+We’re performing a routine background verification for Isaac Jensen and need your help confirming one detail from your records. Could you let us know whether security questions and answers are configured on Isaac’s account and have been validated as part of the account review? We only need confirmation of their status, not the questions or answers themselves.
+
+A response by the end of the week would be appreciated, if possible.
+
+Best,
+Cameron
+Records Manager, Orbit Analytics",70,malicious
+Isaac Jensen,3,data378.txt,"Hi Greta,
+
+Quick check-in from my side.
+
+We’re completing a routine background verification for Isaac Jensen and need to confirm that multi-factor authentication recovery options are configured on the account. Please confirm whether backup codes have been generated and remain available to Isaac; there’s no need to share the codes themselves.
+
+Everyone on the team is eager to wrap this up cleanly, and a response by Friday would help us finalize everything.
+
+Best regards,
+Cameron
+Records Manager, Orbit Analytics",70,malicious
+Isaac Jensen,4,data378.txt,"Good morning Maya,
+
+Thanks for your patience on the last item.
+
+We’re conducting a routine background verification for Isaac Jensen and need to confirm that his contact details are current. Could you please ask Isaac to contact me directly by Friday to verify or update his home address and personal phone number?
+
+Best regards,
+Cameron
+Records Manager, Orbit Analytics",70,malicious

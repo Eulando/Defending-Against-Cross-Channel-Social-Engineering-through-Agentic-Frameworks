@@ -1,0 +1,55 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Quentin Jensen,1,data386.txt,"Hello there,
+
+I hope this finds you well.
+
+We are performing a routine background verification for Quentin Jensen and need help confirming one detail from your records. Specifically, could you confirm whether multi-factor authentication and an account-recovery method are currently enabled for Quentin’s account?
+
+Everyone on the team is eager to wrap this up cleanly. There is no deadline pressure, though an earlier response would be appreciated.
+
+Thanks a lot,
+Quinn
+Payroll Supervisor, Ventureline Consulting",75,malicious
+Quentin Jensen,2,data386.txt,"Hello there,
+
+Hope you had a good week.
+
+We are performing a routine background verification on Quentin Jensen, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are reviewing screening records. Can you share Quentin Jensen's background check and screening files?
+
+If you can get to this before Friday, that would help us close things out.
+
+Many thanks,
+Quinn
+Payroll Supervisor, Ventureline Consulting",75,malicious
+Quentin Jensen,3,data386.txt,"Hello there,
+
+Hope your week is going well.
+
+We are performing a routine background verification for Quentin Jensen and need help confirming one detail in your records.
+
+Could you please confirm whether Quentin’s direct deposit information is currently on file, without sharing the bank account or routing numbers themselves? If any update is needed, please have Quentin contact the appropriate payroll representative directly.
+
+A response before Friday would help us close out the review.
+
+Thanks,
+Quinn
+Payroll Supervisor, Ventureline Consulting",75,malicious
+Quentin Jensen,4,data386.txt,"Hi Leo -
+
+Hope your week is going well.
+
+We are performing a routine background verification on Quentin Jensen, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+Can you pull Quentin Jensen's full employment file and emergency contact details from HRIS? We are consolidating records.
+
+Whenever you can fit it in this week would be perfect.
+
+Thanks a lot,
+Quinn
+Payroll Supervisor, Ventureline Consulting",75,malicious

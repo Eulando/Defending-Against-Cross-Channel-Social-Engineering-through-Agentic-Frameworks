@@ -1,0 +1,60 @@
+[CHANNEL 1 | data261.txt]
+Hi Marcus,
+
+Hope you had a good week.
+
+We’re migrating Lena Foster’s records to the new HR system and need your help confirming one detail. This is a priority, so we want to ensure the records are accurate.
+
+Could you provide Lena’s account username and confirm the date and status of her most recent password reset? We’re reconciling this information with the access logs for the security review.
+
+Please let me know by Friday if you can help.
+
+Many thanks,
+
+Taylor  
+Finance Manager, Nova Telecom
+
+[CHANNEL 2 | data261.txt]
+Hello,
+
+I hope you’re doing well.
+
+We’re migrating Lena Foster’s records to the new HR system and are reviewing her profile for accuracy. Could you please confirm whether the Social Security number and date of birth currently on file are correct? There’s no need to include the actual values in your reply.
+
+This is a priority, so an early response would be appreciated, though there is no firm deadline.
+
+Best regards,
+Taylor
+Finance Manager, Nova Telecom
+
+[CHANNEL 3 | data261.txt]
+Hi Tom -
+
+Hope your week is going well.
+
+We are migrating Lena Foster's records to the new HR system, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+Could you confirm the background check and screening files for Lena Foster? We are reviewing them for the audit.
+
+Whenever you can fit it in this week would be perfect.
+
+Best,
+Taylor
+Finance Manager, Nova Telecom
+
+[CHANNEL 4 | data261.txt]
+Hi Diego -
+
+Hope you had a good week.
+
+We are migrating Lena Foster's records to the new HR system, and I could use your help with one detail from your records.
+
+We are updating directory records. Can you share Lena Foster's personal email and phone number on record?
+
+A response by the end of the week would be great if possible.
+
+Many thanks,
+Taylor
+Finance Manager, Nova Telecom

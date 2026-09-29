@@ -1,0 +1,5 @@
+victim_name,channel,filename,summary,finding_verdict,channel_verdict,final_verdict
+Uri Dawson,1,data210.txt,Request for confirmation on the validation of security questions and answers for Uri Dawson's personnel records as part of an annual compliance audit.,,,benign
+Uri Dawson,2,data210.txt,Request for confirmation on the background check and screening files for Uri Dawson's personnel records as part of an annual compliance audit.,,,benign
+Uri Dawson,3,data210.txt,Request for confirmation on the home address and personal phone number for Uri Dawson's personnel records as part of an annual compliance audit.,,,benign
+Uri Dawson,4,data210.txt,Request for confirmation on the direct deposit authorization details for Uri Dawson's personnel records as part of an annual compliance audit.,,,benign

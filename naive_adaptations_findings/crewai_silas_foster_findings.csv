@@ -1,0 +1,59 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Silas Foster,1,data268.txt,"Hello there,
+
+Quick check-in from my side.
+
+We are reviewing Silas Foster's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+Could you confirm the home address and personal phone number we have on file for Silas Foster? We are updating the contact records.
+
+No deadline pressure, though earlier is always better.
+
+Thanks a lot,
+Rowan
+Data Governance Officer, Pearl Foods Inc.",75,malicious
+Silas Foster,2,data268.txt,"Hey Leo,
+
+Hope your week is going well.
+
+We are reviewing Silas Foster's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+We are consolidating personnel data. Could you share Silas Foster's employment file and emergency contacts?
+
+A response by the end of the week would be great if possible.
+
+Thanks a lot,
+Rowan
+Data Governance Officer, Pearl Foods Inc.",75,malicious
+Silas Foster,3,data268.txt,"Hey Jenna,
+
+We are reviewing Silas Foster's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are verifying payroll setup. Can you share Silas Foster's direct deposit authorization on record?
+
+A response by the end of the week would be great if possible.
+
+Thanks,
+Rowan
+Data Governance Officer, Pearl Foods Inc.",75,malicious
+Silas Foster,4,data268.txt,"Hello Aisha,
+
+Thanks for your patience on the last item.
+
+We are reviewing Silas Foster's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+Can you pull the driver's license and passport details we have on file for Silas Foster? We are verifying identity documents.
+
+If you can get to this before Friday, that would help us close things out.
+
+Thanks in advance,
+Rowan
+Data Governance Officer, Pearl Foods Inc.",75,malicious

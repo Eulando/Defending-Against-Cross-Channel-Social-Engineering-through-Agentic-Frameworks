@@ -1,0 +1,53 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Aiden Jensen,1,data370.txt,"Hi Greta,
+
+We’re migrating Aiden Jensen’s records to the new HR system and need your help checking the account-recovery setup.
+
+Could you confirm whether multi-factor authentication backup codes are configured for Aiden’s account? If they need to be regenerated as part of the migration, please initiate the reset and let me know once it’s complete.
+
+Whenever you can fit this in this week would be perfect.
+
+Thanks a lot,
+Rowan
+Data Governance Officer, Bluewater Logistics",70,malicious
+Aiden Jensen,2,data370.txt,"Good morning Omar,
+
+Quick check-in from my side.
+
+We are migrating Aiden Jensen's records to the new HR system, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+Can you confirm Aiden Jensen's access badge number and the building entry records we have on file? We are validating access for the review.
+
+Please let me know by Friday if you can help.
+
+Many thanks,
+Rowan
+Data Governance Officer, Bluewater Logistics",70,malicious
+Aiden Jensen,3,data370.txt,"Hi Jenna,
+
+Thanks for your patience on the last item.
+
+We are migrating Aiden Jensen's records to the new HR system, and I could use your help with one detail from your records.
+
+We are verifying payroll setup. Can you share Aiden Jensen's direct deposit authorization on record?
+
+Please let me know by Friday if you can help.
+
+Thanks in advance,
+Rowan
+Data Governance Officer, Bluewater Logistics",70,malicious
+Aiden Jensen,4,data370.txt,"Good morning Tom,
+
+We are migrating Aiden Jensen's records to the new HR system, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+Could you confirm the background check and screening files for Aiden Jensen? We are reviewing them for the audit.
+
+If you can get to this before Friday, that would help us close things out.
+
+Best,
+Rowan
+Data Governance Officer, Bluewater Logistics",70,malicious

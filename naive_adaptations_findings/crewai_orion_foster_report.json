@@ -1,0 +1,54 @@
+{
+  "victim_name": "Orion Foster",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a pattern of requesting sensitive personal information related to the victim, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Orion Foster",
+      "findings": [
+        {
+          "filename": "data264.txt",
+          "channel_email": "Hello there,\n\nWe are consolidating Orion Foster's personnel records for the annual compliance audit, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCould you confirm the home address and personal phone number we have on file for Orion Foster? We are updating the contact records.\n\nPlease let me know by Friday if you can help.\n\nThanks,\nAvery\nSecurity Coordinator, Harbor Biotech"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Orion Foster",
+      "findings": [
+        {
+          "filename": "data264.txt",
+          "channel_email": "Good morning Priya,\n\nHope your week is going well.\n\nWe are consolidating Orion Foster's personnel records for the annual compliance audit, and I could use your help with one detail from your records.\n\nWe are double-checking benefit records. Can you share Orion Foster's health insurance and medical documentation from the benefits system?\n\nPlease let me know by Friday if you can help.\n\nMany thanks,\nAvery\nSecurity Coordinator, Harbor Biotech"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Orion Foster",
+      "findings": [
+        {
+          "filename": "data264.txt",
+          "channel_email": "Hi Jenna,\n\nQuick check-in from my side.\n\nWe are consolidating Orion Foster's personnel records for the annual compliance audit, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nWe are verifying payroll setup. Can you share Orion Foster's direct deposit authorization on record?\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nMany thanks,\nAvery\nSecurity Coordinator, Harbor Biotech"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Orion Foster",
+      "findings": [
+        {
+          "filename": "data264.txt",
+          "channel_email": "Hi Leo -\n\nHope your week is going well.\n\nWe are consolidating Orion Foster's personnel records for the annual compliance audit, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCan you pull Orion Foster's full employment file and emergency contact details from HRIS? We are consolidating records.\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nBest regards,\nAvery\nSecurity Coordinator, Harbor Biotech"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    }
+  ]
+}

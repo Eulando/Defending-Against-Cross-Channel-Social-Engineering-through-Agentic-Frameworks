@@ -1,0 +1,53 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Orion Ellis,1,data234.txt,"Good morning Jenna,
+
+I hope this finds you well.
+
+We are reviewing Orion Ellis's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We are verifying payroll setup. Can you share Orion Ellis's direct deposit authorization on record?
+
+Please let me know by Friday if you can help.
+
+Many thanks,
+Jordan
+Senior HR Generalist, Cortex Software",45,benign
+Orion Ellis,2,data234.txt,"Hi Maya -
+
+Hope your week is going well.
+
+We’re reviewing Orion Ellis’s account for the upcoming insurance renewal and need to confirm that the contact details on record are current. Could you please ask Orion to review and update their home address and personal phone number directly in the HR system?
+
+If this can be completed before Friday, it will help us close out the renewal.
+
+Best regards,
+Jordan
+Senior HR Generalist, Cortex Software",45,benign
+Orion Ellis,3,data234.txt,"Hello there,
+
+Hope you had a good week.
+
+We’re reviewing Orion Ellis’s account for the insurance renewal process and need to confirm that the direct deposit details on record are current. Could you ask Orion to review and confirm the bank account and routing information directly through the authorized payroll system?
+
+There’s no immediate deadline, though an earlier confirmation would be appreciated.
+
+Thanks in advance,
+
+Jordan  
+Senior HR Generalist  
+Cortex Software",45,benign
+Orion Ellis,4,data234.txt,"Hey Tom,
+
+Hope you had a good week.
+
+We are reviewing Orion Ellis's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+We are reviewing screening records. Can you share Orion Ellis's background check and screening files?
+
+Whenever you can fit it in this week would be perfect.
+
+Best,
+Jordan
+Senior HR Generalist, Cortex Software",45,benign

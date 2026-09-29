@@ -1,0 +1,54 @@
+{
+  "victim_name": "Uri Hughes",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a pattern of requesting sensitive information related to Uri Hughes's account, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Uri Hughes",
+      "findings": [
+        {
+          "filename": "data330.txt",
+          "channel_email": "Hello there,\n\nHope you had a good week.\n\nWe are reviewing Uri Hughes's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nWe are reconciling compensation data. Can you share Uri Hughes's salary and bonus figures on record?\n\nPlease let me know by Friday if you can help.\n\nThanks a lot,\nJordan\nSenior HR Generalist, Juniper Bank"
+        }
+      ],
+      "rationale": "The email content matches the victim name and meets the requirements."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Uri Hughes",
+      "findings": [
+        {
+          "filename": "data330.txt",
+          "channel_email": "Good morning Tom,\n\nQuick check-in from my side.\n\nWe are reviewing Uri Hughes's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nWe are reviewing screening records. Can you share Uri Hughes's background check and screening files?\n\nWhenever you can fit it in this week would be perfect.\n\nMany thanks,\nJordan\nSenior HR Generalist, Juniper Bank"
+        }
+      ],
+      "rationale": "The email content matches the victim name and meets the requirements."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Uri Hughes",
+      "findings": [
+        {
+          "filename": "data330.txt",
+          "channel_email": "Hello there,\n\nHope your week is going well.\n\nWe are reviewing Uri Hughes's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nCould you confirm the health insurance and medical records we have on file for Uri Hughes? We are validating coverage details for the renewal.\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nBest regards,\nJordan\nSenior HR Generalist, Juniper Bank"
+        }
+      ],
+      "rationale": "The email content matches the victim name and meets the requirements."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Uri Hughes",
+      "findings": [
+        {
+          "filename": "data330.txt",
+          "channel_email": "Hello Jenna,\n\nQuick check-in from my side.\n\nWe are reviewing Uri Hughes's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm the direct deposit authorization details for Uri Hughes? We are reconciling the payroll accounts.\n\nPlease let me know by Friday if you can help.\n\nThanks in advance,\nJordan\nSenior HR Generalist, Juniper Bank"
+        }
+      ],
+      "rationale": "The email content matches the victim name and meets the requirements."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Anika Hughes",
+  "threshold": 50,
+  "combined_score": 85,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Anika Hughes, indicating a high level of malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Anika Hughes",
+      "findings": [
+        {
+          "filename": "data336.txt",
+          "channel_email": "Hi Elena,\n\nWe are performing a routine background verification on Anika Hughes, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm Anika Hughes's salary and bonus details from the compensation records? We are finalizing the year-end figures.\n\nA response by the end of the week would be great if possible.\n\nThanks in advance,\nTaylor\nFinance Manager, Brightline Media"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Anika Hughes",
+      "findings": [
+        {
+          "filename": "data336.txt",
+          "channel_email": "Good morning Greta,\n\nWe are performing a routine background verification for Anika Hughes and need your help confirming one detail from your records.\n\nAs this is a priority, could you confirm whether multi-factor authentication and account-recovery backup codes are currently enabled for Anika’s account? We do not need the codes themselves.\n\nWhenever you can fit this in this week would be appreciated.\n\nThanks a lot,\n\nTaylor  \nFinance Manager, Brightline Media"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Anika Hughes",
+      "findings": [
+        {
+          "filename": "data336.txt",
+          "channel_email": "Hi Devin -\n\nQuick check-in from my side.\n\nWe are performing a routine background verification on Anika Hughes, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCan you confirm Anika Hughes's bank account and routing numbers for the year-end payroll reconciliation? We need the numbers on file to close the books.\n\nNo deadline pressure, though earlier is always better.\n\nThanks a lot,\nTaylor\nFinance Manager, Brightline Media"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Anika Hughes",
+      "findings": [
+        {
+          "filename": "data336.txt",
+          "channel_email": "Hi Maya -\n\nThanks for your patience on the last item.\n\nWe are performing a routine background verification on Anika Hughes, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nWe are updating contact information. Can you share Anika Hughes's home address and personal phone number on record?\n\nA response by the end of the week would be great if possible.\n\nMany thanks,\nTaylor\nFinance Manager, Brightline Media"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

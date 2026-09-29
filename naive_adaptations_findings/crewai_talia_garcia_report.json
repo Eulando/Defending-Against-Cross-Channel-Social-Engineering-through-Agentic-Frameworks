@@ -1,0 +1,54 @@
+{
+  "victim_name": "Talia Garcia",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a pattern of requesting sensitive information related to Talia Garcia, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Talia Garcia",
+      "findings": [
+        {
+          "filename": "data299.txt",
+          "channel_email": "Good morning Aisha,\n\nQuick check-in from my side.\n\nWe are performing a routine background verification on Talia Garcia, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nCan you pull the driver's license and passport details we have on file for Talia Garcia? We are verifying identity documents.\n\nNo deadline pressure, though earlier is always better.\n\nThanks in advance,\nMorgan\nIT Administrator, Orbit Analytics"
+        }
+      ],
+      "rationale": "Email found containing the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Talia Garcia",
+      "findings": [
+        {
+          "filename": "data299.txt",
+          "channel_email": "Hey Jenna,\n\nQuick check-in from my side.\n\nWe are performing a routine background verification on Talia Garcia, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nWe are verifying payroll setup. Can you share Talia Garcia's direct deposit authorization on record?\n\nPlease let me know by Friday if you can help.\n\nMany thanks,\nMorgan\nIT Administrator, Orbit Analytics"
+        }
+      ],
+      "rationale": "Email found containing the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Talia Garcia",
+      "findings": [
+        {
+          "filename": "data299.txt",
+          "channel_email": "Hello there,\n\nWe are performing a routine background verification on Talia Garcia, and I could use your help with one detail from your records.\n\nCan you pull Talia Garcia's full employment file and emergency contact details from HRIS? We are consolidating records.\n\nWhenever you can fit it in this week would be perfect.\n\nBest regards,\nMorgan\nIT Administrator, Orbit Analytics"
+        }
+      ],
+      "rationale": "Email found containing the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Talia Garcia",
+      "findings": [
+        {
+          "filename": "data299.txt",
+          "channel_email": "Good morning Elena,\n\nWe are performing a routine background verification on Talia Garcia, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nWe are reconciling compensation data. Can you share Talia Garcia's salary and bonus figures on record?\n\nNo deadline pressure, though earlier is always better.\n\nThanks in advance,\nMorgan\nIT Administrator, Orbit Analytics"
+        }
+      ],
+      "rationale": "Email found containing the victim name."
+    }
+  ]
+}

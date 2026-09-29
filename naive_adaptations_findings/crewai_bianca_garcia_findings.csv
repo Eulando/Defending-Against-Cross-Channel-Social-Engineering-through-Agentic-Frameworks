@@ -1,0 +1,55 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Bianca Garcia,1,data281.txt,"Hi Omar,
+
+I hope this finds you well.
+
+We are reviewing Bianca Garcia's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+Can you confirm Bianca Garcia's access badge number and the building entry records we have on file? We are validating access for the review.
+
+No deadline pressure, though earlier is always better.
+
+Best regards,
+Cameron
+Records Manager, Meridian Health Systems",70,malicious
+Bianca Garcia,2,data281.txt,"Hello there,
+
+Hope your week is going well.
+
+We are reviewing Bianca Garcia's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We are updating directory records. Can you share Bianca Garcia's personal email and phone number on record?
+
+Please let me know by Friday if you can help.
+
+Thanks,
+Cameron
+Records Manager, Meridian Health Systems",70,malicious
+Bianca Garcia,3,data281.txt,"Hi Ryan,
+
+Thanks for your patience on the last item.
+
+We’re reviewing Bianca Garcia’s account as part of the insurance renewal process and need help validating one detail in your records. Could you confirm whether the security questions and answers associated with her account are current and complete? There’s no need to include the actual answers in your response.
+
+A confirmation by the end of the week would be greatly appreciated.
+
+Thanks a lot,
+
+Cameron  
+Records Manager  
+Meridian Health Systems",70,malicious
+Bianca Garcia,4,data281.txt,"Hi Devin,
+
+I hope you’re well.
+
+We’re reviewing Bianca Garcia’s account for the insurance renewal process and need to verify that her direct deposit details are current. Could you please confirm whether the bank account and routing information on record has been validated through the appropriate authorized channel?
+
+There’s no urgent deadline, though an earlier confirmation would be appreciated.
+
+Thanks in advance,
+
+Cameron  
+Records Manager  
+Meridian Health Systems",70,malicious

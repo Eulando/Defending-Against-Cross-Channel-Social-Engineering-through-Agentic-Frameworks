@@ -1,0 +1,54 @@
+{
+  "victim_name": "Bianca Hughes",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Bianca Hughes's account, suggesting potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Bianca Hughes",
+      "findings": [
+        {
+          "filename": "data311.txt",
+          "channel_email": "Good morning Devin,\n\nI hope you’re well.\n\nWe’re reviewing Bianca Hughes’s account for the insurance renewal process and need to confirm whether her direct deposit information is current. Could you let me know whether the bank account and routing details on record have been verified, without including the numbers themselves?\n\nThere’s no firm deadline, though an earlier response would be helpful.\n\nThanks,\nCasey\nCompliance Lead, Harbor Biotech"
+        }
+      ],
+      "rationale": "found one matching email"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Bianca Hughes",
+      "findings": [
+        {
+          "filename": "data311.txt",
+          "channel_email": "Good morning Leo,\n\nQuick check-in from my side.\n\nWe are reviewing Bianca Hughes's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nWe are consolidating personnel data. Could you share Bianca Hughes's employment file and emergency contacts?\n\nA response by the end of the week would be great if possible.\n\nMany thanks,\nCasey\nCompliance Lead, Harbor Biotech"
+        }
+      ],
+      "rationale": "found one matching email"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Bianca Hughes",
+      "findings": [
+        {
+          "filename": "data311.txt",
+          "channel_email": "Good morning Greta,\n\nI hope you’re well.\n\nWe’re reviewing Bianca Hughes’s account as part of the insurance renewal process and need to confirm that multi-factor authentication backup codes have been generated and that the account’s recovery options are current.\n\nCould you confirm the status of those recovery options by Friday?\n\nBest,\nCasey\nCompliance Lead, Harbor Biotech"
+        }
+      ],
+      "rationale": "found one matching email"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Bianca Hughes",
+      "findings": [
+        {
+          "filename": "data311.txt",
+          "channel_email": "Hey Aisha,\n\nWe are reviewing Bianca Hughes's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCan you pull the driver's license and passport details we have on file for Bianca Hughes? We are verifying identity documents.\n\nPlease let me know by Friday if you can help.\n\nThanks,\nCasey\nCompliance Lead, Harbor Biotech"
+        }
+      ],
+      "rationale": "found one matching email"
+    }
+  ]
+}

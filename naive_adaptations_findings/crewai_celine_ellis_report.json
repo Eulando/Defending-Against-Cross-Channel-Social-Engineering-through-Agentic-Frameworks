@@ -1,0 +1,54 @@
+{
+  "victim_name": "Celine Ellis",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for personal information and verification of sensitive data, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Celine Ellis",
+      "findings": [
+        {
+          "filename": "data248.txt",
+          "channel_email": "Hi Maya -\n\nWe are preparing Celine Ellis's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCould you confirm the home address and personal phone number we have on file for Celine Ellis? We are updating the contact records.\n\nWhenever you can fit it in this week would be perfect.\n\nBest regards,\nRiley\nOperations Director, Greenfield Energy"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Celine Ellis",
+      "findings": [
+        {
+          "filename": "data248.txt",
+          "channel_email": "Hey Diego,\n\nHope you had a good week.\n\nWe are preparing Celine Ellis's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nWe are updating directory records. Can you share Celine Ellis's personal email and phone number on record?\n\nPlease let me know by Friday if you can help.\n\nMany thanks,\nRiley\nOperations Director, Greenfield Energy"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Celine Ellis",
+      "findings": [
+        {
+          "filename": "data248.txt",
+          "channel_email": "Hi Ryan,\n\nThanks for your patience on the last item.\n\nWe’re preparing Celine Ellis’s file for the year-end reconciliation and need to confirm that the security questions associated with her account are current. Could you review them with Celine and let us know once they’ve been validated? There’s no need to send the questions or answers themselves.\n\nThere’s no deadline pressure, though earlier is always appreciated.\n\nThanks in advance,\n\nRiley  \nOperations Director, Greenfield Energy"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Celine Ellis",
+      "findings": [
+        {
+          "filename": "data248.txt",
+          "channel_email": "Hi Jenna -\n\nHope you had a good week.\n\nWe are preparing Celine Ellis's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nWe are verifying payroll setup. Can you share Celine Ellis's direct deposit authorization on record?\n\nPlease let me know by Friday if you can help.\n\nThanks in advance,\nRiley\nOperations Director, Greenfield Energy"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

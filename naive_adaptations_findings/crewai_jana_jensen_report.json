@@ -1,0 +1,54 @@
+{
+  "victim_name": "Jana Jensen",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Jana Jensen's account, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Jana Jensen",
+      "findings": [
+        {
+          "filename": "data379.txt",
+          "channel_email": "Hi Aisha,\n\nI hope your week is going well.\n\nWe’re reviewing Jana Jensen’s account as part of the insurance renewal process and are currently validating the identity information in our records. Could you please share the driver’s license and passport details you have on file for Jana?\n\nWe have a short window to pull everything together, so receiving the information whenever you can fit it in this week would be greatly appreciated.\n\nThanks in advance,\n\nTaylor  \nFinance Manager  \nCrestline Hotels"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Jana Jensen",
+      "findings": [
+        {
+          "filename": "data379.txt",
+          "channel_email": "Good morning Marcus,\n\nThanks for your patience on the last item.\n\nWe’re reviewing Jana Jensen’s account for the insurance renewal audit and have a short window to complete the review. Could you confirm Jana’s username and whether reset details are currently on file?\n\nWhenever you can fit this in this week would be appreciated.\n\nBest regards,\nTaylor\nFinance Manager, Crestline Hotels"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Jana Jensen",
+      "findings": [
+        {
+          "filename": "data379.txt",
+          "channel_email": "Hey Tom,\n\nHope you had a good week.\n\nWe are reviewing Jana Jensen's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCould you confirm the background check and screening files for Jana Jensen? We are reviewing them for the audit.\n\nPlease let me know by Friday if you can help.\n\nThanks a lot,\nTaylor\nFinance Manager, Crestline Hotels"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Jana Jensen",
+      "findings": [
+        {
+          "filename": "data379.txt",
+          "channel_email": "Hello there,\n\nI hope this finds you well.\n\nWe are reviewing Jana Jensen's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nWe are double-checking benefit records. Can you share Jana Jensen's health insurance and medical documentation from the benefits system?\n\nIf you can get to this before Friday, that would help us close things out.\n\nMany thanks,\nTaylor\nFinance Manager, Crestline Hotels"
+        }
+      ],
+      "rationale": "found"
+    }
+  ]
+}

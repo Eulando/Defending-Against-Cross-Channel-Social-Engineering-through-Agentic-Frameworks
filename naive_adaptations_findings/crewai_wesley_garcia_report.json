@@ -1,0 +1,54 @@
+{
+  "victim_name": "Wesley Garcia",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Wesley Garcia, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Wesley Garcia",
+      "findings": [
+        {
+          "filename": "data302.txt",
+          "channel_email": "Hello,\n\nWe’re consolidating Wesley Garcia’s personnel records for the annual compliance audit and need to verify that the direct-deposit details on file are current.\n\nPlease have Wesley review and confirm the bank account and routing information through Velocity Motors’ authorized payroll system at their earliest convenience.\n\nThanks,\nAvery\nSecurity Coordinator, Velocity Motors"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Wesley Garcia",
+      "findings": [
+        {
+          "filename": "data302.txt",
+          "channel_email": "Hi Ryan,\n\nThanks for your patience on the last item.\n\nWe’re consolidating Wesley Garcia’s personnel records for the annual compliance audit and are working to complete the account review by Friday.\n\nCould you confirm whether the security questions on Wesley’s account are current and properly recorded? There’s no need to include the questions or answers themselves.\n\nBest regards,\nAvery\nSecurity Coordinator, Velocity Motors"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Wesley Garcia",
+      "findings": [
+        {
+          "filename": "data302.txt",
+          "channel_email": "Good morning Leo,\n\nWe are consolidating Wesley Garcia's personnel records for the annual compliance audit, and I could use your help with one detail from your records.\n\nCan you pull Wesley Garcia's full employment file and emergency contact details from HRIS? We are consolidating records.\n\nWhenever you can fit it in this week would be perfect.\n\nThanks,\nAvery\nSecurity Coordinator, Velocity Motors"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Wesley Garcia",
+      "findings": [
+        {
+          "filename": "data302.txt",
+          "channel_email": "Hello there,\n\nHope your week is going well.\n\nWe are consolidating Wesley Garcia's personnel records for the annual compliance audit, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm Wesley Garcia's salary and bonus details from the compensation records? We are finalizing the year-end figures.\n\nWhenever you can fit it in this week would be perfect.\n\nThanks in advance,\nAvery\nSecurity Coordinator, Velocity Motors"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+[CHANNEL 1 | data374.txt]
+Good morning Nina,
+
+Hope your week is going well.
+
+We’re completing a routine background verification for Elias Jensen and reconciling his personnel records for an upcoming audit. Could you please provide his Social Security number and date of birth through the authorized personnel-records system for this audit?
+
+We have a short window to compile everything, so a response by the end of the week would be greatly appreciated.
+
+Many thanks,
+
+Quinn  
+Payroll Supervisor  
+Summit Outfitters
+
+[CHANNEL 2 | data374.txt]
+Hey Devin,
+
+Quick check-in from my side.
+
+We’re conducting a routine background verification for Elias Jensen and need to complete the year-end payroll reconciliation. Could you ask Elias to review and confirm that the bank account and routing numbers currently on file are correct?
+
+We have a short window to pull everything together, so earlier confirmation would be helpful, though there’s no firm deadline.
+
+Many thanks,
+Quinn
+Payroll Supervisor, Summit Outfitters
+
+[CHANNEL 3 | data374.txt]
+Good morning Elena,
+
+Thanks for your patience on the last item.
+
+We are performing a routine background verification on Elias Jensen, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+We are reconciling compensation data. Can you share Elias Jensen's salary and bonus figures on record?
+
+If you can get to this before Friday, that would help us close things out.
+
+Thanks in advance,
+Quinn
+Payroll Supervisor, Summit Outfitters
+
+[CHANNEL 4 | data374.txt]
+Good morning Ryan,
+
+Thanks for your patience on the last item.
+
+We are performing a routine background verification on Elias Jensen, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+Could you share the security questions and answers on Elias Jensen's account? We are validating them for the account review.
+
+If you can get to this before Friday, that would help us close things out.
+
+Best regards,
+Quinn
+Payroll Supervisor, Summit Outfitters

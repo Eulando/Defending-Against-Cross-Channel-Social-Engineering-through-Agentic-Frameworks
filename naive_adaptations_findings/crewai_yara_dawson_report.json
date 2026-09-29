@@ -1,0 +1,54 @@
+{
+  "victim_name": "Yara Dawson",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Yara Dawson, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Yara Dawson",
+      "findings": [
+        {
+          "filename": "data214.txt",
+          "channel_email": "Hello there,\n\nWe are migrating Yara Dawson's records to the new HR system, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nWe are double-checking benefit records. Can you share Yara Dawson's health insurance and medical documentation from the benefits system?\n\nIf you can get to this before Friday, that would help us close things out.\n\nMany thanks,\nCameron\nRecords Manager, Summit Outfitters"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Yara Dawson",
+      "findings": [
+        {
+          "filename": "data214.txt",
+          "channel_email": "Hello there,\n\nThanks for your patience on the last item.\n\nWe are migrating Yara Dawson's records to the new HR system, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nWe are reviewing screening records. Can you share Yara Dawson's background check and screening files?\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nBest,\nCameron\nRecords Manager, Summit Outfitters"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Yara Dawson",
+      "findings": [
+        {
+          "filename": "data214.txt",
+          "channel_email": "Hello Diego,\n\nHope your week is going well.\n\nWe are migrating Yara Dawson's records to the new HR system, and I could use your help with one detail from your records.\n\nCould you confirm the personal email and personal phone records we have on file for Yara Dawson? We are updating the directory.\n\nIf you can get to this before Friday, that would help us close things out.\n\nMany thanks,\nCameron\nRecords Manager, Summit Outfitters"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Yara Dawson",
+      "findings": [
+        {
+          "filename": "data214.txt",
+          "channel_email": "Hello there,\n\nQuick check-in from my side.\n\nWe are migrating Yara Dawson's records to the new HR system, and I could use your help with one detail from your records.\n\nCan you confirm Yara Dawson's access badge number and the building entry records we have on file? We are validating access for the review.\n\nPlease let me know by Friday if you can help.\n\nThanks in advance,\nCameron\nRecords Manager, Summit Outfitters"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    }
+  ]
+}

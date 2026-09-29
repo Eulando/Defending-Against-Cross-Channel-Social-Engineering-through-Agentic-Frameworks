@@ -1,0 +1,54 @@
+{
+  "victim_name": "Elias Ellis",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates a focus on sensitive information and account management, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Elias Ellis",
+      "findings": [
+        {
+          "filename": "data224.txt",
+          "channel_email": "Hi Greta,\n\nHope your week is going well.\n\nWe’re preparing Elias Ellis’s file for the year-end reconciliation and need to confirm that account recovery options, including multi-factor authentication backup codes, are properly configured and available to Elias. Please do not share the backup codes themselves; we only need confirmation that they are current and accessible to the account owner.\n\nEveryone on the team is eager to wrap this up cleanly. Please let me know by Friday if you can confirm.\n\nThanks,\nDrew\nInternal Audit Lead, Brightline Media"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Elias Ellis",
+      "findings": [
+        {
+          "filename": "data224.txt",
+          "channel_email": "Hi Leo,\n\nThanks for your patience on the last item.\n\nWe are preparing Elias Ellis's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCan you pull Elias Ellis's full employment file and emergency contact details from HRIS? We are consolidating records.\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nBest,\nDrew\nInternal Audit Lead, Brightline Media"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Elias Ellis",
+      "findings": [
+        {
+          "filename": "data224.txt",
+          "channel_email": "Good morning Marcus,\n\nQuick check-in from my side.\n\nWe’re preparing Elias Ellis’s file for the year-end reconciliation and reviewing the related access logs. Could you confirm the account username associated with his file and whether a password reset is recorded, including the date and status of that reset?\n\nA response by the end of the week would be appreciated, if possible.\n\nBest regards,\nDrew\nInternal Audit Lead, Brightline Media"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Elias Ellis",
+      "findings": [
+        {
+          "filename": "data224.txt",
+          "channel_email": "Good morning Tom,\n\nHope your week is going well.\n\nWe are preparing Elias Ellis's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nWe are reviewing screening records. Can you share Elias Ellis's background check and screening files?\n\nNo deadline pressure, though earlier is always better.\n\nBest regards,\nDrew\nInternal Audit Lead, Brightline Media"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

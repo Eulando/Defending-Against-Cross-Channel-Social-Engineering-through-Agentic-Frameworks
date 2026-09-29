@@ -1,0 +1,51 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Aiden Ellis,1,data220.txt,"Hey Elena,
+
+Hope your week is going well.
+
+We are performing a routine background verification on Aiden Ellis, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are reconciling compensation data. Can you share Aiden Ellis's salary and bonus figures on record?
+
+If you can get to this before Friday, that would help us close things out.
+
+Many thanks,
+Avery
+Security Coordinator, Apex Insurance Co.",75,malicious
+Aiden Ellis,2,data220.txt,"Hi Aisha,
+
+Thanks for your patience with the last item.
+
+We’re completing a routine background verification for Aiden Ellis and need to confirm the identity documents in his record. Could you review the driver’s license and passport details on file and let me know once the verification is complete?
+
+Whenever you can fit this in this week would be perfect. Everyone is eager to wrap this up cleanly.
+
+Best,
+Avery
+Security Coordinator
+Apex Insurance Co.",75,malicious
+Aiden Ellis,3,data220.txt,"Hello Nina,
+
+Thanks for your patience with the previous item.
+
+We’re completing a routine background verification for Aiden Ellis and need your help confirming that the Social Security number and date of birth in his profile have been reviewed and are accurate.
+
+This is a priority, so if you could verify both fields in the authorized records system and confirm completion by Friday—without including the actual values in your reply—that would help us close out the review.
+
+Best regards,
+Avery
+Security Coordinator
+Apex Insurance Co.",75,malicious
+Aiden Ellis,4,data220.txt,"Hello there,
+
+Hope your week is going well.
+
+We’re completing a routine background verification for Aiden Ellis and need help confirming one payroll detail. Could you let us know whether the bank account and routing information currently on file is up to date for the year-end reconciliation? There’s no need to include the actual numbers in your reply.
+
+A response by the end of the week would be appreciated, if possible.
+
+Thanks a lot,
+Avery
+Security Coordinator, Apex Insurance Co.",75,malicious

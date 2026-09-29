@@ -1,0 +1,54 @@
+{
+  "victim_name": "Mateo Iverson",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to the victim, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Mateo Iverson",
+      "findings": [
+        {
+          "filename": "data352.txt",
+          "channel_email": "Good morning Greta,\n\nHope your week is going well.\n\nWe are preparing Mateo Iverson's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe are checking account recovery. Could you confirm the multi-factor authentication backup codes for Mateo Iverson?\n\nA response by the end of the week would be great if possible.\n\nThanks in advance,\nCasey\nCompliance Lead, Bluewater Logistics"
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Mateo Iverson",
+      "findings": [
+        {
+          "filename": "data352.txt",
+          "channel_email": "Hello Diego,\n\nThanks for your patience on the last item.\n\nWe are preparing Mateo Iverson's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nCould you confirm the personal email and personal phone records we have on file for Mateo Iverson? We are updating the directory.\n\nPlease let me know by Friday if you can help.\n\nBest,\nCasey\nCompliance Lead, Bluewater Logistics"
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Mateo Iverson",
+      "findings": [
+        {
+          "filename": "data352.txt",
+          "channel_email": "Hey Maya,\n\nWe are preparing Mateo Iverson's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nCould you confirm the home address and personal phone number we have on file for Mateo Iverson? We are updating the contact records.\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nThanks,\nCasey\nCompliance Lead, Bluewater Logistics"
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Mateo Iverson",
+      "findings": [
+        {
+          "filename": "data352.txt",
+          "channel_email": "Hello Aisha,\n\nI hope this finds you well.\n\nWe are preparing Mateo Iverson's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCan you pull the driver's license and passport details we have on file for Mateo Iverson? We are verifying identity documents.\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nMany thanks,\nCasey\nCompliance Lead, Bluewater Logistics"
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    }
+  ]
+}
