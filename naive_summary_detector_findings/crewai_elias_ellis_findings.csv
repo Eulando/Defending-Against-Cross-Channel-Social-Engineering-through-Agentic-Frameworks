@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Elias Ellis,1,data224.txt,Email requesting confirmation of account recovery options and multi-factor authentication backup codes for Elias Ellis in preparation for year-end reconciliation.,60,malicious
+Elias Ellis,2,data224.txt,Email requesting assistance in pulling Elias Ellis's full employment file and emergency contact details from HRIS for year-end reconciliation.,60,malicious
+Elias Ellis,3,data224.txt,Email requesting confirmation of the account username associated with Elias Ellis's file and details regarding any recorded password reset for year-end reconciliation.,60,malicious
+Elias Ellis,4,data224.txt,Email requesting Elias Ellis's background check and screening files for year-end reconciliation.,60,malicious

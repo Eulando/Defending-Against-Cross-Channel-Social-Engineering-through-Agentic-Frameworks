@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Paula Jensen,1,data385.txt,"Email from Drew, Internal Audit Lead at Velocity Motors, requesting Paula Jensen's home address and personal phone number for the insurance renewal process.",80,malicious
+Paula Jensen,2,data385.txt,"Email from Drew, Internal Audit Lead at Velocity Motors, requesting Paula Jensen's health insurance and medical documentation for the insurance renewal process.",80,malicious
+Paula Jensen,3,data385.txt,"Email from Drew, Internal Audit Lead at Velocity Motors, requesting verification of multi-factor authentication backup codes for Paula Jensen's account as part of the insurance renewal process.",80,malicious
+Paula Jensen,4,data385.txt,"Email from Drew, Internal Audit Lead at Velocity Motors, requesting verification of Paula Jensen's driver’s license and passport details for the insurance renewal process.",80,malicious

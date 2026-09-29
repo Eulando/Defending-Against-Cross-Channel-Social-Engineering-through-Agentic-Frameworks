@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Elias Iverson,1,data344.txt,"Email from Jordan, a Senior HR Generalist, requesting assistance in confirming the account-recovery configuration for Elias Iverson's records being migrated to a new HR system.",70,malicious
+Elias Iverson,2,data344.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of Elias Iverson's social security number and date of birth for updating his profile in the new HR system.",70,malicious
+Elias Iverson,3,data344.txt,"Email from Jordan, a Senior HR Generalist, requesting Elias Iverson's employment file and emergency contacts as part of the migration to a new HR system.",70,malicious
+Elias Iverson,4,data344.txt,"Email from Jordan, a Senior HR Generalist, requesting Elias Iverson's health insurance and medical documentation as part of the migration to a new HR system.",70,malicious

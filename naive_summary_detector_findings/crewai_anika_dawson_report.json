@@ -1,0 +1,54 @@
+{
+  "victim_name": "Anika Dawson",
+  "threshold": 50,
+  "combined_score": 40,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates a focus on compliance audits and verification of personal information, which is typical in administrative processes and does not suggest malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Anika Dawson",
+      "findings": [
+        {
+          "filename": "data216.txt",
+          "channel_summary": "Email requesting verification of Anika Dawson's identity documentation for a compliance audit, specifically her driver's license and passport details."
+        }
+      ],
+      "rationale": "The findings meet the requirements as there is one matching email containing the victim's name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Anika Dawson",
+      "findings": [
+        {
+          "filename": "data216.txt",
+          "channel_summary": "Email requesting confirmation of health insurance and medical records for Anika Dawson for a compliance audit, emphasizing a short deadline for response."
+        }
+      ],
+      "rationale": "The findings meet the requirements as there is one matching email containing the victim's name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Anika Dawson",
+      "findings": [
+        {
+          "filename": "data216.txt",
+          "channel_summary": "Email requesting confirmation of Anika Dawson's home address and personal phone number for a compliance audit, indicating no strict deadline but a preference for an earlier response."
+        }
+      ],
+      "rationale": "The findings meet the requirements as there is one matching email containing the victim's name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Anika Dawson",
+      "findings": [
+        {
+          "filename": "data216.txt",
+          "channel_summary": "Email requesting confirmation of background check and screening files for Anika Dawson for a compliance audit, indicating a preference for completion by Friday."
+        }
+      ],
+      "rationale": "The findings meet the requirements as there is one matching email containing the victim's name."
+    }
+  ]
+}

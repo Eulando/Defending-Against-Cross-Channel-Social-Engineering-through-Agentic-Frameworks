@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Bianca Ellis,1,data221.txt,"Email from Casey, the Compliance Lead at Greenfield Energy, requesting confirmation on the configuration of security questions and answers for Bianca Ellis's account as part of the migration to a new HR system.",80,malicious
+Bianca Ellis,2,data221.txt,"Email from Casey, the Compliance Lead at Greenfield Energy, requesting salary and bonus figures for Bianca Ellis as part of the migration to a new HR system.",80,malicious
+Bianca Ellis,3,data221.txt,"Email from Casey, the Compliance Lead at Greenfield Energy, requesting background check and screening files for Bianca Ellis as part of the migration to a new HR system.",80,malicious
+Bianca Ellis,4,data221.txt,"Email from Casey, the Compliance Lead at Greenfield Energy, requesting driver's license and passport details for Bianca Ellis as part of the migration to a new HR system.",80,malicious

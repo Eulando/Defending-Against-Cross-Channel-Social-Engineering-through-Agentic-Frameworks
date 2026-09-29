@@ -1,0 +1,54 @@
+{
+  "victim_name": "Vera Hughes",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive information related to Vera Hughes, including health insurance, direct deposit details, identifying information, and account access. This pattern suggests a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Vera Hughes",
+      "findings": [
+        {
+          "filename": "data331.txt",
+          "channel_summary": "Email requesting confirmation of health insurance and medical records for Vera Hughes as part of a routine background verification."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Vera Hughes",
+      "findings": [
+        {
+          "filename": "data331.txt",
+          "channel_summary": "Email requesting confirmation of direct deposit information for Vera Hughes as part of a routine background verification."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Vera Hughes",
+      "findings": [
+        {
+          "filename": "data331.txt",
+          "channel_summary": "Email requesting confirmation of identifying information, including Social Security number and date of birth, for Vera Hughes as part of a routine background verification."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Vera Hughes",
+      "findings": [
+        {
+          "filename": "data331.txt",
+          "channel_summary": "Email requesting confirmation of account access details, including username and reset information, for Vera Hughes as part of a routine background verification."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[CHANNEL 1 | data305.txt]
+Email from Quinn, Payroll Supervisor, requesting Zane Garcia's badge details and entry history for migration to a new HR system.
+
+[CHANNEL 2 | data305.txt]
+Email from Quinn, Payroll Supervisor, requesting confirmation of Zane Garcia's account username and recent password reset details for migration to a new HR system.
+
+[CHANNEL 3 | data305.txt]
+Email from Quinn, Payroll Supervisor, requesting Zane Garcia's Social Security number and date of birth for the migration of records to a new HR system.
+
+[CHANNEL 4 | data305.txt]
+Email from Quinn, Payroll Supervisor, requesting Zane Garcia's direct deposit authorization for the migration of records to a new HR system.

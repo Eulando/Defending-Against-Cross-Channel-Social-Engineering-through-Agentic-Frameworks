@@ -1,0 +1,54 @@
+{
+  "victim_name": "Celine Foster",
+  "threshold": 50,
+  "combined_score": 85,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context includes multiple requests for sensitive personal and financial information, indicating a high risk of social engineering.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Celine Foster",
+      "findings": [
+        {
+          "filename": "data278.txt",
+          "channel_summary": "Email requesting confirmation of Celine Foster's salary and bonus details for the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's account."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Celine Foster",
+      "findings": [
+        {
+          "filename": "data278.txt",
+          "channel_summary": "Email requesting confirmation of Celine Foster's home address and personal phone number for updating contact records."
+        }
+      ],
+      "rationale": "The email contains a request for specific personal information related to the victim's account."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Celine Foster",
+      "findings": [
+        {
+          "filename": "data278.txt",
+          "channel_summary": "Email requesting Celine Foster's bank account and routing numbers for verifying direct deposit details as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive financial information related to the victim's account."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Celine Foster",
+      "findings": [
+        {
+          "filename": "data278.txt",
+          "channel_summary": "Email requesting confirmation of Celine Foster's social security number and date of birth for updating her profile as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for highly sensitive personal information related to the victim's account."
+    }
+  ]
+}

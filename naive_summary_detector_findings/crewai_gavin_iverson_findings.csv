@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Gavin Iverson,1,data346.txt,"Email requesting confirmation of Gavin Iverson's salary and bonus details for migration to a new HR system, with a deadline for response.",60,malicious
+Gavin Iverson,2,data346.txt,"Email requesting Gavin Iverson's background check and screening files for migration to a new HR system, indicating no strict deadline but a preference for earlier submission.",60,malicious
+Gavin Iverson,3,data346.txt,"Email requesting confirmation of Gavin Iverson's access badge number and building entry records for validation during the migration to a new HR system, indicating no strict deadline but a preference for earlier submission.",60,malicious
+Gavin Iverson,4,data346.txt,"Email requesting confirmation of Gavin Iverson's direct deposit authorization details for payroll reconciliation during the migration to a new HR system, with a request for a response by the end of the week.",60,malicious

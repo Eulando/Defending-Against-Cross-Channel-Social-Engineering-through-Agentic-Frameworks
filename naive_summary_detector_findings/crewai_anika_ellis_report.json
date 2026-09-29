@@ -1,0 +1,54 @@
+{
+  "victim_name": "Anika Ellis",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal information related to Anika Ellis, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Anika Ellis",
+      "findings": [
+        {
+          "filename": "data246.txt",
+          "channel_summary": "Email from Quinn, the Payroll Supervisor, requesting confirmation of Anika Ellis's account-access status for an annual compliance audit and asking to initiate a credential-reset process if necessary."
+        }
+      ],
+      "rationale": "The findings meet the requirements as there is one matching email containing the victim's name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Anika Ellis",
+      "findings": [
+        {
+          "filename": "data246.txt",
+          "channel_summary": "Email from Quinn, the Payroll Supervisor, requesting confirmation of Anika Ellis's Social Security number and date of birth for an annual compliance audit, asking for verification without including the actual values."
+        }
+      ],
+      "rationale": "The findings meet the requirements as there is one matching email containing the victim's name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Anika Ellis",
+      "findings": [
+        {
+          "filename": "data246.txt",
+          "channel_summary": "Email from Quinn, the Payroll Supervisor, requesting Anika Ellis's salary and bonus figures for the annual compliance audit, asking for a response by the end of the week."
+        }
+      ],
+      "rationale": "The findings meet the requirements as there is one matching email containing the victim's name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Anika Ellis",
+      "findings": [
+        {
+          "filename": "data246.txt",
+          "channel_summary": "Email from Quinn, the Payroll Supervisor, requesting confirmation of Anika Ellis's direct deposit authorization details for the annual compliance audit, asking for completion by Friday."
+        }
+      ],
+      "rationale": "The findings meet the requirements as there is one matching email containing the victim's name."
+    }
+  ]
+}

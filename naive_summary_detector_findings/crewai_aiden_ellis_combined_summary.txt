@@ -1,0 +1,11 @@
+[CHANNEL 1 | data220.txt]
+Email requesting salary and bonus figures for Aiden Ellis as part of a routine background verification.
+
+[CHANNEL 2 | data220.txt]
+Email requesting confirmation of identity documents for Aiden Ellis as part of a routine background verification.
+
+[CHANNEL 3 | data220.txt]
+Email requesting verification of Social Security number and date of birth for Aiden Ellis as part of a routine background verification.
+
+[CHANNEL 4 | data220.txt]
+Email requesting confirmation of bank account and routing information for Aiden Ellis as part of a routine background verification.

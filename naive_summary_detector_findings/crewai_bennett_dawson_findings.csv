@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Bennett Dawson,1,data217.txt,"Email from Morgan, IT Administrator at Harbor Biotech, requesting Bennett Dawson's personal email and phone number for the insurance renewal process.",85,malicious
+Bennett Dawson,2,data217.txt,"Email from Morgan, IT Administrator at Harbor Biotech, requesting confirmation of Bennett Dawson's driver’s license and passport information for the insurance renewal process.",85,malicious
+Bennett Dawson,3,data217.txt,"Email from Morgan, IT Administrator at Harbor Biotech, requesting verification of Bennett Dawson's Social Security number and date of birth for the insurance renewal audit.",85,malicious
+Bennett Dawson,4,data217.txt,"Email from Morgan, IT Administrator at Harbor Biotech, requesting confirmation of multi-factor authentication backup codes for Bennett Dawson's account for the insurance renewal process.",85,malicious

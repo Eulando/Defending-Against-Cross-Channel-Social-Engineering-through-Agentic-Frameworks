@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Hana Iverson,1,data347.txt,"Email from Avery, a Security Coordinator at Cortex Software, requesting Hana Iverson's home address and personal phone number for year-end reconciliation.",85,malicious
+Hana Iverson,2,data347.txt,"Email from Avery, a Security Coordinator at Cortex Software, requesting confirmation of bank account and routing numbers for Hana Iverson's direct deposit for year-end reconciliation.",85,malicious
+Hana Iverson,3,data347.txt,"Email from Avery, a Security Coordinator at Cortex Software, requesting confirmation of security questions and answers for Hana Iverson's account for year-end reconciliation.",85,malicious
+Hana Iverson,4,data347.txt,"Email from Avery, a Security Coordinator at Cortex Software, requesting confirmation of the status of multi-factor authentication backup codes and account recovery options for Hana Iverson's account for year-end reconciliation.",85,malicious

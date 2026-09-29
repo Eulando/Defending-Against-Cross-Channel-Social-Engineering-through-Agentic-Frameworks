@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Aiden Garcia,1,data280.txt,Email requesting background check and screening files for Aiden Garcia as part of a routine verification process.,40,benign
+Aiden Garcia,2,data280.txt,Email requesting salary and bonus figures for Aiden Garcia as part of a routine background verification process.,40,benign
+Aiden Garcia,3,data280.txt,Email requesting health insurance and medical documentation for Aiden Garcia as part of a routine background verification process.,40,benign
+Aiden Garcia,4,data280.txt,Email requesting verification of direct deposit details for Aiden Garcia as part of a routine background verification process.,40,benign

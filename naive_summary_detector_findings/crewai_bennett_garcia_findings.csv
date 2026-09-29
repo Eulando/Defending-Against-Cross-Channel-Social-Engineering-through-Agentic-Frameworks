@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Bennett Garcia,1,data307.txt,"Email requesting assistance with Bennett Garcia's account for the insurance renewal process, specifically asking for background check and screening files.",60,malicious
+Bennett Garcia,2,data307.txt,Email requesting confirmation of account recovery security questions for Bennett Garcia's account as part of the insurance renewal process.,60,malicious
+Bennett Garcia,3,data307.txt,Email requesting confirmation of personal email and phone records for Bennett Garcia's account as part of the insurance renewal process.,60,malicious
+Bennett Garcia,4,data307.txt,Email requesting confirmation of health insurance and medical records for Bennett Garcia's account as part of the insurance renewal process.,60,malicious

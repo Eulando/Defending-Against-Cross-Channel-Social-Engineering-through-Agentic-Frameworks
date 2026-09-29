@@ -1,0 +1,54 @@
+{
+  "victim_name": "Hana Ellis",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive information related to Hana Ellis, including security questions, salary details, multi-factor authentication, and personal contact information, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Hana Ellis",
+      "findings": [
+        {
+          "filename": "data227.txt",
+          "channel_summary": "Email from Quinn, Payroll Supervisor at Harbor Biotech, requesting confirmation on whether Hana Ellis's account has security questions configured and up to date for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for confirmation regarding account security questions related to the victim, Hana Ellis."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Hana Ellis",
+      "findings": [
+        {
+          "filename": "data227.txt",
+          "channel_summary": "Email from Quinn, Payroll Supervisor at Harbor Biotech, requesting confirmation of Hana Ellis's salary and bonus details from compensation records for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for confirmation regarding salary and bonus details related to the victim, Hana Ellis."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Hana Ellis",
+      "findings": [
+        {
+          "filename": "data227.txt",
+          "channel_summary": "Email from Quinn, Payroll Supervisor at Harbor Biotech, requesting confirmation that multi-factor authentication recovery options are configured on Hana Ellis's account for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for verification of multi-factor authentication recovery options related to the victim, Hana Ellis."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Hana Ellis",
+      "findings": [
+        {
+          "filename": "data227.txt",
+          "channel_summary": "Email from Quinn, Payroll Supervisor at Harbor Biotech, requesting Hana Ellis's home address and personal phone number for updating contact information as part of year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for personal contact information related to the victim, Hana Ellis."
+    }
+  ]
+}

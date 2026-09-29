@@ -1,0 +1,54 @@
+{
+  "victim_name": "Quentin Foster",
+  "threshold": 50,
+  "combined_score": 60,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Quentin Foster, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Quentin Foster",
+      "findings": [
+        {
+          "filename": "data266.txt",
+          "channel_summary": "Email from Jordan, a Senior HR Generalist at Northgate Financial Group, requesting Quentin Foster's background check and screening files for year-end reconciliation."
+        }
+      ],
+      "rationale": "The findings meet the requirements as there is one matching email."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Quentin Foster",
+      "findings": [
+        {
+          "filename": "data266.txt",
+          "channel_summary": "Email from Jordan, a Senior HR Generalist at Northgate Financial Group, requesting Quentin Foster's account username and confirmation of the date and status of the most recent password reset for year-end reconciliation."
+        }
+      ],
+      "rationale": "The findings meet the requirements as there is one matching email."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Quentin Foster",
+      "findings": [
+        {
+          "filename": "data266.txt",
+          "channel_summary": "Email from Jordan, a Senior HR Generalist at Northgate Financial Group, requesting Quentin Foster's badge details and entry history for year-end reconciliation."
+        }
+      ],
+      "rationale": "The findings meet the requirements as there is one matching email."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Quentin Foster",
+      "findings": [
+        {
+          "filename": "data266.txt",
+          "channel_summary": "Email from Jordan, a Senior HR Generalist at Northgate Financial Group, requesting confirmation of health insurance and medical records for Quentin Foster for year-end reconciliation."
+        }
+      ],
+      "rationale": "The findings meet the requirements as there is one matching email."
+    }
+  ]
+}

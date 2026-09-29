@@ -1,0 +1,54 @@
+{
+  "victim_name": "Paula Hughes",
+  "threshold": 50,
+  "combined_score": 60,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a pattern of requests for sensitive information related to Paula Hughes, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Paula Hughes",
+      "findings": [
+        {
+          "filename": "data325.txt",
+          "channel_summary": "Email requesting confirmation of Paula Hughes's direct deposit authorization details for payroll reconciliation related to an annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Paula Hughes and meets the criteria for reporting."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Paula Hughes",
+      "findings": [
+        {
+          "filename": "data325.txt",
+          "channel_summary": "Email requesting assistance in pulling Paula Hughes's full employment file and emergency contact details for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Paula Hughes and meets the criteria for reporting."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Paula Hughes",
+      "findings": [
+        {
+          "filename": "data325.txt",
+          "channel_summary": "Email requesting confirmation of Paula Hughes's multi-factor authentication backup codes for account recovery options related to the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Paula Hughes and meets the criteria for reporting."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Paula Hughes",
+      "findings": [
+        {
+          "filename": "data325.txt",
+          "channel_summary": "Email requesting confirmation that Paula Hughes's personnel file includes her Social Security number and date of birth for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Paula Hughes and meets the criteria for reporting."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Isaac Garcia,1,data288.txt,"Email from Avery, a Security Coordinator, requesting badge details and entry history for Isaac Garcia as part of migrating his records to a new HR system.",70,malicious
+Isaac Garcia,2,data288.txt,"Email from Avery, a Security Coordinator, requesting background check and screening files for Isaac Garcia as part of migrating his records to a new HR system.",70,malicious
+Isaac Garcia,3,data288.txt,"Email from Avery, a Security Coordinator, requesting salary and bonus figures for Isaac Garcia as part of migrating his records to a new HR system.",70,malicious
+Isaac Garcia,4,data288.txt,"Email from Avery, a Security Coordinator, requesting the personal email address and phone number for Isaac Garcia as part of migrating his records to a new HR system.",70,malicious

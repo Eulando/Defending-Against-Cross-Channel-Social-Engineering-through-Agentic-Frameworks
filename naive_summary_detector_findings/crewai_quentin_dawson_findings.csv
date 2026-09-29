@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Quentin Dawson,1,data206.txt,"Email from Morgan, an IT Administrator, requesting Aisha to provide driver's license and passport details for Quentin Dawson for year-end reconciliation.",80,malicious
+Quentin Dawson,2,data206.txt,"Email from Morgan, an IT Administrator, requesting Ryan to confirm security questions and answers for Quentin Dawson's account for year-end reconciliation.",80,malicious
+Quentin Dawson,3,data206.txt,"Email from Morgan, an IT Administrator, requesting Nina to verify Quentin Dawson's Social Security number and date of birth for year-end reconciliation.",80,malicious
+Quentin Dawson,4,data206.txt,"Email from Morgan, an IT Administrator, requesting Maya to provide Quentin Dawson's home address and personal phone number for year-end reconciliation.",80,malicious

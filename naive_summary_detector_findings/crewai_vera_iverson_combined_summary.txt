@@ -1,0 +1,11 @@
+[CHANNEL 1 | data361.txt]
+Email requesting Vera Iverson to review and update her home address and personal phone number for the annual compliance audit.
+
+[CHANNEL 2 | data361.txt]
+Email requesting assistance in pulling Vera Iverson's full employment file and emergency contact details for the annual compliance audit.
+
+[CHANNEL 3 | data361.txt]
+Email requesting coordination with Vera Iverson to verify and update her bank account and routing numbers for direct deposit as part of the annual compliance audit.
+
+[CHANNEL 4 | data361.txt]
+Email requesting Vera Iverson's Social Security number and date of birth for the annual compliance audit.

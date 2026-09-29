@@ -1,0 +1,54 @@
+{
+  "victim_name": "Anika Garcia",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Anika Garcia, including financial details, account access, banking information, and physical access records, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Anika Garcia",
+      "findings": [
+        {
+          "filename": "data306.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Stellar Aerospace, requesting salary and bonus figures for Anika Garcia for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for specific financial details related to the victim, indicating a potential compliance check."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Anika Garcia",
+      "findings": [
+        {
+          "filename": "data306.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Stellar Aerospace, requesting confirmation of Anika Garcia's account username and details regarding the most recent password reset for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive account information related to the victim, indicating a potential compliance check."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Anika Garcia",
+      "findings": [
+        {
+          "filename": "data306.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Stellar Aerospace, requesting confirmation and update of Anika Garcia's direct deposit information for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive banking information related to the victim, indicating a potential compliance check."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Anika Garcia",
+      "findings": [
+        {
+          "filename": "data306.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Stellar Aerospace, requesting Anika Garcia's badge details and entry history for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive access information related to the victim, indicating a potential compliance check."
+    }
+  ]
+}

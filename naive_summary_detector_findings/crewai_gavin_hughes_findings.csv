@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Gavin Hughes,1,data316.txt,"Email from Avery, a Security Coordinator at Meridian Health Systems, requesting confirmation of personal email and phone records for Gavin Hughes for year-end reconciliation.",80,malicious
+Gavin Hughes,2,data316.txt,"Email from Avery, a Security Coordinator at Meridian Health Systems, requesting confirmation of health insurance and medical records for Gavin Hughes for year-end reconciliation.",80,malicious
+Gavin Hughes,3,data316.txt,"Email from Avery, a Security Coordinator at Meridian Health Systems, requesting confirmation of background check and screening files for Gavin Hughes for year-end reconciliation.",80,malicious
+Gavin Hughes,4,data316.txt,"Email from Avery, a Security Coordinator at Meridian Health Systems, requesting confirmation of direct deposit authorization for Gavin Hughes for year-end reconciliation.",80,malicious

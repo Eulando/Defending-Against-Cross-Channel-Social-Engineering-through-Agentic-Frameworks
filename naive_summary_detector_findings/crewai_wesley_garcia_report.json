@@ -1,0 +1,54 @@
+{
+  "victim_name": "Wesley Garcia",
+  "threshold": 50,
+  "combined_score": 60,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Wesley Garcia's employment and financial details, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Wesley Garcia",
+      "findings": [
+        {
+          "filename": "data302.txt",
+          "channel_summary": "Email requesting verification of Wesley Garcia's direct-deposit details for the annual compliance audit."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Wesley Garcia",
+      "findings": [
+        {
+          "filename": "data302.txt",
+          "channel_summary": "Email requesting confirmation of the security questions on Wesley Garcia's account for the annual compliance audit."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Wesley Garcia",
+      "findings": [
+        {
+          "filename": "data302.txt",
+          "channel_summary": "Email requesting assistance in pulling Wesley Garcia's full employment file and emergency contact details for the annual compliance audit."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Wesley Garcia",
+      "findings": [
+        {
+          "filename": "data302.txt",
+          "channel_summary": "Email requesting confirmation of Wesley Garcia's salary and bonus details for the annual compliance audit."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    }
+  ]
+}

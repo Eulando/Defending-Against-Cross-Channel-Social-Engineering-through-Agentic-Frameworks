@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Celine Ellis,1,data248.txt,Request for confirmation of home address and personal phone number for Celine Ellis as part of year-end reconciliation.,80,malicious
+Celine Ellis,2,data248.txt,Request for Celine Ellis's personal email and phone number as part of updating directory records for year-end reconciliation.,80,malicious
+Celine Ellis,3,data248.txt,Request to confirm the security questions associated with Celine Ellis's account for year-end reconciliation.,80,malicious
+Celine Ellis,4,data248.txt,Request for Celine Ellis's direct deposit authorization as part of verifying payroll setup for year-end reconciliation.,80,malicious

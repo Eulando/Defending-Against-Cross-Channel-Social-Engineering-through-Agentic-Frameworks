@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Bennett Ellis,1,data247.txt,"Email requesting assistance with migrating Bennett Ellis's records to a new HR system, specifically asking for salary and bonus figures.",60,malicious
+Bennett Ellis,2,data247.txt,"Email requesting assistance with migrating Bennett Ellis's records to a new HR system, specifically asking for employment file and emergency contacts.",60,malicious
+Bennett Ellis,3,data247.txt,"Email requesting assistance with the migration of Bennett Ellis's records to a new HR system, specifically asking for username and reset details.",60,malicious
+Bennett Ellis,4,data247.txt,Email requesting confirmation of home address and personal phone number for Bennett Ellis as part of the migration to a new HR system.,60,malicious

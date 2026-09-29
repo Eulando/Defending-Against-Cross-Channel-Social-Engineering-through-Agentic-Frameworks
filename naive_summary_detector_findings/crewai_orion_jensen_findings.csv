@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Orion Jensen,1,data384.txt,Email requesting confirmation of multi-factor authentication recovery options for Orion Jensen's account as part of a routine background verification.,80,malicious
+Orion Jensen,2,data384.txt,Email requesting confirmation of Orion Jensen's access badge number and building entry records as part of a routine background verification.,80,malicious
+Orion Jensen,3,data384.txt,Email requesting confirmation of Orion Jensen's salary and bonus details from compensation records as part of a routine background verification.,80,malicious
+Orion Jensen,4,data384.txt,Email requesting confirmation of security questions and answers for Orion Jensen's account as part of a routine background verification.,80,malicious

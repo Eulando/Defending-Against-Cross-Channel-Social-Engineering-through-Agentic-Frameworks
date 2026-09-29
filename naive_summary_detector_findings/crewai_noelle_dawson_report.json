@@ -1,0 +1,54 @@
+{
+  "victim_name": "Noelle Dawson",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal information related to Noelle Dawson, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Noelle Dawson",
+      "findings": [
+        {
+          "filename": "data203.txt",
+          "channel_summary": "Email from Rowan, a Data Governance Officer, requesting confirmation of Noelle Dawson's access badge number and building entry records for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim, Noelle Dawson."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Noelle Dawson",
+      "findings": [
+        {
+          "filename": "data203.txt",
+          "channel_summary": "Email from Rowan, a Data Governance Officer, requesting confirmation of Noelle Dawson's home address and personal phone number for updating contact records related to year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for specific personal information related to the victim, Noelle Dawson."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Noelle Dawson",
+      "findings": [
+        {
+          "filename": "data203.txt",
+          "channel_summary": "Email from Rowan, a Data Governance Officer, requesting driver's license and passport details for Noelle Dawson to verify identity documents related to year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for specific identity verification information related to the victim, Noelle Dawson."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Noelle Dawson",
+      "findings": [
+        {
+          "filename": "data203.txt",
+          "channel_summary": "Email from Rowan, a Data Governance Officer, requesting Noelle Dawson's employment file and emergency contacts for consolidating personnel data related to year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for specific employment and emergency contact information related to the victim, Noelle Dawson."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Vera Foster",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to background verification, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Vera Foster",
+      "findings": [
+        {
+          "filename": "data271.txt",
+          "channel_summary": "Request for background verification details on Vera Foster, specifically badge details and entry history."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's background verification."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Vera Foster",
+      "findings": [
+        {
+          "filename": "data271.txt",
+          "channel_summary": "Request for salary and bonus figures for Vera Foster as part of a background verification process."
+        }
+      ],
+      "rationale": "The email contains a request for compensation data related to the victim's background verification."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Vera Foster",
+      "findings": [
+        {
+          "filename": "data271.txt",
+          "channel_summary": "Request to confirm multi-factor authentication backup codes for Vera Foster's account as part of a background verification process."
+        }
+      ],
+      "rationale": "The email contains a request for account-recovery details related to the victim's background verification."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Vera Foster",
+      "findings": [
+        {
+          "filename": "data271.txt",
+          "channel_summary": "Request to confirm health insurance and medical records for Vera Foster as part of a background verification process."
+        }
+      ],
+      "rationale": "The email contains a request for health insurance and medical records related to the victim's background verification."
+    }
+  ]
+}

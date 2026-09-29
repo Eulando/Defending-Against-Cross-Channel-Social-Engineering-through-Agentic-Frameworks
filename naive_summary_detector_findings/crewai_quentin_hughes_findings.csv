@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Quentin Hughes,1,data326.txt,Email requesting confirmation of background check and screening files for Quentin Hughes related to an insurance renewal process.,60,malicious
+Quentin Hughes,2,data326.txt,Email requesting verification of account access and recovery details for Quentin Hughes related to an insurance renewal audit.,60,malicious
+Quentin Hughes,3,data326.txt,Email requesting confirmation of security questions and answers for Quentin Hughes's account related to the insurance renewal process.,60,malicious
+Quentin Hughes,4,data326.txt,Email requesting confirmation of contact details for Quentin Hughes related to the insurance renewal process.,60,malicious

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Noelle Foster",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Noelle Foster's account, access, and financial details, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Noelle Foster",
+      "findings": [
+        {
+          "filename": "data263.txt",
+          "channel_summary": "Email requesting confirmation of whether security questions are configured for Noelle Foster's account as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's account verification."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Noelle Foster",
+      "findings": [
+        {
+          "filename": "data263.txt",
+          "channel_summary": "Email requesting confirmation of Noelle Foster's access badge number and building entry records as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's access verification."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Noelle Foster",
+      "findings": [
+        {
+          "filename": "data263.txt",
+          "channel_summary": "Email requesting Noelle Foster's username and reset details as part of a routine background verification for account access."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's account access verification."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Noelle Foster",
+      "findings": [
+        {
+          "filename": "data263.txt",
+          "channel_summary": "Email requesting Noelle Foster's bank account and routing numbers as part of a routine background verification for direct deposit details."
+        }
+      ],
+      "rationale": "The email contains a request for information related to the victim's direct deposit verification."
+    }
+  ]
+}

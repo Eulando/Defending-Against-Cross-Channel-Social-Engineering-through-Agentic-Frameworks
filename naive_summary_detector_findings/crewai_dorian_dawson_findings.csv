@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Dorian Dawson,1,data219.txt,Email requesting confirmation of personal email and phone records for Dorian Dawson as part of a migration to a new HR system.,80,malicious
+Dorian Dawson,2,data219.txt,Email requesting Dorian Dawson's background check and screening files as part of a migration to a new HR system.,80,malicious
+Dorian Dawson,3,data219.txt,"Email requesting verification of Dorian Dawson's identity-document entries, specifically driver's license and passport records, as part of a migration to a new HR system.",80,malicious
+Dorian Dawson,4,data219.txt,Email requesting coordination to ensure Dorian Dawson's bank account and routing numbers are current for year-end payroll reconciliation as part of a migration to a new HR system.,80,malicious

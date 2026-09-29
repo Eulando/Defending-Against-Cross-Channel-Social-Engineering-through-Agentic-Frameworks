@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Gavin Foster,1,data256.txt,"Email from Avery, a Security Coordinator at Orbit Analytics, requesting confirmation of security questions and answers for Gavin Foster's account as part of the insurance renewal process.",75,malicious
+Gavin Foster,2,data256.txt,"Email from Avery, a Security Coordinator at Orbit Analytics, requesting confirmation of personal email and phone records for Gavin Foster's account as part of the insurance renewal process.",75,malicious
+Gavin Foster,3,data256.txt,"Email from Avery, a Security Coordinator at Orbit Analytics, requesting verification of bank account and routing numbers for Gavin Foster's account as part of the insurance renewal process.",75,malicious
+Gavin Foster,4,data256.txt,"Email from Avery, a Security Coordinator at Orbit Analytics, requesting confirmation of salary and bonus details for Gavin Foster's account as part of the insurance renewal process.",75,malicious

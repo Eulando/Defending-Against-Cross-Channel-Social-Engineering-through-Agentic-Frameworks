@@ -1,0 +1,54 @@
+{
+  "victim_name": "Talia Dawson",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Talia Dawson, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Talia Dawson",
+      "findings": [
+        {
+          "filename": "data209.txt",
+          "channel_summary": "Email requesting confirmation of direct deposit authorization details for Talia Dawson as part of migrating her records to a new HR system."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Talia Dawson",
+      "findings": [
+        {
+          "filename": "data209.txt",
+          "channel_summary": "Email requesting confirmation of Talia Dawson's salary and bonus details from compensation records as part of migrating her records to a new HR system."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Talia Dawson",
+      "findings": [
+        {
+          "filename": "data209.txt",
+          "channel_summary": "Email requesting confirmation of Talia Dawson's Social Security number and date of birth as part of migrating her records to a new HR system."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Talia Dawson",
+      "findings": [
+        {
+          "filename": "data209.txt",
+          "channel_summary": "Email requesting the transfer of Talia Dawson's employment file and emergency contact information as part of consolidating personnel data for migration to a new HR system."
+        }
+      ],
+      "rationale": "The email containing the victim name was found and meets the requirements."
+    }
+  ]
+}

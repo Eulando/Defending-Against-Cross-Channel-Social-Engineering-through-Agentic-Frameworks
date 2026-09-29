@@ -1,0 +1,54 @@
+{
+  "victim_name": "Yara Iverson",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal and financial information related to Yara Iverson, which raises significant concerns about potential social engineering.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Yara Iverson",
+      "findings": [
+        {
+          "filename": "data364.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting confirmation of Yara Iverson's bank account and routing numbers for the migration of records to a new HR system and year-end payroll reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for confirmation of sensitive information related to the victim, indicating a potential concern for social engineering."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Yara Iverson",
+      "findings": [
+        {
+          "filename": "data364.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting an account review for Yara Iverson's records as part of the migration to a new HR system, emphasizing the urgency of the task."
+        }
+      ],
+      "rationale": "The email indicates a need for an account review related to the victim, which may raise concerns about the handling of sensitive information."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Yara Iverson",
+      "findings": [
+        {
+          "filename": "data364.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting Yara Iverson's salary and bonus figures for the reconciliation of compensation data as part of the migration to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive financial information related to the victim, which raises concerns about potential social engineering."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Yara Iverson",
+      "findings": [
+        {
+          "filename": "data364.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator, requesting Yara Iverson's employment file and emergency contacts as part of the migration to a new HR system, indicating a priority for accurate details."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive personal information related to the victim, which raises concerns about potential social engineering."
+    }
+  ]
+}

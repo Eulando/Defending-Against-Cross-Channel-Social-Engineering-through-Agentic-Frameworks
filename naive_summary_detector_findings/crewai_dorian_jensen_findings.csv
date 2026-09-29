@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Dorian Jensen,1,data399.txt,Email requesting confirmation of Dorian Jensen's access badge number and building entry records for an annual compliance audit.,70,malicious
+Dorian Jensen,2,data399.txt,Email requesting confirmation of Dorian Jensen's background check and screening files for an annual compliance audit.,70,malicious
+Dorian Jensen,3,data399.txt,Email requesting confirmation of whether Dorian Jensen's account recovery setup includes valid multi-factor authentication backup codes for an annual compliance audit.,70,malicious
+Dorian Jensen,4,data399.txt,Email requesting confirmation of Dorian Jensen's direct deposit authorization for an annual compliance audit.,70,malicious

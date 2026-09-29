@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Noelle Iverson,1,data353.txt,"Email from Cameron, a Records Manager at Meridian Health Systems, requesting confirmation of health insurance and medical records for Noelle Iverson as part of the insurance renewal process.",75,malicious
+Noelle Iverson,2,data353.txt,"Email from Cameron, a Records Manager at Meridian Health Systems, requesting confirmation of Noelle Iverson's Social Security number and date of birth for updating her profile as part of the insurance renewal process.",75,malicious
+Noelle Iverson,3,data353.txt,"Email from Cameron, a Records Manager at Meridian Health Systems, requesting driver's license and passport details for Noelle Iverson as part of the insurance renewal process to verify identity documents.",75,malicious
+Noelle Iverson,4,data353.txt,"Email from Cameron, a Records Manager at Meridian Health Systems, requesting verification of Noelle Iverson's username and confirmation of password-reset information as part of the insurance renewal audit.",75,malicious

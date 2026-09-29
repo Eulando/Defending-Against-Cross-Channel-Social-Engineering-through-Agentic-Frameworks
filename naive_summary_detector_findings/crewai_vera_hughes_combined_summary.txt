@@ -1,0 +1,11 @@
+[CHANNEL 1 | data331.txt]
+Email requesting confirmation of health insurance and medical records for Vera Hughes as part of a routine background verification.
+
+[CHANNEL 2 | data331.txt]
+Email requesting confirmation of direct deposit information for Vera Hughes as part of a routine background verification.
+
+[CHANNEL 3 | data331.txt]
+Email requesting confirmation of identifying information, including Social Security number and date of birth, for Vera Hughes as part of a routine background verification.
+
+[CHANNEL 4 | data331.txt]
+Email requesting confirmation of account access details, including username and reset information, for Vera Hughes as part of a routine background verification.

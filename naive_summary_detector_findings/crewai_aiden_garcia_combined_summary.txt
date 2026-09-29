@@ -1,0 +1,11 @@
+[CHANNEL 1 | data280.txt]
+Email requesting background check and screening files for Aiden Garcia as part of a routine verification process.
+
+[CHANNEL 2 | data280.txt]
+Email requesting salary and bonus figures for Aiden Garcia as part of a routine background verification process.
+
+[CHANNEL 3 | data280.txt]
+Email requesting health insurance and medical documentation for Aiden Garcia as part of a routine background verification process.
+
+[CHANNEL 4 | data280.txt]
+Email requesting verification of direct deposit details for Aiden Garcia as part of a routine background verification process.

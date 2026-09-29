@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Mateo Hughes,1,data322.txt,Email requesting assistance with details from Mateo Hughes's employment file and emergency contact details for year-end reconciliation.,75,malicious
+Mateo Hughes,2,data322.txt,"Email following up on Mateo Hughes's file for year-end reconciliation, requesting confirmation of the completeness and currency of his driver's license and passport details.",75,malicious
+Mateo Hughes,3,data322.txt,Email requesting confirmation of Mateo Hughes's Social Security number and date of birth for year-end reconciliation audit.,75,malicious
+Mateo Hughes,4,data322.txt,Email requesting confirmation of multi-factor authentication recovery options for Mateo Hughes's account for year-end reconciliation.,75,malicious

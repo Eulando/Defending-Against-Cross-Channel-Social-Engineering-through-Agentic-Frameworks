@@ -1,0 +1,11 @@
+[CHANNEL 1 | data351.txt]
+Email regarding a routine background verification for Lena Iverson, requesting confirmation of Social Security number and date of birth on file.
+
+[CHANNEL 2 | data351.txt]
+Email requesting Lena Iverson's home address and personal phone number for a routine background verification.
+
+[CHANNEL 3 | data351.txt]
+Email requesting confirmation of Lena Iverson's direct deposit information as part of a routine background verification.
+
+[CHANNEL 4 | data351.txt]
+Email requesting Lena Iverson's salary and bonus figures as part of a routine background verification.

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Hana Iverson",
+  "threshold": 50,
+  "combined_score": 85,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal and financial information, which raises significant concerns about potential social engineering attempts.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Hana Iverson",
+      "findings": [
+        {
+          "filename": "data347.txt",
+          "channel_summary": "Email from Avery, a Security Coordinator at Cortex Software, requesting Hana Iverson's home address and personal phone number for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to the victim, indicating a potential social engineering context."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Hana Iverson",
+      "findings": [
+        {
+          "filename": "data347.txt",
+          "channel_summary": "Email from Avery, a Security Coordinator at Cortex Software, requesting confirmation of bank account and routing numbers for Hana Iverson's direct deposit for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive financial information related to the victim, indicating a potential social engineering context."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Hana Iverson",
+      "findings": [
+        {
+          "filename": "data347.txt",
+          "channel_summary": "Email from Avery, a Security Coordinator at Cortex Software, requesting confirmation of security questions and answers for Hana Iverson's account for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive account information related to the victim, indicating a potential social engineering context."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Hana Iverson",
+      "findings": [
+        {
+          "filename": "data347.txt",
+          "channel_summary": "Email from Avery, a Security Coordinator at Cortex Software, requesting confirmation of the status of multi-factor authentication backup codes and account recovery options for Hana Iverson's account for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive account security information related to the victim, indicating a potential social engineering context."
+    }
+  ]
+}

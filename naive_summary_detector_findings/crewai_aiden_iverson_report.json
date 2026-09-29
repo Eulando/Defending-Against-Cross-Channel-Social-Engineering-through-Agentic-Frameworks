@@ -1,0 +1,54 @@
+{
+  "victim_name": "Aiden Iverson",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal information related to Aiden Iverson, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Aiden Iverson",
+      "findings": [
+        {
+          "filename": "data340.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Ironbridge Construction, requesting confirmation of direct deposit authorization details for Aiden Iverson's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Aiden Iverson and meets the criteria for reporting."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Aiden Iverson",
+      "findings": [
+        {
+          "filename": "data340.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Ironbridge Construction, requesting verification of multi-factor authentication backup codes for Aiden Iverson's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Aiden Iverson and meets the criteria for reporting."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Aiden Iverson",
+      "findings": [
+        {
+          "filename": "data340.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Ironbridge Construction, requesting confirmation of Aiden Iverson's Social Security number and date of birth as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Aiden Iverson and meets the criteria for reporting."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Aiden Iverson",
+      "findings": [
+        {
+          "filename": "data340.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Ironbridge Construction, requesting confirmation of Aiden Iverson's home address and personal phone number as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding Aiden Iverson and meets the criteria for reporting."
+    }
+  ]
+}

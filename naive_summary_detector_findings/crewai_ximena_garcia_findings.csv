@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Ximena Garcia,1,data303.txt,"Email requesting assistance in migrating Ximena Garcia's records to a new HR system, specifically asking for her full employment file and emergency contact details.",80,malicious
+Ximena Garcia,2,data303.txt,"Email requesting assistance in migrating Ximena Garcia's records to a new HR system, specifically asking for her badge details and entry history.",80,malicious
+Ximena Garcia,3,data303.txt,Email requesting confirmation of Ximena Garcia's bank account and routing numbers for a direct deposit review as part of the migration to a new HR system.,80,malicious
+Ximena Garcia,4,data303.txt,"Email requesting assistance in migrating Ximena Garcia's records to a new HR system, specifically asking for her social security number and date of birth from the personnel file.",80,malicious

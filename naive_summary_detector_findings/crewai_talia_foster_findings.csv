@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Talia Foster,1,data269.txt,Email from Casey at Meridian Health Systems requesting confirmation on multi-factor authentication backup codes for Talia Foster's account as part of an HR system migration.,75,malicious
+Talia Foster,2,data269.txt,Email from Casey at Meridian Health Systems requesting driver's license and passport details for Talia Foster as part of the HR system migration and identity verification process.,75,malicious
+Talia Foster,3,data269.txt,"Email from Casey at Meridian Health Systems requesting confirmation on the current security questions for Talia Foster's account and to initiate a reset if necessary, as part of the HR system migration.",75,malicious
+Talia Foster,4,data269.txt,Email from Casey at Meridian Health Systems requesting Talia Foster's employment file and emergency contacts as part of the HR system migration and personnel data consolidation.,75,malicious

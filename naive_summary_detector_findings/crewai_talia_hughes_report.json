@@ -1,0 +1,54 @@
+{
+  "victim_name": "Talia Hughes",
+  "threshold": 50,
+  "combined_score": 40,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates a professional request for documentation related to Talia Hughes, which does not suggest malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Talia Hughes",
+      "findings": [
+        {
+          "filename": "data329.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Pearl Foods Inc., requesting health insurance and medical documentation for Talia Hughes for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for specific documentation related to the victim, indicating a professional context."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Talia Hughes",
+      "findings": [
+        {
+          "filename": "data329.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Pearl Foods Inc., requesting background check and screening files for Talia Hughes for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for specific documentation related to the victim, indicating a professional context."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Talia Hughes",
+      "findings": [
+        {
+          "filename": "data329.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Pearl Foods Inc., requesting confirmation of Talia Hughes's access badge number and building entry records for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for specific documentation related to the victim, indicating a professional context."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Talia Hughes",
+      "findings": [
+        {
+          "filename": "data329.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Pearl Foods Inc., requesting confirmation of multi-factor authentication backup codes for Talia Hughes's account for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for specific documentation related to the victim, indicating a professional context."
+    }
+  ]
+}

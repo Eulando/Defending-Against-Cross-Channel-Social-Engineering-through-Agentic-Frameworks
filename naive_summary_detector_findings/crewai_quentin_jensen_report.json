@@ -1,0 +1,54 @@
+{
+  "victim_name": "Quentin Jensen",
+  "threshold": 50,
+  "combined_score": 40,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates routine background verification requests without any malicious intent or urgency that would suggest a threat.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Quentin Jensen",
+      "findings": [
+        {
+          "filename": "data386.txt",
+          "channel_summary": "Email requesting confirmation of multi-factor authentication and account-recovery method for Quentin Jensen's account as part of a routine background verification."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Quentin Jensen",
+      "findings": [
+        {
+          "filename": "data386.txt",
+          "channel_summary": "Email requesting Quentin Jensen's background check and screening files as part of a routine background verification, indicating a priority for accurate details."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Quentin Jensen",
+      "findings": [
+        {
+          "filename": "data386.txt",
+          "channel_summary": "Email requesting confirmation of Quentin Jensen's direct deposit information as part of a routine background verification, asking for a response before Friday."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Quentin Jensen",
+      "findings": [
+        {
+          "filename": "data386.txt",
+          "channel_summary": "Email requesting Quentin Jensen's full employment file and emergency contact details from HRIS as part of a routine background verification, indicating a need to consolidate records within a short timeframe."
+        }
+      ],
+      "rationale": "Found one email matching the victim name."
+    }
+  ]
+}

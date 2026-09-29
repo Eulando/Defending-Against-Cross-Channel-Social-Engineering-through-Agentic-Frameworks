@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Rina Dawson,1,data207.txt,"Request for Rina Dawson's personnel records for an annual compliance audit, specifically asking for account username and non-sensitive password-reset details.",80,malicious
+Rina Dawson,2,data207.txt,Request for confirmation of Rina Dawson's salary and bonus details from compensation records for the annual compliance audit.,80,malicious
+Rina Dawson,3,data207.txt,"Request to confirm whether Rina Dawson's direct-deposit bank account and routing numbers are current for the annual compliance audit, without including the full numbers in the response.",80,malicious
+Rina Dawson,4,data207.txt,"Request for Rina Dawson to review and update her home address and personal phone number for the annual compliance audit, with a deadline by the end of the week.",80,malicious

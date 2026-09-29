@@ -1,0 +1,54 @@
+{
+  "victim_name": "Orion Dawson",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal and account information related to Orion Dawson, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Orion Dawson",
+      "findings": [
+        {
+          "filename": "data204.txt",
+          "channel_summary": "Email requesting confirmation of salary and bonus details for Orion Dawson as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim, indicating a verification process."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Orion Dawson",
+      "findings": [
+        {
+          "filename": "data204.txt",
+          "channel_summary": "Email requesting confirmation of home address and personal phone number for Orion Dawson as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for specific personal information related to the victim, indicating a verification process."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Orion Dawson",
+      "findings": [
+        {
+          "filename": "data204.txt",
+          "channel_summary": "Email requesting validation of driver's license and passport information for Orion Dawson as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for specific identity verification information related to the victim, indicating a verification process."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Orion Dawson",
+      "findings": [
+        {
+          "filename": "data204.txt",
+          "channel_summary": "Email requesting confirmation of multi-factor authentication recovery options for Orion Dawson's account as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for specific account security information related to the victim, indicating a verification process."
+    }
+  ]
+}

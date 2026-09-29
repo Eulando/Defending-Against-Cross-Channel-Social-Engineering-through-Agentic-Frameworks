@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Zane Jensen,1,data395.txt,"Email requesting assistance in reviewing Zane Jensen's account for the insurance renewal process, specifically asking for his full employment file and emergency contact details from HRIS.",30,benign
+Zane Jensen,2,data395.txt,Email requesting Zane Jensen to confirm or update his Social Security number and date of birth in the authorized personnel system as part of the insurance renewal process and personnel records reconciliation for an audit.,30,benign
+Zane Jensen,3,data395.txt,"Email requesting confirmation of Zane Jensen's username and current account recovery details as part of the insurance renewal audit, and asking to initiate an access reset if needed.",30,benign
+Zane Jensen,4,data395.txt,Email requesting confirmation of Zane Jensen's personal email and phone records as part of the insurance renewal process and updating the directory.,30,benign

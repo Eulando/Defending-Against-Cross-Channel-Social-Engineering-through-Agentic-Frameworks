@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Isaac Jensen,1,data378.txt,"Email from Cameron, Records Manager at Orbit Analytics, requesting confirmation of an item related to a routine background verification for Isaac Jensen.",70,malicious
+Isaac Jensen,2,data378.txt,"Email from Cameron, Records Manager at Orbit Analytics, requesting confirmation on the status of security questions and answers configured on Isaac Jensen's account as part of a routine background verification.",70,malicious
+Isaac Jensen,3,data378.txt,"Email from Cameron, Records Manager at Orbit Analytics, requesting confirmation on the configuration of multi-factor authentication recovery options for Isaac Jensen's account as part of a routine background verification.",70,malicious
+Isaac Jensen,4,data378.txt,"Email from Cameron, Records Manager at Orbit Analytics, requesting confirmation of Isaac Jensen's current contact details, specifically his home address and personal phone number, as part of a routine background verification.",70,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Zane Iverson,1,data365.txt,"Email requesting assistance with Zane Iverson's account for the insurance renewal process, specifically asking for his employment file and emergency contacts.",75,malicious
+Zane Iverson,2,data365.txt,"Email requesting assistance with Zane Iverson's account for the insurance renewal process, specifically asking for his badge details and entry history.",75,malicious
+Zane Iverson,3,data365.txt,Email requesting confirmation of Zane Iverson's personal email and phone records for updating the directory as part of the insurance renewal process.,75,malicious
+Zane Iverson,4,data365.txt,Email requesting confirmation of Zane Iverson's salary and bonus details from the compensation records as part of the insurance renewal process.,75,malicious

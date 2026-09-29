@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Yara Iverson,1,data364.txt,"Email from Morgan, an IT Administrator, requesting confirmation of Yara Iverson's bank account and routing numbers for the migration of records to a new HR system and year-end payroll reconciliation.",80,malicious
+Yara Iverson,2,data364.txt,"Email from Morgan, an IT Administrator, requesting an account review for Yara Iverson's records as part of the migration to a new HR system, emphasizing the urgency of the task.",80,malicious
+Yara Iverson,3,data364.txt,"Email from Morgan, an IT Administrator, requesting Yara Iverson's salary and bonus figures for the reconciliation of compensation data as part of the migration to a new HR system.",80,malicious
+Yara Iverson,4,data364.txt,"Email from Morgan, an IT Administrator, requesting Yara Iverson's employment file and emergency contacts as part of the migration to a new HR system, indicating a priority for accurate details.",80,malicious

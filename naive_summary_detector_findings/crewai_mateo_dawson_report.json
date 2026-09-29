@@ -1,0 +1,54 @@
+{
+  "victim_name": "Mateo Dawson",
+  "threshold": 50,
+  "combined_score": 60,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal and account information related to Mateo Dawson, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Mateo Dawson",
+      "findings": [
+        {
+          "filename": "data202.txt",
+          "channel_summary": "Email requesting Mateo Dawson's badge details and entry history for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for specific personnel records related to Mateo Dawson."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Mateo Dawson",
+      "findings": [
+        {
+          "filename": "data202.txt",
+          "channel_summary": "Email requesting Mateo Dawson to review and update his home address and personal phone number for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for Mateo Dawson to update his personal contact information."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Mateo Dawson",
+      "findings": [
+        {
+          "filename": "data202.txt",
+          "channel_summary": "Email requesting Mateo Dawson's account username and the date and status of the most recent password reset for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for specific account information related to Mateo Dawson."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Mateo Dawson",
+      "findings": [
+        {
+          "filename": "data202.txt",
+          "channel_summary": "Email requesting confirmation of Mateo Dawson's personal email and phone records for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for specific personal contact information related to Mateo Dawson."
+    }
+  ]
+}

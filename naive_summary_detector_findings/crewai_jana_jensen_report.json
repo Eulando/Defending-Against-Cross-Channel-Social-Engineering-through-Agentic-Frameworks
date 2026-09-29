@@ -1,0 +1,54 @@
+{
+  "victim_name": "Jana Jensen",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal information related to the victim, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Jana Jensen",
+      "findings": [
+        {
+          "filename": "data379.txt",
+          "channel_summary": "Email from Taylor, Finance Manager at Crestline Hotels, requesting driver’s license and passport details for Jana Jensen as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for personal identification information related to the victim, indicating a potential review of their account."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Jana Jensen",
+      "findings": [
+        {
+          "filename": "data379.txt",
+          "channel_summary": "Email from Taylor, Finance Manager at Crestline Hotels, requesting confirmation of Jana Jensen's username and reset details as part of the insurance renewal audit."
+        }
+      ],
+      "rationale": "The email contains a request for account information related to the victim, indicating a review process for the insurance renewal audit."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Jana Jensen",
+      "findings": [
+        {
+          "filename": "data379.txt",
+          "channel_summary": "Email from Taylor, Finance Manager at Crestline Hotels, requesting confirmation of background check and screening files for Jana Jensen as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for background check information related to the victim, indicating a review process for the insurance renewal audit."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Jana Jensen",
+      "findings": [
+        {
+          "filename": "data379.txt",
+          "channel_summary": "Email from Taylor, Finance Manager at Crestline Hotels, requesting health insurance and medical documentation for Jana Jensen as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for health insurance and medical documentation related to the victim, indicating a review process for the insurance renewal."
+    }
+  ]
+}

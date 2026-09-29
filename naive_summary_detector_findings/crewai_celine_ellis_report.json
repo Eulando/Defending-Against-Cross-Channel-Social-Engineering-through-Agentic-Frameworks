@@ -1,0 +1,54 @@
+{
+  "victim_name": "Celine Ellis",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal and financial information related to the victim, which raises significant privacy and security concerns.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Celine Ellis",
+      "findings": [
+        {
+          "filename": "data248.txt",
+          "channel_summary": "Request for confirmation of home address and personal phone number for Celine Ellis as part of year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to the victim, indicating a potential concern for privacy and security."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Celine Ellis",
+      "findings": [
+        {
+          "filename": "data248.txt",
+          "channel_summary": "Request for Celine Ellis's personal email and phone number as part of updating directory records for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to the victim, indicating a potential concern for privacy and security."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Celine Ellis",
+      "findings": [
+        {
+          "filename": "data248.txt",
+          "channel_summary": "Request to confirm the security questions associated with Celine Ellis's account for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for confirmation of sensitive information related to the victim, indicating a potential concern for privacy and security."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Celine Ellis",
+      "findings": [
+        {
+          "filename": "data248.txt",
+          "channel_summary": "Request for Celine Ellis's direct deposit authorization as part of verifying payroll setup for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive financial information related to the victim, indicating a potential concern for privacy and security."
+    }
+  ]
+}

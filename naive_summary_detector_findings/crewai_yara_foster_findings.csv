@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Yara Foster,1,data274.txt,"Email from Morgan, an IT Administrator at Apex Insurance Co., requesting badge details and entry history for Yara Foster's account as part of the insurance renewal process.",70,malicious
+Yara Foster,2,data274.txt,"Email from Morgan, an IT Administrator at Apex Insurance Co., requesting confirmation of direct deposit authorization details for Yara Foster's account as part of the insurance renewal process.",70,malicious
+Yara Foster,3,data274.txt,"Email from Morgan, an IT Administrator at Apex Insurance Co., requesting confirmation of Yara Foster's current direct deposit details, including bank account and routing information, as part of the insurance renewal process.",70,malicious
+Yara Foster,4,data274.txt,"Email from Morgan, an IT Administrator at Apex Insurance Co., requesting verification of the status of account recovery questions for Yara Foster's account as part of the insurance renewal process.",70,malicious

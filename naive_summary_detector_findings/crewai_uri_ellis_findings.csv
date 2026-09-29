@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Uri Ellis,1,data240.txt,Email requesting salary and bonus figures for Uri Ellis for year-end reconciliation.,70,malicious
+Uri Ellis,2,data240.txt,Email requesting Uri Ellis's account username and recent password reset details for a security review.,70,malicious
+Uri Ellis,3,data240.txt,Email requesting Uri Ellis's employment file and emergency contacts for year-end reconciliation.,70,malicious
+Uri Ellis,4,data240.txt,Email requesting confirmation of health insurance and medical records for Uri Ellis for coverage validation.,70,malicious

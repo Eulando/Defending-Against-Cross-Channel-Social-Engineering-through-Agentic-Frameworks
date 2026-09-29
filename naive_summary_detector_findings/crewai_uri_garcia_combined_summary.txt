@@ -1,0 +1,11 @@
+[CHANNEL 1 | data300.txt]
+Email requesting Uri Garcia to review and confirm bank account and routing numbers for year-end payroll reconciliation.
+
+[CHANNEL 2 | data300.txt]
+Email requesting confirmation of background check and screening files for Uri Garcia for an audit.
+
+[CHANNEL 3 | data300.txt]
+Email requesting confirmation of personal email and phone records for Uri Garcia for directory updates.
+
+[CHANNEL 4 | data300.txt]
+Email requesting confirmation of salary and bonus details for Uri Garcia from compensation records for year-end finalization.

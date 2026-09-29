@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Bianca Iverson,1,data341.txt,Email requesting Bianca Iverson's account username and confirmation of the most recent password reset date for compliance audit.,70,malicious
+Bianca Iverson,2,data341.txt,Email requesting confirmation of multi-factor authentication and backup recovery codes configuration for Bianca Iverson's account for compliance audit.,70,malicious
+Bianca Iverson,3,data341.txt,Email requesting Bianca Iverson's badge details and entry history for the annual compliance audit.,70,malicious
+Bianca Iverson,4,data341.txt,Email requesting confirmation of direct deposit authorization details for Bianca Iverson as part of the annual compliance audit.,70,malicious

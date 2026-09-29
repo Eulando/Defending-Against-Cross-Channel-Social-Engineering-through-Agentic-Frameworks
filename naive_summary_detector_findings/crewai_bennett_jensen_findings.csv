@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Bennett Jensen,1,data397.txt,"Email requesting background verification details for Bennett Jensen, specifically badge details and entry history.",75,malicious
+Bennett Jensen,2,data397.txt,Email requesting confirmation of bank account and routing information for Bennett Jensen as part of a year-end payroll reconciliation.,75,malicious
+Bennett Jensen,3,data397.txt,Email requesting Bennett Jensen's employment file and emergency contacts as part of a routine background verification.,75,malicious
+Bennett Jensen,4,data397.txt,Email requesting confirmation of multi-factor authentication backup codes for Bennett Jensen's account as part of a routine background verification.,75,malicious

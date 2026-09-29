@@ -1,0 +1,54 @@
+{
+  "victim_name": "Mateo Garcia",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive information related to financial, health, and security details, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Mateo Garcia",
+      "findings": [
+        {
+          "filename": "data292.txt",
+          "channel_summary": "Email requesting verification of Mateo Garcia's bank account and routing numbers for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request related to the victim's financial details, indicating its relevance."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Mateo Garcia",
+      "findings": [
+        {
+          "filename": "data292.txt",
+          "channel_summary": "Email requesting confirmation of health insurance and medical records for Mateo Garcia for renewal validation."
+        }
+      ],
+      "rationale": "The email pertains to the victim's health insurance and medical records, indicating its relevance."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Mateo Garcia",
+      "findings": [
+        {
+          "filename": "data292.txt",
+          "channel_summary": "Email requesting confirmation of background check and screening files for Mateo Garcia for audit review."
+        }
+      ],
+      "rationale": "The email relates to the victim's background check and screening files, indicating its relevance."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Mateo Garcia",
+      "findings": [
+        {
+          "filename": "data292.txt",
+          "channel_summary": "Email requesting verification of multi-factor authentication recovery options for Mateo Garcia's account for year-end reconciliation."
+        }
+      ],
+      "rationale": "The email pertains to the verification of security measures related to the victim's account, indicating its relevance."
+    }
+  ]
+}

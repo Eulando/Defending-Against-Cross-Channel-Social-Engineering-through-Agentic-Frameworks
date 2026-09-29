@@ -1,0 +1,11 @@
+[CHANNEL 1 | data362.txt]
+Email requesting Wesley Iverson's personal email and phone number for the insurance renewal process, with a deadline for response.
+
+[CHANNEL 2 | data362.txt]
+Email requesting Wesley Iverson's direct deposit authorization for the insurance renewal process, with a deadline for response.
+
+[CHANNEL 3 | data362.txt]
+Email requesting verification of Wesley Iverson's Social Security number and date of birth for the insurance renewal and audit reconciliation, with a deadline for response.
+
+[CHANNEL 4 | data362.txt]
+Email requesting confirmation of Wesley Iverson's bank account and routing numbers for year-end payroll reconciliation, with a deadline for response.

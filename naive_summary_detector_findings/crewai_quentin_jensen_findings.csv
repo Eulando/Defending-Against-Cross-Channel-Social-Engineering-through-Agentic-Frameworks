@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Quentin Jensen,1,data386.txt,Email requesting confirmation of multi-factor authentication and account-recovery method for Quentin Jensen's account as part of a routine background verification.,40,benign
+Quentin Jensen,2,data386.txt,"Email requesting Quentin Jensen's background check and screening files as part of a routine background verification, indicating a priority for accurate details.",40,benign
+Quentin Jensen,3,data386.txt,"Email requesting confirmation of Quentin Jensen's direct deposit information as part of a routine background verification, asking for a response before Friday.",40,benign
+Quentin Jensen,4,data386.txt,"Email requesting Quentin Jensen's full employment file and emergency contact details from HRIS as part of a routine background verification, indicating a need to consolidate records within a short timeframe.",40,benign

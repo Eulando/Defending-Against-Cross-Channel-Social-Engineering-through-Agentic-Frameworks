@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Freya Garcia,1,data285.txt,Email requesting Freya Garcia's home address and personal phone number for the insurance renewal process.,75,malicious
+Freya Garcia,2,data285.txt,Email requesting confirmation of the security questions on Freya Garcia's account for the insurance renewal process.,75,malicious
+Freya Garcia,3,data285.txt,Email requesting confirmation of Freya Garcia's driver’s license and passport details for the insurance renewal process.,75,malicious
+Freya Garcia,4,data285.txt,Email requesting Freya Garcia's background check and screening files for the insurance renewal process.,75,malicious

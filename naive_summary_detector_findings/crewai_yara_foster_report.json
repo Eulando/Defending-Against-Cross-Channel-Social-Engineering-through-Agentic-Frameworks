@@ -1,0 +1,54 @@
+{
+  "victim_name": "Yara Foster",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Yara Foster's account, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Yara Foster",
+      "findings": [
+        {
+          "filename": "data274.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Apex Insurance Co., requesting badge details and entry history for Yara Foster's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's account."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Yara Foster",
+      "findings": [
+        {
+          "filename": "data274.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Apex Insurance Co., requesting confirmation of direct deposit authorization details for Yara Foster's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's account."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Yara Foster",
+      "findings": [
+        {
+          "filename": "data274.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Apex Insurance Co., requesting confirmation of Yara Foster's current direct deposit details, including bank account and routing information, as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's account."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Yara Foster",
+      "findings": [
+        {
+          "filename": "data274.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Apex Insurance Co., requesting verification of the status of account recovery questions for Yara Foster's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's account."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Lena Dawson,1,data201.txt,"Email requesting assistance with migrating Lena Dawson's records to a new HR system, specifically asking for health insurance and medical documentation.",75,malicious
+Lena Dawson,2,data201.txt,"Email requesting confirmation of Lena Dawson's direct deposit information during the migration of her records to a new HR system, asking her to review and update her bank account and routing numbers.",75,malicious
+Lena Dawson,3,data201.txt,"Email requesting confirmation of Lena Dawson's Social Security number and date of birth during the migration of her records to a new HR system, asking for verification of her personnel file for an audit.",75,malicious
+Lena Dawson,4,data201.txt,"Email requesting confirmation of Lena Dawson's direct deposit authorization details during the migration of her records to a new HR system, emphasizing the importance of accurate information for reconciling payroll accounts.",75,malicious

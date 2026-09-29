@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Yara Garcia,1,data304.txt,Email requesting Yara Garcia's home address and personal phone number for the insurance renewal process.,80,malicious
+Yara Garcia,2,data304.txt,Email requesting confirmation of background check and screening files for Yara Garcia for an audit.,80,malicious
+Yara Garcia,3,data304.txt,Email requesting verification of direct deposit details for Yara Garcia's account for the insurance renewal process.,80,malicious
+Yara Garcia,4,data304.txt,Email requesting confirmation of direct deposit authorization details for Yara Garcia's account for payroll reconciliation.,80,malicious

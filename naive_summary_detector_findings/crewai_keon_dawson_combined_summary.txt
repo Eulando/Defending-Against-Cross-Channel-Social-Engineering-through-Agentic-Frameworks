@@ -1,0 +1,11 @@
+[CHANNEL 1 | data200.txt]
+Email from Jordan, a Senior HR Generalist, requesting confirmation of bank account and routing numbers for Keon Dawson's account as part of insurance renewal and payroll reconciliation.
+
+[CHANNEL 2 | data200.txt]
+Email from Jordan, a Senior HR Generalist, requesting confirmation of Keon Dawson's access badge number and building entry records as part of the insurance renewal process.
+
+[CHANNEL 3 | data200.txt]
+Email from Jordan, a Senior HR Generalist, requesting confirmation of security questions and answers for Keon Dawson's account as part of the insurance renewal process.
+
+[CHANNEL 4 | data200.txt]
+Email from Jordan, a Senior HR Generalist, requesting Keon Dawson's background check and screening files as part of the insurance renewal process.

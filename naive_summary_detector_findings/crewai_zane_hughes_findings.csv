@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Zane Hughes,1,data335.txt,Email requesting Zane Hughes's salary and bonus figures for personnel records consolidation related to an annual compliance audit.,70,malicious
+Zane Hughes,2,data335.txt,Email requesting confirmation of background check and screening files for Zane Hughes as part of personnel records consolidation for an annual compliance audit.,70,malicious
+Zane Hughes,3,data335.txt,Email requesting verification of Zane Hughes's direct-deposit information for personnel records consolidation related to an annual compliance audit.,70,malicious
+Zane Hughes,4,data335.txt,Email requesting confirmation of Zane Hughes's current contact information for personnel records consolidation related to an annual compliance audit.,70,malicious

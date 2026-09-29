@@ -1,0 +1,54 @@
+{
+  "victim_name": "Freya Ellis",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive information related to Freya Ellis's account, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Freya Ellis",
+      "findings": [
+        {
+          "filename": "data225.txt",
+          "channel_summary": "Email requesting confirmation of bank account and routing numbers for Freya Ellis's account as part of insurance renewal and payroll reconciliation, with a priority for a response by the end of the week."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Freya Ellis",
+      "findings": [
+        {
+          "filename": "data225.txt",
+          "channel_summary": "Email requesting driver's license and passport details for Freya Ellis's account as part of the insurance renewal process, with a request to complete by Friday."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Freya Ellis",
+      "findings": [
+        {
+          "filename": "data225.txt",
+          "channel_summary": "Email requesting confirmation of personal email and phone records for Freya Ellis's account as part of the insurance renewal process, with a request for a response by the end of the week."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Freya Ellis",
+      "findings": [
+        {
+          "filename": "data225.txt",
+          "channel_summary": "Email requesting Freya Ellis's employment file and emergency contacts as part of the insurance renewal process, with no specific deadline but an earlier response preferred."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    }
+  ]
+}

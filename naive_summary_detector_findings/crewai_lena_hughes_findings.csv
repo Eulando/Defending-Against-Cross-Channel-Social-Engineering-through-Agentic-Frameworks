@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Lena Hughes,1,data321.txt,Email requesting confirmation of Lena Hughes' driver's license and passport details for a routine background verification.,75,malicious
+Lena Hughes,2,data321.txt,Email requesting Lena Hughes's salary and bonus figures for a routine background verification and reconciliation of compensation data.,75,malicious
+Lena Hughes,3,data321.txt,Email requesting confirmation of Lena Hughes' personal email and phone records for a routine background verification and directory update.,75,malicious
+Lena Hughes,4,data321.txt,Email requesting Lena Hughes's health insurance and medical documentation for a routine background verification and double-checking of benefit records.,75,malicious

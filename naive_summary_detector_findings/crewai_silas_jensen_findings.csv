@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Silas Jensen,1,data388.txt,"Email from Morgan, an IT Administrator at Apex Insurance Co., requesting confirmation of Silas Jensen's home address and personal phone number for year-end reconciliation.",80,malicious
+Silas Jensen,2,data388.txt,"Email from Morgan, an IT Administrator at Apex Insurance Co., requesting Silas Jensen's health insurance and medical documentation for year-end reconciliation.",80,malicious
+Silas Jensen,3,data388.txt,"Email from Morgan, an IT Administrator at Apex Insurance Co., requesting confirmation of Silas Jensen's direct deposit authorization details for payroll reconciliation.",80,malicious
+Silas Jensen,4,data388.txt,"Email from Morgan, an IT Administrator at Apex Insurance Co., requesting confirmation of Silas Jensen's salary and bonus details for year-end reconciliation.",80,malicious

@@ -1,0 +1,11 @@
+[CHANNEL 1 | data308.txt]
+Email requesting badge details and entry history for Celine Garcia as part of a routine background verification.
+
+[CHANNEL 2 | data308.txt]
+Email requesting Celine Garcia's employment file and emergency contacts as part of a routine background verification.
+
+[CHANNEL 3 | data308.txt]
+Email requesting the verification status of Celine Garcia's personnel records as part of a routine background verification.
+
+[CHANNEL 4 | data308.txt]
+Email requesting confirmation of Celine Garcia's bank account and routing information as part of a routine year-end payroll reconciliation.

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Quentin Iverson,1,data356.txt,"Email from Avery, a Security Coordinator at Northgate Financial Group, requesting confirmation of Quentin Iverson's social security number and date of birth for an insurance renewal process.",75,malicious
+Quentin Iverson,2,data356.txt,"Email from Avery, a Security Coordinator at Northgate Financial Group, requesting Quentin Iverson's salary and bonus figures for the insurance renewal process.",75,malicious
+Quentin Iverson,3,data356.txt,"Email from Avery, a Security Coordinator at Northgate Financial Group, requesting confirmation of Quentin Iverson's current bank account and routing numbers for the insurance renewal process.",75,malicious
+Quentin Iverson,4,data356.txt,"Email from Avery, a Security Coordinator at Northgate Financial Group, requesting Quentin Iverson's health insurance and medical documentation for the insurance renewal process.",75,malicious

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Uri Hughes",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive information related to the victim's account, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Uri Hughes",
+      "findings": [
+        {
+          "filename": "data330.txt",
+          "channel_summary": "Email requesting salary and bonus figures for Uri Hughes's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's account."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Uri Hughes",
+      "findings": [
+        {
+          "filename": "data330.txt",
+          "channel_summary": "Email requesting background check and screening files for Uri Hughes's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's account."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Uri Hughes",
+      "findings": [
+        {
+          "filename": "data330.txt",
+          "channel_summary": "Email requesting confirmation of health insurance and medical records for Uri Hughes's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's account."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Uri Hughes",
+      "findings": [
+        {
+          "filename": "data330.txt",
+          "channel_summary": "Email requesting confirmation of direct deposit authorization details for Uri Hughes's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's account."
+    }
+  ]
+}

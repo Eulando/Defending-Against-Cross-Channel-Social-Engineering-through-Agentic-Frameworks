@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Isaac Ellis,1,data228.txt,Email requesting confirmation of Isaac Ellis's Social Security number and date of birth for personnel records related to an annual compliance audit.,80,malicious
+Isaac Ellis,2,data228.txt,Email requesting confirmation of Isaac Ellis's salary and bonus details for personnel records related to the annual compliance audit.,80,malicious
+Isaac Ellis,3,data228.txt,Email requesting confirmation of Isaac Ellis's current home address and personal phone number for personnel records related to the annual compliance audit.,80,malicious
+Isaac Ellis,4,data228.txt,Email requesting confirmation of Isaac Ellis's access badge number and building entry records for personnel records related to the annual compliance audit.,80,malicious

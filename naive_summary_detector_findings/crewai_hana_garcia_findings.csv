@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Hana Garcia,1,data287.txt,Email requesting Hana Garcia's salary and bonus figures for year-end reconciliation.,60,malicious
+Hana Garcia,2,data287.txt,Email requesting Hana Garcia's full employment file and emergency contact details for year-end reconciliation.,60,malicious
+Hana Garcia,3,data287.txt,Email requesting confirmation of Hana Garcia's driver’s license and passport details for year-end reconciliation.,60,malicious
+Hana Garcia,4,data287.txt,Email requesting confirmation of multi-factor authentication backup codes for Hana Garcia's account for year-end reconciliation.,60,malicious

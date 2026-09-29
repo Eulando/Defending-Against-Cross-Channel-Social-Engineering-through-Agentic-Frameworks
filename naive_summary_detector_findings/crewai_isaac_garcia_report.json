@@ -1,0 +1,54 @@
+{
+  "victim_name": "Isaac Garcia",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal information related to Isaac Garcia, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Isaac Garcia",
+      "findings": [
+        {
+          "filename": "data288.txt",
+          "channel_summary": "Email from Avery, a Security Coordinator, requesting badge details and entry history for Isaac Garcia as part of migrating his records to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's records."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Isaac Garcia",
+      "findings": [
+        {
+          "filename": "data288.txt",
+          "channel_summary": "Email from Avery, a Security Coordinator, requesting background check and screening files for Isaac Garcia as part of migrating his records to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's records."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Isaac Garcia",
+      "findings": [
+        {
+          "filename": "data288.txt",
+          "channel_summary": "Email from Avery, a Security Coordinator, requesting salary and bonus figures for Isaac Garcia as part of migrating his records to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's records."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Isaac Garcia",
+      "findings": [
+        {
+          "filename": "data288.txt",
+          "channel_summary": "Email from Avery, a Security Coordinator, requesting the personal email address and phone number for Isaac Garcia as part of migrating his records to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's records."
+    }
+  ]
+}

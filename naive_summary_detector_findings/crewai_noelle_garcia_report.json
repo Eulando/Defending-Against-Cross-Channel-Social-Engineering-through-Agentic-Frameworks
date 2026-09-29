@@ -1,0 +1,54 @@
+{
+  "victim_name": "Noelle Garcia",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal, health, and financial information related to Noelle Garcia, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Noelle Garcia",
+      "findings": [
+        {
+          "filename": "data293.txt",
+          "channel_summary": "Email from Jordan, a Senior HR Generalist at Ventureline Consulting, requesting confirmation of Noelle Garcia's home address and personal phone number for routine background verification and updating contact records."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to Noelle Garcia, indicating a verification process."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Noelle Garcia",
+      "findings": [
+        {
+          "filename": "data293.txt",
+          "channel_summary": "Email from Jordan, a Senior HR Generalist at Ventureline Consulting, requesting Noelle Garcia's background check and screening files for routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive information related to Noelle Garcia's background check, indicating a verification process."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Noelle Garcia",
+      "findings": [
+        {
+          "filename": "data293.txt",
+          "channel_summary": "Email from Jordan, a Senior HR Generalist at Ventureline Consulting, requesting Noelle Garcia's health insurance and medical documentation for routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive health-related information about Noelle Garcia, indicating a verification process."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Noelle Garcia",
+      "findings": [
+        {
+          "filename": "data293.txt",
+          "channel_summary": "Email from Jordan, a Senior HR Generalist at Ventureline Consulting, requesting confirmation of Noelle Garcia's salary and bonus details for routine background verification and finalizing year-end figures."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive financial information related to Noelle Garcia, indicating a verification process."
+    }
+  ]
+}

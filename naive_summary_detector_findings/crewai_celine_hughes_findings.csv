@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Celine Hughes,1,data338.txt,"Email from Cameron, the Records Manager at Orbit Analytics, requesting confirmation of multi-factor authentication backup codes for Celine Hughes as part of migrating her records to a new HR system.",80,malicious
+Celine Hughes,2,data338.txt,"Email from Cameron, the Records Manager at Orbit Analytics, requesting Celine Hughes's personal email and phone number as part of updating directory records during the migration to a new HR system.",80,malicious
+Celine Hughes,3,data338.txt,"Email from Cameron, the Records Manager at Orbit Analytics, requesting confirmation of Celine Hughes's home address and personal phone number as part of updating contact records during the migration to a new HR system.",80,malicious
+Celine Hughes,4,data338.txt,"Email from Cameron, the Records Manager at Orbit Analytics, requesting confirmation of Celine Hughes's driver’s license and passport details as part of validating her identity records during the migration to a new HR system.",80,malicious

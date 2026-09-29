@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Anika Foster,1,data276.txt,"Email requesting background verification details for Anika Foster, specifically badge details and entry history, with a priority for completion before Friday.",80,malicious
+Anika Foster,2,data276.txt,"Email requesting background verification details for Anika Foster, specifically bank account and routing numbers, with a priority for completion before Friday.",80,malicious
+Anika Foster,3,data276.txt,"Email requesting background verification details for Anika Foster, specifically home address and personal phone number, with a request for a response by the end of the week.",80,malicious
+Anika Foster,4,data276.txt,Email requesting confirmation of multi-factor authentication backup codes for Anika Foster's account as part of a routine background verification.,80,malicious

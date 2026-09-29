@@ -1,0 +1,54 @@
+{
+  "victim_name": "Elias Garcia",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a pattern of requests for sensitive personal information related to Elias Garcia, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Elias Garcia",
+      "findings": [
+        {
+          "filename": "data284.txt",
+          "channel_summary": "Email from Riley, Operations Director at Helios Manufacturing, requesting confirmation of personal email and phone records for Elias Garcia for year-end reconciliation."
+        }
+      ],
+      "rationale": ""
+    },
+    {
+      "channel": 2,
+      "victim_name": "Elias Garcia",
+      "findings": [
+        {
+          "filename": "data284.txt",
+          "channel_summary": "Email from Riley, Operations Director at Helios Manufacturing, requesting confirmation of Elias Garcia's account username and details of the most recent password reset for year-end reconciliation and security review."
+        }
+      ],
+      "rationale": ""
+    },
+    {
+      "channel": 3,
+      "victim_name": "Elias Garcia",
+      "findings": [
+        {
+          "filename": "data284.txt",
+          "channel_summary": "Email from Riley, Operations Director at Helios Manufacturing, requesting confirmation of Elias Garcia's access badge number and building entry records for year-end reconciliation and access validation."
+        }
+      ],
+      "rationale": ""
+    },
+    {
+      "channel": 4,
+      "victim_name": "Elias Garcia",
+      "findings": [
+        {
+          "filename": "data284.txt",
+          "channel_summary": "Email from Riley, Operations Director at Helios Manufacturing, requesting confirmation of Elias Garcia's Social Security number and date of birth for year-end reconciliation and records review."
+        }
+      ],
+      "rationale": ""
+    }
+  ]
+}

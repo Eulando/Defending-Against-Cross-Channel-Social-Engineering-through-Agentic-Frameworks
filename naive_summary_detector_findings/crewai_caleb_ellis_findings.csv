@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Caleb Ellis,1,data222.txt,Email requesting health insurance and medical documentation for Caleb Ellis from the benefits system for a compliance audit.,75,malicious
+Caleb Ellis,2,data222.txt,Email requesting Caleb Ellis's home address and personal phone number for updating personnel records related to a compliance audit.,75,malicious
+Caleb Ellis,3,data222.txt,Email requesting confirmation of Caleb Ellis's salary and bonus details for finalizing year-end figures related to a compliance audit.,75,malicious
+Caleb Ellis,4,data222.txt,Email requesting confirmation of background check and screening files for Caleb Ellis for review related to a compliance audit.,75,malicious

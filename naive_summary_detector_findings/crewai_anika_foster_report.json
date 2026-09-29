@@ -1,0 +1,54 @@
+{
+  "victim_name": "Anika Foster",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Anika Foster, including badge details, bank account information, home address, personal phone number, and multi-factor authentication codes, which suggests a malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Anika Foster",
+      "findings": [
+        {
+          "filename": "data276.txt",
+          "channel_summary": "Email requesting background verification details for Anika Foster, specifically badge details and entry history, with a priority for completion before Friday."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Anika Foster",
+      "findings": [
+        {
+          "filename": "data276.txt",
+          "channel_summary": "Email requesting background verification details for Anika Foster, specifically bank account and routing numbers, with a priority for completion before Friday."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Anika Foster",
+      "findings": [
+        {
+          "filename": "data276.txt",
+          "channel_summary": "Email requesting background verification details for Anika Foster, specifically home address and personal phone number, with a request for a response by the end of the week."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Anika Foster",
+      "findings": [
+        {
+          "filename": "data276.txt",
+          "channel_summary": "Email requesting confirmation of multi-factor authentication backup codes for Anika Foster's account as part of a routine background verification."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    }
+  ]
+}

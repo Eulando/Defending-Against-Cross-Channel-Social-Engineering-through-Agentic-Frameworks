@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Gavin Garcia,1,data286.txt,"Email from Morgan, an IT Administrator, requesting confirmation of Gavin Garcia's account username and details of the most recent password reset for compliance audit purposes.",70,malicious
+Gavin Garcia,2,data286.txt,"Email from Morgan, an IT Administrator, requesting verification of Gavin Garcia's Social Security number and date of birth for the annual compliance audit.",70,malicious
+Gavin Garcia,3,data286.txt,"Email from Morgan, an IT Administrator, requesting Gavin Garcia's salary and bonus figures for the annual compliance audit.",70,malicious
+Gavin Garcia,4,data286.txt,"Email from Morgan, an IT Administrator, requesting confirmation of Gavin Garcia's account recovery questions for the annual compliance audit.",70,malicious

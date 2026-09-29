@@ -1,0 +1,54 @@
+{
+  "victim_name": "Keon Hughes",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive information related to Keon Hughes's account, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Keon Hughes",
+      "findings": [
+        {
+          "filename": "data320.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Nova Telecom, requesting health insurance and medical documentation for Keon Hughes's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for specific documentation related to the victim's account."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Keon Hughes",
+      "findings": [
+        {
+          "filename": "data320.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Nova Telecom, requesting Keon Hughes's full employment file and emergency contact details from HRIS as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for specific documentation related to the victim's account."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Keon Hughes",
+      "findings": [
+        {
+          "filename": "data320.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Nova Telecom, requesting confirmation of Keon Hughes's Social Security number and date of birth for personnel records as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's account."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Keon Hughes",
+      "findings": [
+        {
+          "filename": "data320.txt",
+          "channel_summary": "Email from Casey, Compliance Lead at Nova Telecom, requesting confirmation of Keon Hughes's account username and the status of a password reset as part of the insurance renewal and security review."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's account."
+    }
+  ]
+}

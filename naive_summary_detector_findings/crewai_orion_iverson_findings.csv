@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Orion Iverson,1,data354.txt,Email requesting confirmation of Orion Iverson's access badge number and building entry records for an annual compliance audit.,75,malicious
+Orion Iverson,2,data354.txt,Email requesting verification of multi-factor authentication recovery options for Orion Iverson's account as part of the annual compliance audit.,75,malicious
+Orion Iverson,3,data354.txt,Email requesting confirmation of personal email and phone records for Orion Iverson as part of the annual compliance audit.,75,malicious
+Orion Iverson,4,data354.txt,Email requesting Orion Iverson's background check and screening files as part of the annual compliance audit.,75,malicious

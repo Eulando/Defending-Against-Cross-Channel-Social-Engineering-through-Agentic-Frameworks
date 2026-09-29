@@ -1,0 +1,11 @@
+[CHANNEL 1 | data394.txt]
+Email from Drew, Internal Audit Lead at Brightline Media, requesting Aisha to provide driver's license and passport details for Yara Jensen as part of a routine background verification.
+
+[CHANNEL 2 | data394.txt]
+Email from Drew, Internal Audit Lead at Brightline Media, requesting Nina to compare Yara Jensen's Social Security number and date of birth against the personnel file for a routine background verification.
+
+[CHANNEL 3 | data394.txt]
+Email from Drew, Internal Audit Lead at Brightline Media, requesting Maya to provide Yara Jensen's home address and personal phone number as part of a routine background verification.
+
+[CHANNEL 4 | data394.txt]
+Email from Drew, Internal Audit Lead at Brightline Media, requesting Diego to ask Yara Jensen to confirm or update her personal email address and phone number as part of a routine background verification.

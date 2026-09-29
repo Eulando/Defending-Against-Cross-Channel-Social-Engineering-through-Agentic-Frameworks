@@ -1,0 +1,11 @@
+[CHANNEL 1 | data350.txt]
+Email requesting confirmation of Keon Iverson's Social Security number and date of birth for migration to a new HR system.
+
+[CHANNEL 2 | data350.txt]
+Email requesting Keon Iverson's direct deposit authorization for payroll setup verification during migration to a new HR system.
+
+[CHANNEL 3 | data350.txt]
+Email requesting confirmation of Keon Iverson's personal email and phone records for updating the directory during migration to a new HR system.
+
+[CHANNEL 4 | data350.txt]
+Email requesting confirmation of Keon Iverson's current home address and personal phone number for updating HR records during migration to a new HR system.

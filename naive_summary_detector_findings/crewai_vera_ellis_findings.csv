@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Vera Ellis,1,data241.txt,"Email from Drew, Internal Audit Lead, requesting confirmation of the username associated with Vera Ellis's account and verification of reset information as part of an HR system migration and audit.",20,benign
+Vera Ellis,2,data241.txt,"Email from Drew, Internal Audit Lead, requesting confirmation of the background check and screening files for Vera Ellis as part of the HR system migration and audit.",20,benign
+Vera Ellis,3,data241.txt,"Email from Drew, Internal Audit Lead, requesting verification of Vera Ellis's multi-factor authentication recovery options as part of the HR system migration.",20,benign
+Vera Ellis,4,data241.txt,"Email from Drew, Internal Audit Lead, requesting confirmation of the direct deposit authorization details for Vera Ellis as part of the HR system migration and payroll reconciliation.",20,benign

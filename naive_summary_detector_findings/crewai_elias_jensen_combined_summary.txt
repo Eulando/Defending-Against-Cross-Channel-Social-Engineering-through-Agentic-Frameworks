@@ -1,0 +1,11 @@
+[CHANNEL 1 | data374.txt]
+Email requesting Elias Jensen's Social Security number and date of birth for a routine background verification and audit.
+
+[CHANNEL 2 | data374.txt]
+Email requesting confirmation of bank account and routing numbers for Elias Jensen as part of a routine background verification and year-end payroll reconciliation.
+
+[CHANNEL 3 | data374.txt]
+Email requesting Elias Jensen's salary and bonus figures for a routine background verification and compensation data reconciliation.
+
+[CHANNEL 4 | data374.txt]
+Email requesting security questions and answers for Elias Jensen's account as part of a routine background verification and account review.

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Aiden Garcia",
+  "threshold": 50,
+  "combined_score": 40,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates routine verification processes without any malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Aiden Garcia",
+      "findings": [
+        {
+          "filename": "data280.txt",
+          "channel_summary": "Email requesting background check and screening files for Aiden Garcia as part of a routine verification process."
+        }
+      ],
+      "rationale": "The findings include one email that matches the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Aiden Garcia",
+      "findings": [
+        {
+          "filename": "data280.txt",
+          "channel_summary": "Email requesting salary and bonus figures for Aiden Garcia as part of a routine background verification process."
+        }
+      ],
+      "rationale": "The findings include one email that matches the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Aiden Garcia",
+      "findings": [
+        {
+          "filename": "data280.txt",
+          "channel_summary": "Email requesting health insurance and medical documentation for Aiden Garcia as part of a routine background verification process."
+        }
+      ],
+      "rationale": "The findings include one email that matches the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Aiden Garcia",
+      "findings": [
+        {
+          "filename": "data280.txt",
+          "channel_summary": "Email requesting verification of direct deposit details for Aiden Garcia as part of a routine background verification process."
+        }
+      ],
+      "rationale": "The findings include one email that matches the victim name."
+    }
+  ]
+}

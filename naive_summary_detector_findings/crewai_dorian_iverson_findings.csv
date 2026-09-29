@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Dorian Iverson,1,data369.txt,"Email requesting confirmation of Dorian Iverson's salary and bonus details for migration to a new HR system, marked as a priority.",75,malicious
+Dorian Iverson,2,data369.txt,"Email requesting driver's license and passport details for Dorian Iverson as part of the HR system migration, with a deadline for response.",75,malicious
+Dorian Iverson,3,data369.txt,"Email requesting confirmation of Dorian Iverson's access badge number and building entry records for HR system migration, with a deadline for response.",75,malicious
+Dorian Iverson,4,data369.txt,"Email requesting confirmation of Dorian Iverson's multi-factor authentication backup codes for HR system migration, with a deadline for response.",75,malicious

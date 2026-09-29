@@ -1,0 +1,54 @@
+{
+  "victim_name": "Bianca Hughes",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a pattern of requests for sensitive information related to Bianca Hughes's account, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Bianca Hughes",
+      "findings": [
+        {
+          "filename": "data311.txt",
+          "channel_summary": "Email requesting confirmation of Bianca Hughes's direct deposit information for insurance renewal, without including sensitive details."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Bianca Hughes",
+      "findings": [
+        {
+          "filename": "data311.txt",
+          "channel_summary": "Email requesting Bianca Hughes's employment file and emergency contacts for insurance renewal, with a deadline for response."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Bianca Hughes",
+      "findings": [
+        {
+          "filename": "data311.txt",
+          "channel_summary": "Email requesting confirmation of multi-factor authentication backup codes and recovery options for Bianca Hughes's account as part of the insurance renewal process, with a deadline for response."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Bianca Hughes",
+      "findings": [
+        {
+          "filename": "data311.txt",
+          "channel_summary": "Email requesting driver's license and passport details for Bianca Hughes as part of the insurance renewal process, with a deadline for response."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    }
+  ]
+}

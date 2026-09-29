@@ -1,0 +1,11 @@
+[CHANNEL 1 | data366.txt]
+Email requesting confirmation of home address and personal phone number for Anika Iverson as part of a routine background verification.
+
+[CHANNEL 2 | data366.txt]
+Email requesting the full employment file and emergency contact details for Anika Iverson as part of a routine background verification.
+
+[CHANNEL 3 | data366.txt]
+Email requesting confirmation of background check and screening files for Anika Iverson as part of a routine background verification.
+
+[CHANNEL 4 | data366.txt]
+Email requesting confirmation of Social Security number and date of birth for Anika Iverson as part of a routine background verification.

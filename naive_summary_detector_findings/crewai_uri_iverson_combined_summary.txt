@@ -1,0 +1,11 @@
+[CHANNEL 1 | data360.txt]
+Email requesting confirmation of Uri Iverson's salary and bonus details for year-end reconciliation.
+
+[CHANNEL 2 | data360.txt]
+Email requesting Uri Iverson's full employment file and emergency contact details for year-end reconciliation.
+
+[CHANNEL 3 | data360.txt]
+Email requesting Uri Iverson's direct deposit authorization for payroll verification during year-end reconciliation.
+
+[CHANNEL 4 | data360.txt]
+Email requesting Uri Iverson's background check and screening files for year-end reconciliation.

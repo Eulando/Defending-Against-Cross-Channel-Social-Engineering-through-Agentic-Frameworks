@@ -1,0 +1,54 @@
+{
+  "victim_name": "Zane Garcia",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal information related to Zane Garcia, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Zane Garcia",
+      "findings": [
+        {
+          "filename": "data305.txt",
+          "channel_summary": "Email from Quinn, Payroll Supervisor, requesting Zane Garcia's badge details and entry history for migration to a new HR system."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Zane Garcia",
+      "findings": [
+        {
+          "filename": "data305.txt",
+          "channel_summary": "Email from Quinn, Payroll Supervisor, requesting confirmation of Zane Garcia's account username and recent password reset details for migration to a new HR system."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Zane Garcia",
+      "findings": [
+        {
+          "filename": "data305.txt",
+          "channel_summary": "Email from Quinn, Payroll Supervisor, requesting Zane Garcia's Social Security number and date of birth for the migration of records to a new HR system."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Zane Garcia",
+      "findings": [
+        {
+          "filename": "data305.txt",
+          "channel_summary": "Email from Quinn, Payroll Supervisor, requesting Zane Garcia's direct deposit authorization for the migration of records to a new HR system."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    }
+  ]
+}

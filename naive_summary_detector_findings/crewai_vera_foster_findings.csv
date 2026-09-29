@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Vera Foster,1,data271.txt,"Request for background verification details on Vera Foster, specifically badge details and entry history.",75,malicious
+Vera Foster,2,data271.txt,Request for salary and bonus figures for Vera Foster as part of a background verification process.,75,malicious
+Vera Foster,3,data271.txt,Request to confirm multi-factor authentication backup codes for Vera Foster's account as part of a background verification process.,75,malicious
+Vera Foster,4,data271.txt,Request to confirm health insurance and medical records for Vera Foster as part of a background verification process.,75,malicious

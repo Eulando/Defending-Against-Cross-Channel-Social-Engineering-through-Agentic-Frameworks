@@ -1,0 +1,54 @@
+{
+  "victim_name": "Dorian Dawson",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal and financial information related to the victim, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Dorian Dawson",
+      "findings": [
+        {
+          "filename": "data219.txt",
+          "channel_summary": "Email requesting confirmation of personal email and phone records for Dorian Dawson as part of a migration to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to the victim, indicating a potential administrative process."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Dorian Dawson",
+      "findings": [
+        {
+          "filename": "data219.txt",
+          "channel_summary": "Email requesting Dorian Dawson's background check and screening files as part of a migration to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive personal information related to the victim, indicating a potential administrative process."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Dorian Dawson",
+      "findings": [
+        {
+          "filename": "data219.txt",
+          "channel_summary": "Email requesting verification of Dorian Dawson's identity-document entries, specifically driver's license and passport records, as part of a migration to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for verification of sensitive personal information related to the victim, indicating a potential administrative process."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Dorian Dawson",
+      "findings": [
+        {
+          "filename": "data219.txt",
+          "channel_summary": "Email requesting coordination to ensure Dorian Dawson's bank account and routing numbers are current for year-end payroll reconciliation as part of a migration to a new HR system."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive financial information related to the victim, indicating a potential administrative process."
+    }
+  ]
+}

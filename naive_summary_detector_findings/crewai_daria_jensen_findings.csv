@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Daria Jensen,1,data373.txt,Email requesting confirmation of Daria Jensen's salary and bonus details for year-end reconciliation.,85,malicious
+Daria Jensen,2,data373.txt,Email requesting confirmation of Daria Jensen's social security number and date of birth for records review related to year-end reconciliation.,85,malicious
+Daria Jensen,3,data373.txt,Email requesting confirmation of Daria Jensen's bank account and routing numbers for year-end payroll reconciliation.,85,malicious
+Daria Jensen,4,data373.txt,Email requesting confirmation of Daria Jensen's health insurance and medical records for validation of coverage details related to renewal.,85,malicious

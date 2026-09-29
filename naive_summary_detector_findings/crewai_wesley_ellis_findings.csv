@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Wesley Ellis,1,data242.txt,"Email requesting assistance with details from Wesley Ellis's records for an insurance renewal process, specifically asking for driver's license and passport details.",75,malicious
+Wesley Ellis,2,data242.txt,"Email requesting assistance with details from Wesley Ellis's records for the insurance renewal process, specifically asking for direct deposit authorization.",75,malicious
+Wesley Ellis,3,data242.txt,Email requesting assistance with validating security questions and answers associated with Wesley Ellis's account for the insurance renewal process.,75,malicious
+Wesley Ellis,4,data242.txt,Email requesting synthetic placeholder values for Wesley Ellis's multi-factor authentication backup codes as part of a cybersecurity detector test for the insurance renewal scenario.,75,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Keon Ellis,1,data230.txt,"Email from Quinn, a Payroll Supervisor at Helios Manufacturing, requesting confirmation of the home address and personal phone number for Keon Ellis as part of a routine background verification.",75,malicious
+Keon Ellis,2,data230.txt,"Email from Quinn, a Payroll Supervisor at Helios Manufacturing, requesting verification of Keon Ellis's username and reset details as part of a routine background verification and account-access audit.",75,malicious
+Keon Ellis,3,data230.txt,"Email from Quinn, a Payroll Supervisor at Helios Manufacturing, requesting Keon Ellis's badge details and entry history as part of a routine background verification.",75,malicious
+Keon Ellis,4,data230.txt,"Email from Quinn, a Payroll Supervisor at Helios Manufacturing, requesting confirmation of Keon Ellis's direct deposit details and asking him to review and update the bank account and routing numbers in the payroll system.",75,malicious

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Uri Hughes,1,data330.txt,Email requesting salary and bonus figures for Uri Hughes's account as part of the insurance renewal process.,70,malicious
+Uri Hughes,2,data330.txt,Email requesting background check and screening files for Uri Hughes's account as part of the insurance renewal process.,70,malicious
+Uri Hughes,3,data330.txt,Email requesting confirmation of health insurance and medical records for Uri Hughes's account as part of the insurance renewal process.,70,malicious
+Uri Hughes,4,data330.txt,Email requesting confirmation of direct deposit authorization details for Uri Hughes's account as part of the insurance renewal process.,70,malicious

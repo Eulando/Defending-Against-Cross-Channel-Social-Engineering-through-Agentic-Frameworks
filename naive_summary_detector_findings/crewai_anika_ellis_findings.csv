@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Anika Ellis,1,data246.txt,"Email from Quinn, the Payroll Supervisor, requesting confirmation of Anika Ellis's account-access status for an annual compliance audit and asking to initiate a credential-reset process if necessary.",75,malicious
+Anika Ellis,2,data246.txt,"Email from Quinn, the Payroll Supervisor, requesting confirmation of Anika Ellis's Social Security number and date of birth for an annual compliance audit, asking for verification without including the actual values.",75,malicious
+Anika Ellis,3,data246.txt,"Email from Quinn, the Payroll Supervisor, requesting Anika Ellis's salary and bonus figures for the annual compliance audit, asking for a response by the end of the week.",75,malicious
+Anika Ellis,4,data246.txt,"Email from Quinn, the Payroll Supervisor, requesting confirmation of Anika Ellis's direct deposit authorization details for the annual compliance audit, asking for completion by Friday.",75,malicious

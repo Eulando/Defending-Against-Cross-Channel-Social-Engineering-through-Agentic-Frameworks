@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Mateo Iverson,1,data352.txt,Email from Casey at Bluewater Logistics requesting confirmation of multi-factor authentication backup codes for Mateo Iverson in preparation for year-end reconciliation.,75,malicious
+Mateo Iverson,2,data352.txt,Email from Casey at Bluewater Logistics requesting confirmation of personal email and phone records for Mateo Iverson in preparation for year-end reconciliation and directory update.,75,malicious
+Mateo Iverson,3,data352.txt,Email from Casey at Bluewater Logistics requesting confirmation of home address and personal phone number for Mateo Iverson in preparation for year-end reconciliation and contact record updates.,75,malicious
+Mateo Iverson,4,data352.txt,Email from Casey at Bluewater Logistics requesting driver's license and passport details for Mateo Iverson in preparation for year-end reconciliation and identity document verification.,75,malicious

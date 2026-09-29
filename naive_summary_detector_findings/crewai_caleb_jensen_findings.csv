@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Caleb Jensen,1,data372.txt,"Email from Riley, Operations Director at Greenfield Energy, requesting Aisha to provide driver's license and passport details for Caleb Jensen as part of the insurance renewal process.",85,malicious
+Caleb Jensen,2,data372.txt,"Email from Riley, Operations Director at Greenfield Energy, requesting Omar to provide badge details and entry history for Caleb Jensen as part of the insurance renewal process.",85,malicious
+Caleb Jensen,3,data372.txt,"Email from Riley, Operations Director at Greenfield Energy, requesting Nina to provide Caleb Jensen's social security number and date of birth from the personnel file as part of the insurance renewal process.",85,malicious
+Caleb Jensen,4,data372.txt,"Email from Riley, Operations Director at Greenfield Energy, requesting Priya to confirm health insurance and medical records for Caleb Jensen as part of the insurance renewal process.",85,malicious

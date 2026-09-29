@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Silas Dawson,1,data208.txt,"Email from Taylor, Finance Manager at Greenfield Energy, requesting confirmation of health insurance and medical records for Silas Dawson as part of the insurance renewal process.",80,malicious
+Silas Dawson,2,data208.txt,"Email from Taylor, Finance Manager at Greenfield Energy, requesting confirmation of social security number and date of birth for Silas Dawson as part of the insurance renewal process.",80,malicious
+Silas Dawson,3,data208.txt,"Email from Taylor, Finance Manager at Greenfield Energy, requesting Silas Dawson's direct deposit authorization as part of the insurance renewal process.",80,malicious
+Silas Dawson,4,data208.txt,"Email from Taylor, Finance Manager at Greenfield Energy, requesting confirmation of background check and screening files for Silas Dawson as part of the insurance renewal process.",80,malicious

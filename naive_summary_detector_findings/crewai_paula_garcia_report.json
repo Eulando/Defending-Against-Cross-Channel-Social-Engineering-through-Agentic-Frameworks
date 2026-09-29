@@ -1,0 +1,54 @@
+{
+  "victim_name": "Paula Garcia",
+  "threshold": 50,
+  "combined_score": 60,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the requests for personal and financial information related to Paula Garcia indicates a potential malicious intent, as they all pertain to sensitive personnel records and financial details.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Paula Garcia",
+      "findings": [
+        {
+          "filename": "data295.txt",
+          "channel_summary": "Request for Paula Garcia's employment file and emergency contacts for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request related to the victim's personnel records."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Paula Garcia",
+      "findings": [
+        {
+          "filename": "data295.txt",
+          "channel_summary": "Request for confirmation of Paula Garcia's direct deposit authorization details for payroll reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request related to the victim's personnel records."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Paula Garcia",
+      "findings": [
+        {
+          "filename": "data295.txt",
+          "channel_summary": "Request for Paula Garcia's badge details and entry history for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request related to the victim's personnel records."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Paula Garcia",
+      "findings": [
+        {
+          "filename": "data295.txt",
+          "channel_summary": "Request for confirmation of Paula Garcia's direct deposit details in the authorized payroll system for the annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request related to the victim's personnel records."
+    }
+  ]
+}

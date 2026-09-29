@@ -1,0 +1,54 @@
+{
+  "victim_name": "Wesley Jensen",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal and financial information related to Wesley Jensen, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Wesley Jensen",
+      "findings": [
+        {
+          "filename": "data392.txt",
+          "channel_summary": "Email requesting confirmation of direct deposit authorization details for Wesley Jensen in relation to year-end reconciliation of payroll accounts."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's financial records."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Wesley Jensen",
+      "findings": [
+        {
+          "filename": "data392.txt",
+          "channel_summary": "Email requesting confirmation of background check and screening files for Wesley Jensen in relation to year-end audit preparations."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's background check and screening files."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Wesley Jensen",
+      "findings": [
+        {
+          "filename": "data392.txt",
+          "channel_summary": "Email requesting confirmation of health insurance and medical records for Wesley Jensen in relation to validating coverage details for renewal."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's health insurance and medical records."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Wesley Jensen",
+      "findings": [
+        {
+          "filename": "data392.txt",
+          "channel_summary": "Email requesting confirmation of Social Security number and date of birth for Wesley Jensen in relation to year-end reconciliation and audit preparations."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's personal identification records."
+    }
+  ]
+}

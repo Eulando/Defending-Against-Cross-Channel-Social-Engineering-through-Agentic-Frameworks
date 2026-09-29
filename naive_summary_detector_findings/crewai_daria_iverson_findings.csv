@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Daria Iverson,1,data343.txt,"Email from Rowan, a Data Governance Officer at Apex Insurance Co., requesting confirmation of Daria Iverson's current personal email address and phone number for a routine background verification.",75,malicious
+Daria Iverson,2,data343.txt,"Email from Rowan, a Data Governance Officer at Apex Insurance Co., requesting confirmation of Daria Iverson's account username and the current status of her password reset information for a routine background verification.",75,malicious
+Daria Iverson,3,data343.txt,"Email from Rowan, a Data Governance Officer at Apex Insurance Co., requesting confirmation of the background check and screening files for Daria Iverson as part of a routine background verification audit.",75,malicious
+Daria Iverson,4,data343.txt,"Email from Rowan, a Data Governance Officer at Apex Insurance Co., requesting Daria Iverson's employment file and emergency contacts as part of a routine background verification.",75,malicious

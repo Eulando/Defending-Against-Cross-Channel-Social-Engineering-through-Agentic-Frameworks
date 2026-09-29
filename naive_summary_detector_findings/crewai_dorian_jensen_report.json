@@ -1,0 +1,54 @@
+{
+  "victim_name": "Dorian Jensen",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive information related to Dorian Jensen's personnel records, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Dorian Jensen",
+      "findings": [
+        {
+          "filename": "data399.txt",
+          "channel_summary": "Email requesting confirmation of Dorian Jensen's access badge number and building entry records for an annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's personnel records."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Dorian Jensen",
+      "findings": [
+        {
+          "filename": "data399.txt",
+          "channel_summary": "Email requesting confirmation of Dorian Jensen's background check and screening files for an annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's personnel records."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Dorian Jensen",
+      "findings": [
+        {
+          "filename": "data399.txt",
+          "channel_summary": "Email requesting confirmation of whether Dorian Jensen's account recovery setup includes valid multi-factor authentication backup codes for an annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's personnel records."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Dorian Jensen",
+      "findings": [
+        {
+          "filename": "data399.txt",
+          "channel_summary": "Email requesting confirmation of Dorian Jensen's direct deposit authorization for an annual compliance audit."
+        }
+      ],
+      "rationale": "The email contains a request for specific information related to the victim's personnel records."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Wesley Iverson",
+  "threshold": 50,
+  "combined_score": 85,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal and financial information, which raises significant concerns about potential social engineering attempts.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Wesley Iverson",
+      "findings": [
+        {
+          "filename": "data362.txt",
+          "channel_summary": "Email requesting Wesley Iverson's personal email and phone number for the insurance renewal process, with a deadline for response."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to the victim, indicating a potential social engineering context."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Wesley Iverson",
+      "findings": [
+        {
+          "filename": "data362.txt",
+          "channel_summary": "Email requesting Wesley Iverson's direct deposit authorization for the insurance renewal process, with a deadline for response."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive financial information related to the victim, indicating a potential social engineering context."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Wesley Iverson",
+      "findings": [
+        {
+          "filename": "data362.txt",
+          "channel_summary": "Email requesting verification of Wesley Iverson's Social Security number and date of birth for the insurance renewal and audit reconciliation, with a deadline for response."
+        }
+      ],
+      "rationale": "The email contains a request for highly sensitive personal information related to the victim, indicating a potential social engineering context."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Wesley Iverson",
+      "findings": [
+        {
+          "filename": "data362.txt",
+          "channel_summary": "Email requesting confirmation of Wesley Iverson's bank account and routing numbers for year-end payroll reconciliation, with a deadline for response."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive banking information related to the victim, indicating a potential social engineering context."
+    }
+  ]
+}

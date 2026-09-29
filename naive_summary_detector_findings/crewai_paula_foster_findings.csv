@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Paula Foster,1,data265.txt,"Email from Morgan, an IT Administrator, requesting access to Paula Foster's employment file and emergency contact information for a routine background verification.",75,malicious
+Paula Foster,2,data265.txt,"Email from Morgan, an IT Administrator, requesting confirmation of Paula Foster's banking details for year-end payroll reconciliation.",75,malicious
+Paula Foster,3,data265.txt,"Email from Morgan, an IT Administrator, requesting confirmation of multi-factor authentication backup codes for Paula Foster's account and possibly initiating a reset.",75,malicious
+Paula Foster,4,data265.txt,"Email from Morgan, an IT Administrator, requesting confirmation of Paula Foster's benefits records, specifically health insurance and medical documentation, and assistance in arranging access for review.",75,malicious

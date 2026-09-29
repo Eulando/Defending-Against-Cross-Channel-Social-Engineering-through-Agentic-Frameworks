@@ -1,0 +1,54 @@
+{
+  "victim_name": "Yara Garcia",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal information related to Yara Garcia's account, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Yara Garcia",
+      "findings": [
+        {
+          "filename": "data304.txt",
+          "channel_summary": "Email requesting Yara Garcia's home address and personal phone number for the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to Yara Garcia's account."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Yara Garcia",
+      "findings": [
+        {
+          "filename": "data304.txt",
+          "channel_summary": "Email requesting confirmation of background check and screening files for Yara Garcia for an audit."
+        }
+      ],
+      "rationale": "The email contains a request for verification of Yara Garcia's background check and screening files."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Yara Garcia",
+      "findings": [
+        {
+          "filename": "data304.txt",
+          "channel_summary": "Email requesting verification of direct deposit details for Yara Garcia's account for the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for confirmation of Yara Garcia's direct deposit details."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Yara Garcia",
+      "findings": [
+        {
+          "filename": "data304.txt",
+          "channel_summary": "Email requesting confirmation of direct deposit authorization details for Yara Garcia's account for payroll reconciliation."
+        }
+      ],
+      "rationale": "The email contains a request for verification of Yara Garcia's direct deposit authorization details."
+    }
+  ]
+}

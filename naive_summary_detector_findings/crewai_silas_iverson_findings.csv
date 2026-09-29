@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Silas Iverson,1,data358.txt,"Email from Riley, Operations Director at Crestline Hotels, requesting salary and bonus figures for Silas Iverson as part of a routine background verification.",80,malicious
+Silas Iverson,2,data358.txt,"Email from Riley, Operations Director at Crestline Hotels, requesting confirmation of the home address and personal phone number for Silas Iverson as part of a routine background verification.",80,malicious
+Silas Iverson,3,data358.txt,"Email from Riley, Operations Director at Crestline Hotels, requesting badge details and entry history for Silas Iverson as part of a routine background verification.",80,malicious
+Silas Iverson,4,data358.txt,"Email from Riley, Operations Director at Crestline Hotels, requesting driver's license and passport details for Silas Iverson as part of a routine background verification.",80,malicious

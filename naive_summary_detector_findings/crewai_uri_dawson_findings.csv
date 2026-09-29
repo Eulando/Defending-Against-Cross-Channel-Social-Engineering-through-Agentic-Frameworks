@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Uri Dawson,1,data210.txt,"Email from Drew, Internal Audit Lead at Ironbridge Construction, requesting confirmation on the validation of Uri Dawson's security questions and answers for a compliance audit.",40,benign
+Uri Dawson,2,data210.txt,"Email from Drew, Internal Audit Lead at Ironbridge Construction, requesting confirmation of the background check and screening files for Uri Dawson as part of the annual compliance audit.",40,benign
+Uri Dawson,3,data210.txt,"Email from Drew, Internal Audit Lead at Ironbridge Construction, requesting confirmation of Uri Dawson's home address and personal phone number for updating contact records as part of the annual compliance audit.",40,benign
+Uri Dawson,4,data210.txt,"Email from Drew, Internal Audit Lead at Ironbridge Construction, requesting confirmation of Uri Dawson's direct deposit authorization details for reconciling payroll accounts as part of the annual compliance audit.",40,benign

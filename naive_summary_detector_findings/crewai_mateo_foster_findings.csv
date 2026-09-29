@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Mateo Foster,1,data262.txt,"Email from Quinn, the Payroll Supervisor, requesting validation of Mateo Foster's identity records for year-end reconciliation, specifically asking for confirmation of his driver's license and passport details.",10,benign
+Mateo Foster,2,data262.txt,"Email from Quinn, the Payroll Supervisor, requesting confirmation of Mateo Foster's home address and personal phone number for updating contact records in preparation for year-end reconciliation.",10,benign
+Mateo Foster,3,data262.txt,"Email from Quinn, the Payroll Supervisor, requesting confirmation of Mateo Foster's salary and bonus details from the compensation records for year-end reconciliation, emphasizing a short deadline for the response.",10,benign
+Mateo Foster,4,data262.txt,"Email from Quinn, the Payroll Supervisor, requesting confirmation of whether multi-factor authentication backup codes are configured as a recovery option for Mateo Foster's account, indicating a priority for year-end reconciliation.",10,benign

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Caleb Hughes,1,data312.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of background check and screening files for Caleb Hughes as part of the personnel records consolidation for an annual compliance audit.",70,malicious
+Caleb Hughes,2,data312.txt,"Email from Jordan, a Senior HR Generalist, requesting Caleb Hughes's direct deposit authorization as part of the personnel records consolidation for an annual compliance audit.",70,malicious
+Caleb Hughes,3,data312.txt,"Email from Jordan, a Senior HR Generalist, requesting confirmation of the security questions associated with Caleb Hughes's account to ensure they are current as part of the personnel records consolidation for an annual compliance audit.",70,malicious
+Caleb Hughes,4,data312.txt,"Email from Jordan, a Senior HR Generalist, requesting a review and reconciliation of Caleb Hughes's Social Security number and date of birth as part of the personnel records consolidation for an annual compliance audit.",70,malicious

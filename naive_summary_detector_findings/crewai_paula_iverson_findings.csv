@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Paula Iverson,1,data355.txt,"Email from Rowan, a Data Governance Officer, requesting Paula Iverson's personal email and phone number for updating records in a new HR system.",80,malicious
+Paula Iverson,2,data355.txt,"Email from Rowan, a Data Governance Officer, requesting confirmation of direct deposit authorization details for Paula Iverson as part of reconciling payroll accounts.",80,malicious
+Paula Iverson,3,data355.txt,"Email from Rowan, a Data Governance Officer, requesting Paula Iverson's employment file and emergency contacts as part of consolidating personnel data for a new HR system.",80,malicious
+Paula Iverson,4,data355.txt,"Email from Rowan, a Data Governance Officer, requesting Paula Iverson's badge details and entry history as part of checking physical access records for a new HR system.",80,malicious

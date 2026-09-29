@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Silas Garcia,1,data298.txt,"Email from Taylor, Finance Manager at Apex Insurance Co., requesting confirmation of direct deposit authorization details for Silas Garcia's account as part of the insurance renewal process.",70,malicious
+Silas Garcia,2,data298.txt,"Email from Taylor, Finance Manager at Apex Insurance Co., requesting Silas Garcia's badge details and entry history as part of the insurance renewal process.",70,malicious
+Silas Garcia,3,data298.txt,"Email from Taylor, Finance Manager at Apex Insurance Co., requesting Silas Garcia's background check and screening files as part of the insurance renewal process.",70,malicious
+Silas Garcia,4,data298.txt,"Email from Taylor, Finance Manager at Apex Insurance Co., requesting confirmation of current direct deposit details for Silas Garcia's account as part of the insurance renewal process.",70,malicious

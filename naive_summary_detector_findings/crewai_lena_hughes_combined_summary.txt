@@ -1,0 +1,11 @@
+[CHANNEL 1 | data321.txt]
+Email requesting confirmation of Lena Hughes' driver's license and passport details for a routine background verification.
+
+[CHANNEL 2 | data321.txt]
+Email requesting Lena Hughes's salary and bonus figures for a routine background verification and reconciliation of compensation data.
+
+[CHANNEL 3 | data321.txt]
+Email requesting confirmation of Lena Hughes' personal email and phone records for a routine background verification and directory update.
+
+[CHANNEL 4 | data321.txt]
+Email requesting Lena Hughes's health insurance and medical documentation for a routine background verification and double-checking of benefit records.

@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Freya Ellis,1,data225.txt,"Email requesting confirmation of bank account and routing numbers for Freya Ellis's account as part of insurance renewal and payroll reconciliation, with a priority for a response by the end of the week.",70,malicious
+Freya Ellis,2,data225.txt,"Email requesting driver's license and passport details for Freya Ellis's account as part of the insurance renewal process, with a request to complete by Friday.",70,malicious
+Freya Ellis,3,data225.txt,"Email requesting confirmation of personal email and phone records for Freya Ellis's account as part of the insurance renewal process, with a request for a response by the end of the week.",70,malicious
+Freya Ellis,4,data225.txt,"Email requesting Freya Ellis's employment file and emergency contacts as part of the insurance renewal process, with no specific deadline but an earlier response preferred.",70,malicious

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Anika Iverson",
+  "threshold": 50,
+  "combined_score": 80,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal information related to Anika Iverson, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Anika Iverson",
+      "findings": [
+        {
+          "filename": "data366.txt",
+          "channel_summary": "Email requesting confirmation of home address and personal phone number for Anika Iverson as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to the victim, indicating a verification process."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Anika Iverson",
+      "findings": [
+        {
+          "filename": "data366.txt",
+          "channel_summary": "Email requesting the full employment file and emergency contact details for Anika Iverson as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for personal and employment information related to the victim, indicating a verification process."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Anika Iverson",
+      "findings": [
+        {
+          "filename": "data366.txt",
+          "channel_summary": "Email requesting confirmation of background check and screening files for Anika Iverson as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for verification of background check details related to the victim, indicating a verification process."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Anika Iverson",
+      "findings": [
+        {
+          "filename": "data366.txt",
+          "channel_summary": "Email requesting confirmation of Social Security number and date of birth for Anika Iverson as part of a routine background verification."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive personal information related to the victim, indicating a verification process."
+    }
+  ]
+}

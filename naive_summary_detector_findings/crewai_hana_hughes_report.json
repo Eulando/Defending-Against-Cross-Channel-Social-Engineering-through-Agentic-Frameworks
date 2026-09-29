@@ -1,0 +1,54 @@
+{
+  "victim_name": "Hana Hughes",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive personal information related to Hana Hughes, which raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Hana Hughes",
+      "findings": [
+        {
+          "filename": "data317.txt",
+          "channel_summary": "Email requesting confirmation of Hana Hughes's Social Security number and date of birth for personnel records related to an annual compliance audit."
+        }
+      ],
+      "rationale": "The findings meet the requirements as there is one matching email containing the victim's name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Hana Hughes",
+      "findings": [
+        {
+          "filename": "data317.txt",
+          "channel_summary": "Email requesting Hana Hughes's background check and screening files for personnel records related to an annual compliance audit."
+        }
+      ],
+      "rationale": "The findings meet the requirements as there is one matching email containing the victim's name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Hana Hughes",
+      "findings": [
+        {
+          "filename": "data317.txt",
+          "channel_summary": "Email requesting confirmation of Hana Hughes's bank account and routing numbers for personnel records related to an annual compliance audit."
+        }
+      ],
+      "rationale": "The findings meet the requirements as there is one matching email containing the victim's name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Hana Hughes",
+      "findings": [
+        {
+          "filename": "data317.txt",
+          "channel_summary": "Email requesting confirmation of whether multi-factor authentication backup codes for Hana Hughes's account have been generated and stored in the approved recovery system for personnel records related to an annual compliance audit."
+        }
+      ],
+      "rationale": "The findings meet the requirements as there is one matching email containing the victim's name."
+    }
+  ]
+}

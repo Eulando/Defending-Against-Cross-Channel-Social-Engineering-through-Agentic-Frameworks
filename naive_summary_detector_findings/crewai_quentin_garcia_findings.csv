@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Quentin Garcia,1,data296.txt,Email requesting account username and password-reset audit details for Quentin Garcia to complete a security review.,80,malicious
+Quentin Garcia,2,data296.txt,Email requesting confirmation of personal email and phone records for Quentin Garcia to update the directory.,80,malicious
+Quentin Garcia,3,data296.txt,Email requesting Quentin Garcia's full employment file and emergency contact details from HRIS for record consolidation.,80,malicious
+Quentin Garcia,4,data296.txt,Email requesting confirmation of home address and personal phone number for Quentin Garcia to update contact records.,80,malicious

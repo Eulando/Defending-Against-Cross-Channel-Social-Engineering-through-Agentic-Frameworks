@@ -1,0 +1,11 @@
+[CHANNEL 1 | data299.txt]
+Email from Morgan, an IT Administrator at Orbit Analytics, requesting Aisha to provide driver's license and passport details for Talia Garcia as part of a routine background verification.
+
+[CHANNEL 2 | data299.txt]
+Email from Morgan, an IT Administrator at Orbit Analytics, requesting Jenna to provide Talia Garcia's direct deposit authorization as part of a routine background verification.
+
+[CHANNEL 3 | data299.txt]
+Email from Morgan, an IT Administrator at Orbit Analytics, requesting assistance in pulling Talia Garcia's full employment file and emergency contact details from HRIS as part of a routine background verification.
+
+[CHANNEL 4 | data299.txt]
+Email from Morgan, an IT Administrator at Orbit Analytics, requesting Elena to provide Talia Garcia's salary and bonus figures as part of a routine background verification.

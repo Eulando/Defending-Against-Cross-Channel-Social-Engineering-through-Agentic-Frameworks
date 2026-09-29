@@ -1,0 +1,49 @@
+{
+  "victim_name": "Daria Ellis",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Daria Ellis's account, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Daria Ellis",
+      "findings": [
+        {
+          "filename": "data223.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Pearl Foods Inc., requesting confirmation on whether security questions are configured on Daria Ellis's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding the victim's account review and a request for confirmation."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Daria Ellis",
+      "findings": [
+        {
+          "filename": "data223.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Pearl Foods Inc., requesting assistance in pulling Daria Ellis's full employment file and emergency contact details from HRIS as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding the victim's account review and a request for specific details from HR records."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Daria Ellis",
+      "findings": [
+        {
+          "filename": "data223.txt",
+          "channel_summary": "Email from Morgan, an IT Administrator at Pearl Foods Inc., requesting account username and password-reset activity details for Daria Ellis's account as part of the insurance renewal and security review."
+        }
+      ],
+      "rationale": "The email contains relevant information regarding the victim's account review and a request for specific security details."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Daria Ellis",
+      "findings": [],
+      "rationale": "cannot be found"
+    }
+  ]
+}

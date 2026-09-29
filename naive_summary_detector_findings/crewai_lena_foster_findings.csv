@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Lena Foster,1,data261.txt,Email requesting confirmation of Lena Foster's account username and the date and status of her most recent password reset for a security review.,80,malicious
+Lena Foster,2,data261.txt,Email requesting confirmation of Lena Foster's Social Security number and date of birth for accuracy in the HR system migration.,80,malicious
+Lena Foster,3,data261.txt,Email requesting confirmation of the background check and screening files for Lena Foster as part of the HR system migration audit.,80,malicious
+Lena Foster,4,data261.txt,Email requesting Lena Foster's personal email and phone number for updating directory records as part of the HR system migration.,80,malicious

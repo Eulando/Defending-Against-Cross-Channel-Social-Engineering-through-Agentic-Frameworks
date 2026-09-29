@@ -1,0 +1,54 @@
+{
+  "victim_name": "Gavin Foster",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive information related to Gavin Foster's account, including security questions, personal details, banking information, and compensation records. This pattern raises significant concerns about the legitimacy of the inquiries.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Gavin Foster",
+      "findings": [
+        {
+          "filename": "data256.txt",
+          "channel_summary": "Email from Avery, a Security Coordinator at Orbit Analytics, requesting confirmation of security questions and answers for Gavin Foster's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for account recovery details related to Gavin Foster, indicating a legitimate inquiry regarding his account."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Gavin Foster",
+      "findings": [
+        {
+          "filename": "data256.txt",
+          "channel_summary": "Email from Avery, a Security Coordinator at Orbit Analytics, requesting confirmation of personal email and phone records for Gavin Foster's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for personal information related to Gavin Foster, indicating a legitimate inquiry regarding his account."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Gavin Foster",
+      "findings": [
+        {
+          "filename": "data256.txt",
+          "channel_summary": "Email from Avery, a Security Coordinator at Orbit Analytics, requesting verification of bank account and routing numbers for Gavin Foster's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for sensitive banking information related to Gavin Foster, indicating a legitimate inquiry regarding his account."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Gavin Foster",
+      "findings": [
+        {
+          "filename": "data256.txt",
+          "channel_summary": "Email from Avery, a Security Coordinator at Orbit Analytics, requesting confirmation of salary and bonus details for Gavin Foster's account as part of the insurance renewal process."
+        }
+      ],
+      "rationale": "The email contains a request for compensation details related to Gavin Foster, indicating a legitimate inquiry regarding his account."
+    }
+  ]
+}
