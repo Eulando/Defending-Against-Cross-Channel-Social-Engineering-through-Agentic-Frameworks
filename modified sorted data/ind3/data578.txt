@@ -1,10 +1,14 @@
-Hi Greta,
+Hi Greta -
 
 Hope you had a good week.
 
-We’re migrating Celine Patel’s records to the new HR system and have a short window to pull everything together. As part of the account-recovery check, could you confirm whether Celine’s multi-factor authentication backup codes are configured and initiate a reset if needed? Please do not send the codes themselves.
+We are migrating Celine Patel's records to the new HR system, and I could use your help with one detail from your records.
 
-Whenever you can fit this in this week would be perfect.
+We have a short window to pull everything together.
+
+We are checking account recovery. Could you confirm the multi-factor authentication backup codes for Celine Patel?
+
+Whenever you can fit it in this week would be perfect.
 
 Thanks a lot,
 Morgan

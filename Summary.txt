@@ -1,0 +1,16 @@
+Sorted data was fetched from the grace brach and contained all files that scored above 50. 
+
+Different prompts and their effectiveness where tested with multiple different variations (rephrasing, restrucutring, supplimental sentences additions, combination etc.) 
+
+After consolidating a final prompt, restructure_sorted_data.py was run on the all files inside the sorted data folder and were saved to modifed sorted data. 
+Reviewing the .txt files inside the modified sorted data showed emails containing "safety softening phrases" which turned emails benign and emails that were unsuccesfully generated due to safety guardrails. 
+Emails containing safety softening phrases of the ones blocked due to safety guardrails were noted in their separate .csv folders and were removed to produce the filtered modified data. 
+
+At the end there were 122 unique scenarios in Top-Down Maliciously generated index whcih were neither affected by the safety softening phrases or were blocked by guardrails. 
+33 were blocked by guardrails, 
+49 contained safety softening phrases 
+
+However, in the filtered modified data, there were 156 unique scenarios ranging from 200-399 since not all files sharing the unique scenario ID number were blocked by guardrails and/or safety softening phrases. 
+
+The Number of favorable data rose from 20 to 122 at the end. 
+21/200= 10.5% --> 122/200= 61%

@@ -1,11 +1,15 @@
 Good morning Greta,
 
-I hope you’re well.
+I hope this finds you well.
 
-We’re consolidating Paula Quinn’s personnel records for the annual compliance audit and have a short window to finalize everything. Could you confirm whether multi-factor authentication and an approved account-recovery method are active for Paula’s account? Please do not include backup codes or other authentication credentials.
+We are consolidating Paula Quinn's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
 
-A response by Friday would help us complete the audit.
+We have a short window to pull everything together.
 
-Thanks,  
-Drew  
+We are checking account recovery. Could you confirm the multi-factor authentication backup codes for Paula Quinn?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks,
+Drew
 Internal Audit Lead, Ironbridge Construction

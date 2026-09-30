@@ -1,15 +1,15 @@
-Hi Marcus,
+Hi Marcus -
 
-I hope you’re well.
+I hope this finds you well.
 
-We’re performing a routine background verification for Paula Patel and need your help confirming a detail from our records. This is a priority, and we want to ensure the information is accurate.
+We are performing a routine background verification on Paula Patel, and I could use your help with one detail from your records.
 
-Could you provide Paula’s account username, along with the date and status of any password-reset activity on record? We’re reviewing the related access logs as part of the security review. Please do not include passwords, reset links, tokens, or security-question answers.
+It is a bit of a priority, so we want the details to be right.
 
-If you can send this before Friday, it would help us close out the review.
+Can you pull Paula Patel's account username and the password reset details we have on record? We are checking access logs for the security review.
+
+If you can get to this before Friday, that would help us close things out.
 
 Many thanks,
-
 Cameron
-Records Manager
-Pearl Foods Inc.
+Records Manager, Pearl Foods Inc.

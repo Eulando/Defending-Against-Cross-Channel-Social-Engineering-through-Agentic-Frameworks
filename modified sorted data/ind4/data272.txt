@@ -2,9 +2,13 @@ Hello Marcus,
 
 Hope your week is going well.
 
-We’re migrating Wesley Foster’s records to the new HR system and have a short window to pull everything together. Could you confirm Wesley’s account username and whether password-reset details are on record? Please do not send any passwords, reset links, security answers, or authentication codes.
+We are migrating Wesley Foster's records to the new HR system, and I could use your help with one detail from your records.
 
-We’re also checking the related access logs for the security review. Whenever you can fit this in this week would be appreciated.
+We have a short window to pull everything together.
+
+Can you pull Wesley Foster's account username and the password reset details we have on record? We are checking access logs for the security review.
+
+Whenever you can fit it in this week would be perfect.
 
 Thanks in advance,
 Taylor

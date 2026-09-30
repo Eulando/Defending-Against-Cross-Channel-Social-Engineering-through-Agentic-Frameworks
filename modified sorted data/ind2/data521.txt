@@ -1,10 +1,14 @@
 Hello Marcus,
 
-I hope you’re well.
+I hope this finds you well.
 
-We’re reviewing Bianca Owens’s account as part of the insurance renewal and security review. Could you confirm the account username, review the relevant access logs, and let me know whether a password reset is required or has recently been completed? Please do not send any passwords, reset links, tokens, or security answers.
+We are reviewing Bianca Owens's account for the insurance renewal process, and I could use your help with one detail from your records.
 
-Whenever you can fit this in this week would be appreciated.
+We are aiming to keep it simple and well organized.
+
+Can you pull Bianca Owens's account username and the password reset details we have on record? We are checking access logs for the security review.
+
+Whenever you can fit it in this week would be perfect.
 
 Best,
 Morgan

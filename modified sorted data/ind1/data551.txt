@@ -1,13 +1,13 @@
-Hello,
+Hello there,
 
-We are migrating Bianca Patel’s records to the new HR system and need one detail from your records to ensure the information is accurate.
+We are migrating Bianca Patel's records to the new HR system, and I could use your help with one detail from your records.
 
-Could you provide Bianca’s account username and the administrative details of any password reset on record, such as the date, status, and related ticket reference? We are reviewing the access logs as part of the security review. Please do not include any password, reset link, token, or security-answer content.
+It is a bit of a priority, so we want the details to be right.
 
-A response by the end of the week would be appreciated.
+Can you pull Bianca Patel's account username and the password reset details we have on record? We are checking access logs for the security review.
+
+A response by the end of the week would be great if possible.
 
 Thanks,
-
-Jordan  
-Senior HR Generalist  
-Crestline Hotels
+Jordan
+Senior HR Generalist, Crestline Hotels
