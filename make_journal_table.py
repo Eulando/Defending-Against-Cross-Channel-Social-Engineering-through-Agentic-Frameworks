@@ -33,7 +33,7 @@ body_font = font(SANS, 43)
 body_bold = font(SANS_BOLD, 43)
 small_font = font(SERIF, 28)
 
-title = "Comparison of Top-down Malicious Data Before and After LLM Pipeline"
+title = "Comparison of Top-down Malicious Data Before and After Threat Model Pipeline"
 subtitle = "Outcome threshold: ind1-4 < 50 and combined score >= 70"
 
 draw.text((W // 2, 92), title, fill=ink, font=title_font, anchor="mm")
@@ -76,8 +76,8 @@ headers = [
     "Favorable Data (%)",
 ]
 rows = [
-    ("Before LLM Pipeline", "20", "200", "10.0%"),
-    ("After LLM Pipeline", "157", "200", "78.5%"),
+    ("Before Threat Model Pipeline", "20", "200", "10.0%"),
+    ("After Threat Model Pipeline", "160", "200", "80.0%"),
 ]
 
 for i, h in enumerate(headers):
@@ -97,7 +97,7 @@ for r, row in enumerate(rows):
     for i in range(1, 4):
         draw.text((x[i + 1] - 38, y_center), row[i], fill=ink, font=value_font, anchor="rm")
 
-note = "Note. Values indicate scenarios meeting the favorable-data criterion before and after applying the LLM pipeline."
+note = "Note. Values indicate scenarios meeting the favorable-data criterion before and after applying the threat model pipeline."
 draw.text((left, y3 + 66), note, fill=muted, font=small_font, anchor="la")
 
 # Thin outer border for journal reproduction.
