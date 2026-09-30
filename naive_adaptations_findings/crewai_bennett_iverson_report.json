@@ -1,7 +1,7 @@
 {
   "victim_name": "Bennett Iverson",
   "threshold": 50,
-  "combined_score": 70,
+  "combined_score": 75,
   "final_verdict": "malicious",
   "threshold_triggered": true,
   "rationale": "The combined context indicates a pattern of requests for sensitive personal information related to Bennett Iverson, which raises concerns about potential malicious intent.",

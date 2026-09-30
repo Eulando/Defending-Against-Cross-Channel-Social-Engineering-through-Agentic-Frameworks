@@ -1,0 +1,50 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Noelle Patel,1,data563.txt,"Hello there,
+
+We’re preparing Noelle Patel’s file for year-end reconciliation and need help confirming one detail from your records.
+
+Could you let us know whether security questions are currently configured on Noelle Patel’s account?
+
+A response by the end of the week would be appreciated.
+
+Thanks a lot,
+Quinn
+Payroll Supervisor, Velocity Motors",75,malicious
+Noelle Patel,2,data563.txt,"Good morning Nina,
+
+I hope you’re well.
+
+We’re preparing Noelle Patel’s file for year-end reconciliation and need to confirm that her profile information, including her Social Security number and date of birth, is current.
+
+Could you please ask Noelle to review and confirm those details directly in the payroll system by the end of the week?
+
+Thanks in advance,
+
+Quinn
+Payroll Supervisor, Velocity Motors",75,malicious
+Noelle Patel,3,data563.txt,"Hello there,
+
+We’re preparing Noelle Patel’s file for year-end reconciliation and need to confirm one detail from your records.
+
+Could you let us know whether multi-factor authentication and account-recovery options are currently set up for Noelle Patel’s account?
+
+If you can respond before Friday, it would help us close out the file on time.
+
+Thanks a lot,
+Quinn
+Payroll Supervisor, Velocity Motors",75,malicious
+Noelle Patel,4,data563.txt,"Hello Maya,
+
+Hope you had a good week.
+
+We are preparing Noelle Patel's file for the year-end reconciliation, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+We are updating contact information. Can you share Noelle Patel's home address and personal phone number on record?
+
+No deadline pressure, though earlier is always better.
+
+Best regards,
+Quinn
+Payroll Supervisor, Velocity Motors",75,malicious

@@ -1,10 +1,10 @@
 {
   "victim_name": "Ximena Foster",
   "threshold": 50,
-  "combined_score": 70,
+  "combined_score": 60,
   "final_verdict": "malicious",
   "threshold_triggered": true,
-  "rationale": "The combined context contains multiple requests for sensitive information related to Ximena Foster, indicating a potential social engineering attempt.",
+  "rationale": "The combined context contains multiple requests for sensitive information related to Ximena Foster, indicating potential malicious intent.",
   "channel_reports": [
     {
       "channel": 1,

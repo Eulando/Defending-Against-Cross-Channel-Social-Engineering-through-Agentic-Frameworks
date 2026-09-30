@@ -4,7 +4,7 @@
   "combined_score": 70,
   "final_verdict": "malicious",
   "threshold_triggered": true,
-  "rationale": "The combined context contains multiple requests for sensitive information related to Freya Ellis's account, indicating a potential social engineering attempt.",
+  "rationale": "The combined context contains multiple requests for sensitive information related to Freya Ellis's account, indicating potential malicious intent.",
   "channel_reports": [
     {
       "channel": 1,

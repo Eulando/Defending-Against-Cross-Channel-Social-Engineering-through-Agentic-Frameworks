@@ -1,0 +1,55 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Anika Navarro,1,data516.txt,"Hey Leo,
+
+Hope your week is going well.
+
+We are preparing Anika Navarro's file for the year-end reconciliation, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+Can you pull Anika Navarro's full employment file and emergency contact details from HRIS? We are consolidating records.
+
+A response by the end of the week would be great if possible.
+
+Best,
+Morgan
+IT Administrator, Ventureline Consulting",75,malicious
+Anika Navarro,2,data516.txt,"Hi Devin,
+
+I hope you’re well.
+
+We’re preparing Anika Navarro’s file for the year-end payroll reconciliation and need to confirm that the bank account and routing numbers currently on file are accurate and up to date. Could you review the records and confirm their status by Friday?
+
+Many thanks,
+
+Morgan  
+IT Administrator  
+Ventureline Consulting",75,malicious
+Anika Navarro,3,data516.txt,"Hello there,
+
+I hope this finds you well.
+
+We are preparing Anika Navarro's file for the year-end reconciliation, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+We are checking account recovery. Could you confirm the multi-factor authentication backup codes for Anika Navarro?
+
+No deadline pressure, though earlier is always better.
+
+Thanks,
+Morgan
+IT Administrator, Ventureline Consulting",75,malicious
+Anika Navarro,4,data516.txt,"Hi Marcus,
+
+Hope your week is going well.
+
+We’re preparing Anika Navarro’s file for the year-end reconciliation and checking access logs as part of the security review. Could you pull her account username along with the password-reset audit details on record, such as the date, time, completion status, and associated ticket number? Please exclude passwords, reset links, tokens, security answers, or other authentication secrets.
+
+We have a short window to pull everything together, though there’s no firm deadline. Earlier is always appreciated.
+
+Thanks in advance,
+
+Morgan  
+IT Administrator  
+Ventureline Consulting",75,malicious

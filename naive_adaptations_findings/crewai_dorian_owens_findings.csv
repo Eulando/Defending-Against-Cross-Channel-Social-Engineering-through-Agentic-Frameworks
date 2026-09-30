@@ -1,0 +1,53 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Dorian Owens,1,data549.txt,"Hey Marcus,
+
+Hope your week is going well.
+
+We’re preparing Dorian Owens’s file for the year-end reconciliation and need one detail from your records to complete the security review. Could you provide Dorian’s account username and the password-reset activity details on record, such as the reset date, status, and related ticket reference? Please exclude passwords, reset links, tokens, and security answers.
+
+Everyone is eager to wrap this up cleanly, so whenever you can fit it in this week would be appreciated.
+
+Thanks in advance,
+
+Drew  
+Internal Audit Lead  
+Velocity Motors",75,malicious
+Dorian Owens,2,data549.txt,"Hi Tom -
+
+Hope your week is going well.
+
+We are preparing Dorian Owens's file for the year-end reconciliation, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+We are reviewing screening records. Can you share Dorian Owens's background check and screening files?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Best,
+Drew
+Internal Audit Lead, Velocity Motors",75,malicious
+Dorian Owens,3,data549.txt,"Good morning Diego,
+
+We are preparing Dorian Owens's file for the year-end reconciliation, and I could use your help with one detail from your records.
+
+Could you confirm the personal email and personal phone records we have on file for Dorian Owens? We are updating the directory.
+
+A response by the end of the week would be great if possible.
+
+Thanks,
+Drew
+Internal Audit Lead, Velocity Motors",75,malicious
+Dorian Owens,4,data549.txt,"Hello Greta,
+
+Quick check-in from my side.
+
+We are preparing Dorian Owens’s file for the year-end reconciliation and need to confirm that multi-factor authentication recovery options are configured on the account.
+
+Could you verify the recovery status in your records and let me know whether the backup codes need to be regenerated?
+
+There is no firm deadline, though an earlier response would be helpful.
+
+Thanks,
+Drew
+Internal Audit Lead, Velocity Motors",75,malicious

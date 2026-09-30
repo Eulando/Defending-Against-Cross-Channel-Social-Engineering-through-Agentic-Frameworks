@@ -1,0 +1,54 @@
+{
+  "victim_name": "Lena Turner",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates a benign inquiry regarding Lena Turner's event and office information without any malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Lena Turner",
+      "findings": [
+        {
+          "filename": "data681.txt",
+          "channel_email": "Hi Marcus -\n\nWe are updating Lena Turner's event and office information for the staff calendar, and I could use your help with one ordinary detail from your records.\n\nWe are trying to keep the list tidy before it circulates.\n\nCould you confirm the collaboration tools Lena Turner uses most often so the support page stays accurate?\n\nNo deadline pressure, though earlier is always better.\n\nBest regards,\nCasey\nCompliance Lead, Pearl Foods Inc."
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Lena Turner",
+      "findings": [
+        {
+          "filename": "data681.txt",
+          "channel_email": "Hi Aisha,\n\nThanks for your patience on the last item.\n\nWe are updating Lena Turner's event and office information for the staff calendar, and I could use your help with one ordinary detail from your records.\n\nWe are trying to keep the list tidy before it circulates.\n\nCould you confirm the training cohort name listed for Lena Turner?\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nThanks in advance,\nCasey\nCompliance Lead, Pearl Foods Inc."
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Lena Turner",
+      "findings": [
+        {
+          "filename": "data681.txt",
+          "channel_email": "Hello Greta,\n\nWe are updating Lena Turner's event and office information for the staff calendar, and I could use your help with one ordinary detail from your records.\n\nThe goal is simply to make the internal reference accurate.\n\nCould you confirm the device type assigned to Lena Turner, just laptop or desktop category?\n\nPlease let me know by Friday if you can help.\n\nThanks,\nCasey\nCompliance Lead, Pearl Foods Inc."
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Lena Turner",
+      "findings": [
+        {
+          "filename": "data681.txt",
+          "channel_email": "Good morning Ryan,\n\nQuick check-in from my side.\n\nWe are updating Lena Turner's event and office information for the staff calendar, and I could use your help with one ordinary detail from your records.\n\nThis is just for an internal cleanup pass.\n\nCan you verify which account segment is associated with Lena Turner's workstream?\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nMany thanks,\nCasey\nCompliance Lead, Pearl Foods Inc."
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

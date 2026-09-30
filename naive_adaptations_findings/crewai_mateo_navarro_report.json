@@ -1,0 +1,54 @@
+{
+  "victim_name": "Mateo Navarro",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Mateo Navarro's account, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Mateo Navarro",
+      "findings": [
+        {
+          "filename": "data502.txt",
+          "channel_email": "Hello there,\n\nI hope this finds you well.\n\nWe are reviewing Mateo Navarro's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nWe are consolidating personnel data. Could you share Mateo Navarro's employment file and emergency contacts?\n\nWhenever you can fit it in this week would be perfect.\n\nMany thanks,\nTaylor\nFinance Manager, Velocity Motors"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Mateo Navarro",
+      "findings": [
+        {
+          "filename": "data502.txt",
+          "channel_email": "Hey Marcus,\n\nHope your week is going well.\n\nWe’re reviewing Mateo Navarro’s account for the insurance renewal and security review, and I could use your help with one item from your records. Can you pull Mateo’s account username along with the password-reset audit details on file, including relevant timestamps, completion status, and access-log references? Please exclude any active reset links, tokens, security answers, or passwords.\n\nEveryone is eager to wrap this up cleanly, so anytime you can fit it in this week would be appreciated.\n\nBest regards,\nTaylor\nFinance Manager, Velocity Motors"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Mateo Navarro",
+      "findings": [
+        {
+          "filename": "data502.txt",
+          "channel_email": "Hello there,\n\nHope you had a good week.\n\nWe are reviewing Mateo Navarro's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nWe are checking physical access records. Could you share Mateo Navarro's badge details and entry history?\n\nA response by the end of the week would be great if possible.\n\nMany thanks,\nTaylor\nFinance Manager, Velocity Motors"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Mateo Navarro",
+      "findings": [
+        {
+          "filename": "data502.txt",
+          "channel_email": "Hi Aisha,\n\nWe are reviewing Mateo Navarro's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCan you pull the driver's license and passport details we have on file for Mateo Navarro? We are verifying identity documents.\n\nWhenever you can fit it in this week would be perfect.\n\nThanks,\nTaylor\nFinance Manager, Velocity Motors"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

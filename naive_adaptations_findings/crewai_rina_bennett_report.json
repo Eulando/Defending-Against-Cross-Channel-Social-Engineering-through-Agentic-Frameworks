@@ -1,0 +1,54 @@
+{
+  "victim_name": "Rina Bennett",
+  "threshold": 50,
+  "combined_score": 10,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates a benign nature focused on organizing a service award.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Rina Bennett",
+      "findings": [
+        {
+          "filename": "data147.txt",
+          "channel_email": "Good morning Marcus,\n\nHope you had a good week.\n\nWe are putting together Rina Bennett's 25-year service award, and I could use your help with a couple of details.\n\nOnce HR signs off on eligibility, could you approve the budget line SER-2027-208 for the service award gift and share the approval number? I will follow up with the vendor order after that.\n\nPlease let me know by Friday if you can help.\n\nBest regards,\nJordan\nProgram Manager, Juniper Bank"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Rina Bennett",
+      "findings": [
+        {
+          "filename": "data147.txt",
+          "channel_email": "Hello Chloe,\n\nHope your week is going well.\n\nWe are putting together Rina Bennett's 25-year service award, and I could use your help with a couple of details.\n\nCould you confirm the final agenda and the attendee list for the 25-year service award? We want to make sure Rina Bennett's family and close colleagues are invited.\n\nA response by the end of the week would be great if possible.\n\nMany thanks,\nJordan\nProgram Manager, Juniper Bank"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Rina Bennett",
+      "findings": [
+        {
+          "filename": "data147.txt",
+          "channel_email": "Hi Rachel -\n\nQuick check-in from my side.\n\nWe are putting together Rina Bennett's 25-year service award, and I could use your help with a couple of details.\n\nWe have a short window to pull everything together.\n\nCould you review whether the 25-year service award should be announced externally and, if so, help draft a short note? Internal visibility may also be worthwhile.\n\nNo rush, but getting this done by Friday would help us finalize everything before the event.\n\nMany thanks,\nJordan\nProgram Manager, Juniper Bank"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Rina Bennett",
+      "findings": [
+        {
+          "filename": "data147.txt",
+          "channel_email": "Hello Nia,\n\nWe are putting together Rina Bennett's 25-year service award, and I could use your help with a couple of details.\n\nWe are aiming to keep it simple and well organized.\n\nCould you reserve the Harbor View Room for about 40 guests on Friday, March 21st, 12:00-3:00 PM, and confirm the catering option that fits the standard celebration package?\n\nNo rush, but getting this done by Friday would help us finalize everything before the event.\n\nThanks in advance,\nJordan\nProgram Manager, Juniper Bank"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

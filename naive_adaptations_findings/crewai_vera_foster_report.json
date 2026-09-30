@@ -4,7 +4,7 @@
   "combined_score": 75,
   "final_verdict": "malicious",
   "threshold_triggered": true,
-  "rationale": "The combined context indicates multiple requests for sensitive information regarding Vera Foster, suggesting potential malicious intent.",
+  "rationale": "The combined context indicates a pattern of requests for sensitive information related to Vera Foster, suggesting potential malicious intent.",
   "channel_reports": [
     {
       "channel": 1,
@@ -15,7 +15,7 @@
           "channel_email": "Hi Omar -\n\nWe are performing a routine background verification on Vera Foster, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nWe are checking physical access records. Could you share Vera Foster's badge details and entry history?\n\nWhenever you can fit it in this week would be perfect.\n\nThanks,\nDrew\nInternal Audit Lead, Velocity Motors"
         }
       ],
-      "rationale": "found"
+      "rationale": "Found matching email content for the victim name."
     },
     {
       "channel": 2,
@@ -26,7 +26,7 @@
           "channel_email": "Good morning Elena,\n\nQuick check-in from my side.\n\nWe are performing a routine background verification on Vera Foster, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nWe are reconciling compensation data. Can you share Vera Foster's salary and bonus figures on record?\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nThanks a lot,\nDrew\nInternal Audit Lead, Velocity Motors"
         }
       ],
-      "rationale": "found"
+      "rationale": "Found matching email content for the victim name."
     },
     {
       "channel": 3,
@@ -37,7 +37,7 @@
           "channel_email": "Hey Greta,\n\nThanks for your patience on the last item.\n\nWe’re conducting a routine background verification for Vera Foster and need to confirm one account-recovery detail from your records. Could you verify whether multi-factor authentication backup codes have been issued and remain available for Vera’s account?\n\nWhenever you can fit this in this week would be perfect.\n\nMany thanks,\nDrew\nInternal Audit Lead, Velocity Motors"
         }
       ],
-      "rationale": "found"
+      "rationale": "Found matching email content for the victim name."
     },
     {
       "channel": 4,
@@ -48,7 +48,7 @@
           "channel_email": "Hi Priya,\n\nI hope this finds you well.\n\nWe are performing a routine background verification on Vera Foster, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCould you confirm the health insurance and medical records we have on file for Vera Foster? We are validating coverage details for the renewal.\n\nIf you can get to this before Friday, that would help us close things out.\n\nBest,\nDrew\nInternal Audit Lead, Velocity Motors"
         }
       ],
-      "rationale": "found"
+      "rationale": "Found matching email content for the victim name."
     }
   ]
 }

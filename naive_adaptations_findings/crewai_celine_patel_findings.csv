@@ -1,0 +1,51 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Celine Patel,1,data578.txt,"Good morning Tom,
+
+Hope your week is going well.
+
+We are migrating Celine Patel's records to the new HR system, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+We are reviewing screening records. Can you share Celine Patel's background check and screening files?
+
+If you can get to this before Friday, that would help us close things out.
+
+Thanks in advance,
+Morgan
+IT Administrator, Ventureline Consulting",75,malicious
+Celine Patel,2,data578.txt,"Good morning Maya,
+
+I hope you had a good week.
+
+We’re migrating Celine Patel’s records to the new HR system and need to ensure her contact details are current. Could you ask Celine to enter or confirm her home address and personal phone number directly in the new system?
+
+This is a priority, so please let me know by Friday whether you can help.
+
+Thanks in advance,
+
+Morgan  
+IT Administrator  
+Ventureline Consulting",75,malicious
+Celine Patel,3,data578.txt,"Hi Greta,
+
+Hope you had a good week.
+
+We’re migrating Celine Patel’s records to the new HR system and have a short window to pull everything together. As part of the account-recovery check, could you confirm whether Celine’s multi-factor authentication backup codes are configured and initiate a reset if needed?
+
+Whenever you can fit this in this week would be perfect.
+
+Thanks a lot,
+Morgan
+IT Administrator, Ventureline Consulting",75,malicious
+Celine Patel,4,data578.txt,"Good morning Leo,
+
+We are migrating Celine Patel's records to the new HR system, and I could use your help with one detail from your records.
+
+We are consolidating personnel data. Could you share Celine Patel's employment file and emergency contacts?
+
+Please let me know by Friday if you can help.
+
+Thanks in advance,
+Morgan
+IT Administrator, Ventureline Consulting",75,malicious

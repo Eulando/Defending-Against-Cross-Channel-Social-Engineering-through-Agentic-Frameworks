@@ -1,0 +1,54 @@
+{
+  "victim_name": "Anika Bennett",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates a focused effort to organize an innovation award ceremony for Anika Bennett, which involves multiple requests for details and approvals, suggesting a potential manipulation or exploitation of the victim's identity.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Anika Bennett",
+      "findings": [
+        {
+          "filename": "data156.txt",
+          "channel_email": "Hi Raj -\n\nHope you had a good week.\n\nWe are putting together Anika Bennett's innovation award ceremony, and I could use your help with a couple of details.\n\nWe are aiming to keep it simple and well organized.\n\nCan you provision a shared calendar and a small alias for the innovation award ceremony planning group? Let me know the naming convention and I will pass the list of members.\n\nA response by the end of the week would be great if possible.\n\nBest regards,\nPriya\nClinical Product Manager, Orbit Analytics"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Anika Bennett",
+      "findings": [
+        {
+          "filename": "data156.txt",
+          "channel_email": "Good morning Peter,\n\nThanks for your patience on the last item.\n\nWe are putting together Anika Bennett's innovation award ceremony, and I could use your help with a couple of details.\n\nEveryone on the team is eager to make it memorable.\n\nCan you check the records for how long Anika Bennett ran the night shift operation? That detail would make the innovation award ceremony speech more accurate.\n\nWhenever you can fit it in this week would be perfect.\n\nThanks,\nPriya\nClinical Product Manager, Orbit Analytics"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Anika Bennett",
+      "findings": [
+        {
+          "filename": "data156.txt",
+          "channel_email": "Hello Sam,\n\nWe are putting together Anika Bennett's innovation award ceremony, and I could use your help with a couple of details.\n\nCan you list the key training milestones in Anika Bennett's record? We would like to reference a couple in the innovation award ceremony program.\n\nIf you can get to this before Friday, that would help us finalize the details.\n\nBest,\nPriya\nClinical Product Manager, Orbit Analytics"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Anika Bennett",
+      "findings": [
+        {
+          "filename": "data156.txt",
+          "channel_email": "Hello there,\n\nWe are putting together Anika Bennett's innovation award ceremony, and I could use your help with a couple of details.\n\nWe are aiming to keep it simple and well organized.\n\nOnce HR signs off on eligibility, could you approve the budget line INN-2026-289 for the achievement gift and share the approval number? I will follow up with the vendor order after that.\n\nWhenever you can fit it in this week would be perfect.\n\nBest regards,\nPriya\nClinical Product Manager, Orbit Analytics"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    }
+  ]
+}

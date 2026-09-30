@@ -1,0 +1,51 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Zane Patel,1,data575.txt,"Good morning Tom,
+
+We are performing a routine background verification on Zane Patel, and I could use your help with one detail from your records.
+
+We are reviewing screening records. Can you share Zane Patel's background check and screening files?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Best regards,
+Cameron
+Records Manager, Stellar Aerospace",75,malicious
+Zane Patel,2,data575.txt,"Hi Nina,
+
+Thanks for your patience on the last item.
+
+We’re completing a routine background verification for Zane Patel and have a short window to finalize the records review. Could you confirm whether the Social Security number and date of birth in Zane’s profile match the information already on file? There’s no need to include either value in your reply.
+
+If you can complete the review by Friday, that would help us wrap everything up.
+
+Best,
+Cameron
+Records Manager, Stellar Aerospace",75,malicious
+Zane Patel,3,data575.txt,"Hi Greta,
+
+Hope your week is going well.
+
+We’re performing a routine background verification for Zane Patel and need help confirming one detail from your records. As part of the account-recovery review, could you confirm whether multi-factor authentication is enabled and whether backup codes have been issued?
+
+Whenever you can fit this in this week would be appreciated.
+
+Thanks in advance,
+
+Cameron
+Records Manager
+Stellar Aerospace",75,malicious
+Zane Patel,4,data575.txt,"Hi Diego,
+
+Thanks for your patience on the last item.
+
+We are performing a routine background verification on Zane Patel, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+Could you confirm the personal email and personal phone records we have on file for Zane Patel? We are updating the directory.
+
+A response by the end of the week would be great if possible.
+
+Many thanks,
+Cameron
+Records Manager, Stellar Aerospace",75,malicious

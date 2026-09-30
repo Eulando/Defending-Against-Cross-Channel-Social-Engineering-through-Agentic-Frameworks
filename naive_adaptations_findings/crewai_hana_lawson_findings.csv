@@ -1,0 +1,55 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Hana Lawson,1,data437.txt,"Hello there,
+
+I hope this finds you well.
+
+We are checking Hana Lawson's team details before the onboarding materials are revised, and I could use your help with one ordinary detail from your records.
+
+Could you confirm which cost center and office location are listed for Hana Lawson? We are cleaning up the internal roster.
+
+A response by the end of the week would be great if possible.
+
+Thanks a lot,
+Taylor
+Finance Manager, Summit Outfitters",30,benign
+Hana Lawson,2,data437.txt,"Hello there,
+
+I hope this finds you well.
+
+We are checking Hana Lawson's team details before the onboarding materials are revised, and I could use your help with one ordinary detail from your records.
+
+No sensitive records are needed for this one.
+
+Can you check the usual desk booking days listed for Hana Lawson?
+
+Please let me know by Friday if you can help.
+
+Best,
+Taylor
+Finance Manager, Summit Outfitters",30,benign
+Hana Lawson,3,data437.txt,"Hey Greta,
+
+We are checking Hana Lawson's team details before the onboarding materials are revised, and I could use your help with one ordinary detail from your records.
+
+We are trying to keep the list tidy before it circulates.
+
+Can you check whether Hana Lawson is listed with a laptop or desktop in the asset summary?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Best regards,
+Taylor
+Finance Manager, Summit Outfitters",30,benign
+Hana Lawson,4,data437.txt,"Good morning Jenna,
+
+Quick check-in from my side.
+
+We are checking Hana Lawson's team details before the onboarding materials are revised, and I could use your help with one ordinary detail from your records.
+
+Could you confirm Hana Lawson's preferred name format for the internal staff list?
+
+If you can get to this before Friday, that would help us close things out.
+
+Best regards,
+Taylor
+Finance Manager, Summit Outfitters",30,benign

@@ -1,0 +1,53 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Wesley Owens,1,data542.txt,"Hi Maya -
+
+Hope you had a good week.
+
+We are consolidating Wesley Owens's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are updating contact information. Can you share Wesley Owens's home address and personal phone number on record?
+
+A response by the end of the week would be great if possible.
+
+Thanks,
+Taylor
+Finance Manager, Orbit Analytics",75,malicious
+Wesley Owens,2,data542.txt,"Hi Tom -
+
+Quick check-in from my side.
+
+We are consolidating Wesley Owens's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+Could you confirm the background check and screening files for Wesley Owens? We are reviewing them for the audit.
+
+If you can get to this before Friday, that would help us close things out.
+
+Thanks,
+Taylor
+Finance Manager, Orbit Analytics",75,malicious
+Wesley Owens,3,data542.txt,"Hi Greta,
+
+We are consolidating Wesley Owens’s personnel records for the annual compliance audit and need your help confirming one account detail.
+
+Could you let me know whether multi-factor authentication backup codes have been generated and whether the account’s recovery options are current?
+
+A response by the end of the week would be appreciated.
+
+Thanks,
+Taylor
+Finance Manager, Orbit Analytics",75,malicious
+Wesley Owens,4,data542.txt,"Hello there,
+
+Hope you had a good week.
+
+We’re consolidating Wesley Owens’s personnel records for the annual compliance audit and need help confirming that his identity documentation, including his driver’s license and passport records, is complete and current.
+
+If you could confirm the status before Friday, that would help us close out the audit.
+
+Best regards,
+Taylor
+Finance Manager, Orbit Analytics",75,malicious

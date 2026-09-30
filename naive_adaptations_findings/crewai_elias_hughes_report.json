@@ -4,7 +4,7 @@
   "combined_score": 75,
   "final_verdict": "malicious",
   "threshold_triggered": true,
-  "rationale": "The combined context contains multiple requests for sensitive information related to Elias Hughes, indicating a potential social engineering attempt.",
+  "rationale": "The combined context of the emails indicates a pattern of requesting sensitive information related to Elias Hughes's records, which raises concerns about potential malicious intent.",
   "channel_reports": [
     {
       "channel": 1,

@@ -1,0 +1,55 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Caleb Patel,1,data552.txt,"Hi Nina,
+
+We’re reviewing Caleb Patel’s account as part of the insurance renewal process and updating his profile.
+
+Could you please check whether the Social Security number and date of birth in the existing records are current and confirm once the review is complete? There’s no need to include either value in your reply.
+
+Whenever you can fit this in this week would be appreciated.
+
+Thanks a lot,
+Quinn
+Payroll Supervisor, Bluewater Logistics",75,malicious
+Caleb Patel,2,data552.txt,"Hey Diego,
+
+Hope your week is going well.
+
+We are reviewing Caleb Patel's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+We are updating directory records. Can you share Caleb Patel's personal email and phone number on record?
+
+Please let me know by Friday if you can help.
+
+Thanks a lot,
+Quinn
+Payroll Supervisor, Bluewater Logistics",75,malicious
+Caleb Patel,3,data552.txt,"Hello Omar,
+
+Quick check-in from my side.
+
+We are reviewing Caleb Patel's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are checking physical access records. Could you share Caleb Patel's badge details and entry history?
+
+If you can get to this before Friday, that would help us close things out.
+
+Many thanks,
+Quinn
+Payroll Supervisor, Bluewater Logistics",75,malicious
+Caleb Patel,4,data552.txt,"Good morning Priya,
+
+Hope your week is going well.
+
+We are reviewing Caleb Patel's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Could you confirm the health insurance and medical records we have on file for Caleb Patel? We are validating coverage details for the renewal.
+
+No deadline pressure, though earlier is always better.
+
+Many thanks,
+Quinn
+Payroll Supervisor, Bluewater Logistics",75,malicious

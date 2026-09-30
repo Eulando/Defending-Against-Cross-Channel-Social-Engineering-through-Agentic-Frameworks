@@ -1,0 +1,54 @@
+{
+  "victim_name": "Keon Bennett",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates a focus on organizing an innovation award ceremony, with requests for assistance and details, which does not suggest malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Keon Bennett",
+      "findings": [
+        {
+          "filename": "data140.txt",
+          "channel_email": "Good morning Marcus,\n\nI hope this finds you well.\n\nWe are putting together Keon Bennett's innovation award ceremony, and I could use your help with a couple of details.\n\nIt is a bit of a milestone, so we want the details to be right.\n\nWith HR confirmation in hand, could you process the recognition form against budget code INN-2026-289 and let me know the purchasing window? I will submit the vendor choice once I have the confirmation number.\n\nIf you can get to this before Friday, that would help us finalize the details.\n\nBest regards,\nEmily\nProject Coordinator, Summit Retail Group"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Keon Bennett",
+      "findings": [
+        {
+          "filename": "data140.txt",
+          "channel_email": "Hi Rachel -\n\nWe are putting together Keon Bennett's innovation award ceremony, and I could use your help with a couple of details.\n\nCould you review whether the innovation award ceremony should be announced externally and, if so, help draft a short note? Internal visibility may also be worthwhile.\n\nIf you can get to this before Friday, that would help us finalize the details.\n\nThanks in advance,\nEmily\nProject Coordinator, Summit Retail Group"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Keon Bennett",
+      "findings": [
+        {
+          "filename": "data140.txt",
+          "channel_email": "Hello there,\n\nHope you had a good week.\n\nWe are putting together Keon Bennett's innovation award ceremony, and I could use your help with a couple of details.\n\nCan you book a room for the innovation award ceremony on Friday, April 11th at 10:00 AM-1:00 PM for about 25 guests? The usual setup and a catering quote would be ideal.\n\nNo rush, but getting this done by Friday would help us finalize everything before the event.\n\nMany thanks,\nEmily\nProject Coordinator, Summit Retail Group"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Keon Bennett",
+      "findings": [
+        {
+          "filename": "data140.txt",
+          "channel_email": "Good morning Kate,\n\nHope your week is going well.\n\nWe are putting together Keon Bennett's innovation award ceremony, and I could use your help with a couple of details.\n\nWe have a short window to pull everything together.\n\nCan you find one or two measurable outcomes from Keon Bennett's initiatives? We want to use real figures in the innovation award ceremony speech.\n\nNo rush, but getting this done by Friday would help us finalize everything before the event.\n\nThanks,\nEmily\nProject Coordinator, Summit Retail Group"
+        }
+      ],
+      "rationale": "found"
+    }
+  ]
+}

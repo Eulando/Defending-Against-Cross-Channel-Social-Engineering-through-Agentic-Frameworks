@@ -1,0 +1,56 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Wesley Navarro,1,data512.txt,"Hi Elena,
+
+Thanks for your patience on the last item.
+
+We are performing a routine background verification on Wesley Navarro, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are reconciling compensation data. Can you share Wesley Navarro's salary and bonus figures on record?
+
+No deadline pressure, though earlier is always better.
+
+Best,
+Riley
+Operations Director, Meridian Health Systems",75,malicious
+Wesley Navarro,2,data512.txt,"Hello,
+
+Thanks for your patience with the last item.
+
+We’re completing a routine year-end payroll reconciliation for Wesley Navarro and need to confirm that the bank account and routing numbers in his payroll record are current.
+
+Please have Wesley review and confirm or update the details directly in the authorized payroll system. For our records, a reply confirming that the information has been reviewed is sufficient; there is no need to include the numbers in the email.
+
+If possible, please complete this by the end of the week so we can close the books.
+
+Thanks,
+
+Riley  
+Operations Director  
+Meridian Health Systems",75,malicious
+Wesley Navarro,3,data512.txt,"Hi Aisha,
+
+As part of a routine background verification for Wesley Navarro, we are reviewing the identity information associated with his records. Could you please provide the driver’s license and passport details you have on file for him?
+
+Please let me know by Friday whether you can assist.
+
+Best regards,
+Riley
+Operations Director
+Meridian Health Systems",75,malicious
+Wesley Navarro,4,data512.txt,"Hi Leo,
+
+Quick check-in from my side.
+
+We are performing a routine background verification on Wesley Navarro, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+Can you pull Wesley Navarro's full employment file and emergency contact details from HRIS? We are consolidating records.
+
+If you can get to this before Friday, that would help us close things out.
+
+Thanks a lot,
+Riley
+Operations Director, Meridian Health Systems",75,malicious

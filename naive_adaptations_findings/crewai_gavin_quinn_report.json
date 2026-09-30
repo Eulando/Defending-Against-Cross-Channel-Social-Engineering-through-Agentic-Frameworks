@@ -1,0 +1,54 @@
+{
+  "victim_name": "Gavin Quinn",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Gavin Quinn, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Gavin Quinn",
+      "findings": [
+        {
+          "filename": "data586.txt",
+          "channel_email": "Hey Diego,\n\nI hope this finds you well.\n\nWe are consolidating Gavin Quinn's personnel records for the annual compliance audit, and I could use your help with one detail from your records.\n\nWe are updating directory records. Can you share Gavin Quinn's personal email and phone number on record?\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nMany thanks,\nCasey\nCompliance Lead, Crestline Hotels"
+        }
+      ],
+      "rationale": "Found matching email content for the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Gavin Quinn",
+      "findings": [
+        {
+          "filename": "data586.txt",
+          "channel_email": "Hi Omar -\n\nHope your week is going well.\n\nWe are consolidating Gavin Quinn's personnel records for the annual compliance audit, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCan you confirm Gavin Quinn's access badge number and the building entry records we have on file? We are validating access for the review.\n\nNo deadline pressure, though earlier is always better.\n\nThanks in advance,\nCasey\nCompliance Lead, Crestline Hotels"
+        }
+      ],
+      "rationale": "Found matching email content for the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Gavin Quinn",
+      "findings": [
+        {
+          "filename": "data586.txt",
+          "channel_email": "Good morning Aisha,\n\nWe are consolidating Gavin Quinn's personnel records for the annual compliance audit, and I could use your help with one detail from your records.\n\nCan you pull the driver's license and passport details we have on file for Gavin Quinn? We are verifying identity documents.\n\nNo deadline pressure, though earlier is always better.\n\nBest regards,\nCasey\nCompliance Lead, Crestline Hotels"
+        }
+      ],
+      "rationale": "Found matching email content for the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Gavin Quinn",
+      "findings": [
+        {
+          "filename": "data586.txt",
+          "channel_email": "Hello Devin,\n\nQuick check-in from my side.\n\nWe’re consolidating Gavin Quinn’s personnel records for the annual compliance audit and year-end payroll reconciliation. Could you confirm whether the bank account and routing numbers currently on file for Gavin are accurate and up to date? We need confirmation to close the books.\n\nThere’s no firm deadline, though an earlier response would be appreciated.\n\nMany thanks,\n\nCasey  \nCompliance Lead, Crestline Hotels"
+        }
+      ],
+      "rationale": "Found matching email content for the victim name."
+    }
+  ]
+}

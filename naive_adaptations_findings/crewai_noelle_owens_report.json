@@ -1,0 +1,54 @@
+{
+  "victim_name": "Noelle Owens",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information regarding Noelle Owens, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Noelle Owens",
+      "findings": [
+        {
+          "filename": "data533.txt",
+          "channel_email": "Hi Priya -\n\nHope your week is going well.\n\nWe are performing a routine background verification on Noelle Owens, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nWe are double-checking benefit records. Can you share Noelle Owens's health insurance and medical documentation from the benefits system?\n\nNo deadline pressure, though earlier is always better.\n\nMany thanks,\nAvery\nSecurity Coordinator, Nova Telecom"
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Noelle Owens",
+      "findings": [
+        {
+          "filename": "data533.txt",
+          "channel_email": "Hi Maya,\n\nThanks for your patience on the last item.\n\nWe’re performing a routine background verification for Noelle Owens and need to confirm that her contact information is current. Could you please ask Noelle to contact the appropriate records team directly to review or update her home address and personal phone number?\n\nA response by the end of the week would be appreciated, if possible.\n\nBest regards,\nAvery\nSecurity Coordinator, Nova Telecom"
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Noelle Owens",
+      "findings": [
+        {
+          "filename": "data533.txt",
+          "channel_email": "Hello Ryan,\n\nQuick check-in from my side.\n\nCould you confirm whether security questions are configured for Noelle Owens’s account?\n\nA response by Friday would help us finalize the review.\n\nBest,\nAvery\nSecurity Coordinator, Nova Telecom"
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Noelle Owens",
+      "findings": [
+        {
+          "filename": "data533.txt",
+          "channel_email": "Hello there,\n\nWe are performing a routine background verification on Noelle Owens, and I could use your help with one detail from your records.\n\nCould you confirm the background check and screening files for Noelle Owens? We are reviewing them for the audit.\n\nPlease let me know by Friday if you can help.\n\nThanks in advance,\nAvery\nSecurity Coordinator, Nova Telecom"
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Isaac Patel",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive personal information, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Isaac Patel",
+      "findings": [
+        {
+          "filename": "data558.txt",
+          "channel_email": "Hi Diego -\n\nI hope this finds you well.\n\nWe are preparing Isaac Patel's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm the personal email and personal phone records we have on file for Isaac Patel? We are updating the directory.\n\nPlease let me know by Friday if you can help.\n\nMany thanks,\nDrew\nInternal Audit Lead, Ironbridge Construction"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Isaac Patel",
+      "findings": [
+        {
+          "filename": "data558.txt",
+          "channel_email": "Hi Aisha,\n\nHope your week is going well.\n\nWe are preparing Isaac Patel's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCan you pull the driver's license and passport details we have on file for Isaac Patel? We are verifying identity documents.\n\nPlease let me know by Friday if you can help.\n\nThanks,\nDrew\nInternal Audit Lead, Ironbridge Construction"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Isaac Patel",
+      "findings": [
+        {
+          "filename": "data558.txt",
+          "channel_email": "Hey Maya,\n\nHope your week is going well.\n\nWe are preparing Isaac Patel's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm the home address and personal phone number we have on file for Isaac Patel? We are updating the contact records.\n\nA response by the end of the week would be great if possible.\n\nMany thanks,\nDrew\nInternal Audit Lead, Ironbridge Construction"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Isaac Patel",
+      "findings": [
+        {
+          "filename": "data558.txt",
+          "channel_email": "Hello Elena,\n\nHope your week is going well.\n\nWe are preparing Isaac Patel's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nWe are reconciling compensation data. Can you share Isaac Patel's salary and bonus figures on record?\n\nIf you can get to this before Friday, that would help us close things out.\n\nThanks a lot,\nDrew\nInternal Audit Lead, Ironbridge Construction"
+        }
+      ],
+      "rationale": "found"
+    }
+  ]
+}

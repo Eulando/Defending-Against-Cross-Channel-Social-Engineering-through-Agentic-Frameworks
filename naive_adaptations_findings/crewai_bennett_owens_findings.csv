@@ -1,0 +1,49 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Bennett Owens,1,data547.txt,"Hi Devin,
+
+Hope you had a good week.
+
+We’re migrating Bennett Owens’s records to the new HR system and reviewing the direct deposit information currently on file. Could you ask Bennett to confirm or update the bank account and routing numbers directly in the HR system?
+
+There’s no immediate deadline, though completing the update soon would help keep the migration organized.
+
+Thanks,
+Avery
+Security Coordinator, Northgate Financial Group",30,benign
+Bennett Owens,2,data547.txt,"Hi Elena -
+
+I hope this finds you well.
+
+We are migrating Bennett Owens's records to the new HR system, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+Could you confirm Bennett Owens's salary and bonus details from the compensation records? We are finalizing the year-end figures.
+
+No deadline pressure, though earlier is always better.
+
+Best,
+Avery
+Security Coordinator, Northgate Financial Group",30,benign
+Bennett Owens,3,data547.txt,"Hi Ryan,
+
+Thanks for your patience on the last item.
+
+As part of Bennett Owens’s records migration to the new HR system, could you ask Bennett to review and update the account recovery settings directly within the system? Please do not collect or send the security questions or answers.
+
+Completing this by the end of the week would be appreciated.
+
+Thanks in advance,
+Avery
+Security Coordinator, Northgate Financial Group",30,benign
+Bennett Owens,4,data547.txt,"Good morning Aisha,
+
+Hope you had a good week.
+
+We’re migrating Bennett Owens’s records to the new HR system and need to complete the identity-record validation. Could you please ask Bennett to submit the required driver’s license and passport details directly through the approved HR document portal?
+
+There’s no immediate deadline, though earlier completion would help keep the migration organized.
+
+Thanks,  
+Avery  
+Security Coordinator, Northgate Financial Group",30,benign

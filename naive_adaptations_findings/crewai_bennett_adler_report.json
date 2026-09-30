@@ -1,0 +1,54 @@
+{
+  "victim_name": "Bennett Adler",
+  "threshold": 50,
+  "combined_score": 10,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates a focus on organizing a retirement send-off, which is a benign activity. The content does not suggest any malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Bennett Adler",
+      "findings": [
+        {
+          "filename": "data127.txt",
+          "channel_email": "Hey Julia,\n\nQuick check-in from my side.\n\nWe are putting together Bennett Adler's retirement send-off, and I could use your help with a couple of details.\n\nIt is a bit of a milestone, so we want the details to be right.\n\nCould you check availability for the Oak Auditorium on Wednesday, May 14th (4:00-7:00 PM)? We are expecting close to 45 guests and would need the standard setup and catering.\n\nA response by the end of the week would be great if possible.\n\nBest regards,\nMia\nMarketing Operations Manager, Meridian Health Systems"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Bennett Adler",
+      "findings": [
+        {
+          "filename": "data127.txt",
+          "channel_email": "Hello Lisa,\n\nQuick check-in from my side.\n\nWe are putting together Bennett Adler's retirement send-off, and I could use your help with a couple of details.\n\nEveryone on the team is eager to make it memorable.\n\nCould you confirm Bennett Adler's hire date, final working day, and years of service as they appear in HR records? A note on the retirement send-off gift policy that applies would also help.\n\nPlease let me know by Friday if you can help.\n\nBest regards,\nMia\nMarketing Operations Manager, Meridian Health Systems"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Bennett Adler",
+      "findings": [
+        {
+          "filename": "data127.txt",
+          "channel_email": "Hello there,\n\nQuick check-in from my side.\n\nWe are putting together Bennett Adler's retirement send-off, and I could use your help with a couple of details.\n\nWe have a short window to pull everything together.\n\nCould you pull the training and certifications Bennett Adler completed over the years? Highlighting their growth in the retirement send-off materials would be meaningful.\n\nA response by the end of the week would be great if possible.\n\nBest,\nMia\nMarketing Operations Manager, Meridian Health Systems"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Bennett Adler",
+      "findings": [
+        {
+          "filename": "data127.txt",
+          "channel_email": "Hey Sofia,\n\nHope your week is going well.\n\nWe are putting together Bennett Adler's retirement send-off, and I could use your help with a couple of details.\n\nEveryone on the team is eager to make it memorable.\n\nCan you put together a short internal post about Bennett Adler's retirement send-off? A couple of achievement highlights plus the event logistics would be perfect.\n\nNo rush, but getting this done by Friday would help us finalize everything before the event.\n\nMany thanks,\nMia\nMarketing Operations Manager, Meridian Health Systems"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

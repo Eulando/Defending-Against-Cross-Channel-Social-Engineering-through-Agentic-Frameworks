@@ -1,0 +1,59 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Zane Adler,1,data125.txt,"Hello Nia,
+
+Hope you had a good week.
+
+We are putting together Zane Adler's farewell celebration, and I could use your help with a couple of details.
+
+Everyone on the team is eager to make it memorable.
+
+Could you reserve the Horizon Room for about 60 guests on Friday, August 15th, 2:00-5:00 PM, and confirm the catering option that fits the standard celebration package?
+
+No rush, but getting this done by Friday would help us finalize everything before the event.
+
+Thanks in advance,
+Aisha
+Operations Lead, Northgate Financial Group",20,benign
+Zane Adler,2,data125.txt,"Hey Rachel,
+
+Thanks for your patience on the last item.
+
+We are putting together Zane Adler's farewell celebration, and I could use your help with a couple of details.
+
+It is a bit of a milestone, so we want the details to be right.
+
+Could you review whether the farewell celebration should be announced externally and, if so, help draft a short note? Internal visibility may also be worthwhile.
+
+A response by the end of the week would be great if possible.
+
+Best regards,
+Aisha
+Operations Lead, Northgate Financial Group",20,benign
+Zane Adler,3,data125.txt,"Good morning Marcus,
+
+I hope this finds you well.
+
+We are putting together Zane Adler's farewell celebration, and I could use your help with a couple of details.
+
+With HR confirmation in hand, could you process the recognition form against budget code FAR-2026-219 and let me know the purchasing window? I will submit the vendor choice once I have the confirmation number.
+
+No deadline pressure, though earlier is always better.
+
+Best,
+Aisha
+Operations Lead, Northgate Financial Group",20,benign
+Zane Adler,4,data125.txt,"Good morning Miguel,
+
+Quick check-in from my side.
+
+We are putting together Zane Adler's farewell celebration, and I could use your help with a couple of details.
+
+It is a bit of a milestone, so we want the details to be right.
+
+Could you confirm the expense code FAR-2026-219 covers the farewell gift and whether a PO is needed? We want to have the paperwork ready before ordering.
+
+No deadline pressure, though earlier is always better.
+
+Thanks,
+Aisha
+Operations Lead, Northgate Financial Group",20,benign

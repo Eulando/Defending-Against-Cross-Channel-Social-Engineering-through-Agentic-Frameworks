@@ -1,0 +1,54 @@
+{
+  "victim_name": "Isaac Owens",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Isaac Owens, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Isaac Owens",
+      "findings": [
+        {
+          "filename": "data528.txt",
+          "channel_email": "Hi Omar,\n\nQuick check-in from my side.\n\nWe are migrating Isaac Owens's records to the new HR system, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCan you confirm Isaac Owens's access badge number and the building entry records we have on file? We are validating access for the review.\n\nNo deadline pressure, though earlier is always better.\n\nBest regards,\nRowan\nData Governance Officer, Northgate Financial Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Isaac Owens",
+      "findings": [
+        {
+          "filename": "data528.txt",
+          "channel_email": "Hey Diego,\n\nQuick check-in from my side.\n\nWe are migrating Isaac Owens's records to the new HR system, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nCould you confirm the personal email and personal phone records we have on file for Isaac Owens? We are updating the directory.\n\nA response by the end of the week would be great if possible.\n\nThanks in advance,\nRowan\nData Governance Officer, Northgate Financial Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Isaac Owens",
+      "findings": [
+        {
+          "filename": "data528.txt",
+          "channel_email": "Hi Nina,\n\nHope your week is going well.\n\nWe’re migrating Isaac Owens’s records to the new HR system and reconciling them for the audit. Could you review his Social Security number and date of birth in the personnel file, update the corresponding fields directly in the HR system, and let me know once the record is complete?\n\nThis is a priority, so a confirmation by the end of the week would be appreciated.\n\nBest,\nRowan\nData Governance Officer\nNorthgate Financial Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Isaac Owens",
+      "findings": [
+        {
+          "filename": "data528.txt",
+          "channel_email": "Hello there,\n\nWe are migrating Isaac Owens's records to the new HR system, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm the direct deposit authorization details for Isaac Owens? We are reconciling the payroll accounts.\n\nNo deadline pressure, though earlier is always better.\n\nThanks a lot,\nRowan\nData Governance Officer, Northgate Financial Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

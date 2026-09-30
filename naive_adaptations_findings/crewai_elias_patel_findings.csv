@@ -1,0 +1,59 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Elias Patel,1,data554.txt,"Hello there,
+
+I hope this finds you well.
+
+We are preparing Elias Patel's file for the year-end reconciliation, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are consolidating personnel data. Could you share Elias Patel's employment file and emergency contacts?
+
+A response by the end of the week would be great if possible.
+
+Best regards,
+Taylor
+Finance Manager, Pearl Foods Inc.",75,malicious
+Elias Patel,2,data554.txt,"Hey Maya,
+
+Hope your week is going well.
+
+We are preparing Elias Patel's file for the year-end reconciliation, and I could use your help with one detail from your records.
+
+We are updating contact information. Can you share Elias Patel's home address and personal phone number on record?
+
+Whenever you can fit it in this week would be perfect.
+
+Best,
+Taylor
+Finance Manager, Pearl Foods Inc.",75,malicious
+Elias Patel,3,data554.txt,"Good morning Marcus,
+
+Hope you had a good week.
+
+We’re preparing Elias Patel’s file for the year-end reconciliation and need to confirm one detail from your records as a priority.
+
+Could you provide Elias’s account username and the password-reset information on record, limited to the reset date, status, and related ticket or reference number? We’re using it to check the access logs for the security review.
+
+If you can send this before Friday, it would help us close things out.
+
+Many thanks,
+
+Taylor
+Finance Manager
+Pearl Foods Inc.",75,malicious
+Elias Patel,4,data554.txt,"Hi Tom,
+
+Hope your week is going well.
+
+We are preparing Elias Patel's file for the year-end reconciliation, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+We are reviewing screening records. Can you share Elias Patel's background check and screening files?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks in advance,
+Taylor
+Finance Manager, Pearl Foods Inc.",75,malicious

@@ -4,7 +4,7 @@
   "combined_score": 75,
   "final_verdict": "malicious",
   "threshold_triggered": true,
-  "rationale": "The combined context contains multiple requests for sensitive information related to Lena Iverson, indicating a high level of malicious intent.",
+  "rationale": "The combined context contains multiple requests for sensitive information related to Lena Iverson, indicating a potential social engineering attempt.",
   "channel_reports": [
     {
       "channel": 1,

@@ -1,0 +1,55 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Rina Owens,1,data537.txt,"Hey Omar,
+
+Thanks for your patience on the last item.
+
+We are consolidating Rina Owens's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+Can you confirm Rina Owens's access badge number and the building entry records we have on file? We are validating access for the review.
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Best regards,
+Jordan
+Senior HR Generalist, Crestline Hotels",75,malicious
+Rina Owens,2,data537.txt,"Hello,
+
+We’re consolidating Rina Owens’s personnel records for the annual compliance audit and need to confirm one item from your records. The team is hoping to wrap everything up cleanly this week.
+
+Could you please pull the driver’s license and passport details currently on file for Rina Owens? We’re verifying her identity documents as part of the audit.
+
+Whenever you can fit this in during the week would be appreciated.
+
+Thanks in advance,
+
+Jordan
+Senior HR Generalist
+Crestline Hotels",75,malicious
+Rina Owens,3,data537.txt,"Good morning Devin,
+
+I hope you’re doing well.
+
+We’re consolidating Rina Owens’s personnel records for the annual compliance audit and completing the year-end payroll reconciliation. Could you please ask Rina to review the bank account and routing information currently on file and confirm through the payroll system that it is accurate?
+
+We have a short window to close the books, so please let me know by Friday whether this can be completed.
+
+Thanks in advance,
+
+Jordan  
+Senior HR Generalist  
+Crestline Hotels",75,malicious
+Rina Owens,4,data537.txt,"Hi Marcus,
+
+Thanks for your patience on the last item.
+
+We’re consolidating Rina Owens’s personnel records for the annual compliance audit and need your help confirming one detail. As part of the account-access review, could you confirm Rina’s username and whether current reset details are on file? There’s no need to include the reset details themselves.
+
+Everyone is eager to wrap this up cleanly, so whenever you can fit it in this week would be perfect.
+
+Thanks a lot,
+
+Jordan  
+Senior HR Generalist  
+Crestline Hotels",75,malicious

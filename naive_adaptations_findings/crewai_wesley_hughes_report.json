@@ -4,7 +4,7 @@
   "combined_score": 75,
   "final_verdict": "malicious",
   "threshold_triggered": true,
-  "rationale": "The combined context indicates a pattern of requests for sensitive information related to Wesley Hughes, suggesting potential malicious intent.",
+  "rationale": "The combined context contains multiple requests for sensitive information related to Wesley Hughes, indicating a potential malicious intent.",
   "channel_reports": [
     {
       "channel": 1,
@@ -15,7 +15,7 @@
           "channel_email": "Hello Ryan,\n\nQuick check-in from my side.\n\nWe’re consolidating Wesley Hughes’s personnel records for the annual compliance audit and have a short window to pull everything together. Could you confirm whether account recovery settings, including security questions, are configured for Wesley’s account?\n\nWhenever you can fit this in this week would be perfect.\n\nThanks in advance,\n\nQuinn\nPayroll Supervisor\nApex Insurance Co."
         }
       ],
-      "rationale": "Found matching email content."
+      "rationale": "Found one email containing the victim name."
     },
     {
       "channel": 2,
@@ -26,7 +26,7 @@
           "channel_email": "Hi Aisha -\n\nHope your week is going well.\n\nWe are consolidating Wesley Hughes's personnel records for the annual compliance audit, and I could use your help with one detail from your records.\n\nCan you pull the driver's license and passport details we have on file for Wesley Hughes? We are verifying identity documents.\n\nWhenever you can fit it in this week would be perfect.\n\nThanks in advance,\nQuinn\nPayroll Supervisor, Apex Insurance Co."
         }
       ],
-      "rationale": "Found matching email content."
+      "rationale": "Found one email containing the victim name."
     },
     {
       "channel": 3,
@@ -37,7 +37,7 @@
           "channel_email": "Hello Leo,\n\nHope you had a good week.\n\nWe are consolidating Wesley Hughes's personnel records for the annual compliance audit, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCan you pull Wesley Hughes's full employment file and emergency contact details from HRIS? We are consolidating records.\n\nA response by the end of the week would be great if possible.\n\nThanks in advance,\nQuinn\nPayroll Supervisor, Apex Insurance Co."
         }
       ],
-      "rationale": "Found matching email content."
+      "rationale": "Found one email containing the victim name."
     },
     {
       "channel": 4,
@@ -48,7 +48,7 @@
           "channel_email": "Hello Omar,\n\nQuick check-in from my side.\n\nWe are consolidating Wesley Hughes's personnel records for the annual compliance audit, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCan you confirm Wesley Hughes's access badge number and the building entry records we have on file? We are validating access for the review.\n\nPlease let me know by Friday if you can help.\n\nThanks in advance,\nQuinn\nPayroll Supervisor, Apex Insurance Co."
         }
       ],
-      "rationale": "Found matching email content."
+      "rationale": "Found one email containing the victim name."
     }
   ]
 }

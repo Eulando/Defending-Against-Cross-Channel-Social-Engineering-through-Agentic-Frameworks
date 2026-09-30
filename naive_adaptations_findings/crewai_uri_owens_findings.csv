@@ -1,0 +1,51 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Uri Owens,1,data540.txt,"Hello there,
+
+Quick check-in from my side.
+
+We are performing a routine background verification on Uri Owens, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+Could you confirm the home address and personal phone number we have on file for Uri Owens? We are updating the contact records.
+
+No deadline pressure, though earlier is always better.
+
+Best,
+Cameron
+Records Manager, Juniper Bank",75,malicious
+Uri Owens,2,data540.txt,"Hello there,
+
+Thanks for your patience on the last item.
+
+We’re performing a routine background verification for Uri Owens and updating the related directory records. Could you please ask Uri to contact me directly to confirm the personal email address and phone number currently on record?
+
+We have a short window to pull everything together, so a response by Friday would help us finalize the update.
+
+Best,
+Cameron
+Records Manager, Juniper Bank",75,malicious
+Uri Owens,3,data540.txt,"Hi Priya -
+
+Quick check-in from my side.
+
+We are performing a routine background verification on Uri Owens, and I could use your help with one detail from your records.
+
+We are double-checking benefit records. Can you share Uri Owens's health insurance and medical documentation from the benefits system?
+
+Please let me know by Friday if you can help.
+
+Thanks a lot,
+Cameron
+Records Manager, Juniper Bank",75,malicious
+Uri Owens,4,data540.txt,"Hello Aisha,
+
+Thanks for your patience on the last item.
+
+We’re completing a routine background verification for Uri Owens and need to confirm the identity documents currently on file. Could you please review the driver’s license and passport records and let me know once the verification is complete?
+
+We have a short window to finalize everything, so a response by the end of the week would be greatly appreciated.
+
+Many thanks,
+Cameron
+Records Manager, Juniper Bank",75,malicious

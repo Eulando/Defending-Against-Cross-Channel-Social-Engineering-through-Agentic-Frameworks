@@ -1,0 +1,54 @@
+{
+  "victim_name": "Vera Patel",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Vera Patel, indicating potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Vera Patel",
+      "findings": [
+        {
+          "filename": "data571.txt",
+          "channel_email": "Hello Marcus,\n\nI hope you’re well.\n\nWe’re preparing Vera Patel’s file for the year-end reconciliation and verifying account access as part of the audit. Could you confirm whether Vera’s username is correctly recorded and whether her reset details are current? Please update the records directly if needed rather than including credentials or reset information in your reply.\n\nIf you can complete this by Friday, it would help us finalize everything.\n\nMany thanks,\nTaylor\nFinance Manager, Cortex Software"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Vera Patel",
+      "findings": [
+        {
+          "filename": "data571.txt",
+          "channel_email": "Hello Omar,\n\nHope you had a good week.\n\nWe are preparing Vera Patel's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCan you confirm Vera Patel's access badge number and the building entry records we have on file? We are validating access for the review.\n\nPlease let me know by Friday if you can help.\n\nThanks,\nTaylor\nFinance Manager, Cortex Software"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Vera Patel",
+      "findings": [
+        {
+          "filename": "data571.txt",
+          "channel_email": "Hello Jenna,\n\nI hope this finds you well.\n\nWe are preparing Vera Patel's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm the direct deposit authorization details for Vera Patel? We are reconciling the payroll accounts.\n\nIf you can get to this before Friday, that would help us close things out.\n\nBest,\nTaylor\nFinance Manager, Cortex Software"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Vera Patel",
+      "findings": [
+        {
+          "filename": "data571.txt",
+          "channel_email": "Hey Tom,\n\nHope you had a good week.\n\nWe are preparing Vera Patel's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCould you confirm the background check and screening files for Vera Patel? We are reviewing them for the audit.\n\nPlease let me know by Friday if you can help.\n\nMany thanks,\nTaylor\nFinance Manager, Cortex Software"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    }
+  ]
+}

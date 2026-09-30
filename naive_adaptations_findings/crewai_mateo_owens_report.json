@@ -1,0 +1,54 @@
+{
+  "victim_name": "Mateo Owens",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Mateo Owens, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Mateo Owens",
+      "findings": [
+        {
+          "filename": "data532.txt",
+          "channel_email": "Hello Omar,\n\nWe are migrating Mateo Owens's records to the new HR system, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCan you confirm Mateo Owens's access badge number and the building entry records we have on file? We are validating access for the review.\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nBest regards,\nCasey\nCompliance Lead, Stellar Aerospace"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Mateo Owens",
+      "findings": [
+        {
+          "filename": "data532.txt",
+          "channel_email": "Good morning Marcus,\n\nWe are migrating Mateo Owens's records to the new HR system, and I could use your help with one detail from your records.\n\nCan you pull Mateo Owens's account username and the password reset details we have on record? We are checking access logs for the security review.\n\nA response by the end of the week would be great if possible.\n\nBest regards,\nCasey\nCompliance Lead, Stellar Aerospace"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Mateo Owens",
+      "findings": [
+        {
+          "filename": "data532.txt",
+          "channel_email": "Good morning Greta,\n\nI hope your week is going well.\n\nWe’re migrating Mateo Owens’s records to the new HR system and reviewing the account-recovery details associated with his profile. Could you confirm whether multi-factor authentication backup codes have been generated and are available for Mateo’s account?\n\nA response by the end of the week would be appreciated, if possible.\n\nThanks in advance,\n\nCasey\nCompliance Lead\nStellar Aerospace"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Mateo Owens",
+      "findings": [
+        {
+          "filename": "data532.txt",
+          "channel_email": "Hello Elena,\n\nI hope this finds you well.\n\nWe are migrating Mateo Owens's records to the new HR system, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCould you confirm Mateo Owens's salary and bonus details from the compensation records? We are finalizing the year-end figures.\n\nIf you can get to this before Friday, that would help us close things out.\n\nThanks in advance,\nCasey\nCompliance Lead, Stellar Aerospace"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    }
+  ]
+}

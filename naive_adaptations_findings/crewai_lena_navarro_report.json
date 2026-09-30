@@ -1,0 +1,54 @@
+{
+  "victim_name": "Lena Navarro",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates multiple requests for sensitive information related to Lena Navarro, suggesting a potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Lena Navarro",
+      "findings": [
+        {
+          "filename": "data501.txt",
+          "channel_email": "Hey Ryan,\n\nI hope you’re doing well.\n\nWe’re conducting a routine background verification for Lena Navarro and need help confirming one detail from your records.\n\nCould you confirm whether security questions are configured on Lena’s account?\n\nWhenever you can fit this in this week would be appreciated.\n\nBest,\nRiley\nOperations Director, Stellar Aerospace"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Lena Navarro",
+      "findings": [
+        {
+          "filename": "data501.txt",
+          "channel_email": "Good morning Elena,\n\nQuick check-in from my side.\n\nWe are performing a routine background verification on Lena Navarro, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCould you confirm Lena Navarro's salary and bonus details from the compensation records? We are finalizing the year-end figures.\n\nWhenever you can fit it in this week would be perfect.\n\nBest,\nRiley\nOperations Director, Stellar Aerospace"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Lena Navarro",
+      "findings": [
+        {
+          "filename": "data501.txt",
+          "channel_email": "Good morning Devin,\n\nThanks for your patience on the last item.\n\nWe’re completing a routine background verification for Lena Navarro and need to finalize the year-end payroll reconciliation. Could you confirm whether the bank account and routing information currently on file for Lena is accurate and up to date?\n\nEveryone on the team is eager to wrap this up cleanly. If you can confirm the record status before Friday, that would help us close the books.\n\nBest regards,\nRiley\nOperations Director, Stellar Aerospace"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Lena Navarro",
+      "findings": [
+        {
+          "filename": "data501.txt",
+          "channel_email": "Hi Jenna,\n\nI hope this finds you well.\n\nWe are performing a routine background verification on Lena Navarro, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nCould you confirm the direct deposit authorization details for Lena Navarro? We are reconciling the payroll accounts.\n\nNo deadline pressure, though earlier is always better.\n\nMany thanks,\nRiley\nOperations Director, Stellar Aerospace"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    }
+  ]
+}

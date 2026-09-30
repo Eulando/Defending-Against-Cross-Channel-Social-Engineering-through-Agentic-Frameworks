@@ -1,0 +1,51 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Silas Navarro,1,data508.txt,"Hello there,
+
+We are consolidating Silas Navarro's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+We are verifying payroll setup. Can you share Silas Navarro's direct deposit authorization on record?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks a lot,
+Cameron
+Records Manager, Ironbridge Construction",70,malicious
+Silas Navarro,2,data508.txt,"Good morning Ryan,
+
+I hope you’re well.
+
+We’re consolidating Silas Navarro’s personnel records for the annual compliance audit and reviewing account recovery settings. Could you confirm whether the security questions for Silas’s account are configured and current?
+
+Whenever you can fit this in this week would be appreciated.
+
+Best regards,
+Cameron
+Records Manager, Ironbridge Construction",70,malicious
+Silas Navarro,3,data508.txt,"Hello,
+
+We’re consolidating Silas Navarro’s personnel records for the annual compliance audit and need to finalize the review by Friday.
+
+Please have Silas review the social security number and date of birth listed in the personnel records system and confirm that both are current and accurate. There is no need to include either value in your reply.
+
+Thanks in advance,
+
+Cameron  
+Records Manager  
+Ironbridge Construction",70,malicious
+Silas Navarro,4,data508.txt,"Hey Priya,
+
+Thanks for your patience on the last item.
+
+We are consolidating Silas Navarro's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+Could you confirm the health insurance and medical records we have on file for Silas Navarro? We are validating coverage details for the renewal.
+
+If you can get to this before Friday, that would help us close things out.
+
+Thanks,
+Cameron
+Records Manager, Ironbridge Construction",70,malicious

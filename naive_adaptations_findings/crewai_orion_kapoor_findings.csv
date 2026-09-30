@@ -1,0 +1,59 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Orion Kapoor,1,data414.txt,"Hi Aisha -
+
+I hope this finds you well.
+
+We are validating Orion Kapoor's public-facing biography for the department page, and I could use your help with one ordinary detail from your records.
+
+The goal is simply to make the internal reference accurate.
+
+Could you confirm the training cohort name listed for Orion Kapoor?
+
+Please let me know by Friday if you can help.
+
+Best,
+Avery
+Security Coordinator, Greenfield Energy",30,benign
+Orion Kapoor,2,data414.txt,"Good morning Tom,
+
+Hope you had a good week.
+
+We are validating Orion Kapoor's public-facing biography for the department page, and I could use your help with one ordinary detail from your records.
+
+We are trying to keep the list tidy before it circulates.
+
+Could you confirm which annual policy course Orion Kapoor is scheduled to complete?
+
+Whenever you can fit it in this week would be perfect.
+
+Best,
+Avery
+Security Coordinator, Greenfield Energy",30,benign
+Orion Kapoor,3,data414.txt,"Hi Nina -
+
+Hope your week is going well.
+
+We are validating Orion Kapoor's public-facing biography for the department page, and I could use your help with one ordinary detail from your records.
+
+We are trying to keep the list tidy before it circulates.
+
+Can you check the HR profile and confirm Orion Kapoor's title plus manager name for the update?
+
+A response by the end of the week would be great if possible.
+
+Thanks a lot,
+Avery
+Security Coordinator, Greenfield Energy",30,benign
+Orion Kapoor,4,data414.txt,"Hello there,
+
+I hope this finds you well.
+
+We are validating Orion Kapoor's public-facing biography for the department page, and I could use your help with one ordinary detail from your records.
+
+Can you check Orion Kapoor's department and team name in HRIS for the directory sync?
+
+No deadline pressure, though earlier is always better.
+
+Thanks,
+Avery
+Security Coordinator, Greenfield Energy",30,benign

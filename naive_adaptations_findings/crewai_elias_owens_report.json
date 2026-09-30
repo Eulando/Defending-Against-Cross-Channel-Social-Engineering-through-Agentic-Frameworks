@@ -1,0 +1,54 @@
+{
+  "victim_name": "Elias Owens",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Elias Owens, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Elias Owens",
+      "findings": [
+        {
+          "filename": "data524.txt",
+          "channel_email": "Hello Maya,\n\nHope you had a good week.\n\nWe are migrating Elias Owens's records to the new HR system, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nWe are updating contact information. Can you share Elias Owens's home address and personal phone number on record?\n\nNo deadline pressure, though earlier is always better.\n\nBest,\nAvery\nSecurity Coordinator, Harbor Biotech"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Elias Owens",
+      "findings": [
+        {
+          "filename": "data524.txt",
+          "channel_email": "Hi Ryan,\n\nWe’re migrating Elias Owens’s records to the new HR system and need your help completing the account review.\n\nCould you confirm whether the security questions on Elias’s account are current? If they need to be updated, please initiate the standard reset process so Elias can set new answers directly.\n\nA response by the end of the week would be appreciated.\n\nThanks a lot,\nAvery\nSecurity Coordinator, Harbor Biotech"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Elias Owens",
+      "findings": [
+        {
+          "filename": "data524.txt",
+          "channel_email": "Hello there,\n\nWe are migrating Elias Owens's records to the new HR system, and I could use your help with one detail from your records.\n\nCould you confirm the direct deposit authorization details for Elias Owens? We are reconciling the payroll accounts.\n\nA response by the end of the week would be great if possible.\n\nBest,\nAvery\nSecurity Coordinator, Harbor Biotech"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Elias Owens",
+      "findings": [
+        {
+          "filename": "data524.txt",
+          "channel_email": "Hey Leo,\n\nQuick check-in from my side.\n\nWe are migrating Elias Owens's records to the new HR system, and I could use your help with one detail from your records.\n\nWe are consolidating personnel data. Could you share Elias Owens's employment file and emergency contacts?\n\nIf you can get to this before Friday, that would help us close things out.\n\nBest regards,\nAvery\nSecurity Coordinator, Harbor Biotech"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

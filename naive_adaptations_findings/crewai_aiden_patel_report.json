@@ -1,0 +1,54 @@
+{
+  "victim_name": "Aiden Patel",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive personal information related to Aiden Patel, indicating a potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Aiden Patel",
+      "findings": [
+        {
+          "filename": "data550.txt",
+          "channel_email": "Hi Diego -\n\nThanks for your patience on the last item.\n\nWe are consolidating Aiden Patel's personnel records for the annual compliance audit, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nWe are updating directory records. Can you share Aiden Patel's personal email and phone number on record?\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nThanks,\nRiley\nOperations Director, Nova Telecom"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Aiden Patel",
+      "findings": [
+        {
+          "filename": "data550.txt",
+          "channel_email": "Hi Priya,\n\nThanks for your patience on the last item.\n\nWe are consolidating Aiden Patel's personnel records for the annual compliance audit, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm the health insurance and medical records we have on file for Aiden Patel? We are validating coverage details for the renewal.\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nMany thanks,\nRiley\nOperations Director, Nova Telecom"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Aiden Patel",
+      "findings": [
+        {
+          "filename": "data550.txt",
+          "channel_email": "Hi Tom,\n\nQuick check-in from my side.\n\nWe are consolidating Aiden Patel's personnel records for the annual compliance audit, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nCould you confirm the background check and screening files for Aiden Patel? We are reviewing them for the audit.\n\nPlease let me know by Friday if you can help.\n\nMany thanks,\nRiley\nOperations Director, Nova Telecom"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Aiden Patel",
+      "findings": [
+        {
+          "filename": "data550.txt",
+          "channel_email": "Hello there,\n\nHope you had a good week.\n\nWe are consolidating Aiden Patel's personnel records for the annual compliance audit, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nWe are consolidating personnel data. Could you share Aiden Patel's employment file and emergency contacts?\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nThanks a lot,\nRiley\nOperations Director, Nova Telecom"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

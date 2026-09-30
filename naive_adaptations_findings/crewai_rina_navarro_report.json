@@ -1,0 +1,54 @@
+{
+  "victim_name": "Rina Navarro",
+  "threshold": 50,
+  "combined_score": 60,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Rina Navarro, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Rina Navarro",
+      "findings": [
+        {
+          "filename": "data507.txt",
+          "channel_email": "Hi Elena -\n\nQuick check-in from my side.\n\nWe are preparing Rina Navarro's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm Rina Navarro's salary and bonus details from the compensation records? We are finalizing the year-end figures.\n\nNo deadline pressure, though earlier is always better.\n\nMany thanks,\nAvery\nSecurity Coordinator, Harbor Biotech"
+        }
+      ],
+      "rationale": "The requirements are met with one matching email found."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Rina Navarro",
+      "findings": [
+        {
+          "filename": "data507.txt",
+          "channel_email": "Hello Maya,\n\nThanks for your patience on the last item.\n\nWe are preparing Rina Navarro's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCould you confirm the home address and personal phone number we have on file for Rina Navarro? We are updating the contact records.\n\nIf you can get to this before Friday, that would help us close things out.\n\nMany thanks,\nAvery\nSecurity Coordinator, Harbor Biotech"
+        }
+      ],
+      "rationale": "The requirements are met with one matching email found."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Rina Navarro",
+      "findings": [
+        {
+          "filename": "data507.txt",
+          "channel_email": "Hello Priya,\n\nHope you had a good week.\n\nWe are preparing Rina Navarro's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCould you confirm the health insurance and medical records we have on file for Rina Navarro? We are validating coverage details for the renewal.\n\nWhenever you can fit it in this week would be perfect.\n\nThanks a lot,\nAvery\nSecurity Coordinator, Harbor Biotech"
+        }
+      ],
+      "rationale": "The requirements are met with one matching email found."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Rina Navarro",
+      "findings": [
+        {
+          "filename": "data507.txt",
+          "channel_email": "Hello Ryan,\n\nWe are preparing Rina Navarro’s file for year-end reconciliation and need to confirm one detail from your records.\n\nCould you let us know whether the account recovery settings and security questions for Rina Navarro’s account are current?\n\nIf you can review this before Friday, it would help us close things out.\n\nBest regards,\nAvery\nSecurity Coordinator, Harbor Biotech"
+        }
+      ],
+      "rationale": "The requirements are met with one matching email found."
+    }
+  ]
+}

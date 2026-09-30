@@ -1,0 +1,3 @@
+detector,ground_truth_file,victim_file,results_folder,threshold,expected_victims,evaluated,missing,true_positive,false_positive,false_alarm_count,true_negative,false_negative,ground_truth_malicious,ground_truth_benign,predicted_malicious,predicted_benign,precision,recall,probability_of_detection,false_alarm_rate,accuracy
+naive_adaptations_detectpor.py,chatGPT_score.csv:combined,victim_names.csv,naive_adaptations_findings,50,600,600,0,288,4,4,293,15,303,297,292,308,0.986301,0.950495,0.950495,0.013468,0.968333
+native_summary_detector.py,chatGPT_score.csv:combined,victim_names.csv,naive_summary_findings,50,600,600,0,258,1,1,296,45,303,297,259,341,0.996139,0.851485,0.851485,0.003367,0.923333

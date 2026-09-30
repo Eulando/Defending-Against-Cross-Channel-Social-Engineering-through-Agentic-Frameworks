@@ -1,0 +1,54 @@
+{
+  "victim_name": "Paula Navarro",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Paula Navarro, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Paula Navarro",
+      "findings": [
+        {
+          "filename": "data505.txt",
+          "channel_email": "Hello Ryan,\n\nI hope this finds you well.\n\nWe are migrating Paula Navarro's records to the new HR system, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nWe are checking account recovery settings. Can you confirm the security questions and answers for Paula Navarro's account?\n\nIf you can get to this before Friday, that would help us close things out.\n\nMany thanks,\nDrew\nInternal Audit Lead, Brightline Media"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Paula Navarro",
+      "findings": [
+        {
+          "filename": "data505.txt",
+          "channel_email": "Hi Devin,\n\nI hope you’re doing well.\n\nWe’re migrating Paula Navarro’s records to the new HR system and are working within a short window to finalize the review by Friday.\n\nCould you please confirm whether Paula’s direct deposit information is current in the existing HR system? If an update is needed, please have Paula submit the revised details directly through the authorized payroll portal.\n\nBest regards,\nDrew\nInternal Audit Lead, Brightline Media"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Paula Navarro",
+      "findings": [
+        {
+          "filename": "data505.txt",
+          "channel_email": "Hello there,\n\nThanks for your patience on the last item.\n\nWe are migrating Paula Navarro's records to the new HR system, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm the health insurance and medical records we have on file for Paula Navarro? We are validating coverage details for the renewal.\n\nWhenever you can fit it in this week would be perfect.\n\nBest,\nDrew\nInternal Audit Lead, Brightline Media"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Paula Navarro",
+      "findings": [
+        {
+          "filename": "data505.txt",
+          "channel_email": "Hello there,\n\nThanks for your patience on the last item.\n\nWe’re migrating Paula Navarro’s records to the new HR system and need to confirm that multi-factor authentication recovery options are configured correctly. Could you verify whether backup codes are active on the account?\n\nCompleting this by Friday would help us finalize the migration.\n\nBest,\nDrew\nInternal Audit Lead, Brightline Media"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    }
+  ]
+}

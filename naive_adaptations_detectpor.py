@@ -3,7 +3,7 @@
 CrewAI detector for one victim across ind1..ind4.
 
 Default target:
-  Every victim name from column 2 of victims_200-399.csv, skipping the header.
+  Every victim name from column 2 of victim_names.csv, skipping the header.
 
 The crew has five agents:
   - one manager agent
@@ -36,7 +36,7 @@ from pydantic import BaseModel, Field
 
 ROOT = Path(__file__).resolve().parent
 RESULTS_DIR = ROOT / "naive_adaptations_findings"
-VICTIM_NAMES_PATH = ROOT / "victims_200-399.csv"
+VICTIM_NAMES_PATH = ROOT / "victim_names.csv"
 CHANNEL_DIRS = ["ind1", "ind2", "ind3", "ind4"]
 DEFAULT_MODEL = "gpt-4o-mini"
 DEFAULT_THRESHOLD = 50
@@ -396,7 +396,7 @@ def main() -> None:
         "--victim",
         help=(
             "Full victim name. If omitted, processes every value in column 2 "
-            "of victims_200-399.csv, skipping the header."
+            "of victim_names.csv, skipping the header."
         ),
     )
     parser.add_argument("--model", default=DEFAULT_MODEL, help="ChatGPT model")

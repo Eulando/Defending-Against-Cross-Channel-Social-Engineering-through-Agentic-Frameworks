@@ -1,0 +1,54 @@
+{
+  "victim_name": "Quentin Quinn",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to the victim, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Quentin Quinn",
+      "findings": [
+        {
+          "filename": "data596.txt",
+          "channel_email": "Hi Maya -\n\nHope your week is going well.\n\nWe are migrating Quentin Quinn's records to the new HR system, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nCould you confirm the home address and personal phone number we have on file for Quentin Quinn? We are updating the contact records.\n\nA response by the end of the week would be great if possible.\n\nMany thanks,\nCasey\nCompliance Lead, Nova Telecom"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Quentin Quinn",
+      "findings": [
+        {
+          "filename": "data596.txt",
+          "channel_email": "Hello Ryan,\n\nWe’re migrating Quentin Quinn’s records to the new HR system and need your help confirming one account detail.\n\nCould you verify whether recovery settings are configured for Quentin’s account?\n\nA response by the end of the week would be appreciated.\n\nThanks,\nCasey\nCompliance Lead, Nova Telecom"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Quentin Quinn",
+      "findings": [
+        {
+          "filename": "data596.txt",
+          "channel_email": "Hi Devin,\n\nI wanted to check in regarding Quentin Quinn’s record migration to the new HR system.\n\nAs part of the review, we’re verifying the direct deposit details currently on file to ensure the records remain complete and well organized. Could you share Quentin Quinn’s bank account and routing numbers from your records?\n\nThere’s no firm deadline, though an earlier response would be helpful.\n\nThanks in advance,\n\nCasey  \nCompliance Lead  \nNova Telecom"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Quentin Quinn",
+      "findings": [
+        {
+          "filename": "data596.txt",
+          "channel_email": "Hi Omar,\n\nThanks for your patience on the last item.\n\nWe are migrating Quentin Quinn's records to the new HR system, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCan you confirm Quentin Quinn's access badge number and the building entry records we have on file? We are validating access for the review.\n\nWhenever you can fit it in this week would be perfect.\n\nThanks in advance,\nCasey\nCompliance Lead, Nova Telecom"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Paula Navarro,1,data505.txt,"Hello Ryan,
+
+I hope this finds you well.
+
+We are migrating Paula Navarro's records to the new HR system, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+We are checking account recovery settings. Can you confirm the security questions and answers for Paula Navarro's account?
+
+If you can get to this before Friday, that would help us close things out.
+
+Many thanks,
+Drew
+Internal Audit Lead, Brightline Media",70,malicious
+Paula Navarro,2,data505.txt,"Hi Devin,
+
+I hope you’re doing well.
+
+We’re migrating Paula Navarro’s records to the new HR system and are working within a short window to finalize the review by Friday.
+
+Could you please confirm whether Paula’s direct deposit information is current in the existing HR system? If an update is needed, please have Paula submit the revised details directly through the authorized payroll portal.
+
+Best regards,
+Drew
+Internal Audit Lead, Brightline Media",70,malicious
+Paula Navarro,3,data505.txt,"Hello there,
+
+Thanks for your patience on the last item.
+
+We are migrating Paula Navarro's records to the new HR system, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+Could you confirm the health insurance and medical records we have on file for Paula Navarro? We are validating coverage details for the renewal.
+
+Whenever you can fit it in this week would be perfect.
+
+Best,
+Drew
+Internal Audit Lead, Brightline Media",70,malicious
+Paula Navarro,4,data505.txt,"Hello there,
+
+Thanks for your patience on the last item.
+
+We’re migrating Paula Navarro’s records to the new HR system and need to confirm that multi-factor authentication recovery options are configured correctly. Could you verify whether backup codes are active on the account?
+
+Completing this by Friday would help us finalize the migration.
+
+Best,
+Drew
+Internal Audit Lead, Brightline Media",70,malicious

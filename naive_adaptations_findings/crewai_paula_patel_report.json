@@ -1,0 +1,54 @@
+{
+  "victim_name": "Paula Patel",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context indicates a pattern of requests for sensitive personal information, which raises concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Paula Patel",
+      "findings": [
+        {
+          "filename": "data565.txt",
+          "channel_email": "Hey Nina,\n\nThanks for your patience on the last item.\n\nWe’re completing a routine background verification for Paula Patel and updating her profile. Could you please confirm whether her Social Security number and date of birth are present and current in the authorized records system? There’s no need to include the actual values in your reply.\n\nWhenever you can fit this in this week would be perfect.\n\nBest regards,\nCameron\nRecords Manager, Pearl Foods Inc."
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Paula Patel",
+      "findings": [
+        {
+          "filename": "data565.txt",
+          "channel_email": "Hi Marcus,\n\nI hope you’re well.\n\nWe’re performing a routine background verification for Paula Patel and need your help confirming a detail from our records. This is a priority, and we want to ensure the information is accurate.\n\nCould you provide Paula’s account username, along with the date and status of any password-reset activity on record? We’re reviewing the related access logs as part of the security review.\n\nIf you can send this before Friday, it would help us close out the review.\n\nMany thanks,\n\nCameron\nRecords Manager\nPearl Foods Inc."
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Paula Patel",
+      "findings": [
+        {
+          "filename": "data565.txt",
+          "channel_email": "Hello there,\n\nWe are performing a routine background verification on Paula Patel, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nWe are consolidating personnel data. Could you share Paula Patel's employment file and emergency contacts?\n\nNo deadline pressure, though earlier is always better.\n\nBest regards,\nCameron\nRecords Manager, Pearl Foods Inc."
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Paula Patel",
+      "findings": [
+        {
+          "filename": "data565.txt",
+          "channel_email": "Hello Diego,\n\nWe are performing a routine background verification on Paula Patel, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm the personal email and personal phone records we have on file for Paula Patel? We are updating the directory.\n\nA response by the end of the week would be great if possible.\n\nBest,\nCameron\nRecords Manager, Pearl Foods Inc."
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

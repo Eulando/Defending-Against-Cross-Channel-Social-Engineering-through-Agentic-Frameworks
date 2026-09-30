@@ -4,7 +4,7 @@
   "combined_score": 70,
   "final_verdict": "malicious",
   "threshold_triggered": true,
-  "rationale": "The combined context contains multiple requests for sensitive information related to Dorian Iverson, indicating a potential social engineering attempt.",
+  "rationale": "The combined context contains multiple requests for sensitive information related to Dorian Iverson, indicating potential malicious intent.",
   "channel_reports": [
     {
       "channel": 1,
@@ -15,7 +15,7 @@
           "channel_email": "Good morning Elena,\n\nI hope this finds you well.\n\nWe are migrating Dorian Iverson's records to the new HR system, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nCould you confirm Dorian Iverson's salary and bonus details from the compensation records? We are finalizing the year-end figures.\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nBest regards,\nQuinn\nPayroll Supervisor, Ventureline Consulting"
         }
       ],
-      "rationale": "found"
+      "rationale": "Email found containing the victim name."
     },
     {
       "channel": 2,
@@ -26,7 +26,7 @@
           "channel_email": "Hello Aisha,\n\nQuick check-in from my side.\n\nWe are migrating Dorian Iverson's records to the new HR system, and I could use your help with one detail from your records.\n\nCan you pull the driver's license and passport details we have on file for Dorian Iverson? We are verifying identity documents.\n\nPlease let me know by Friday if you can help.\n\nBest regards,\nQuinn\nPayroll Supervisor, Ventureline Consulting"
         }
       ],
-      "rationale": "found"
+      "rationale": "Email found containing the victim name."
     },
     {
       "channel": 3,
@@ -37,7 +37,7 @@
           "channel_email": "Hi Omar,\n\nI hope this finds you well.\n\nWe are migrating Dorian Iverson's records to the new HR system, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCan you confirm Dorian Iverson's access badge number and the building entry records we have on file? We are validating access for the review.\n\nIf you can get to this before Friday, that would help us close things out.\n\nThanks a lot,\nQuinn\nPayroll Supervisor, Ventureline Consulting"
         }
       ],
-      "rationale": "found"
+      "rationale": "Email found containing the victim name."
     },
     {
       "channel": 4,
@@ -48,7 +48,7 @@
           "channel_email": "Hey Greta,\n\nHope you had a good week.\n\nWe’re migrating Dorian Iverson’s records to the new HR system and are checking that account recovery is configured correctly. Could you please confirm whether Dorian has valid multi-factor authentication backup codes on file? The codes themselves should not be included.\n\nEveryone on the team is eager to wrap this up cleanly. Please let me know by Friday if you can help.\n\nThanks a lot,\nQuinn\nPayroll Supervisor, Ventureline Consulting"
         }
       ],
-      "rationale": "found"
+      "rationale": "Email found containing the victim name."
     }
   ]
 }

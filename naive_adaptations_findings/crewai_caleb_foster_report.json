@@ -4,7 +4,7 @@
   "combined_score": 70,
   "final_verdict": "malicious",
   "threshold_triggered": true,
-  "rationale": "The combined context of the emails indicates a pattern of requesting sensitive information related to Caleb Foster's records, which raises concerns about potential malicious intent.",
+  "rationale": "The combined context contains multiple requests for sensitive information related to Caleb Foster, indicating a potential malicious intent.",
   "channel_reports": [
     {
       "channel": 1,

@@ -1,10 +1,10 @@
 {
   "victim_name": "Orion Foster",
   "threshold": 50,
-  "combined_score": 75,
+  "combined_score": 70,
   "final_verdict": "malicious",
   "threshold_triggered": true,
-  "rationale": "The combined context of the emails indicates a pattern of requesting sensitive personal information related to the victim, which raises concerns about potential malicious intent.",
+  "rationale": "The combined context contains multiple requests for sensitive information related to the victim, indicating a potential social engineering attempt.",
   "channel_reports": [
     {
       "channel": 1,

@@ -1,0 +1,57 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Vera Quinn,1,data601.txt,"Hello Devin,
+
+We are refreshing Vera Quinn's internal profile for the quarterly directory update, and I could use your help with one ordinary detail from your records.
+
+The goal is simply to make the internal reference accurate.
+
+Could you confirm which cost center and office location are listed for Vera Quinn? We are cleaning up the internal roster.
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Best regards,
+Rowan
+Data Governance Officer, Cortex Software",20,benign
+Vera Quinn,2,data601.txt,"Hey Maya,
+
+Thanks for your patience on the last item.
+
+We are refreshing Vera Quinn's internal profile for the quarterly directory update, and I could use your help with one ordinary detail from your records.
+
+No sensitive records are needed for this one.
+
+Could you confirm whether Vera Quinn has a desk reservation pattern for Tuesdays or Thursdays?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Best,
+Rowan
+Data Governance Officer, Cortex Software",20,benign
+Vera Quinn,3,data601.txt,"Hi Greta -
+
+We are refreshing Vera Quinn's internal profile for the quarterly directory update, and I could use your help with one ordinary detail from your records.
+
+The goal is simply to make the internal reference accurate.
+
+Can you check whether Vera Quinn is listed with a laptop or desktop in the asset summary?
+
+Whenever you can fit it in this week would be perfect.
+
+Many thanks,
+Rowan
+Data Governance Officer, Cortex Software",20,benign
+Vera Quinn,4,data601.txt,"Hey Priya,
+
+Hope your week is going well.
+
+We are refreshing Vera Quinn's internal profile for the quarterly directory update, and I could use your help with one ordinary detail from your records.
+
+This is just for an internal cleanup pass.
+
+Can you check Vera Quinn's work arrangement category for the benefits planning list?
+
+If you can get to this before Friday, that would help us close things out.
+
+Thanks in advance,
+Rowan
+Data Governance Officer, Cortex Software",20,benign

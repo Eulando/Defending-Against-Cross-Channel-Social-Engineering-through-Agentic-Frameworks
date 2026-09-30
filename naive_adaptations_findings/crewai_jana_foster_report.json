@@ -15,7 +15,7 @@
           "channel_email": "Hi Leo,\n\nQuick check-in from my side.\n\nWe are preparing Jana Foster's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe are consolidating personnel data. Could you share Jana Foster's employment file and emergency contacts?\n\nPlease let me know by Friday if you can help.\n\nBest regards,\nCasey\nCompliance Lead, Pearl Foods Inc."
         }
       ],
-      "rationale": "Found one email containing the victim name."
+      "rationale": "Found matching email content."
     },
     {
       "channel": 2,
@@ -26,7 +26,7 @@
           "channel_email": "Hey Ryan,\n\nWe are preparing Jana Foster's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nCould you share the security questions and answers on Jana Foster's account? We are validating them for the account review.\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nThanks in advance,\nCasey\nCompliance Lead, Pearl Foods Inc."
         }
       ],
-      "rationale": "Found one email containing the victim name."
+      "rationale": "Found matching email content."
     },
     {
       "channel": 3,
@@ -37,7 +37,7 @@
           "channel_email": "Good morning Tom,\n\nHope you had a good week.\n\nWe are preparing Jana Foster's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nWe are reviewing screening records. Can you share Jana Foster's background check and screening files?\n\nA response by the end of the week would be great if possible.\n\nThanks,\nCasey\nCompliance Lead, Pearl Foods Inc."
         }
       ],
-      "rationale": "Found one email containing the victim name."
+      "rationale": "Found matching email content."
     },
     {
       "channel": 4,
@@ -48,7 +48,7 @@
           "channel_email": "Hello Jenna,\n\nHope you had a good week.\n\nWe are preparing Jana Foster's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCould you confirm the direct deposit authorization details for Jana Foster? We are reconciling the payroll accounts.\n\nNo deadline pressure, though earlier is always better.\n\nThanks a lot,\nCasey\nCompliance Lead, Pearl Foods Inc."
         }
       ],
-      "rationale": "Found one email containing the victim name."
+      "rationale": "Found matching email content."
     }
   ]
 }

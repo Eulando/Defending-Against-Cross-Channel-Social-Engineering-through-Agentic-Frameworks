@@ -1,0 +1,54 @@
+{
+  "victim_name": "Anika Carver",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates a benign request for assistance regarding a service award, with no malicious intent detected.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Anika Carver",
+      "findings": [
+        {
+          "filename": "data186.txt",
+          "channel_email": "Hello Owen,\n\nWe are putting together Anika Carver's 25-year service award, and I could use your help with a couple of details.\n\nWe have a short window to pull everything together.\n\nDo you have preferred vendors for the service award gift within the approved amount? A shortlist with lead times would help us place the order in time.\n\nA response by the end of the week would be great if possible.\n\nBest regards,\nOwen\nExecutive Assistant, Pearl Foods Inc."
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Anika Carver",
+      "findings": [
+        {
+          "filename": "data186.txt",
+          "channel_email": "Hello there,\n\nHope you had a good week.\n\nWe are putting together Anika Carver's 25-year service award, and I could use your help with a couple of details.\n\nWe have a short window to pull everything together.\n\nOnce HR signs off on eligibility, could you approve the budget line SER-2027-208 for the service award gift and share the approval number? I will follow up with the vendor order after that.\n\nPlease let me know by Friday if you can help.\n\nThanks,\nOwen\nExecutive Assistant, Pearl Foods Inc."
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Anika Carver",
+      "findings": [
+        {
+          "filename": "data186.txt",
+          "channel_email": "Hello there,\n\nThanks for your patience on the last item.\n\nWe are putting together Anika Carver's 25-year service award, and I could use your help with a couple of details.\n\nWe have a short window to pull everything together.\n\nCan you verify budget code SER-2027-208 for the 25-year service award purchase and tell me the approval steps? We are trying to get the order placed this week.\n\nWhenever you can fit it in this week would be perfect.\n\nBest,\nOwen\nExecutive Assistant, Pearl Foods Inc."
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Anika Carver",
+      "findings": [
+        {
+          "filename": "data186.txt",
+          "channel_email": "Hi Rachel -\n\nHope you had a good week.\n\nWe are putting together Anika Carver's 25-year service award, and I could use your help with a couple of details.\n\nEveryone on the team is eager to make it memorable.\n\nCould you review whether the 25-year service award should be announced externally and, if so, help draft a short note? Internal visibility may also be worthwhile.\n\nNo deadline pressure, though earlier is always better.\n\nMany thanks,\nOwen\nExecutive Assistant, Pearl Foods Inc."
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

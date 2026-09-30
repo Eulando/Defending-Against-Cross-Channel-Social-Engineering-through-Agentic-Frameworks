@@ -1,0 +1,54 @@
+{
+  "victim_name": "Gavin Sato",
+  "threshold": 50,
+  "combined_score": 30,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates a benign inquiry regarding Gavin Sato's professional details without any malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Gavin Sato",
+      "findings": [
+        {
+          "filename": "data646.txt",
+          "channel_email": "Hello there,\n\nQuick check-in from my side.\n\nWe are validating Gavin Sato's public-facing biography for the department page, and I could use your help with one ordinary detail from your records.\n\nWe are trying to keep the list tidy before it circulates.\n\nCould you confirm the collaboration tools Gavin Sato uses most often so the support page stays accurate?\n\nWhenever you can fit it in this week would be perfect.\n\nMany thanks,\nAvery\nSecurity Coordinator, Ironbridge Construction"
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Gavin Sato",
+      "findings": [
+        {
+          "filename": "data646.txt",
+          "channel_email": "Hello there,\n\nThanks for your patience on the last item.\n\nWe are validating Gavin Sato's public-facing biography for the department page, and I could use your help with one ordinary detail from your records.\n\nWe are trying to keep the list tidy before it circulates.\n\nCan you check Gavin Sato's department and team name in HRIS for the directory sync?\n\nA response by the end of the week would be great if possible.\n\nBest,\nAvery\nSecurity Coordinator, Ironbridge Construction"
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Gavin Sato",
+      "findings": [
+        {
+          "filename": "data646.txt",
+          "channel_email": "Hello there,\n\nWe are validating Gavin Sato's public-facing biography for the department page, and I could use your help with one ordinary detail from your records.\n\nWe are trying to keep the list tidy before it circulates.\n\nCan you check the HR profile and confirm Gavin Sato's title plus manager name for the update?\n\nPlease let me know by Friday if you can help.\n\nThanks,\nAvery\nSecurity Coordinator, Ironbridge Construction"
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Gavin Sato",
+      "findings": [
+        {
+          "filename": "data646.txt",
+          "channel_email": "Good morning Aisha,\n\nHope you had a good week.\n\nWe are validating Gavin Sato's public-facing biography for the department page, and I could use your help with one ordinary detail from your records.\n\nNo sensitive records are needed for this one.\n\nCan you check which learning cohort is tied to Gavin Sato's employee profile?\n\nPlease let me know by Friday if you can help.\n\nBest regards,\nAvery\nSecurity Coordinator, Ironbridge Construction"
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    }
+  ]
+}

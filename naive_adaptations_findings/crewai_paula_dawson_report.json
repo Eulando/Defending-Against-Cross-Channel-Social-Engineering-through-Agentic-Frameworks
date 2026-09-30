@@ -4,7 +4,7 @@
   "combined_score": 75,
   "final_verdict": "malicious",
   "threshold_triggered": true,
-  "rationale": "The combined context indicates a pattern of requests for sensitive information related to Paula Dawson, which raises concerns about potential malicious intent.",
+  "rationale": "The combined context contains multiple requests for sensitive information related to Paula Dawson, indicating a potential social engineering attempt.",
   "channel_reports": [
     {
       "channel": 1,
@@ -15,7 +15,7 @@
           "channel_email": "Hi Nina,\n\nThanks for your patience on the last item.\n\nWe’re performing a routine background verification for Paula Dawson and updating her profile. Could you please have Paula confirm her Social Security number and date of birth directly through the authorized records system, then let me know once the review is complete?\n\nThere’s no firm deadline, though earlier is always appreciated.\n\nMany thanks,\nCasey\nCompliance Lead, Stellar Aerospace"
         }
       ],
-      "rationale": "found matching email"
+      "rationale": "found one matching email"
     },
     {
       "channel": 2,
@@ -26,7 +26,7 @@
           "channel_email": "Hello Leo,\n\nQuick check-in from my side.\n\nWe are performing a routine background verification on Paula Dawson, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nCan you pull Paula Dawson's full employment file and emergency contact details from HRIS? We are consolidating records.\n\nA response by the end of the week would be great if possible.\n\nMany thanks,\nCasey\nCompliance Lead, Stellar Aerospace"
         }
       ],
-      "rationale": "found matching email"
+      "rationale": "found one matching email"
     },
     {
       "channel": 3,
@@ -37,7 +37,7 @@
           "channel_email": "Hello Ryan,\n\nHope your week is going well.\n\nWe’re performing a routine background verification for Paula Dawson and need your help confirming one detail in the records.\n\nAs this is a priority, could you confirm whether Paula’s account recovery settings, including her security questions, are current?\n\nWhenever you can fit this in this week would be appreciated.\n\nThanks a lot,\n\nCasey\nCompliance Lead, Stellar Aerospace"
         }
       ],
-      "rationale": "found matching email"
+      "rationale": "found one matching email"
     },
     {
       "channel": 4,
@@ -48,7 +48,7 @@
           "channel_email": "Hello there,\n\nI hope this finds you well.\n\nWe are performing a routine background verification on Paula Dawson, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nWe are reconciling compensation data. Can you share Paula Dawson's salary and bonus figures on record?\n\nIf you can get to this before Friday, that would help us close things out.\n\nThanks a lot,\nCasey\nCompliance Lead, Stellar Aerospace"
         }
       ],
-      "rationale": "found matching email"
+      "rationale": "found one matching email"
     }
   ]
 }

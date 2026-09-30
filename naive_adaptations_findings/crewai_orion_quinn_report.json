@@ -1,0 +1,54 @@
+{
+  "victim_name": "Orion Quinn",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to the victim, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Orion Quinn",
+      "findings": [
+        {
+          "filename": "data594.txt",
+          "channel_email": "Hello Priya,\n\nThanks for your patience on the last item.\n\nWe are migrating Orion Quinn's records to the new HR system, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm the health insurance and medical records we have on file for Orion Quinn? We are validating coverage details for the renewal.\n\nIf you can get to this before Friday, that would help us close things out.\n\nThanks a lot,\nAvery\nSecurity Coordinator, Greenfield Energy"
+        }
+      ],
+      "rationale": "none"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Orion Quinn",
+      "findings": [
+        {
+          "filename": "data594.txt",
+          "channel_email": "Hi Omar,\n\nWe are migrating Orion Quinn's records to the new HR system, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nWe are checking physical access records. Could you share Orion Quinn's badge details and entry history?\n\nWhenever you can fit it in this week would be perfect.\n\nThanks,\nAvery\nSecurity Coordinator, Greenfield Energy"
+        }
+      ],
+      "rationale": "none"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Orion Quinn",
+      "findings": [
+        {
+          "filename": "data594.txt",
+          "channel_email": "Hi Maya,\n\nHope you had a good week.\n\nWe are migrating Orion Quinn's records to the new HR system, and I could use your help with one detail from your records.\n\nCould you confirm the home address and personal phone number we have on file for Orion Quinn? We are updating the contact records.\n\nNo deadline pressure, though earlier is always better.\n\nThanks a lot,\nAvery\nSecurity Coordinator, Greenfield Energy"
+        }
+      ],
+      "rationale": "none"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Orion Quinn",
+      "findings": [
+        {
+          "filename": "data594.txt",
+          "channel_email": "Hi Devin,\n\nWe are migrating Orion Quinn's records to the new HR system, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCan you confirm Orion Quinn's bank account and routing numbers for the year-end payroll reconciliation? We need the numbers on file to close the books.\n\nNo deadline pressure, though earlier is always better.\n\nThanks in advance,\nAvery\nSecurity Coordinator, Greenfield Energy"
+        }
+      ],
+      "rationale": "none"
+    }
+  ]
+}

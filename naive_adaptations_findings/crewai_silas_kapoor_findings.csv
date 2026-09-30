@@ -1,0 +1,57 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Silas Kapoor,1,data418.txt,"Good morning Tom,
+
+I hope this finds you well.
+
+We are refreshing Silas Kapoor's internal profile for the quarterly directory update, and I could use your help with one ordinary detail from your records.
+
+Can you check the annual policy course listed for Silas Kapoor's training plan?
+
+A response by the end of the week would be great if possible.
+
+Best,
+Riley
+Operations Director, Summit Retail Group",20,benign
+Silas Kapoor,2,data418.txt,"Hey Ryan,
+
+Quick check-in from my side.
+
+We are refreshing Silas Kapoor's internal profile for the quarterly directory update, and I could use your help with one ordinary detail from your records.
+
+This is just for an internal cleanup pass.
+
+Can you verify which account segment is associated with Silas Kapoor's workstream?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks,
+Riley
+Operations Director, Summit Retail Group",20,benign
+Silas Kapoor,3,data418.txt,"Hi Jenna -
+
+I hope this finds you well.
+
+We are refreshing Silas Kapoor's internal profile for the quarterly directory update, and I could use your help with one ordinary detail from your records.
+
+We are trying to keep the list tidy before it circulates.
+
+Could you confirm Silas Kapoor's preferred name format for the internal staff list?
+
+If you can get to this before Friday, that would help us close things out.
+
+Many thanks,
+Riley
+Operations Director, Summit Retail Group",20,benign
+Silas Kapoor,4,data418.txt,"Good morning Devin,
+
+We are refreshing Silas Kapoor's internal profile for the quarterly directory update, and I could use your help with one ordinary detail from your records.
+
+No sensitive records are needed for this one.
+
+Could you confirm which cost center and office location are listed for Silas Kapoor? We are cleaning up the internal roster.
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Best,
+Riley
+Operations Director, Summit Retail Group",20,benign

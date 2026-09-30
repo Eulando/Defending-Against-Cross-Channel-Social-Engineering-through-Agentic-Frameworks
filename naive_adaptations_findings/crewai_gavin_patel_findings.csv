@@ -1,0 +1,51 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Gavin Patel,1,data556.txt,"Hey Leo,
+
+Thanks for your patience on the last item.
+
+We are consolidating Gavin Patel's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are consolidating personnel data. Could you share Gavin Patel's employment file and emergency contacts?
+
+Please let me know by Friday if you can help.
+
+Many thanks,
+Rowan
+Data Governance Officer, Summit Outfitters",70,malicious
+Gavin Patel,2,data556.txt,"Good morning Aisha,
+
+I hope you had a good week.
+
+We’re consolidating Gavin Patel’s personnel records for the annual compliance audit and validating his identity documentation. Could you confirm whether his driver’s license and passport details are current in the appropriate records system?
+
+Please let me know by Friday if you can help.
+
+Thanks,
+
+Rowan  
+Data Governance Officer  
+Summit Outfitters",70,malicious
+Gavin Patel,3,data556.txt,"Hello,
+
+We are consolidating Gavin Patel’s personnel records for the annual compliance audit and need your help completing the year-end payroll reconciliation.
+
+Please verify that Gavin’s bank account and routing numbers in the payroll system are current and confirm once the review is complete. We need to close the books, so a response by Friday would be appreciated.
+
+Thanks,
+Rowan
+Data Governance Officer, Summit Outfitters",70,malicious
+Gavin Patel,4,data556.txt,"Good morning Elena,
+
+Hope you had a good week.
+
+We are consolidating Gavin Patel's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+Could you confirm Gavin Patel's salary and bonus details from the compensation records? We are finalizing the year-end figures.
+
+A response by the end of the week would be great if possible.
+
+Best,
+Rowan
+Data Governance Officer, Summit Outfitters",70,malicious

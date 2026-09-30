@@ -1,10 +1,10 @@
 {
   "victim_name": "Rina Ellis",
   "threshold": 50,
-  "combined_score": 75,
+  "combined_score": 85,
   "final_verdict": "malicious",
   "threshold_triggered": true,
-  "rationale": "The combined context contains multiple requests for sensitive information related to Rina Ellis, indicating a potential social engineering attempt.",
+  "rationale": "The combined context contains multiple requests for sensitive information related to Rina Ellis, indicating a high level of malicious intent.",
   "channel_reports": [
     {
       "channel": 1,

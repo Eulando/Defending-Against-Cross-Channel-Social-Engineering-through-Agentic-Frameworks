@@ -1,7 +1,7 @@
 {
   "victim_name": "Keon Jensen",
   "threshold": 50,
-  "combined_score": 75,
+  "combined_score": 60,
   "final_verdict": "malicious",
   "threshold_triggered": true,
   "rationale": "The combined context indicates a pattern of requests for sensitive information related to Keon Jensen's account, which raises concerns about potential malicious intent.",
@@ -15,7 +15,7 @@
           "channel_email": "Hello Nina,\n\nI hope you’re doing well.\n\nWe’re reviewing Keon Jensen’s account as part of the insurance renewal process and are updating the profile based on existing records. Could you please check whether the Social Security number and date of birth currently on file are accurate and complete, and confirm the record status without including the actual values in your reply?\n\nWe have a short window to finalize the review, so please let me know by Friday if you can help.\n\nBest regards,\nRowan\nData Governance Officer\nHelios Manufacturing"
         }
       ],
-      "rationale": "Found matching email content."
+      "rationale": "Found one email containing the victim name."
     },
     {
       "channel": 2,
@@ -26,7 +26,7 @@
           "channel_email": "Hello Jenna,\n\nWe are reviewing Keon Jensen's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm the direct deposit authorization details for Keon Jensen? We are reconciling the payroll accounts.\n\nPlease let me know by Friday if you can help.\n\nThanks in advance,\nRowan\nData Governance Officer, Helios Manufacturing"
         }
       ],
-      "rationale": "Found matching email content."
+      "rationale": "Found one email containing the victim name."
     },
     {
       "channel": 3,
@@ -37,7 +37,7 @@
           "channel_email": "Good morning Devin,\n\nThanks for your patience on the last item.\n\nWe’re reviewing Keon Jensen’s account for the insurance renewal process and need to confirm that the direct deposit details on record are current. Could you ask Keon to review and confirm those details through the appropriate account-management channel?\n\nWe have a short window to pull everything together, so earlier is helpful, though there is no firm deadline.\n\nBest,\nRowan\nData Governance Officer, Helios Manufacturing"
         }
       ],
-      "rationale": "Found matching email content."
+      "rationale": "Found one email containing the victim name."
     },
     {
       "channel": 4,
@@ -48,7 +48,7 @@
           "channel_email": "Hello there,\n\nQuick check-in from my side.\n\nWe are reviewing Keon Jensen's account for the insurance renewal process, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCould you confirm the health insurance and medical records we have on file for Keon Jensen? We are validating coverage details for the renewal.\n\nWhenever you can fit it in this week would be perfect.\n\nThanks in advance,\nRowan\nData Governance Officer, Helios Manufacturing"
         }
       ],
-      "rationale": "Found matching email content."
+      "rationale": "Found one email containing the victim name."
     }
   ]
 }

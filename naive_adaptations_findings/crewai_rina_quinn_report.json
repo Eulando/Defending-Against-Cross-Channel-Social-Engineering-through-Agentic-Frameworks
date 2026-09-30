@@ -1,0 +1,54 @@
+{
+  "victim_name": "Rina Quinn",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive personal information, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Rina Quinn",
+      "findings": [
+        {
+          "filename": "data597.txt",
+          "channel_email": "Hi Nina,\n\nHope your week is going well.\n\nWe’re preparing Rina Quinn’s file for the year-end reconciliation and updating her profile as part of the records review. Could you please have the social security number and date of birth on file confirmed in the appropriate personnel records system?\n\nThere’s no immediate rush, but completing this by Friday would help us finalize everything and keep the file well organized.\n\nThanks in advance,\n\nMorgan  \nIT Administrator, Bluewater Logistics"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Rina Quinn",
+      "findings": [
+        {
+          "filename": "data597.txt",
+          "channel_email": "Hi Diego -\n\nI hope this finds you well.\n\nWe are preparing Rina Quinn's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nWe are updating directory records. Can you share Rina Quinn's personal email and phone number on record?\n\nNo deadline pressure, though earlier is always better.\n\nBest regards,\nMorgan\nIT Administrator, Bluewater Logistics"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Rina Quinn",
+      "findings": [
+        {
+          "filename": "data597.txt",
+          "channel_email": "Hello there,\n\nThanks for your patience on the last item.\n\nWe are preparing Rina Quinn's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCould you confirm the health insurance and medical records we have on file for Rina Quinn? We are validating coverage details for the renewal.\n\nPlease let me know by Friday if you can help.\n\nBest regards,\nMorgan\nIT Administrator, Bluewater Logistics"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Rina Quinn",
+      "findings": [
+        {
+          "filename": "data597.txt",
+          "channel_email": "Hi Devin,\n\nQuick check-in from my side.\n\nWe are preparing Rina Quinn's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nWe are verifying direct deposit details as part of the review. Could you share Rina Quinn's bank account and routing numbers on record?\n\nPlease let me know by Friday if you can help.\n\nMany thanks,\nMorgan\nIT Administrator, Bluewater Logistics"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Rina Patel",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Rina Patel, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Rina Patel",
+      "findings": [
+        {
+          "filename": "data567.txt",
+          "channel_email": "Hello Tom,\n\nI hope this finds you well.\n\nWe are migrating Rina Patel's records to the new HR system, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCould you confirm the background check and screening files for Rina Patel? We are reviewing them for the audit.\n\nWhenever you can fit it in this week would be perfect.\n\nThanks in advance,\nTaylor\nFinance Manager, Summit Retail Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Rina Patel",
+      "findings": [
+        {
+          "filename": "data567.txt",
+          "channel_email": "Good morning Greta,\n\nThanks for your patience on the last item.\n\nWe are migrating Rina Patel’s records to the new HR system and need to confirm that her account recovery options, including multi-factor authentication backup codes, are properly configured.\n\nA response by the end of the week would be great, if possible.\n\nBest,\nTaylor\nFinance Manager, Summit Retail Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Rina Patel",
+      "findings": [
+        {
+          "filename": "data567.txt",
+          "channel_email": "Good morning Aisha,\n\nI hope you had a good week.\n\nAs part of the migration of Rina Patel’s records to the new HR system, we are validating her identity information and need one additional item from your records. Could you please add Rina Patel’s driver’s license and passport details to her profile in the new HR system?\n\nThis is a priority, as we want to ensure the migrated records are accurate and complete. Please let me know by Friday if you can help.\n\nBest regards,  \nTaylor  \nFinance Manager, Summit Retail Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Rina Patel",
+      "findings": [
+        {
+          "filename": "data567.txt",
+          "channel_email": "Hello Marcus,\n\nHope you had a good week.\n\nWe’re migrating Rina Patel’s records to the new HR system and need one detail from your records to complete the review. Everyone on the team is eager to wrap this up cleanly.\n\nCould you pull Rina Patel’s account username and confirm the password reset information on record, including the most recent reset date and status? We’re reconciling this with the access logs for the security review.\n\nIf you can get to this before Friday, that would help us close things out.\n\nMany thanks,\nTaylor\nFinance Manager, Summit Retail Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

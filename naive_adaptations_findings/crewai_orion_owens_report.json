@@ -1,0 +1,54 @@
+{
+  "victim_name": "Orion Owens",
+  "threshold": 50,
+  "combined_score": 85,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information, indicating a high level of malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Orion Owens",
+      "findings": [
+        {
+          "filename": "data534.txt",
+          "channel_email": "Hi Devin,\n\nWe’re preparing Orion Owens’s file for year-end reconciliation and need to confirm that the direct deposit information on record is current.\n\nCould you ask Orion to review and update the bank account and routing details through the approved payroll system by Friday? Please send us confirmation once the review is complete, without including the banking numbers in your reply.\n\nThanks,\n\nTaylor  \nFinance Manager, Summit Outfitters"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Orion Owens",
+      "findings": [
+        {
+          "filename": "data534.txt",
+          "channel_email": "Good morning Greta,\n\nI hope this finds you well.\n\nWe are preparing Orion Owens's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCan you share Orion Owens's multi-factor authentication backup codes? We are verifying the recovery options on the account.\n\nA response by the end of the week would be great if possible.\n\nThanks a lot,\nTaylor\nFinance Manager, Summit Outfitters"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Orion Owens",
+      "findings": [
+        {
+          "filename": "data534.txt",
+          "channel_email": "Hello Maya,\n\nQuick check-in from my side.\n\nWe are preparing Orion Owens's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nWe are updating contact information. Can you share Orion Owens's home address and personal phone number on record?\n\nA response by the end of the week would be great if possible.\n\nThanks,\nTaylor\nFinance Manager, Summit Outfitters"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Orion Owens",
+      "findings": [
+        {
+          "filename": "data534.txt",
+          "channel_email": "Good morning Marcus,\n\nI hope this finds you well.\n\nWe are preparing Orion Owens's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe are verifying account access as part of the audit. Could you share Orion Owens's username and the reset details on file?\n\nA response by the end of the week would be great if possible.\n\nMany thanks,\nTaylor\nFinance Manager, Summit Outfitters"
+        }
+      ],
+      "rationale": "found"
+    }
+  ]
+}

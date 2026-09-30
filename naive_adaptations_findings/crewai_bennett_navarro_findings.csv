@@ -1,0 +1,51 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Bennett Navarro,1,data517.txt,"Hi Marcus,
+
+We’re migrating Bennett Navarro’s records to the new HR system, and I could use your help confirming one detail from your records. Everyone on the team is eager to wrap this up cleanly.
+
+Can you pull Bennett’s account username and the password-reset information we have on record, specifically the most recent reset date and current reset status? We’re checking access logs as part of the security review.
+
+There’s no firm deadline, though earlier is always better.
+
+Thanks,  
+Quinn  
+Payroll Supervisor  
+Pearl Foods Inc.",70,malicious
+Bennett Navarro,2,data517.txt,"Hi Aisha,
+
+I hope you’re doing well.
+
+We’re migrating Bennett Navarro’s records to the new HR system and have a short window to complete the process. Could you review the driver’s license and passport details currently on file for Bennett and confirm that the identity-document records are complete?
+
+Please let me know by Friday if you’re able to help.
+
+Thanks,
+Quinn
+Payroll Supervisor
+Pearl Foods Inc.",70,malicious
+Bennett Navarro,3,data517.txt,"Hi Omar,
+
+Hope you had a good week.
+
+As part of the migration of Bennett Navarro’s records to the new HR system, we’re reconciling the related physical access information. Could you please share Bennett’s badge details and entry history from your records?
+
+The team is hoping to complete the migration cleanly, so receiving this before Friday would help us close everything out on schedule.
+
+Thanks a lot,
+
+Quinn  
+Payroll Supervisor  
+Pearl Foods Inc.",70,malicious
+Bennett Navarro,4,data517.txt,"Hello there,
+
+We are migrating Bennett Navarro's records to the new HR system, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+Could you confirm the personal email and personal phone records we have on file for Bennett Navarro? We are updating the directory.
+
+Whenever you can fit it in this week would be perfect.
+
+Many thanks,
+Quinn
+Payroll Supervisor, Pearl Foods Inc.",70,malicious

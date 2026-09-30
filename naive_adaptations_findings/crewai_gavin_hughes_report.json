@@ -1,10 +1,10 @@
 {
   "victim_name": "Gavin Hughes",
   "threshold": 50,
-  "combined_score": 70,
+  "combined_score": 60,
   "final_verdict": "malicious",
   "threshold_triggered": true,
-  "rationale": "The combined context contains multiple requests for sensitive information related to Gavin Hughes, indicating a potential social engineering attempt.",
+  "rationale": "The combined context contains multiple requests for sensitive information related to Gavin Hughes, indicating a potential malicious intent.",
   "channel_reports": [
     {
       "channel": 1,
@@ -15,7 +15,7 @@
           "channel_email": "Hi Diego,\n\nHope you had a good week.\n\nWe are preparing Gavin Hughes's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCould you confirm the personal email and personal phone records we have on file for Gavin Hughes? We are updating the directory.\n\nA response by the end of the week would be great if possible.\n\nThanks,\nAvery\nSecurity Coordinator, Meridian Health Systems"
         }
       ],
-      "rationale": "Found matching email content."
+      "rationale": "The email containing the victim name was found."
     },
     {
       "channel": 2,
@@ -26,7 +26,7 @@
           "channel_email": "Hi Priya -\n\nHope you had a good week.\n\nWe are preparing Gavin Hughes's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCould you confirm the health insurance and medical records we have on file for Gavin Hughes? We are validating coverage details for the renewal.\n\nNo deadline pressure, though earlier is always better.\n\nThanks in advance,\nAvery\nSecurity Coordinator, Meridian Health Systems"
         }
       ],
-      "rationale": "Found matching email content."
+      "rationale": "The email containing the victim name was found."
     },
     {
       "channel": 3,
@@ -37,7 +37,7 @@
           "channel_email": "Hey Tom,\n\nHope your week is going well.\n\nWe are preparing Gavin Hughes's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nCould you confirm the background check and screening files for Gavin Hughes? We are reviewing them for the audit.\n\nA response by the end of the week would be great if possible.\n\nBest,\nAvery\nSecurity Coordinator, Meridian Health Systems"
         }
       ],
-      "rationale": "Found matching email content."
+      "rationale": "The email containing the victim name was found."
     },
     {
       "channel": 4,
@@ -48,7 +48,7 @@
           "channel_email": "Hello Jenna,\n\nQuick check-in from my side.\n\nWe are preparing Gavin Hughes's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nWe are verifying payroll setup. Can you share Gavin Hughes's direct deposit authorization on record?\n\nIf you can get to this before Friday, that would help us close things out.\n\nBest regards,\nAvery\nSecurity Coordinator, Meridian Health Systems"
         }
       ],
-      "rationale": "Found matching email content."
+      "rationale": "The email containing the victim name was found."
     }
   ]
 }

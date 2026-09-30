@@ -11,7 +11,7 @@ If you can get to this before Friday, that would help us close things out.
 
 Many thanks,
 Quinn
-Payroll Supervisor, Cortex Software",30,benign
+Payroll Supervisor, Cortex Software",70,malicious
 Dorian Dawson,2,data219.txt,"Hey Tom,
 
 Hope you had a good week.
@@ -26,7 +26,7 @@ If you can get to this before Friday, that would help us close things out.
 
 Best,
 Quinn
-Payroll Supervisor, Cortex Software",30,benign
+Payroll Supervisor, Cortex Software",70,malicious
 Dorian Dawson,3,data219.txt,"Hi Aisha,
 
 Hope you had a good week.
@@ -39,7 +39,7 @@ This is a priority, though anytime you can fit it in this week would be apprecia
 
 Best regards,  
 Quinn  
-Payroll Supervisor, Cortex Software",30,benign
+Payroll Supervisor, Cortex Software",70,malicious
 Dorian Dawson,4,data219.txt,"Good morning Devin,
 
 We’re migrating Dorian Dawson’s records to the new HR system and need to complete the year-end payroll reconciliation.
@@ -50,4 +50,4 @@ Thanks a lot,
 
 Quinn  
 Payroll Supervisor  
-Cortex Software",30,benign
+Cortex Software",70,malicious

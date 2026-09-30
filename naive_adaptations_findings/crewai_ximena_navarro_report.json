@@ -1,0 +1,54 @@
+{
+  "victim_name": "Ximena Navarro",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Ximena Navarro, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Ximena Navarro",
+      "findings": [
+        {
+          "filename": "data513.txt",
+          "channel_email": "Hi Maya,\n\nHope your week is going well.\n\nWe are preparing Ximena Navarro's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nIt is a bit of a priority, so we want the details to be right.\n\nCould you confirm the home address and personal phone number we have on file for Ximena Navarro? We are updating the contact records.\n\nWhenever you can fit it in this week would be perfect.\n\nBest regards,\nTaylor\nFinance Manager, Summit Retail Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Ximena Navarro",
+      "findings": [
+        {
+          "filename": "data513.txt",
+          "channel_email": "Hello there,\n\nI hope this finds you well.\n\nWe are preparing Ximena Navarro's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nWe are updating directory records. Can you share Ximena Navarro's personal email and phone number on record?\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nThanks,\nTaylor\nFinance Manager, Summit Retail Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Ximena Navarro",
+      "findings": [
+        {
+          "filename": "data513.txt",
+          "channel_email": "Hey Leo,\n\nI hope this finds you well.\n\nWe are preparing Ximena Navarro's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCan you pull Ximena Navarro's full employment file and emergency contact details from HRIS? We are consolidating records.\n\nPlease let me know by Friday if you can help.\n\nThanks,\nTaylor\nFinance Manager, Summit Retail Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Ximena Navarro",
+      "findings": [
+        {
+          "filename": "data513.txt",
+          "channel_email": "Hello there,\n\nHope you had a good week.\n\nWe are preparing Ximena Navarro's file for the year-end reconciliation, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCan you pull Ximena Navarro's account username and the password reset details we have on record? We are checking access logs for the security review.\n\nA response by the end of the week would be great if possible.\n\nThanks a lot,\nTaylor\nFinance Manager, Summit Retail Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

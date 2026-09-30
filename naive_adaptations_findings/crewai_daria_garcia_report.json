@@ -4,7 +4,7 @@
   "combined_score": 75,
   "final_verdict": "malicious",
   "threshold_triggered": true,
-  "rationale": "The combined context contains multiple requests for sensitive information related to Daria Garcia, indicating a potential social engineering attempt.",
+  "rationale": "The combined context indicates a pattern of requests for sensitive information related to Daria Garcia, which raises concerns about potential malicious intent.",
   "channel_reports": [
     {
       "channel": 1,

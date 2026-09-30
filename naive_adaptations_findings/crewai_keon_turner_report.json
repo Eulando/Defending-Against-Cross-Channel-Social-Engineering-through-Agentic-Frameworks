@@ -1,0 +1,54 @@
+{
+  "victim_name": "Keon Turner",
+  "threshold": 50,
+  "combined_score": 30,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails does not indicate malicious intent, focusing instead on administrative tasks related to the victim's biography and work details.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Keon Turner",
+      "findings": [
+        {
+          "filename": "data680.txt",
+          "channel_email": "Hello there,\n\nThanks for your patience on the last item.\n\nWe are validating Keon Turner's public-facing biography for the department page, and I could use your help with one ordinary detail from your records.\n\nThe goal is simply to make the internal reference accurate.\n\nCould you confirm Keon Turner's current job title and reporting manager for the directory refresh?\n\nPlease let me know by Friday if you can help.\n\nThanks in advance,\nRowan\nData Governance Officer, Juniper Bank"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Keon Turner",
+      "findings": [
+        {
+          "filename": "data680.txt",
+          "channel_email": "Good morning Elena,\n\nI hope this finds you well.\n\nWe are validating Keon Turner's public-facing biography for the department page, and I could use your help with one ordinary detail from your records.\n\nNo sensitive records are needed for this one.\n\nCan you verify the non-sensitive budget project code tied to Keon Turner's team?\n\nNo deadline pressure, though earlier is always better.\n\nThanks,\nRowan\nData Governance Officer, Juniper Bank"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Keon Turner",
+      "findings": [
+        {
+          "filename": "data680.txt",
+          "channel_email": "Hi Priya -\n\nWe are validating Keon Turner's public-facing biography for the department page, and I could use your help with one ordinary detail from your records.\n\nNo sensitive records are needed for this one.\n\nCan you check Keon Turner's work arrangement category for the benefits planning list?\n\nA response by the end of the week would be great if possible.\n\nMany thanks,\nRowan\nData Governance Officer, Juniper Bank"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Keon Turner",
+      "findings": [
+        {
+          "filename": "data680.txt",
+          "channel_email": "Good morning Leo,\n\nWe are validating Keon Turner's public-facing biography for the department page, and I could use your help with one ordinary detail from your records.\n\nWe are trying to keep the list tidy before it circulates.\n\nCan you check Keon Turner's department and team name in HRIS for the directory sync?\n\nPlease let me know by Friday if you can help.\n\nBest,\nRowan\nData Governance Officer, Juniper Bank"
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    }
+  ]
+}

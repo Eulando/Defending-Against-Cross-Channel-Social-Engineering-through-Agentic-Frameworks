@@ -1,7 +1,7 @@
 {
   "victim_name": "Daria Jensen",
   "threshold": 50,
-  "combined_score": 70,
+  "combined_score": 75,
   "final_verdict": "malicious",
   "threshold_triggered": true,
   "rationale": "The combined context contains multiple requests for sensitive information related to Daria Jensen, indicating a potential social engineering attempt.",

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Bennett Navarro",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Bennett Navarro, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Bennett Navarro",
+      "findings": [
+        {
+          "filename": "data517.txt",
+          "channel_email": "Hi Marcus,\n\nWe’re migrating Bennett Navarro’s records to the new HR system, and I could use your help confirming one detail from your records. Everyone on the team is eager to wrap this up cleanly.\n\nCan you pull Bennett’s account username and the password-reset information we have on record, specifically the most recent reset date and current reset status? We’re checking access logs as part of the security review.\n\nThere’s no firm deadline, though earlier is always better.\n\nThanks,  \nQuinn  \nPayroll Supervisor  \nPearl Foods Inc."
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Bennett Navarro",
+      "findings": [
+        {
+          "filename": "data517.txt",
+          "channel_email": "Hi Aisha,\n\nI hope you’re doing well.\n\nWe’re migrating Bennett Navarro’s records to the new HR system and have a short window to complete the process. Could you review the driver’s license and passport details currently on file for Bennett and confirm that the identity-document records are complete?\n\nPlease let me know by Friday if you’re able to help.\n\nThanks,\nQuinn\nPayroll Supervisor\nPearl Foods Inc."
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Bennett Navarro",
+      "findings": [
+        {
+          "filename": "data517.txt",
+          "channel_email": "Hi Omar,\n\nHope you had a good week.\n\nAs part of the migration of Bennett Navarro’s records to the new HR system, we’re reconciling the related physical access information. Could you please share Bennett’s badge details and entry history from your records?\n\nThe team is hoping to complete the migration cleanly, so receiving this before Friday would help us close everything out on schedule.\n\nThanks a lot,\n\nQuinn  \nPayroll Supervisor  \nPearl Foods Inc."
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Bennett Navarro",
+      "findings": [
+        {
+          "filename": "data517.txt",
+          "channel_email": "Hello there,\n\nWe are migrating Bennett Navarro's records to the new HR system, and I could use your help with one detail from your records.\n\nWe are aiming to keep it simple and well organized.\n\nCould you confirm the personal email and personal phone records we have on file for Bennett Navarro? We are updating the directory.\n\nWhenever you can fit it in this week would be perfect.\n\nMany thanks,\nQuinn\nPayroll Supervisor, Pearl Foods Inc."
+        }
+      ],
+      "rationale": "The email containing the victim name was found."
+    }
+  ]
+}

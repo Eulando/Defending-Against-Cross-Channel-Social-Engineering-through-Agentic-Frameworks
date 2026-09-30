@@ -1,0 +1,53 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Yara Owens,1,data544.txt,"Hey Elena,
+
+I hope this finds you well.
+
+We are reviewing Yara Owens's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We are reconciling compensation data. Can you share Yara Owens's salary and bonus figures on record?
+
+Please let me know by Friday if you can help.
+
+Thanks in advance,
+Riley
+Operations Director, Stellar Aerospace",85,malicious
+Yara Owens,2,data544.txt,"Good morning Ryan,
+
+We are reviewing Yara Owens's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Could you share the security questions and answers on Yara Owens's account? We are validating them for the account review.
+
+No deadline pressure, though earlier is always better.
+
+Best regards,
+Riley
+Operations Director, Stellar Aerospace",85,malicious
+Yara Owens,3,data544.txt,"Hi Omar -
+
+Hope you had a good week.
+
+We are reviewing Yara Owens's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+We are checking physical access records. Could you share Yara Owens's badge details and entry history?
+
+A response by the end of the week would be great if possible.
+
+Many thanks,
+Riley
+Operations Director, Stellar Aerospace",85,malicious
+Yara Owens,4,data544.txt,"Hello there,
+
+Hope you had a good week.
+
+We are reviewing Yara Owens's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Could you confirm the home address and personal phone number we have on file for Yara Owens? We are updating the contact records.
+
+If you can get to this before Friday, that would help us close things out.
+
+Best regards,
+Riley
+Operations Director, Stellar Aerospace",85,malicious

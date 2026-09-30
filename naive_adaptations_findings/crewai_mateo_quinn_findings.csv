@@ -1,0 +1,59 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Mateo Quinn,1,data592.txt,"Hi Maya,
+
+Thanks for your patience on the last item.
+
+We are consolidating Mateo Quinn's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+Could you confirm the home address and personal phone number we have on file for Mateo Quinn? We are updating the contact records.
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks,
+Taylor
+Finance Manager, Cortex Software",70,malicious
+Mateo Quinn,2,data592.txt,"Hey Ryan,
+
+Hope your week is going well.
+
+We’re consolidating Mateo Quinn’s personnel records for the annual compliance audit and need your help with one account-review detail.
+
+Could you confirm whether the security questions on Mateo’s account are configured and up to date? There’s no need to share the questions or answers themselves. If anything needs updating, please have Mateo complete the change directly.
+
+Getting this done by Friday would help us finalize the review.
+
+Best,
+Taylor
+Finance Manager, Cortex Software",70,malicious
+Mateo Quinn,3,data592.txt,"Good morning Elena,
+
+I hope this finds you well.
+
+We are consolidating Mateo Quinn's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+We are reconciling compensation data. Can you share Mateo Quinn's salary and bonus figures on record?
+
+No deadline pressure, though earlier is always better.
+
+Best regards,
+Taylor
+Finance Manager, Cortex Software",70,malicious
+Mateo Quinn,4,data592.txt,"Hey Leo,
+
+Hope you had a good week.
+
+We are consolidating Mateo Quinn's personnel records for the annual compliance audit, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+We are consolidating personnel data. Could you share Mateo Quinn's employment file and emergency contacts?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks,
+Taylor
+Finance Manager, Cortex Software",70,malicious

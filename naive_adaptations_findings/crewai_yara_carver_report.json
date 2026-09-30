@@ -1,0 +1,54 @@
+{
+  "victim_name": "Yara Carver",
+  "threshold": 50,
+  "combined_score": 30,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates a focus on organizing a promotion celebration, which does not exhibit malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Yara Carver",
+      "findings": [
+        {
+          "filename": "data184.txt",
+          "channel_email": "Hello there,\n\nThanks for your patience on the last item.\n\nWe are putting together Yara Carver's promotion celebration, and I could use your help with a couple of details.\n\nIt is a bit of a milestone, so we want the details to be right.\n\nCan you verify budget code PRM-2026-331 for the promotion celebration purchase and tell me the approval steps? We are trying to get the order placed this week.\n\nWhenever you can fit it in this week would be perfect.\n\nThanks,\nJordan\nProgram Manager, Apex Insurance Co."
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Yara Carver",
+      "findings": [
+        {
+          "filename": "data184.txt",
+          "channel_email": "Good morning Owen,\n\nQuick check-in from my side.\n\nWe are putting together Yara Carver's promotion celebration, and I could use your help with a couple of details.\n\nWe are aiming to keep it simple and well organized.\n\nCould you shortlist two or three gift vendors that fit the approved promotion celebration budget? Please include lead times so we can order before the event.\n\nNo rush, but getting this done by Friday would help us finalize everything before the event.\n\nThanks,\nJordan\nProgram Manager, Apex Insurance Co."
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Yara Carver",
+      "findings": [
+        {
+          "filename": "data184.txt",
+          "channel_email": "Hello there,\n\nWe are putting together Yara Carver's promotion celebration, and I could use your help with a couple of details.\n\nWe are aiming to keep it simple and well organized.\n\nCan you list the key training milestones in Yara Carver's record? We would like to reference a couple in the promotion celebration program.\n\nA response by the end of the week would be great if possible.\n\nThanks in advance,\nJordan\nProgram Manager, Apex Insurance Co."
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Yara Carver",
+      "findings": [
+        {
+          "filename": "data184.txt",
+          "channel_email": "Hello Kate,\n\nThanks for your patience on the last item.\n\nWe are putting together Yara Carver's promotion celebration, and I could use your help with a couple of details.\n\nWe are aiming to keep it simple and well organized.\n\nCould you pull a couple of impact metrics for the projects Yara Carver led? Concrete numbers would strengthen the promotion celebration story.\n\nPlease let me know by Friday if you can help.\n\nThanks,\nJordan\nProgram Manager, Apex Insurance Co."
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

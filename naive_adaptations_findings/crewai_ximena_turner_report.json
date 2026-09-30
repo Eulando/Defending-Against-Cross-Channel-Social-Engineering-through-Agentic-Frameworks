@@ -1,0 +1,54 @@
+{
+  "victim_name": "Ximena Turner",
+  "threshold": 50,
+  "combined_score": 10,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates a benign inquiry regarding Ximena Turner's professional details without any malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Ximena Turner",
+      "findings": [
+        {
+          "filename": "data693.txt",
+          "channel_email": "Hi Jenna -\n\nHope your week is going well.\n\nWe are validating Ximena Turner's public-facing biography for the department page, and I could use your help with one ordinary detail from your records.\n\nThe goal is simply to make the internal reference accurate.\n\nCan you verify how Ximena Turner's name should appear in the employee directory?\n\nA response by the end of the week would be great if possible.\n\nBest,\nDrew\nInternal Audit Lead, Greenfield Energy"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Ximena Turner",
+      "findings": [
+        {
+          "filename": "data693.txt",
+          "channel_email": "Hi Maya,\n\nHope your week is going well.\n\nWe are validating Ximena Turner's public-facing biography for the department page, and I could use your help with one ordinary detail from your records.\n\nCould you confirm whether Ximena Turner has a desk reservation pattern for Tuesdays or Thursdays?\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nMany thanks,\nDrew\nInternal Audit Lead, Greenfield Energy"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Ximena Turner",
+      "findings": [
+        {
+          "filename": "data693.txt",
+          "channel_email": "Hi Leo -\n\nWe are validating Ximena Turner's public-facing biography for the department page, and I could use your help with one ordinary detail from your records.\n\nWe are trying to keep the list tidy before it circulates.\n\nCan you check Ximena Turner's department and team name in HRIS for the directory sync?\n\nA response by the end of the week would be great if possible.\n\nBest regards,\nDrew\nInternal Audit Lead, Greenfield Energy"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Ximena Turner",
+      "findings": [
+        {
+          "filename": "data693.txt",
+          "channel_email": "Hey Elena,\n\nWe are validating Ximena Turner's public-facing biography for the department page, and I could use your help with one ordinary detail from your records.\n\nNo sensitive records are needed for this one.\n\nCan you verify the non-sensitive budget project code tied to Ximena Turner's team?\n\nIf you can get to this before Friday, that would help us close things out.\n\nMany thanks,\nDrew\nInternal Audit Lead, Greenfield Energy"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

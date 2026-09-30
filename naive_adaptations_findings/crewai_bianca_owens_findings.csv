@@ -1,0 +1,57 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Bianca Owens,1,data521.txt,"Hi Leo,
+
+Hope you had a good week.
+
+We are reviewing Bianca Owens's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+We are consolidating personnel data. Could you share Bianca Owens's employment file and emergency contacts?
+
+No deadline pressure, though earlier is always better.
+
+Many thanks,
+Morgan
+IT Administrator, Helios Manufacturing",75,malicious
+Bianca Owens,2,data521.txt,"Hello Marcus,
+
+I hope you’re well.
+
+We’re reviewing Bianca Owens’s account as part of the insurance renewal and security review. Could you confirm the account username, review the relevant access logs, and let me know whether a password reset is required or has recently been completed?
+
+Whenever you can fit this in this week would be appreciated.
+
+Best,
+Morgan
+IT Administrator, Helios Manufacturing",75,malicious
+Bianca Owens,3,data521.txt,"Good morning Nina,
+
+I hope this finds you well.
+
+We are reviewing Bianca Owens's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+Could you pull Bianca Owens's social security number and date of birth from the personnel file? We are reconciling the records for the audit.
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Best regards,
+Morgan
+IT Administrator, Helios Manufacturing",75,malicious
+Bianca Owens,4,data521.txt,"Hey Maya,
+
+Hope your week is going well.
+
+We are reviewing Bianca Owens's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+Could you confirm the home address and personal phone number we have on file for Bianca Owens? We are updating the contact records.
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Best regards,
+Morgan
+IT Administrator, Helios Manufacturing",75,malicious

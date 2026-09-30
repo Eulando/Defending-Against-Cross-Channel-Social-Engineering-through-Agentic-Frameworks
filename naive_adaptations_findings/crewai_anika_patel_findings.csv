@@ -1,0 +1,50 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Anika Patel,1,data576.txt,"Hey Greta,
+
+Quick check-in from my side.
+
+We’re reviewing Anika Patel’s account as part of the insurance renewal process and need your help confirming that multi-factor authentication recovery options, including backup codes, are properly configured and available to the account owner.
+
+If you can confirm the recovery setup by Friday, it would help us finalize the review.
+
+Thanks in advance,
+Casey
+Compliance Lead, Crestline Hotels",60,malicious
+Anika Patel,2,data576.txt,"Good morning Omar,
+
+Thanks for your patience on the last item.
+
+We are reviewing Anika Patel's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+Can you confirm Anika Patel's access badge number and the building entry records we have on file? We are validating access for the review.
+
+A response by the end of the week would be great if possible.
+
+Best,
+Casey
+Compliance Lead, Crestline Hotels",60,malicious
+Anika Patel,3,data576.txt,"Hey Tom,
+
+We are reviewing Anika Patel's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+We are reviewing screening records. Can you share Anika Patel's background check and screening files?
+
+Whenever you can fit it in this week would be perfect.
+
+Thanks,
+Casey
+Compliance Lead, Crestline Hotels",60,malicious
+Anika Patel,4,data576.txt,"Hi Diego,
+
+I hope you’re well.
+
+We’re reviewing Anika Patel’s account for the upcoming insurance renewal and updating our directory records. With Friday’s deadline approaching, could you please ask Anika to confirm or update her personal email address and phone number directly with the appropriate records contact?
+
+Thanks for your help.
+
+Casey  
+Compliance Lead, Crestline Hotels",60,malicious

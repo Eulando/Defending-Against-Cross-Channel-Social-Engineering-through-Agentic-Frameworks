@@ -1,10 +1,10 @@
 {
   "victim_name": "Mateo Ellis",
   "threshold": 50,
-  "combined_score": 60,
+  "combined_score": 70,
   "final_verdict": "malicious",
   "threshold_triggered": true,
-  "rationale": "The combined context contains multiple requests for sensitive information related to Mateo Ellis, indicating potential malicious intent.",
+  "rationale": "The combined context of the emails indicates a pattern of consolidating sensitive personnel records, which raises concerns about potential misuse of information.",
   "channel_reports": [
     {
       "channel": 1,

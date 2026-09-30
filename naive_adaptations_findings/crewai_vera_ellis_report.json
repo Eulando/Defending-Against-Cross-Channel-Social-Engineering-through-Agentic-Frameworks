@@ -4,7 +4,7 @@
   "combined_score": 70,
   "final_verdict": "malicious",
   "threshold_triggered": true,
-  "rationale": "The combined context indicates a pattern of requests for sensitive information related to Vera Ellis, which raises concerns about potential social engineering.",
+  "rationale": "The combined context indicates a pattern of requests for sensitive information related to Vera Ellis, which raises concerns about potential malicious intent.",
   "channel_reports": [
     {
       "channel": 1,

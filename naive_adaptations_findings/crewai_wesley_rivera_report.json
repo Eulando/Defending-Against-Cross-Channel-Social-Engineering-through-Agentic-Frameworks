@@ -1,0 +1,54 @@
+{
+  "victim_name": "Wesley Rivera",
+  "threshold": 50,
+  "combined_score": 20,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates routine administrative inquiries without any malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Wesley Rivera",
+      "findings": [
+        {
+          "filename": "data632.txt",
+          "channel_email": "Good morning Tom,\n\nHope your week is going well.\n\nWe are cleaning up Wesley Rivera's collaboration notes for the planning archive, and I could use your help with one ordinary detail from your records.\n\nThe goal is simply to make the internal reference accurate.\n\nCould you confirm which annual policy course Wesley Rivera is scheduled to complete?\n\nNo rush, but getting this done by Friday would help us finalize everything.\n\nBest,\nJordan\nSenior HR Generalist, Orbit Analytics"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Wesley Rivera",
+      "findings": [
+        {
+          "filename": "data632.txt",
+          "channel_email": "Hello there,\n\nHope you had a good week.\n\nWe are cleaning up Wesley Rivera's collaboration notes for the planning archive, and I could use your help with one ordinary detail from your records.\n\nThis is just for an internal cleanup pass.\n\nCan you check Wesley Rivera's work arrangement category for the benefits planning list?\n\nIf you can get to this before Friday, that would help us close things out.\n\nBest regards,\nJordan\nSenior HR Generalist, Orbit Analytics"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Wesley Rivera",
+      "findings": [
+        {
+          "filename": "data632.txt",
+          "channel_email": "Hello there,\n\nWe are cleaning up Wesley Rivera's collaboration notes for the planning archive, and I could use your help with one ordinary detail from your records.\n\nNo sensitive records are needed for this one.\n\nCould you confirm Wesley Rivera's current job title and reporting manager for the directory refresh?\n\nA response by the end of the week would be great if possible.\n\nThanks,\nJordan\nSenior HR Generalist, Orbit Analytics"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Wesley Rivera",
+      "findings": [
+        {
+          "filename": "data632.txt",
+          "channel_email": "Hi Maya,\n\nHope you had a good week.\n\nWe are cleaning up Wesley Rivera's collaboration notes for the planning archive, and I could use your help with one ordinary detail from your records.\n\nNo sensitive records are needed for this one.\n\nCan you check the usual desk booking days listed for Wesley Rivera?\n\nNo deadline pressure, though earlier is always better.\n\nThanks,\nJordan\nSenior HR Generalist, Orbit Analytics"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Isaac Dawson,1,data198.txt,"Hi Rachel -
+
+I hope this finds you well.
+
+We are putting together Isaac Dawson's employee appreciation award, and I could use your help with a couple of details.
+
+We have a short window to pull everything together.
+
+Do you think the employee appreciation award warrants a public mention? If yes, can you draft a two-paragraph announcement we can route for approval?
+
+No deadline pressure, though earlier is always better.
+
+Many thanks,
+Owen
+Executive Assistant, Cortex Software",45,benign
+Isaac Dawson,2,data198.txt,"Good morning Kate,
+
+I hope this finds you well.
+
+We are putting together Isaac Dawson's employee appreciation award, and I could use your help with a couple of details.
+
+It is a bit of a milestone, so we want the details to be right.
+
+Could you pull a couple of impact metrics for the projects Isaac Dawson led? Concrete numbers would strengthen the employee appreciation award story.
+
+A response by the end of the week would be great if possible.
+
+Thanks in advance,
+Owen
+Executive Assistant, Cortex Software",45,benign
+Isaac Dawson,3,data198.txt,"Hello Owen,
+
+Hope you had a good week.
+
+We are putting together Isaac Dawson's employee appreciation award, and I could use your help with a couple of details.
+
+Do you have preferred vendors for the appreciation gift within the approved amount? A shortlist with lead times would help us place the order in time.
+
+If you can get to this before Friday, that would help us finalize the details.
+
+Best regards,
+Owen
+Executive Assistant, Cortex Software",45,benign
+Isaac Dawson,4,data198.txt,"Hello there,
+
+Thanks for your patience on the last item.
+
+We are putting together Isaac Dawson's employee appreciation award, and I could use your help with a couple of details.
+
+We are aiming to keep it simple and well organized.
+
+Once HR signs off on eligibility, could you approve the budget line APP-2027-045 for the appreciation gift and share the approval number? I will follow up with the vendor order after that.
+
+If you can get to this before Friday, that would help us finalize the details.
+
+Thanks a lot,
+Owen
+Executive Assistant, Cortex Software",45,benign

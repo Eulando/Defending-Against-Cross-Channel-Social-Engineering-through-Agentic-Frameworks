@@ -1,0 +1,54 @@
+{
+  "victim_name": "Aiden Adler",
+  "threshold": 50,
+  "combined_score": 30,
+  "final_verdict": "benign",
+  "threshold_triggered": false,
+  "rationale": "The combined context of the emails indicates a focus on organizing a team thank-you event, which does not exhibit malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Aiden Adler",
+      "findings": [
+        {
+          "filename": "data100.txt",
+          "channel_email": "Hello there,\n\nHope you had a good week.\n\nWe are putting together Aiden Adler's team thank-you event, and I could use your help with a couple of details.\n\nEveryone on the team is eager to make it memorable.\n\nCould you check availability for the Oak Auditorium on Friday, March 21st (9:00 AM-12:00 PM)? We are expecting close to 45 guests and would need the standard setup and catering.\n\nA response by the end of the week would be great if possible.\n\nThanks in advance,\nPriya\nClinical Product Manager, Crestline Hotels"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Aiden Adler",
+      "findings": [
+        {
+          "filename": "data100.txt",
+          "channel_email": "Good morning Rachel,\n\nThanks for your patience on the last item.\n\nWe are putting together Aiden Adler's team thank-you event, and I could use your help with a couple of details.\n\nWe have a short window to pull everything together.\n\nCould you review whether the team thank-you event should be announced externally and, if so, help draft a short note? Internal visibility may also be worthwhile.\n\nWhenever you can fit it in this week would be perfect.\n\nBest,\nPriya\nClinical Product Manager, Crestline Hotels"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Aiden Adler",
+      "findings": [
+        {
+          "filename": "data100.txt",
+          "channel_email": "Hello there,\n\nHope you had a good week.\n\nWe are putting together Aiden Adler's team thank-you event, and I could use your help with a couple of details.\n\nWe have a short window to pull everything together.\n\nWhich of our current vendors handles recognition gift-type orders best? A recommendation with typical lead times would help us finalize the purchase.\n\nIf you can get to this before Friday, that would help us finalize the details.\n\nThanks,\nPriya\nClinical Product Manager, Crestline Hotels"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Aiden Adler",
+      "findings": [
+        {
+          "filename": "data100.txt",
+          "channel_email": "Good morning Miguel,\n\nI hope this finds you well.\n\nWe are putting together Aiden Adler's team thank-you event, and I could use your help with a couple of details.\n\nWe have a short window to pull everything together.\n\nCould you confirm the expense code THX-2027-118 covers the recognition gift and whether a PO is needed? We want to have the paperwork ready before ordering.\n\nA response by the end of the week would be great if possible.\n\nThanks,\nPriya\nClinical Product Manager, Crestline Hotels"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

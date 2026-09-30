@@ -1,0 +1,51 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Rina Patel,1,data567.txt,"Hello Tom,
+
+I hope this finds you well.
+
+We are migrating Rina Patel's records to the new HR system, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+Could you confirm the background check and screening files for Rina Patel? We are reviewing them for the audit.
+
+Whenever you can fit it in this week would be perfect.
+
+Thanks in advance,
+Taylor
+Finance Manager, Summit Retail Group",75,malicious
+Rina Patel,2,data567.txt,"Good morning Greta,
+
+Thanks for your patience on the last item.
+
+We are migrating Rina Patel’s records to the new HR system and need to confirm that her account recovery options, including multi-factor authentication backup codes, are properly configured.
+
+A response by the end of the week would be great, if possible.
+
+Best,
+Taylor
+Finance Manager, Summit Retail Group",75,malicious
+Rina Patel,3,data567.txt,"Good morning Aisha,
+
+I hope you had a good week.
+
+As part of the migration of Rina Patel’s records to the new HR system, we are validating her identity information and need one additional item from your records. Could you please add Rina Patel’s driver’s license and passport details to her profile in the new HR system?
+
+This is a priority, as we want to ensure the migrated records are accurate and complete. Please let me know by Friday if you can help.
+
+Best regards,  
+Taylor  
+Finance Manager, Summit Retail Group",75,malicious
+Rina Patel,4,data567.txt,"Hello Marcus,
+
+Hope you had a good week.
+
+We’re migrating Rina Patel’s records to the new HR system and need one detail from your records to complete the review. Everyone on the team is eager to wrap this up cleanly.
+
+Could you pull Rina Patel’s account username and confirm the password reset information on record, including the most recent reset date and status? We’re reconciling this with the access logs for the security review.
+
+If you can get to this before Friday, that would help us close things out.
+
+Many thanks,
+Taylor
+Finance Manager, Summit Retail Group",75,malicious

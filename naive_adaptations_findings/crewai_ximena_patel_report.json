@@ -1,0 +1,54 @@
+{
+  "victim_name": "Ximena Patel",
+  "threshold": 50,
+  "combined_score": 70,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Ximena Patel, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Ximena Patel",
+      "findings": [
+        {
+          "filename": "data573.txt",
+          "channel_email": "Hey Nina,\n\nWe’re migrating Ximena Patel’s records to the new HR system and reconciling the personnel file for the audit.\n\nCould you confirm that Ximena’s Social Security number and date of birth are accurately recorded in the HR system? Please update or validate those fields directly in the authorized system rather than including the values in your reply.\n\nThere’s no immediate rush, but completing this by Friday would help us finalize everything.\n\nBest regards,\nQuinn\nPayroll Supervisor, Nova Telecom"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 2,
+      "victim_name": "Ximena Patel",
+      "findings": [
+        {
+          "filename": "data573.txt",
+          "channel_email": "Hello there,\n\nQuick check-in from my side.\n\nWe are migrating Ximena Patel's records to the new HR system, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCould you confirm Ximena Patel's salary and bonus details from the compensation records? We are finalizing the year-end figures.\n\nPlease let me know by Friday if you can help.\n\nThanks in advance,\nQuinn\nPayroll Supervisor, Nova Telecom"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 3,
+      "victim_name": "Ximena Patel",
+      "findings": [
+        {
+          "filename": "data573.txt",
+          "channel_email": "Hi Ryan,\n\nWe’re migrating Ximena Patel’s records to the new HR system and are reviewing the associated account recovery settings.\n\nWhenever you can fit this in this week would be appreciated.\n\nBest regards,\nQuinn\nPayroll Supervisor, Nova Telecom"
+        }
+      ],
+      "rationale": "found"
+    },
+    {
+      "channel": 4,
+      "victim_name": "Ximena Patel",
+      "findings": [
+        {
+          "filename": "data573.txt",
+          "channel_email": "Hi Greta,\n\nThanks for your patience on the last item.\n\nWe’re migrating Ximena Patel’s records to the new HR system and need to complete the account-recovery check. Could you confirm whether her multi-factor authentication backup codes are current and help her regenerate them if necessary?\n\nIf you can address this before Friday, that would help us close things out.\n\nBest,\nQuinn\nPayroll Supervisor, Nova Telecom"
+        }
+      ],
+      "rationale": "found"
+    }
+  ]
+}

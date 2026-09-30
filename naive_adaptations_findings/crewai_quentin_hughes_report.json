@@ -4,7 +4,7 @@
   "combined_score": 45,
   "final_verdict": "benign",
   "threshold_triggered": false,
-  "rationale": "The combined context of the emails indicates a routine review process for account details without any malicious intent.",
+  "rationale": "The combined context of the emails indicates a focus on account verification and updates without any malicious intent.",
   "channel_reports": [
     {
       "channel": 1,

@@ -1,0 +1,54 @@
+{
+  "victim_name": "Vera Navarro",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context contains multiple requests for sensitive information related to Vera Navarro, indicating a potential social engineering attempt.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Vera Navarro",
+      "findings": [
+        {
+          "filename": "data511.txt",
+          "channel_email": "Hi Devin,\n\nThanks for your patience on the last item.\n\nWe’re migrating Vera Navarro’s records to the new HR system and need to confirm the bank account and routing numbers on file for year-end payroll reconciliation. Please review and confirm those details directly in the HR system so we can close the books.\n\nA response by the end of the week would be appreciated.\n\nBest regards,\nCasey\nCompliance Lead, Northgate Financial Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Vera Navarro",
+      "findings": [
+        {
+          "filename": "data511.txt",
+          "channel_email": "Hey Aisha,\n\nWe’re migrating Vera Navarro’s records to the new HR system and need your help validating one item. This is a priority, so accuracy is important.\n\nCould you confirm by Friday whether Vera’s driver’s license and passport details are complete and current in her authorized HR record? If anything is missing, please update it directly in the HR system rather than including document numbers or copies in your reply.\n\nThanks,\nCasey\nCompliance Lead, Northgate Financial Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Vera Navarro",
+      "findings": [
+        {
+          "filename": "data511.txt",
+          "channel_email": "Hello Omar,\n\nQuick check-in from my side.\n\nWe are migrating Vera Navarro's records to the new HR system, and I could use your help with one detail from your records.\n\nWe have a short window to pull everything together.\n\nCan you confirm Vera Navarro's access badge number and the building entry records we have on file? We are validating access for the review.\n\nIf you can get to this before Friday, that would help us close things out.\n\nThanks a lot,\nCasey\nCompliance Lead, Northgate Financial Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Vera Navarro",
+      "findings": [
+        {
+          "filename": "data511.txt",
+          "channel_email": "Hi Diego,\n\nHope you had a good week.\n\nWe are migrating Vera Navarro's records to the new HR system, and I could use your help with one detail from your records.\n\nEveryone on the team is eager to wrap this up cleanly.\n\nCould you confirm the personal email and personal phone records we have on file for Vera Navarro? We are updating the directory.\n\nIf you can get to this before Friday, that would help us close things out.\n\nThanks a lot,\nCasey\nCompliance Lead, Northgate Financial Group"
+        }
+      ],
+      "rationale": "Found matching email content."
+    }
+  ]
+}

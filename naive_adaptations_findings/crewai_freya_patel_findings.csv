@@ -1,0 +1,61 @@
+victim_name,channel,filename,channel_email,combined_score,final_verdict
+Freya Patel,1,data555.txt,"Hello Omar,
+
+I hope this finds you well.
+
+We are reviewing Freya Patel's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+It is a bit of a priority, so we want the details to be right.
+
+Can you confirm Freya Patel's access badge number and the building entry records we have on file? We are validating access for the review.
+
+Please let me know by Friday if you can help.
+
+Many thanks,
+Morgan
+IT Administrator, Apex Insurance Co.",75,malicious
+Freya Patel,2,data555.txt,"Hi Ryan,
+
+Hope your week is going well.
+
+We are reviewing Freya Patel's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We are aiming to keep it simple and well organized.
+
+We are checking account recovery settings. Can you confirm the security questions and answers for Freya Patel's account?
+
+A response by the end of the week would be great if possible.
+
+Thanks in advance,
+Morgan
+IT Administrator, Apex Insurance Co.",75,malicious
+Freya Patel,3,data555.txt,"Hey Diego,
+
+I hope this finds you well.
+
+We are reviewing Freya Patel's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+We have a short window to pull everything together.
+
+We are updating directory records. Can you share Freya Patel's personal email and phone number on record?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks,
+Morgan
+IT Administrator, Apex Insurance Co.",75,malicious
+Freya Patel,4,data555.txt,"Hello there,
+
+Hope you had a good week.
+
+We are reviewing Freya Patel's account for the insurance renewal process, and I could use your help with one detail from your records.
+
+Everyone on the team is eager to wrap this up cleanly.
+
+We are checking account recovery. Could you confirm the multi-factor authentication backup codes for Freya Patel?
+
+No rush, but getting this done by Friday would help us finalize everything.
+
+Thanks a lot,
+Morgan
+IT Administrator, Apex Insurance Co.",75,malicious
