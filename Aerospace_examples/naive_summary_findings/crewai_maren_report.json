@@ -1,0 +1,54 @@
+{
+  "victim_name": "Maren",
+  "threshold": 50,
+  "combined_score": 75,
+  "final_verdict": "malicious",
+  "threshold_triggered": true,
+  "rationale": "The combined context of the emails indicates multiple requests for sensitive personal information related to Maren, including her home address, personal phone number, employment file, emergency contact details, badge details, entry history, health insurance, and medical records. The focus on gathering such personal data raises significant concerns about potential malicious intent.",
+  "channel_reports": [
+    {
+      "channel": 1,
+      "victim_name": "Maren",
+      "findings": [
+        {
+          "filename": "data01.txt",
+          "channel_summary": "Email requesting confirmation of Maren's home address and personal phone number for updating contact records in the new HR system."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 2,
+      "victim_name": "Maren",
+      "findings": [
+        {
+          "filename": "data02.txt",
+          "channel_summary": "Email requesting Maren's full employment file and emergency contact details for consolidating records in the new HR system."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 3,
+      "victim_name": "Maren",
+      "findings": [
+        {
+          "filename": "data03.txt",
+          "channel_summary": "Email requesting Maren's badge details and entry history for checking physical access records in the new HR system."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    },
+    {
+      "channel": 4,
+      "victim_name": "Maren",
+      "findings": [
+        {
+          "filename": "data04.txt",
+          "channel_summary": "Email requesting confirmation of Maren's health insurance and medical records for validating coverage details during the renewal process."
+        }
+      ],
+      "rationale": "Found one email containing the victim name."
+    }
+  ]
+}

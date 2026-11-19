@@ -1,0 +1,5 @@
+victim_name,channel,filename,channel_summary,combined_score,final_verdict
+Maren,1,data01.txt,Email requesting confirmation of Maren's home address and personal phone number for updating contact records in the new HR system.,75,malicious
+Maren,2,data02.txt,Email requesting Maren's full employment file and emergency contact details for consolidating records in the new HR system.,75,malicious
+Maren,3,data03.txt,Email requesting Maren's badge details and entry history for checking physical access records in the new HR system.,75,malicious
+Maren,4,data04.txt,Email requesting confirmation of Maren's health insurance and medical records for validating coverage details during the renewal process.,75,malicious
